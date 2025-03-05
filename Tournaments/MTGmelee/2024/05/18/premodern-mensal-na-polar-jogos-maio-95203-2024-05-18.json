@@ -1,0 +1,276 @@
+{
+  "Tournament": {
+    "Date": "2024-05-18T14:00:00",
+    "Name": "Premodern Mensal na Polar Jogos - Maio",
+    "Uri": "https://melee.gg/Tournament/View/95203",
+    "Formats": "Premodern"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "KimD",
+      "Result": "8th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/398465",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Elephant Guide"
+        },
+        {
+          "Count": 2,
+          "CardName": "Winter Orb"
+        },
+        {
+          "Count": 4,
+          "CardName": "Giant Growth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bounty of the Hunt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Land Grant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rancor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Briar Shield"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elvish Spirit Guide"
+        },
+        {
+          "Count": 4,
+          "CardName": "Treetop Scout"
+        },
+        {
+          "Count": 4,
+          "CardName": "Scryb Sprites"
+        },
+        {
+          "Count": 4,
+          "CardName": "Quirion Ranger"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mtenda Lion"
+        },
+        {
+          "Count": 4,
+          "CardName": "Druid Lyrist"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vine Dryad"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gaea's Cradle"
+        },
+        {
+          "Count": 8,
+          "CardName": "Forest"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Hidden Gibbons"
+        },
+        {
+          "Count": 4,
+          "CardName": "Naturalize"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tormod's Crypt"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tangle"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "KimD",
+          "Player2": "Bruno Bonadio Lopez",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Thiago Kagueiama",
+          "Player2": "KimD",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Felipe Ruiz",
+          "Player2": "KimD",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "BrunoMastrantonio",
+          "Player2": "KimD",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Thiago Kagueiama",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.41666667,
+      "GWP": 0.8,
+      "OGWP": 0.45138889
+    },
+    {
+      "Rank": 2,
+      "Player": "RIP",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5625,
+      "GWP": 0.63636364,
+      "OGWP": 0.55934343
+    },
+    {
+      "Rank": 3,
+      "Player": "Fernando Pieracciani",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.63636364,
+      "OGWP": 0.47159091
+    },
+    {
+      "Rank": 4,
+      "Player": "BrunoMastrantonio",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.52083333,
+      "GWP": 0.58333333,
+      "OGWP": 0.52462121
+    },
+    {
+      "Rank": 5,
+      "Player": "DanielCoser",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.70833333,
+      "GWP": 0.5,
+      "OGWP": 0.58825758
+    },
+    {
+      "Rank": 6,
+      "Player": "Alex Mouço",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.60416667,
+      "GWP": 0.55555556,
+      "OGWP": 0.5495671
+    },
+    {
+      "Rank": 7,
+      "Player": "AndN15",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.54545455,
+      "OGWP": 0.49540043
+    },
+    {
+      "Rank": 8,
+      "Player": "KimD",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.60416667,
+      "GWP": 0.41666667,
+      "OGWP": 0.5125
+    },
+    {
+      "Rank": 9,
+      "Player": "Felipe Ruiz",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.3,
+      "OGWP": 0.52386364
+    },
+    {
+      "Rank": 10,
+      "Player": "Bruno Bonadio Lopez",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.3,
+      "OGWP": 0.4854798
+    },
+    {
+      "Rank": 11,
+      "Player": "Vinicius Fonseca",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.44444444,
+      "GWP": 0.42857143,
+      "OGWP": 0.47811448
+    },
+    {
+      "Rank": 12,
+      "Player": "André Castellan",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.52777778,
+      "GWP": 0.14285714,
+      "OGWP": 0.52164502
+    }
+  ]
+}

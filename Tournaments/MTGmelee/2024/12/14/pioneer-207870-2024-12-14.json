@@ -1,0 +1,858 @@
+{
+  "Tournament": {
+    "Date": "2024-12-14T10:00:00",
+    "Name": "ПИОНЕР ФИНАЛ",
+    "Uri": "https://melee.gg/Tournament/View/207870",
+    "Formats": "Pioneer"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "NickLatkovich",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/461464",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Deserted Beach"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eiganjo, Seat of the Empire"
+        },
+        {
+          "Count": 3,
+          "CardName": "Field of Ruin"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fountainport"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hall of Storm Giants"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hengegate Pathway"
+        },
+        {
+          "Count": 3,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Restless Anchorage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Deduce"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dovin's Veto"
+        },
+        {
+          "Count": 1,
+          "CardName": "Farewell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 4,
+          "CardName": "March of Otherworldly Light"
+        },
+        {
+          "Count": 4,
+          "CardName": "Memory Deluge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Narset, Parter of Veils"
+        },
+        {
+          "Count": 4,
+          "CardName": "No More Lies"
+        },
+        {
+          "Count": 2,
+          "CardName": "Portable Hole"
+        },
+        {
+          "Count": 3,
+          "CardName": "Supreme Verdict"
+        },
+        {
+          "Count": 2,
+          "CardName": "Teferi, Hero of Dominaria"
+        },
+        {
+          "Count": 3,
+          "CardName": "The Wandering Emperor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Three Steps Ahead"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Beza, the Bounding Spring"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dovin's Veto"
+        },
+        {
+          "Count": 1,
+          "CardName": "Farewell"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kaheera, the Orphanguard"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Narset, Parter of Veils"
+        },
+        {
+          "Count": 1,
+          "CardName": "Narset's Reversal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Portable Hole"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Shark Typhoon"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Akel",
+      "Result": "2st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/461560",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Ygra, Eater of All"
+        },
+        {
+          "Count": 2,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Scavenger's Talent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fable of the Mirror-Breaker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bloodtithe Harvester"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mayhem Devil"
+        },
+        {
+          "Count": 1,
+          "CardName": "Claim the Firstborn"
+        },
+        {
+          "Count": 4,
+          "CardName": "Witch's Oven"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cauldron Familiar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deadly Dispute"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blazemire Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blood Crypt"
+        },
+        {
+          "Count": 3,
+          "CardName": "Blightstep Pathway"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blackcleave Cliffs"
+        },
+        {
+          "Count": 2,
+          "CardName": "Overgrown Tomb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Darkbore Pathway"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stomping Ground"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sokenzan, Crucible of Defiance"
+        },
+        {
+          "Count": 1,
+          "CardName": "Llanowar Wastes"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blooming Marsh"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fountainport"
+        },
+        {
+          "Count": 1,
+          "CardName": "Den of the Bugbear"
+        },
+        {
+          "Count": 1,
+          "CardName": "Anoint with Affliction"
+        },
+        {
+          "Count": 1,
+          "CardName": "Syr Ginger, the Meal Ender"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chandra's Defeat"
+        },
+        {
+          "Count": 1,
+          "CardName": "Jegantha, the Wellspring"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ob Nixilis, the Adversary"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pawpatch Formation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Haywire Mite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Abrupt Decay"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sheoldred's Edict"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Meathook Massacre"
+        },
+        {
+          "Count": 1,
+          "CardName": "Extinction Event"
+        },
+        {
+          "Count": 1,
+          "CardName": "Claim the Firstborn"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Aleksei Raptunovich",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/461457",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thraben Inspector"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voldaren Epicure"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shefet Dunes"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gleeful Demolition"
+        },
+        {
+          "Count": 4,
+          "CardName": "Knight-Errant of Eos"
+        },
+        {
+          "Count": 4,
+          "CardName": "Venerated Loxodon"
+        },
+        {
+          "Count": 4,
+          "CardName": "Resolute Reinforcements"
+        },
+        {
+          "Count": 4,
+          "CardName": "Warden of the Inner Sky"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eiganjo, Seat of the Empire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Castle Embereth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Inspiring Vantage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sokenzan, Crucible of Defiance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Imodane's Recruiter"
+        },
+        {
+          "Count": 3,
+          "CardName": "Novice Inspector"
+        },
+        {
+          "Count": 2,
+          "CardName": "Authority of the Consuls"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 1,
+          "CardName": "Den of the Bugbear"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thalia, Guardian of Thraben"
+        },
+        {
+          "Count": 3,
+          "CardName": "Battlefield Forge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sheltered by Ghosts"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Roiling Vortex"
+        },
+        {
+          "Count": 2,
+          "CardName": "Knockout Blow"
+        },
+        {
+          "Count": 2,
+          "CardName": "Redcap Melee"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Surge of Salvation"
+        },
+        {
+          "Count": 3,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 2,
+          "CardName": "Invasion of Gobakhan"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Dzianis Chuyanau",
+      "Result": "5th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/461467",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Authority of the Consuls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bishop of Wings"
+        },
+        {
+          "Count": 4,
+          "CardName": "Giada, Font of Hope"
+        },
+        {
+          "Count": 2,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 2,
+          "CardName": "Enduring Innocence"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kayla's Reconstruction"
+        },
+        {
+          "Count": 4,
+          "CardName": "Resplendent Angel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Righteous Valkyrie"
+        },
+        {
+          "Count": 4,
+          "CardName": "Skyclave Apparition"
+        },
+        {
+          "Count": 4,
+          "CardName": "Collected Company"
+        },
+        {
+          "Count": 2,
+          "CardName": "Emeria's Call"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 4,
+          "CardName": "Branchloft Pathway"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brushland"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eiganjo, Seat of the Empire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Overgrown Farmland"
+        },
+        {
+          "Count": 4,
+          "CardName": "Razorverge Thicket"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Guardian of Faith"
+        },
+        {
+          "Count": 2,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Leyline of Sanctity"
+        },
+        {
+          "Count": 3,
+          "CardName": "Portable Hole"
+        },
+        {
+          "Count": 3,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Split Up"
+        },
+        {
+          "Count": 1,
+          "CardName": "Surge of Salvation"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Глеб Крапіўніцкі",
+      "Result": "6th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/461570",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Blood Crypt"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fabled Passage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sokenzan, Crucible of Defiance"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sulfurous Springs"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blackcleave Cliffs"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shatterskull Smashing"
+        },
+        {
+          "Count": 2,
+          "CardName": "Den of the Bugbear"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hive of the Eye Tyrant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kazuul's Fury"
+        },
+        {
+          "Count": 3,
+          "CardName": "Blightstep Pathway"
+        },
+        {
+          "Count": 3,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sheoldred, the Apocalypse"
+        },
+        {
+          "Count": 2,
+          "CardName": "Archfiend of the Dross"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fable of the Mirror-Breaker"
+        },
+        {
+          "Count": 2,
+          "CardName": "Urabrask's Forge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bonecrusher Giant"
+        },
+        {
+          "Count": 3,
+          "CardName": "Graveyard Trespasser"
+        },
+        {
+          "Count": 2,
+          "CardName": "Kolaghan's Command"
+        },
+        {
+          "Count": 2,
+          "CardName": "Deadly Dispute"
+        },
+        {
+          "Count": 2,
+          "CardName": "Heartless Act"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kroxa, Titan of Death's Hunger"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bloodtithe Harvester"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tinybones, the Pickpocket"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thoughtseize"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Heartless Act"
+        },
+        {
+          "Count": 2,
+          "CardName": "Extinction Event"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thoughtseize"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "NickLatkovich",
+          "Player2": "Глеб Крапіўніцкі",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Akel",
+          "Player2": "Dzianis Chuyanau",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "vorotinskyV",
+          "Player2": "Aleksei Raptunovich",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "NickLatkovich",
+          "Player2": "Dzianis Chuyanau",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "vorotinskyV",
+          "Player2": "Akel",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Aleksei Raptunovich",
+          "Player2": "Глеб Крапіўніцкі",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "NickLatkovich",
+          "Player2": "vorotinskyV",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Akel",
+          "Player2": "Aleksei Raptunovich",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Глеб Крапіўніцкі",
+          "Player2": "Dzianis Chuyanau",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "NickLatkovich",
+          "Player2": "Akel",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dzianis Chuyanau",
+          "Player2": "Aleksei Raptunovich",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Глеб Крапіўніцкі",
+          "Player2": "vorotinskyV",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Aleksei Raptunovich",
+          "Player2": "NickLatkovich",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Akel",
+          "Player2": "Глеб Крапіўніцкі",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dzianis Chuyanau",
+          "Player2": "vorotinskyV",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "NickLatkovich",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.44,
+      "GWP": 0.64285714,
+      "OGWP": 0.47380952
+    },
+    {
+      "Rank": 2,
+      "Player": "Akel",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.48,
+      "GWP": 0.58333333,
+      "OGWP": 0.48571429
+    },
+    {
+      "Rank": 3,
+      "Player": "vorotinskyV",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.52,
+      "GWP": 0.5,
+      "OGWP": 0.50238095
+    },
+    {
+      "Rank": 4,
+      "Player": "Aleksei Raptunovich",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.52,
+      "GWP": 0.42857143,
+      "OGWP": 0.51666667
+    },
+    {
+      "Rank": 5,
+      "Player": "Dzianis Chuyanau",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.52,
+      "GWP": 0.42857143,
+      "OGWP": 0.51666667
+    },
+    {
+      "Rank": 6,
+      "Player": "Глеб Крапіўніцкі",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.52,
+      "GWP": 0.42857143,
+      "OGWP": 0.51666667
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "Tournament": {
+    "Date": "2024-02-02T20:30:00",
+    "Name": "Terza tappa Lega MtG ADS Sammargheritese 1982",
+    "Uri": "https://melee.gg/Tournament/View/57582",
+    "Formats": "Modern"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Kiba",
+      "Result": "6th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/360741",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ragavan, Nimble Pilferer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ledger Shredder"
+        },
+        {
+          "Count": 2,
+          "CardName": "Subtlety"
+        },
+        {
+          "Count": 3,
+          "CardName": "Murktide Regent"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Engineered Explosives"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stern Scolding"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dress Down"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blood Moon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force of Negation"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Pappagone",
+      "Result": "7th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/360941",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Harmonic Prodigy"
+        },
+        {
+          "Count": 4,
+          "CardName": "Burning-Tree Emissary"
+        },
+        {
+          "Count": 4,
+          "CardName": "Elvish Visionary"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rage Forger"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flamekin Harbinger"
+        },
+        {
+          "Count": 3,
+          "CardName": "Eternal Witness"
+        },
+        {
+          "Count": 3,
+          "CardName": "Goblin Anarchomancer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ignoble Hierarch"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seasoned Pyromancer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Collected Company"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Copperline Gorge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wooded Foothills"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 3,
+          "CardName": "Stomping Ground"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 1,
+          "CardName": "Windswept Heath"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cursed Totem"
+        },
+        {
+          "Count": 3,
+          "CardName": "Magus of the Moon"
+        },
+        {
+          "Count": 3,
+          "CardName": "Reclamation Sage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Goblin Ruinblaster"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force of Vigor"
+        },
+        {
+          "Count": 2,
+          "CardName": "Veil of Summer"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "AleM54",
+          "Player2": "Kiba",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Pappagone",
+          "Player2": "Draghone",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Alebuck",
+          "Player2": "Kiba",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Pappagone",
+          "Player2": "Troverounid",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Kiba",
+          "Player2": "Troverounid",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Alebuck",
+          "Player2": "Pappagone",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Kiba",
+          "Player2": "Draghone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mene",
+          "Player2": "Pappagone",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "AleM54",
+      "Points": 9,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.6875,
+      "GWP": 0.583333,
+      "OGWP": 0.645455
+    },
+    {
+      "Rank": 2,
+      "Player": "Mene",
+      "Points": 9,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.7,
+      "OGWP": 0.543561
+    },
+    {
+      "Rank": 3,
+      "Player": "OcchioFino",
+      "Points": 9,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.541667,
+      "GWP": 0.636364,
+      "OGWP": 0.4875
+    },
+    {
+      "Rank": 4,
+      "Player": "Duca",
+      "Points": 9,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.479167,
+      "GWP": 0.7,
+      "OGWP": 0.426136
+    },
+    {
+      "Rank": 5,
+      "Player": "Alebuck",
+      "Points": 6,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.454545,
+      "OGWP": 0.611364
+    },
+    {
+      "Rank": 6,
+      "Player": "Kiba",
+      "Points": 6,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.479167,
+      "GWP": 0.545455,
+      "OGWP": 0.426136
+    },
+    {
+      "Rank": 7,
+      "Player": "Pappagone",
+      "Points": 6,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.479167,
+      "GWP": 0.5,
+      "OGWP": 0.455303
+    },
+    {
+      "Rank": 8,
+      "Player": "SimF1",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.541667,
+      "GWP": 0.333333,
+      "OGWP": 0.500758
+    },
+    {
+      "Rank": 9,
+      "Player": "Draghone",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.520833,
+      "GWP": 0.333333,
+      "OGWP": 0.503788
+    },
+    {
+      "Rank": 10,
+      "Player": "Troverounid",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.520833,
+      "GWP": 0.333333,
+      "OGWP": 0.519697
+    }
+  ]
+}
