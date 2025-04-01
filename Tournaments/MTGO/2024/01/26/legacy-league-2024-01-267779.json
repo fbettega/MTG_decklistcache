@@ -1430,7 +1430,7 @@
         },
         {
           "Count": 4,
-          "CardName": "Incubation/Incongruity"
+          "CardName": "Incubation // Incongruity"
         },
         {
           "Count": 1,
@@ -1462,7 +1462,7 @@
         },
         {
           "Count": 2,
-          "CardName": "Rise/Fall"
+          "CardName": "Rise // Fall"
         },
         {
           "Count": 1,
@@ -1950,7 +1950,7 @@
         },
         {
           "Count": 3,
-          "CardName": "Wear/Tear"
+          "CardName": "Wear // Tear"
         }
       ]
     },
@@ -1960,10 +1960,6 @@
       "Result": "5-0",
       "AnchorUri": "https://www.mtgo.com/decklist/legacy-league-2024-01-267779#deck_Etriol",
       "Mainboard": [
-        {
-          "Count": 4,
-          "CardName": "\"Name Sticker\" Goblin"
-        },
         {
           "Count": 4,
           "CardName": "Ancient Tomb"
@@ -2027,6 +2023,10 @@
         {
           "Count": 2,
           "CardName": "Snow-Covered Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "_____ Goblin"
         }
       ],
       "Sideboard": [

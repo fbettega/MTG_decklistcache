@@ -1360,7 +1360,7 @@
       "Sideboard": [
         {
           "Count": 3,
-          "CardName": "Dead/Gone"
+          "CardName": "Dead // Gone"
         },
         {
           "Count": 1,
@@ -2226,7 +2226,7 @@
       "Sideboard": [
         {
           "Count": 2,
-          "CardName": "Dead/Gone"
+          "CardName": "Dead // Gone"
         },
         {
           "Count": 2,
@@ -2938,7 +2938,7 @@
       "Sideboard": [
         {
           "Count": 3,
-          "CardName": "Dead/Gone"
+          "CardName": "Dead // Gone"
         },
         {
           "Count": 1,
@@ -3328,7 +3328,7 @@
         },
         {
           "Count": 1,
-          "CardName": "Consign/Oblivion"
+          "CardName": "Consign // Oblivion"
         },
         {
           "Count": 2,
@@ -3738,7 +3738,7 @@
         },
         {
           "Count": 1,
-          "CardName": "Consign/Oblivion"
+          "CardName": "Consign // Oblivion"
         },
         {
           "Count": 1,
@@ -3986,7 +3986,7 @@
       "Sideboard": [
         {
           "Count": 2,
-          "CardName": "Dead/Gone"
+          "CardName": "Dead // Gone"
         },
         {
           "Count": 2,
@@ -4016,14 +4016,9 @@
       "RoundName": "Quarterfinals",
       "Matches": [
         {
-          "Player1": "Magic_Dads71522",
-          "Player2": "Geodude_Jared",
+          "Player1": "O_danielakos",
+          "Player2": "stu909090",
           "Result": "2-0-0"
-        },
-        {
-          "Player1": "DominiqueTutor",
-          "Player2": "ecobaronen",
-          "Result": "2-1-0"
         },
         {
           "Player1": "choutin",
@@ -4031,8 +4026,13 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "O_danielakos",
-          "Player2": "stu909090",
+          "Player1": "DominiqueTutor",
+          "Player2": "ecobaronen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "Geodude_Jared",
           "Result": "2-0-0"
         }
       ]
@@ -4041,14 +4041,14 @@
       "RoundName": "Semifinals",
       "Matches": [
         {
-          "Player1": "Magic_Dads71522",
-          "Player2": "O_danielakos",
-          "Result": "2-0-0"
-        },
-        {
           "Player1": "DominiqueTutor",
           "Player2": "choutin",
           "Result": "2-1-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "O_danielakos",
+          "Result": "2-0-0"
         }
       ]
     },
