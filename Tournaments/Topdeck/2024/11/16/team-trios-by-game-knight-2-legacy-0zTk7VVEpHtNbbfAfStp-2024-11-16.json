@@ -17,24 +17,16 @@
           "CardName": "Forest"
         },
         {
-          "Count": 2,
-          "CardName": "Glimmerpost"
-        },
-        {
-          "Count": 2,
-          "CardName": "Boseiju, Who Endures"
-        },
-        {
-          "Count": 2,
-          "CardName": "Once Upon a Time"
-        },
-        {
           "Count": 1,
           "CardName": "Bojuka Bog"
         },
         {
           "Count": 1,
           "CardName": "Emrakul, the Aeons Torn"
+        },
+        {
+          "Count": 2,
+          "CardName": "Glimmerpost"
         },
         {
           "Count": 1,
@@ -45,8 +37,28 @@
           "CardName": "Glacial Chasm"
         },
         {
+          "Count": 4,
+          "CardName": "Crop Rotation"
+        },
+        {
           "Count": 1,
           "CardName": "Maze of Ith"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Tower"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 3,
+          "CardName": "Elvish Spirit Guide"
+        },
+        {
+          "Count": 4,
+          "CardName": "The One Ring"
         },
         {
           "Count": 1,
@@ -61,32 +73,12 @@
           "CardName": "Echoing Deeps"
         },
         {
-          "Count": 1,
-          "CardName": "Vesuva"
-        },
-        {
-          "Count": 1,
-          "CardName": "Yavimaya, Cradle of Growth"
-        },
-        {
-          "Count": 1,
-          "CardName": "Wasteland"
-        },
-        {
-          "Count": 4,
-          "CardName": "Crop Rotation"
-        },
-        {
-          "Count": 4,
-          "CardName": "Urza's Tower"
-        },
-        {
-          "Count": 4,
-          "CardName": "The One Ring"
-        },
-        {
           "Count": 4,
           "CardName": "Planar Nexus"
+        },
+        {
+          "Count": 3,
+          "CardName": "Disruptor Flute"
         },
         {
           "Count": 4,
@@ -97,24 +89,32 @@
           "CardName": "Kozilek's Command"
         },
         {
+          "Count": 3,
+          "CardName": "Vexing Bauble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vesuva"
+        },
+        {
+          "Count": 1,
+          "CardName": "Yavimaya, Cradle of Growth"
+        },
+        {
           "Count": 4,
           "CardName": "Cloudpost"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wasteland"
         },
         {
           "Count": 4,
           "CardName": "Karn, the Great Creator"
         },
         {
-          "Count": 3,
-          "CardName": "Elvish Spirit Guide"
-        },
-        {
-          "Count": 3,
-          "CardName": "Disruptor Flute"
-        },
-        {
-          "Count": 3,
-          "CardName": "Vexing Bauble"
+          "Count": 2,
+          "CardName": "Once Upon a Time"
         }
       ],
       "Sideboard": [
@@ -125,6 +125,10 @@
         {
           "Count": 1,
           "CardName": "Mycosynth Lattice"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dismember"
         },
         {
           "Count": 1,
@@ -143,16 +147,12 @@
           "CardName": "Torpor Orb"
         },
         {
-          "Count": 1,
-          "CardName": "Ensnaring Bridge"
-        },
-        {
-          "Count": 3,
-          "CardName": "Dismember"
-        },
-        {
           "Count": 3,
           "CardName": "Faerie Macabre"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ensnaring Bridge"
         },
         {
           "Count": 2,
@@ -171,7 +171,7 @@
           "Result": "1-0-0"
         },
         {
-          "Player1": "Team Maraca",
+          "Player1": "Team Feds",
           "Player2": "Team What Year Is It?",
           "Result": "1-0-0"
         },
@@ -222,7 +222,7 @@
         },
         {
           "Player1": "Team Austin’s Step Children",
-          "Player2": "Team Maraca",
+          "Player2": "Team Feds",
           "Result": "1-0-0"
         },
         {
@@ -266,7 +266,7 @@
           "Result": "1-0-0"
         },
         {
-          "Player1": "Team Maraca",
+          "Player1": "Team Feds",
           "Player2": "Team Left Dog",
           "Result": "1-0-0"
         },
@@ -312,7 +312,7 @@
         },
         {
           "Player1": "Team not all meta",
-          "Player2": "Team Maraca",
+          "Player2": "Team Feds",
           "Result": "1-0-0"
         },
         {
@@ -361,7 +361,7 @@
           "Result": "1-0-0"
         },
         {
-          "Player1": "Team Maraca",
+          "Player1": "Team Feds",
           "Player2": "Team Extras",
           "Result": "1-0-0"
         },
@@ -460,7 +460,7 @@
     },
     {
       "Rank": 5,
-      "Player": "Team Maraca",
+      "Player": "Team Feds",
       "Points": 9,
       "Wins": 3,
       "Losses": 2,

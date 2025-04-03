@@ -17,32 +17,52 @@
           "CardName": "Plains"
         },
         {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ephemerate"
+        },
+        {
           "Count": 3,
           "CardName": "Fatal Push"
-        },
-        {
-          "Count": 3,
-          "CardName": "Flickerwisp"
-        },
-        {
-          "Count": 3,
-          "CardName": "Emperor of Bones"
         },
         {
           "Count": 3,
           "CardName": "Recruiter of the Guard"
         },
         {
-          "Count": 1,
-          "CardName": "Swamp"
+          "Count": 2,
+          "CardName": "Concealed Courtyard"
+        },
+        {
+          "Count": 4,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 2,
+          "CardName": "Windswept Heath"
+        },
+        {
+          "Count": 4,
+          "CardName": "Aether Vial"
+        },
+        {
+          "Count": 2,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flickerwisp"
         },
         {
           "Count": 1,
-          "CardName": "Tidehollow Sculler"
+          "CardName": "Skyclave Apparition"
         },
         {
-          "Count": 1,
-          "CardName": "Eiganjo, Seat of the Empire"
+          "Count": 4,
+          "CardName": "Solitude"
         },
         {
           "Count": 1,
@@ -50,51 +70,15 @@
         },
         {
           "Count": 1,
-          "CardName": "Aven Interrupter"
-        },
-        {
-          "Count": 1,
-          "CardName": "White Orchid Phantom"
-        },
-        {
-          "Count": 1,
-          "CardName": "Boggart Trawler // Boggart Bog"
-        },
-        {
-          "Count": 2,
-          "CardName": "Godless Shrine"
-        },
-        {
-          "Count": 2,
-          "CardName": "Windswept Heath"
-        },
-        {
-          "Count": 2,
-          "CardName": "Concealed Courtyard"
-        },
-        {
-          "Count": 2,
-          "CardName": "Skyclave Apparition"
+          "CardName": "Eiganjo, Seat of the Empire"
         },
         {
           "Count": 2,
           "CardName": "Shadowy Backstreet"
         },
         {
-          "Count": 4,
-          "CardName": "Ephemerate"
-        },
-        {
-          "Count": 4,
-          "CardName": "Marsh Flats"
-        },
-        {
-          "Count": 4,
-          "CardName": "Solitude"
-        },
-        {
-          "Count": 4,
-          "CardName": "Aether Vial"
+          "Count": 1,
+          "CardName": "Aven Interrupter"
         },
         {
           "Count": 4,
@@ -102,7 +86,19 @@
         },
         {
           "Count": 4,
-          "CardName": "Witch Enchanter // Witch-Blessed Meadow"
+          "CardName": "Witch Enchanter"
+        },
+        {
+          "Count": 2,
+          "CardName": "White Orchid Phantom"
+        },
+        {
+          "Count": 4,
+          "CardName": "Emperor of Bones"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boggart Trawler"
         },
         {
           "Count": 4,
@@ -111,36 +107,48 @@
       ],
       "Sideboard": [
         {
-          "Count": 2,
-          "CardName": "Drannith Magistrate"
-        },
-        {
-          "Count": 2,
-          "CardName": "Sanctifier en-Vec"
-        },
-        {
-          "Count": 2,
+          "Count": 1,
           "CardName": "Aven Interrupter"
         },
         {
-          "Count": 1,
-          "CardName": "Plague Engineer"
+          "Count": 2,
+          "CardName": "Wrath of the Skies"
+        },
+        {
+          "Count": 2,
+          "CardName": "White Orchid Phantom"
         },
         {
           "Count": 1,
-          "CardName": "March of Otherworldly Light"
+          "CardName": "Sheoldred, the Apocalypse"
         },
         {
           "Count": 1,
           "CardName": "Elesh Norn, Mother of Machines"
         },
         {
-          "Count": 3,
-          "CardName": "White Orchid Phantom"
+          "Count": 2,
+          "CardName": "Drannith Magistrate"
         },
         {
-          "Count": 3,
-          "CardName": "Wrath of the Skies"
+          "Count": 1,
+          "CardName": "March of Otherworldly Light"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sanctifier en-Vec"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vindicate"
+        },
+        {
+          "Count": 1,
+          "CardName": "Celestial Purge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fatal Push"
         }
       ]
     }

@@ -58,7 +58,7 @@
         },
         {
           "Count": 1,
-          "CardName": "Firestorm"
+          "CardName": "Lava Dart"
         },
         {
           "Count": 1,
@@ -88,10 +88,6 @@
         },
         {
           "Count": 2,
-          "CardName": "Pyrokinesis"
-        },
-        {
-          "Count": 2,
           "CardName": "Pyroblast"
         },
         {
@@ -103,16 +99,16 @@
           "CardName": "Mogg Salvage"
         },
         {
-          "Count": 1,
-          "CardName": "Urza's Rage"
-        },
-        {
-          "Count": 1,
-          "CardName": "Forest"
+          "Count": 3,
+          "CardName": "Pyrokinesis"
         },
         {
           "Count": 3,
           "CardName": "Tranquil Domain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forest"
         }
       ]
     },
@@ -131,12 +127,12 @@
           "CardName": "Forest"
         },
         {
-          "Count": 3,
-          "CardName": "Naturalize"
-        },
-        {
           "Count": 4,
           "CardName": "Mishra's Factory"
+        },
+        {
+          "Count": 3,
+          "CardName": "Naturalize"
         },
         {
           "Count": 4,
@@ -145,6 +141,10 @@
         {
           "Count": 4,
           "CardName": "Winter's Grasp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thermokarst"
         },
         {
           "Count": 4,
@@ -171,6 +171,10 @@
           "CardName": "Terravore"
         },
         {
+          "Count": 2,
+          "CardName": "Rith's Grove"
+        },
+        {
           "Count": 4,
           "CardName": "Windswept Heath"
         },
@@ -181,14 +185,6 @@
         {
           "Count": 4,
           "CardName": "Wasteland"
-        },
-        {
-          "Count": 2,
-          "CardName": "Thermokarst"
-        },
-        {
-          "Count": 2,
-          "CardName": "Rith's Grove"
         },
         {
           "Count": 2,
@@ -205,6 +201,10 @@
           "CardName": "Circle of Protection: Red"
         },
         {
+          "Count": 3,
+          "CardName": "Red Elemental Blast"
+        },
+        {
           "Count": 2,
           "CardName": "Pyroclasm"
         },
@@ -215,10 +215,6 @@
         {
           "Count": 2,
           "CardName": "Phyrexian Furnace"
-        },
-        {
-          "Count": 3,
-          "CardName": "Red Elemental Blast"
         },
         {
           "Count": 3,
@@ -237,28 +233,20 @@
           "CardName": "Plains"
         },
         {
-          "Count": 2,
-          "CardName": "Diabolic Edict"
-        },
-        {
-          "Count": 2,
-          "CardName": "Disenchant"
-        },
-        {
-          "Count": 2,
-          "CardName": "Knight of Stromgald"
-        },
-        {
-          "Count": 2,
-          "CardName": "Perish"
-        },
-        {
           "Count": 10,
           "CardName": "Swamp"
         },
         {
           "Count": 4,
           "CardName": "Dark Ritual"
+        },
+        {
+          "Count": 2,
+          "CardName": "Diabolic Edict"
+        },
+        {
+          "Count": 2,
+          "CardName": "Disenchant"
         },
         {
           "Count": 4,
@@ -269,12 +257,44 @@
           "CardName": "Hypnotic Specter"
         },
         {
+          "Count": 1,
+          "CardName": "Seal of Cleansing"
+        },
+        {
+          "Count": 1,
+          "CardName": "Circle of Protection: Red"
+        },
+        {
+          "Count": 2,
+          "CardName": "Knight of Stromgald"
+        },
+        {
           "Count": 4,
           "CardName": "Swords to Plowshares"
         },
         {
+          "Count": 3,
+          "CardName": "Nantuko Shade"
+        },
+        {
           "Count": 4,
           "CardName": "Caves of Koilos"
+        },
+        {
+          "Count": 3,
+          "CardName": "Engineered Plague"
+        },
+        {
+          "Count": 1,
+          "CardName": "Masticore"
+        },
+        {
+          "Count": 2,
+          "CardName": "Perish"
+        },
+        {
+          "Count": 1,
+          "CardName": "Warmth"
         },
         {
           "Count": 4,
@@ -285,40 +305,16 @@
           "CardName": "Vindicate"
         },
         {
-          "Count": 4,
-          "CardName": "Gerrard's Verdict"
-        },
-        {
-          "Count": 1,
-          "CardName": "Seal of Cleansing"
-        },
-        {
-          "Count": 1,
-          "CardName": "Circle of Protection: Red"
-        },
-        {
-          "Count": 1,
-          "CardName": "Masticore"
-        },
-        {
-          "Count": 1,
-          "CardName": "Warmth"
-        },
-        {
           "Count": 1,
           "CardName": "Cursed Totem"
         },
         {
           "Count": 3,
-          "CardName": "Nantuko Shade"
-        },
-        {
-          "Count": 3,
-          "CardName": "Engineered Plague"
-        },
-        {
-          "Count": 3,
           "CardName": "Withered Wretch"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gerrard's Verdict"
         },
         {
           "Count": 3,
@@ -342,8 +338,8 @@
       "AnchorUri": "https://moxfield.com/decks/sr1VgOUqbEWX9yXovIsQfg",
       "Mainboard": [
         {
-          "Count": 14,
-          "CardName": "Swamp"
+          "Count": 4,
+          "CardName": "Rancid Earth"
         },
         {
           "Count": 4,
@@ -351,15 +347,15 @@
         },
         {
           "Count": 4,
+          "CardName": "Rain of Tears"
+        },
+        {
+          "Count": 4,
           "CardName": "Duress"
         },
         {
           "Count": 4,
-          "CardName": "Rancid Earth"
-        },
-        {
-          "Count": 4,
-          "CardName": "Braids, Cabal Minion"
+          "CardName": "Icequake"
         },
         {
           "Count": 4,
@@ -371,11 +367,11 @@
         },
         {
           "Count": 4,
-          "CardName": "Rain of Tears"
+          "CardName": "Braids, Cabal Minion"
         },
         {
-          "Count": 4,
-          "CardName": "Icequake"
+          "Count": 3,
+          "CardName": "Phyrexian Scuta"
         },
         {
           "Count": 3,
@@ -390,8 +386,8 @@
           "CardName": "Skeletal Scrying"
         },
         {
-          "Count": 3,
-          "CardName": "Phyrexian Scuta"
+          "Count": 14,
+          "CardName": "Swamp"
         },
         {
           "Count": 2,
@@ -399,14 +395,6 @@
         }
       ],
       "Sideboard": [
-        {
-          "Count": 2,
-          "CardName": "Powder Keg"
-        },
-        {
-          "Count": 2,
-          "CardName": "Dystopia"
-        },
         {
           "Count": 3,
           "CardName": "Engineered Plague"
@@ -418,6 +406,14 @@
         {
           "Count": 4,
           "CardName": "Black Vise"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dystopia"
+        },
+        {
+          "Count": 2,
+          "CardName": "Powder Keg"
         },
         {
           "Count": 1,
@@ -444,20 +440,16 @@
           "CardName": "Daze"
         },
         {
-          "Count": 2,
-          "CardName": "Mishra's Factory"
-        },
-        {
-          "Count": 2,
-          "CardName": "Flash of Insight"
-        },
-        {
-          "Count": 2,
-          "CardName": "Chain of Vapor"
-        },
-        {
           "Count": 4,
           "CardName": "Gush"
+        },
+        {
+          "Count": 1,
+          "CardName": "Misdirection"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mishra's Factory"
         },
         {
           "Count": 4,
@@ -488,14 +480,34 @@
           "CardName": "Portent"
         },
         {
-          "Count": 1,
-          "CardName": "Misdirection"
+          "Count": 2,
+          "CardName": "Flash of Insight"
+        },
+        {
+          "Count": 2,
+          "CardName": "Chain of Vapor"
         }
       ],
       "Sideboard": [
         {
           "Count": 1,
           "CardName": "Misdirection"
+        },
+        {
+          "Count": 2,
+          "CardName": "Brain Freeze"
+        },
+        {
+          "Count": 3,
+          "CardName": "Parallax Tide"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Annul"
         },
         {
           "Count": 1,
@@ -508,22 +520,6 @@
         {
           "Count": 1,
           "CardName": "Chain of Vapor"
-        },
-        {
-          "Count": 2,
-          "CardName": "Brain Freeze"
-        },
-        {
-          "Count": 2,
-          "CardName": "Annul"
-        },
-        {
-          "Count": 3,
-          "CardName": "Parallax Tide"
-        },
-        {
-          "Count": 4,
-          "CardName": "Hydroblast"
         }
       ]
     }

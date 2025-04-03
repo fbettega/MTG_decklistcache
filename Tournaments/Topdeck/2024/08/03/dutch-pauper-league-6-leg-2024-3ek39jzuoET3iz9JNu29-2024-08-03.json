@@ -1,13 +1,13 @@
 {
   "Tournament": {
-    "Date": "2024-08-03T10:00:00+00:00",
+    "Date": "2024-08-03T08:00:00+00:00",
     "Name": "Dutch Pauper League – 6° Leg – 2024",
     "Uri": "https://topdeck.gg/event/3ek39jzuoET3iz9JNu29",
     "Formats": "Pauper"
   },
   "Decks": [
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Nicolas Komanski",
       "Result": "1st Place",
       "AnchorUri": "https://www.moxfield.com/decks/H589PxTPUkul_GDzxlZOnQ",
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Gianvito Taneburgo",
       "Result": "2st Place",
       "AnchorUri": "https://www.moxfield.com/decks/TX10OcMZDEqQiVTIsTRXag",
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Floris Heins",
       "Result": "3st Place",
       "AnchorUri": "https://www.moxfield.com/decks/BlHHP5Oqak2vZUpMBdgMBQ",
@@ -229,44 +229,32 @@
           "CardName": "Overgrown Battlement"
         },
         {
-          "Count": 4,
-          "CardName": "Saruli Caretaker"
-        },
-        {
-          "Count": 4,
-          "CardName": "Axebane Guardian"
-        },
-        {
-          "Count": 4,
-          "CardName": "Drift of Phantasms"
-        },
-        {
-          "Count": 4,
-          "CardName": "Quirion Ranger"
-        },
-        {
-          "Count": 4,
-          "CardName": "Winding Way"
-        },
-        {
           "Count": 2,
           "CardName": "Orochi Leafcaller"
+        },
+        {
+          "Count": 4,
+          "CardName": "Saruli Caretaker"
         },
         {
           "Count": 2,
           "CardName": "Avacyn's Pilgrim"
         },
         {
-          "Count": 2,
-          "CardName": "Fyndhorn Elves"
-        },
-        {
           "Count": 1,
           "CardName": "Reaping the Graves"
         },
         {
+          "Count": 4,
+          "CardName": "Axebane Guardian"
+        },
+        {
           "Count": 1,
           "CardName": "Freed from the Real"
+        },
+        {
+          "Count": 12,
+          "CardName": "Forest"
         },
         {
           "Count": 1,
@@ -277,8 +265,20 @@
           "CardName": "Tuktuk Rubblefort"
         },
         {
+          "Count": 4,
+          "CardName": "Drift of Phantasms"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fyndhorn Elves"
+        },
+        {
           "Count": 1,
           "CardName": "Valakut Invoker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Quirion Ranger"
         },
         {
           "Count": 1,
@@ -289,20 +289,20 @@
           "CardName": "Wall of Roots"
         },
         {
-          "Count": 1,
-          "CardName": "Third Path Savant"
-        },
-        {
-          "Count": 12,
-          "CardName": "Forest"
-        },
-        {
           "Count": 3,
           "CardName": "Shield-Wall Sentinel"
         },
         {
+          "Count": 1,
+          "CardName": "Third Path Savant"
+        },
+        {
           "Count": 3,
           "CardName": "Generous Ent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Winding Way"
         }
       ],
       "Sideboard": [
@@ -311,16 +311,12 @@
           "CardName": "Obsidian Acolyte"
         },
         {
-          "Count": 2,
-          "CardName": "Standard Bearer"
-        },
-        {
           "Count": 1,
           "CardName": "Pulse of Murasa"
         },
         {
-          "Count": 1,
-          "CardName": "Tamiyo's Safekeeping"
+          "Count": 2,
+          "CardName": "Standard Bearer"
         },
         {
           "Count": 3,
@@ -331,13 +327,17 @@
           "CardName": "Mirrorshell Crab"
         },
         {
+          "Count": 1,
+          "CardName": "Tamiyo's Safekeeping"
+        },
+        {
           "Count": 3,
-          "CardName": "Guardian Naga // Banishing Coils"
+          "CardName": "Guardian Naga"
         }
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Robbert",
       "Result": "4th Place",
       "AnchorUri": "https://www.moxfield.com/decks/14acMJfdDkiYRSSR_kBhkw",
@@ -345,6 +345,18 @@
         {
           "Count": 4,
           "CardName": "Armadillo Cloak"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cartouche of Solidarity"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sentinel's Eyes"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ram Through"
         },
         {
           "Count": 4,
@@ -379,22 +391,6 @@
           "CardName": "Silhana Ledgewalker"
         },
         {
-          "Count": 4,
-          "CardName": "Malevolent Rumble"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cartouche of Solidarity"
-        },
-        {
-          "Count": 1,
-          "CardName": "Sentinel's Eyes"
-        },
-        {
-          "Count": 1,
-          "CardName": "Ram Through"
-        },
-        {
           "Count": 2,
           "CardName": "Plains"
         },
@@ -405,6 +401,10 @@
         {
           "Count": 3,
           "CardName": "Sheltering Landscape"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
         }
       ],
       "Sideboard": [
@@ -413,28 +413,28 @@
           "CardName": "Crimson Acolyte"
         },
         {
-          "Count": 3,
-          "CardName": "Standard Bearer"
-        },
-        {
           "Count": 1,
           "CardName": "Ram Through"
         },
         {
-          "Count": 1,
-          "CardName": "Flaring Pain"
-        },
-        {
-          "Count": 1,
-          "CardName": "Aura Gnarlid"
+          "Count": 3,
+          "CardName": "Standard Bearer"
         },
         {
           "Count": 2,
           "CardName": "Lifelink"
         },
         {
+          "Count": 1,
+          "CardName": "Flaring Pain"
+        },
+        {
           "Count": 2,
           "CardName": "Tamiyo's Safekeeping"
+        },
+        {
+          "Count": 1,
+          "CardName": "Aura Gnarlid"
         },
         {
           "Count": 2,
@@ -443,7 +443,7 @@
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Max Roovers",
       "Result": "5th Place",
       "AnchorUri": "https://www.moxfield.com/decks/B5ksg0Gg706rFmdipOzvJA",
@@ -453,40 +453,16 @@
           "CardName": "Sacred Cat"
         },
         {
-          "Count": 4,
-          "CardName": "Thraben Inspector"
-        },
-        {
-          "Count": 4,
-          "CardName": "Lunarch Veteran // Luminous Phantom"
-        },
-        {
-          "Count": 4,
-          "CardName": "Battle Screech"
-        },
-        {
-          "Count": 4,
-          "CardName": "Novice Inspector"
-        },
-        {
-          "Count": 4,
-          "CardName": "Thraben Charm"
-        },
-        {
           "Count": 8,
           "CardName": "Plains"
         },
         {
+          "Count": 4,
+          "CardName": "Thraben Inspector"
+        },
+        {
           "Count": 2,
           "CardName": "Rally the Peasants"
-        },
-        {
-          "Count": 2,
-          "CardName": "Greatsword of Tyr"
-        },
-        {
-          "Count": 2,
-          "CardName": "Boros Garrison"
         },
         {
           "Count": 3,
@@ -505,16 +481,40 @@
           "CardName": "Prismatic Strands"
         },
         {
-          "Count": 3,
-          "CardName": "Thrilling Discovery"
+          "Count": 4,
+          "CardName": "Lunarch Veteran"
         },
         {
-          "Count": 3,
-          "CardName": "Perilous Landscape"
+          "Count": 2,
+          "CardName": "Greatsword of Tyr"
+        },
+        {
+          "Count": 4,
+          "CardName": "Battle Screech"
         },
         {
           "Count": 4,
           "CardName": "Faithless Looting"
+        },
+        {
+          "Count": 4,
+          "CardName": "Novice Inspector"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boros Garrison"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thrilling Discovery"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thraben Charm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Perilous Landscape"
         }
       ],
       "Sideboard": [
@@ -535,17 +535,17 @@
           "CardName": "Standard Bearer"
         },
         {
-          "Count": 2,
-          "CardName": "Gorilla Shaman"
-        },
-        {
           "Count": 1,
           "CardName": "Prismatic Strands"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gorilla Shaman"
         }
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Mark Coehoorn",
       "Result": "6th Place",
       "AnchorUri": "https://www.moxfield.com/decks/NU5PYfNqEUy1jI-Cq1FxQQ",
@@ -567,8 +567,28 @@
           "CardName": "Boarding Party"
         },
         {
+          "Count": 1,
+          "CardName": "Snow-Covered Mountain"
+        },
+        {
+          "Count": 16,
+          "CardName": "Snow-Covered Forest"
+        },
+        {
           "Count": 4,
           "CardName": "Avenging Hunter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Highland Forest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wild Growth"
+        },
+        {
+          "Count": 3,
+          "CardName": "Generous Ent"
         },
         {
           "Count": 4,
@@ -585,26 +605,6 @@
         {
           "Count": 4,
           "CardName": "Malevolent Rumble"
-        },
-        {
-          "Count": 1,
-          "CardName": "Snow-Covered Mountain"
-        },
-        {
-          "Count": 1,
-          "CardName": "Highland Forest"
-        },
-        {
-          "Count": 16,
-          "CardName": "Snow-Covered Forest"
-        },
-        {
-          "Count": 3,
-          "CardName": "Wild Growth"
-        },
-        {
-          "Count": 3,
-          "CardName": "Generous Ent"
         }
       ],
       "Sideboard": [
@@ -613,20 +613,20 @@
           "CardName": "Relic of Progenitus"
         },
         {
-          "Count": 2,
-          "CardName": "Gorilla Shaman"
-        },
-        {
           "Count": 3,
           "CardName": "Weather the Storm"
         },
         {
-          "Count": 3,
-          "CardName": "Breath Weapon"
+          "Count": 2,
+          "CardName": "Gorilla Shaman"
         },
         {
           "Count": 4,
           "CardName": "Deglamer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Breath Weapon"
         },
         {
           "Count": 1,
@@ -635,7 +635,7 @@
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Raymond Anderson",
       "Result": "7th Place",
       "AnchorUri": "https://www.moxfield.com/decks/aDPOp2aWGUaw79GlIZKghQ",
@@ -653,8 +653,16 @@
           "CardName": "Thraben Inspector"
         },
         {
+          "Count": 3,
+          "CardName": "Prismatic Strands"
+        },
+        {
           "Count": 4,
           "CardName": "Battle Screech"
+        },
+        {
+          "Count": 3,
+          "CardName": "Guardians' Pledge"
         },
         {
           "Count": 4,
@@ -665,8 +673,20 @@
           "CardName": "Kor Skyfisher"
         },
         {
+          "Count": 3,
+          "CardName": "Lunarch Veteran"
+        },
+        {
           "Count": 4,
           "CardName": "Raffine's Informant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Recommission"
+        },
+        {
+          "Count": 3,
+          "CardName": "Eagles of the North"
         },
         {
           "Count": 4,
@@ -675,26 +695,6 @@
         {
           "Count": 4,
           "CardName": "Thraben Charm"
-        },
-        {
-          "Count": 3,
-          "CardName": "Prismatic Strands"
-        },
-        {
-          "Count": 3,
-          "CardName": "Guardians' Pledge"
-        },
-        {
-          "Count": 3,
-          "CardName": "Lunarch Veteran // Luminous Phantom"
-        },
-        {
-          "Count": 3,
-          "CardName": "Eagles of the North"
-        },
-        {
-          "Count": 1,
-          "CardName": "Recommission"
         }
       ],
       "Sideboard": [
@@ -703,12 +703,12 @@
           "CardName": "Lone Missionary"
         },
         {
-          "Count": 3,
-          "CardName": "Revoke Existence"
-        },
-        {
           "Count": 1,
           "CardName": "Prismatic Strands"
+        },
+        {
+          "Count": 3,
+          "CardName": "Revoke Existence"
         },
         {
           "Count": 4,
@@ -725,7 +725,7 @@
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Tim Bunnik ",
       "Result": "8th Place",
       "AnchorUri": "https://www.moxfield.com/decks/e0qi2ZM5lkOzLR_y1Bgwfw",
@@ -767,40 +767,40 @@
           "CardName": "Lightning Bolt"
         },
         {
-          "Count": 4,
-          "CardName": "Faithless Looting"
-        },
-        {
-          "Count": 4,
-          "CardName": "Jagged Barrens"
-        },
-        {
-          "Count": 4,
-          "CardName": "Sneaky Snacker"
-        },
-        {
           "Count": 1,
           "CardName": "Rakdos Carnarium"
-        },
-        {
-          "Count": 1,
-          "CardName": "Swamp"
         },
         {
           "Count": 3,
           "CardName": "Vault of Whispers"
         },
         {
-          "Count": 3,
-          "CardName": "Demand Answers"
-        },
-        {
           "Count": 2,
           "CardName": "Mountain"
         },
         {
+          "Count": 4,
+          "CardName": "Faithless Looting"
+        },
+        {
+          "Count": 3,
+          "CardName": "Demand Answers"
+        },
+        {
+          "Count": 4,
+          "CardName": "Jagged Barrens"
+        },
+        {
           "Count": 2,
           "CardName": "Highway Robbery"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sneaky Snacker"
         }
       ],
       "Sideboard": [
@@ -809,16 +809,16 @@
           "CardName": "Contaminated Ground"
         },
         {
+          "Count": 2,
+          "CardName": "Trespasser's Curse"
+        },
+        {
           "Count": 3,
           "CardName": "Gorilla Shaman"
         },
         {
           "Count": 3,
           "CardName": "Nihil Spellbomb"
-        },
-        {
-          "Count": 2,
-          "CardName": "Trespasser's Curse"
         },
         {
           "Count": 2,
@@ -831,7 +831,7 @@
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Dylan Holly",
       "Result": "9th Place",
       "AnchorUri": "https://www.moxfield.com/decks/GOD61I9y7UehzYDTAPuJQw",
@@ -849,6 +849,10 @@
           "CardName": "Alms of the Vein"
         },
         {
+          "Count": 3,
+          "CardName": "Swamp"
+        },
+        {
           "Count": 4,
           "CardName": "Kitchen Imp"
         },
@@ -859,6 +863,10 @@
         {
           "Count": 4,
           "CardName": "Voldaren Epicure"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rakdos Carnarium"
         },
         {
           "Count": 4,
@@ -873,8 +881,16 @@
           "CardName": "Lightning Bolt"
         },
         {
+          "Count": 1,
+          "CardName": "Eroded Canyon"
+        },
+        {
           "Count": 4,
           "CardName": "Jagged Barrens"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soured Springs"
         },
         {
           "Count": 4,
@@ -887,22 +903,6 @@
         {
           "Count": 4,
           "CardName": "Sneaky Snacker"
-        },
-        {
-          "Count": 3,
-          "CardName": "Swamp"
-        },
-        {
-          "Count": 1,
-          "CardName": "Rakdos Carnarium"
-        },
-        {
-          "Count": 1,
-          "CardName": "Eroded Canyon"
-        },
-        {
-          "Count": 1,
-          "CardName": "Soured Springs"
         },
         {
           "Count": 1,
@@ -919,10 +919,6 @@
           "CardName": "Smash to Smithereens"
         },
         {
-          "Count": 3,
-          "CardName": "Extract a Confession"
-        },
-        {
           "Count": 2,
           "CardName": "Breath Weapon"
         },
@@ -933,11 +929,15 @@
         {
           "Count": 2,
           "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 3,
+          "CardName": "Extract a Confession"
         }
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Tom de Ruiter",
       "Result": "10th Place",
       "AnchorUri": "https://www.moxfield.com/decks/WdZI97dcqEq20sOcjx_E9A",
@@ -945,14 +945,6 @@
         {
           "Count": 3,
           "CardName": "Plains"
-        },
-        {
-          "Count": 3,
-          "CardName": "Goblin Bushwhacker"
-        },
-        {
-          "Count": 3,
-          "CardName": "Ancient Den"
         },
         {
           "Count": 2,
@@ -979,12 +971,24 @@
           "CardName": "Kuldotha Rebirth"
         },
         {
+          "Count": 1,
+          "CardName": "Makeshift Munitions"
+        },
+        {
+          "Count": 3,
+          "CardName": "Goblin Bushwhacker"
+        },
+        {
           "Count": 4,
           "CardName": "Kor Skyfisher"
         },
         {
           "Count": 4,
           "CardName": "Great Furnace"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ancient Den"
         },
         {
           "Count": 4,
@@ -999,34 +1003,22 @@
           "CardName": "Lightning Bolt"
         },
         {
+          "Count": 1,
+          "CardName": "Barbed Batterfist"
+        },
+        {
           "Count": 4,
           "CardName": "Lembas"
         },
         {
           "Count": 4,
           "CardName": "Novice Inspector"
-        },
-        {
-          "Count": 1,
-          "CardName": "Makeshift Munitions"
-        },
-        {
-          "Count": 1,
-          "CardName": "Barbed Batterfist"
         }
       ],
       "Sideboard": [
         {
           "Count": 3,
           "CardName": "Relic of Progenitus"
-        },
-        {
-          "Count": 3,
-          "CardName": "Dawnbringer Cleric"
-        },
-        {
-          "Count": 3,
-          "CardName": "Cast into the Fire"
         },
         {
           "Count": 2,
@@ -1041,13 +1033,21 @@
           "CardName": "Flaring Pain"
         },
         {
+          "Count": 3,
+          "CardName": "Dawnbringer Cleric"
+        },
+        {
           "Count": 1,
           "CardName": "End the Festivities"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cast into the Fire"
         }
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Tim Laros",
       "Result": "11th Place",
       "AnchorUri": "https://www.moxfield.com/decks/t516Bi282kK86qipjDCaEA",
@@ -1059,6 +1059,10 @@
         {
           "Count": 4,
           "CardName": "Sadistic Glee"
+        },
+        {
+          "Count": 2,
+          "CardName": "Implement of Ferocity"
         },
         {
           "Count": 4,
@@ -1077,22 +1081,6 @@
           "CardName": "Chromatic Star"
         },
         {
-          "Count": 4,
-          "CardName": "Basking Broodscale"
-        },
-        {
-          "Count": 4,
-          "CardName": "Malevolent Rumble"
-        },
-        {
-          "Count": 4,
-          "CardName": "Deadly Dispute"
-        },
-        {
-          "Count": 2,
-          "CardName": "Implement of Ferocity"
-        },
-        {
           "Count": 2,
           "CardName": "Tree of Tales"
         },
@@ -1101,12 +1089,28 @@
           "CardName": "Darkmoss Bridge"
         },
         {
+          "Count": 1,
+          "CardName": "Tamiyo's Safekeeping"
+        },
+        {
           "Count": 2,
           "CardName": "Wizard's Rockets"
         },
         {
+          "Count": 1,
+          "CardName": "Fanatical Offering"
+        },
+        {
           "Count": 2,
           "CardName": "Snakeskin Veil"
+        },
+        {
+          "Count": 4,
+          "CardName": "Basking Broodscale"
+        },
+        {
+          "Count": 1,
+          "CardName": "Evolution Witness"
         },
         {
           "Count": 2,
@@ -1117,30 +1121,30 @@
           "CardName": "Twisted Landscape"
         },
         {
-          "Count": 2,
-          "CardName": "Haunted Mire"
-        },
-        {
-          "Count": 1,
-          "CardName": "Tamiyo's Safekeeping"
-        },
-        {
-          "Count": 1,
-          "CardName": "Fanatical Offering"
-        },
-        {
-          "Count": 1,
-          "CardName": "Evolution Witness"
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
         },
         {
           "Count": 3,
           "CardName": "Nadier's Nightblade"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deadly Dispute"
+        },
+        {
+          "Count": 2,
+          "CardName": "Haunted Mire"
         }
       ],
       "Sideboard": [
         {
           "Count": 2,
           "CardName": "Nature's Claim"
+        },
+        {
+          "Count": 4,
+          "CardName": "Snuff Out"
         },
         {
           "Count": 2,
@@ -1155,21 +1159,17 @@
           "CardName": "Tamiyo's Safekeeping"
         },
         {
-          "Count": 2,
-          "CardName": "Drown in Sorrow"
-        },
-        {
-          "Count": 4,
-          "CardName": "Snuff Out"
-        },
-        {
           "Count": 1,
           "CardName": "Feed the Swarm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Drown in Sorrow"
         }
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Toon de Vet",
       "Result": "12th Place",
       "AnchorUri": "https://www.moxfield.com/decks/zaGLWwpTC0uT3Pysa0HgxA",
@@ -1179,60 +1179,12 @@
           "CardName": "God-Pharaoh's Faithful"
         },
         {
-          "Count": 4,
-          "CardName": "Sunscape Familiar"
-        },
-        {
-          "Count": 4,
-          "CardName": "Azorius Chancery"
-        },
-        {
-          "Count": 4,
-          "CardName": "Snap"
-        },
-        {
-          "Count": 4,
-          "CardName": "Preordain"
-        },
-        {
-          "Count": 4,
-          "CardName": "Mulldrifter"
-        },
-        {
-          "Count": 4,
-          "CardName": "Contaminated Landscape"
-        },
-        {
           "Count": 1,
           "CardName": "Remove Soul"
         },
         {
-          "Count": 1,
-          "CardName": "Prismatic Strands"
-        },
-        {
-          "Count": 1,
-          "CardName": "Dawnbringer Cleric"
-        },
-        {
-          "Count": 1,
-          "CardName": "Idyllic Beachfront"
-        },
-        {
-          "Count": 1,
-          "CardName": "Mortuary Mire"
-        },
-        {
-          "Count": 1,
-          "CardName": "Counterspell"
-        },
-        {
-          "Count": 1,
-          "CardName": "Ghostly Flicker"
-        },
-        {
-          "Count": 1,
-          "CardName": "Deep Analysis"
+          "Count": 4,
+          "CardName": "Sunscape Familiar"
         },
         {
           "Count": 2,
@@ -1243,38 +1195,82 @@
           "CardName": "Prohibit"
         },
         {
-          "Count": 2,
-          "CardName": "The Modern Age // Vector Glider"
-        },
-        {
-          "Count": 2,
-          "CardName": "Lórien Revealed"
-        },
-        {
-          "Count": 2,
-          "CardName": "Plains"
-        },
-        {
           "Count": 3,
           "CardName": "Archaeomancer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Prismatic Strands"
+        },
+        {
+          "Count": 4,
+          "CardName": "Azorius Chancery"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Modern Age"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dawnbringer Cleric"
+        },
+        {
+          "Count": 1,
+          "CardName": "Idyllic Beachfront"
         },
         {
           "Count": 3,
           "CardName": "Sea Gate Oracle"
         },
         {
+          "Count": 1,
+          "CardName": "Mortuary Mire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Snap"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lórien Revealed"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghostly Flicker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Preordain"
+        },
+        {
           "Count": 8,
           "CardName": "Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deep Analysis"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mulldrifter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Contaminated Landscape"
         }
       ],
       "Sideboard": [
         {
           "Count": 1,
           "CardName": "Blue Elemental Blast"
-        },
-        {
-          "Count": 1,
-          "CardName": "Revoke Existence"
         },
         {
           "Count": 4,
@@ -1289,6 +1285,10 @@
           "CardName": "Nature's Chant"
         },
         {
+          "Count": 1,
+          "CardName": "Revoke Existence"
+        },
+        {
           "Count": 2,
           "CardName": "Negate"
         },
@@ -1299,7 +1299,7 @@
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Tijmen van der Kamp",
       "Result": "13th Place",
       "AnchorUri": "https://www.moxfield.com/decks/VUfMAmelH0iSUwF8jBe2Mw",
@@ -1313,12 +1313,12 @@
           "CardName": "Mountain"
         },
         {
-          "Count": 1,
-          "CardName": "Colossal Dreadmask"
-        },
-        {
           "Count": 4,
           "CardName": "Thermokarst"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wild Growth"
         },
         {
           "Count": 4,
@@ -1333,8 +1333,20 @@
           "CardName": "Boarding Party"
         },
         {
+          "Count": 3,
+          "CardName": "Avenging Hunter"
+        },
+        {
           "Count": 4,
           "CardName": "Annoyed Altisaur"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wooded Ridgeline"
+        },
+        {
+          "Count": 3,
+          "CardName": "Generous Ent"
         },
         {
           "Count": 4,
@@ -1345,20 +1357,8 @@
           "CardName": "Writhing Chrysalis"
         },
         {
-          "Count": 2,
-          "CardName": "Wild Growth"
-        },
-        {
-          "Count": 2,
-          "CardName": "Wooded Ridgeline"
-        },
-        {
-          "Count": 3,
-          "CardName": "Avenging Hunter"
-        },
-        {
-          "Count": 3,
-          "CardName": "Generous Ent"
+          "Count": 1,
+          "CardName": "Colossal Dreadmask"
         },
         {
           "Count": 3,
@@ -1379,20 +1379,20 @@
           "CardName": "Gorilla Shaman"
         },
         {
-          "Count": 2,
-          "CardName": "Return to Nature"
-        },
-        {
-          "Count": 2,
-          "CardName": "Relic of Progenitus"
-        },
-        {
           "Count": 1,
           "CardName": "Nylea's Disciple"
         },
         {
+          "Count": 2,
+          "CardName": "Return to Nature"
+        },
+        {
           "Count": 3,
           "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Relic of Progenitus"
         },
         {
           "Count": 3,
@@ -1401,7 +1401,7 @@
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Clemens Gerteiser",
       "Result": "14th Place",
       "AnchorUri": "https://www.moxfield.com/decks/25_zzXUiIkW_5PBv_oPlMQ",
@@ -1417,6 +1417,10 @@
         {
           "Count": 4,
           "CardName": "Implement of Combustion"
+        },
+        {
+          "Count": 2,
+          "CardName": "Galvanic Blast"
         },
         {
           "Count": 4,
@@ -1439,6 +1443,14 @@
           "CardName": "Experimental Synthesizer"
         },
         {
+          "Count": 3,
+          "CardName": "Goblin Blast-Runner"
+        },
+        {
+          "Count": 2,
+          "CardName": "Goblin Grenade"
+        },
+        {
           "Count": 4,
           "CardName": "Chain Lightning"
         },
@@ -1449,18 +1461,6 @@
         {
           "Count": 4,
           "CardName": "Reckless Lackey"
-        },
-        {
-          "Count": 2,
-          "CardName": "Galvanic Blast"
-        },
-        {
-          "Count": 2,
-          "CardName": "Goblin Grenade"
-        },
-        {
-          "Count": 3,
-          "CardName": "Goblin Blast-Runner"
         }
       ],
       "Sideboard": [
@@ -1487,7 +1487,7 @@
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Eef vV",
       "Result": "15th Place",
       "AnchorUri": "https://www.moxfield.com/decks/Xf_FqwczO0C8KD257ZogSg",
@@ -1505,6 +1505,14 @@
           "CardName": "Galvanic Blast"
         },
         {
+          "Count": 1,
+          "CardName": "Rakdos Carnarium"
+        },
+        {
+          "Count": 3,
+          "CardName": "Vault of Whispers"
+        },
+        {
           "Count": 4,
           "CardName": "Faithless Looting"
         },
@@ -1533,6 +1541,14 @@
           "CardName": "Great Furnace"
         },
         {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
           "Count": 4,
           "CardName": "Demand Answers"
         },
@@ -1541,28 +1557,12 @@
           "CardName": "Jagged Barrens"
         },
         {
-          "Count": 4,
-          "CardName": "Sneaky Snacker"
-        },
-        {
-          "Count": 1,
-          "CardName": "Rakdos Carnarium"
-        },
-        {
-          "Count": 1,
-          "CardName": "Swamp"
-        },
-        {
           "Count": 1,
           "CardName": "Highway Robbery"
         },
         {
-          "Count": 3,
-          "CardName": "Vault of Whispers"
-        },
-        {
-          "Count": 2,
-          "CardName": "Mountain"
+          "Count": 4,
+          "CardName": "Sneaky Snacker"
         }
       ],
       "Sideboard": [
@@ -1579,12 +1579,12 @@
           "CardName": "Nihil Spellbomb"
         },
         {
-          "Count": 3,
-          "CardName": "Smash to Smithereens"
-        },
-        {
           "Count": 1,
           "CardName": "Electrickery"
+        },
+        {
+          "Count": 3,
+          "CardName": "Smash to Smithereens"
         },
         {
           "Count": 2,
@@ -1593,7 +1593,7 @@
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Fernando Gómez-Acebo ",
       "Result": "16th Place",
       "AnchorUri": "https://www.moxfield.com/decks/vEH-5t9sx0mEs3tra0LsPQ",
@@ -1601,10 +1601,6 @@
         {
           "Count": 2,
           "CardName": "Mountain"
-        },
-        {
-          "Count": 2,
-          "CardName": "Highway Robbery"
         },
         {
           "Count": 4,
@@ -1617,6 +1613,10 @@
         {
           "Count": 4,
           "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rakdos Carnarium"
         },
         {
           "Count": 4,
@@ -1651,20 +1651,20 @@
           "CardName": "Vampire's Kiss"
         },
         {
+          "Count": 3,
+          "CardName": "Demand Answers"
+        },
+        {
           "Count": 4,
           "CardName": "Jagged Barrens"
         },
         {
+          "Count": 2,
+          "CardName": "Highway Robbery"
+        },
+        {
           "Count": 4,
           "CardName": "Sneaky Snacker"
-        },
-        {
-          "Count": 1,
-          "CardName": "Rakdos Carnarium"
-        },
-        {
-          "Count": 3,
-          "CardName": "Demand Answers"
         }
       ],
       "Sideboard": [
@@ -1695,7 +1695,7 @@
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Sam Ye",
       "Result": "17th Place",
       "AnchorUri": "https://www.moxfield.com/decks/NEVRmZxNk0eJMYg32FHlSA",
@@ -1705,44 +1705,16 @@
           "CardName": "Galvanic Blast"
         },
         {
-          "Count": 4,
-          "CardName": "Ichor Wellspring"
-        },
-        {
-          "Count": 4,
-          "CardName": "Myr Enforcer"
-        },
-        {
-          "Count": 4,
-          "CardName": "Drossforge Bridge"
-        },
-        {
-          "Count": 4,
-          "CardName": "Mistvault Bridge"
-        },
-        {
-          "Count": 4,
-          "CardName": "Reckoner's Bargain"
-        },
-        {
-          "Count": 4,
-          "CardName": "Refurbished Familiar"
-        },
-        {
           "Count": 1,
           "CardName": "Metallic Rebuke"
         },
         {
-          "Count": 1,
-          "CardName": "Makeshift Munitions"
-        },
-        {
-          "Count": 1,
-          "CardName": "Swamp"
-        },
-        {
           "Count": 2,
           "CardName": "Cast Down"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ichor Wellspring"
         },
         {
           "Count": 2,
@@ -1753,16 +1725,56 @@
           "CardName": "Krark-Clan Shaman"
         },
         {
+          "Count": 4,
+          "CardName": "Myr Enforcer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seat of the Synod"
+        },
+        {
           "Count": 2,
           "CardName": "Thoughtcast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Vault of Whispers"
+        },
+        {
+          "Count": 1,
+          "CardName": "Makeshift Munitions"
+        },
+        {
+          "Count": 4,
+          "CardName": "Drossforge Bridge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mistvault Bridge"
         },
         {
           "Count": 2,
           "CardName": "Silverbluff Bridge"
         },
         {
+          "Count": 3,
+          "CardName": "Blood Fountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Reckoner's Bargain"
+        },
+        {
           "Count": 2,
           "CardName": "Kenku Artificer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deadly Dispute"
         },
         {
           "Count": 2,
@@ -1773,20 +1785,8 @@
           "CardName": "Candy Trail"
         },
         {
-          "Count": 3,
-          "CardName": "Seat of the Synod"
-        },
-        {
-          "Count": 3,
-          "CardName": "Vault of Whispers"
-        },
-        {
-          "Count": 3,
-          "CardName": "Blood Fountain"
-        },
-        {
           "Count": 4,
-          "CardName": "Deadly Dispute"
+          "CardName": "Refurbished Familiar"
         }
       ],
       "Sideboard": [
@@ -1799,29 +1799,29 @@
           "CardName": "Blue Elemental Blast"
         },
         {
-          "Count": 3,
-          "CardName": "Gorilla Shaman"
-        },
-        {
           "Count": 2,
           "CardName": "Negate"
-        },
-        {
-          "Count": 2,
-          "CardName": "Toxin Analysis"
         },
         {
           "Count": 1,
           "CardName": "Krark-Clan Shaman"
         },
         {
+          "Count": 3,
+          "CardName": "Gorilla Shaman"
+        },
+        {
           "Count": 1,
           "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Toxin Analysis"
         }
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Danila",
       "Result": "18th Place",
       "AnchorUri": "https://www.moxfield.com/decks/jbdC8-oP20W-dHzAux1Awg",
@@ -1926,7 +1926,7 @@
         },
         {
           "Count": 2,
-          "CardName": "Tithing Blade // Consuming Sepulcher"
+          "CardName": "Tithing Blade"
         },
         {
           "Count": 1,
@@ -1943,7 +1943,7 @@
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Bram Deppenbroek",
       "Result": "19th Place",
       "AnchorUri": "https://www.moxfield.com/decks/E4QQg6J9Z0GuHPdGEpHlGg",
@@ -1969,8 +1969,16 @@
           "CardName": "Lightning Bolt"
         },
         {
+          "Count": 1,
+          "CardName": "Seal of Fire"
+        },
+        {
           "Count": 4,
           "CardName": "Goblin Bushwhacker"
+        },
+        {
+          "Count": 2,
+          "CardName": "Reckless Impulse"
         },
         {
           "Count": 4,
@@ -1981,8 +1989,16 @@
           "CardName": "Experimental Synthesizer"
         },
         {
+          "Count": 3,
+          "CardName": "Goblin Blast-Runner"
+        },
+        {
           "Count": 4,
           "CardName": "Chain Lightning"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fireblast"
         },
         {
           "Count": 4,
@@ -1991,22 +2007,6 @@
         {
           "Count": 4,
           "CardName": "Goblin Tomb Raider"
-        },
-        {
-          "Count": 1,
-          "CardName": "Seal of Fire"
-        },
-        {
-          "Count": 1,
-          "CardName": "Fireblast"
-        },
-        {
-          "Count": 2,
-          "CardName": "Reckless Impulse"
-        },
-        {
-          "Count": 3,
-          "CardName": "Goblin Blast-Runner"
         }
       ],
       "Sideboard": [
@@ -2023,29 +2023,29 @@
           "CardName": "Smash to Smithereens"
         },
         {
-          "Count": 2,
-          "CardName": "End the Festivities"
-        },
-        {
-          "Count": 2,
-          "CardName": "Cast into the Fire"
-        },
-        {
           "Count": 1,
           "CardName": "Electrickery"
+        },
+        {
+          "Count": 3,
+          "CardName": "Raze"
         },
         {
           "Count": 1,
           "CardName": "Gorilla Shaman"
         },
         {
-          "Count": 3,
-          "CardName": "Raze"
+          "Count": 2,
+          "CardName": "End the Festivities"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cast into the Fire"
         }
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Stefan Vlijm",
       "Result": "20th Place",
       "AnchorUri": "https://www.moxfield.com/decks/86jvEcfh5kmO2Z9U1S12TA",
@@ -2057,18 +2057,6 @@
         {
           "Count": 2,
           "CardName": "Mountain"
-        },
-        {
-          "Count": 2,
-          "CardName": "Demand Answers"
-        },
-        {
-          "Count": 2,
-          "CardName": "Highway Robbery"
-        },
-        {
-          "Count": 2,
-          "CardName": "Sazacap's Brew"
         },
         {
           "Count": 4,
@@ -2111,16 +2099,28 @@
           "CardName": "Voldaren Epicure"
         },
         {
+          "Count": 3,
+          "CardName": "Vampire's Kiss"
+        },
+        {
+          "Count": 2,
+          "CardName": "Demand Answers"
+        },
+        {
           "Count": 4,
           "CardName": "Jagged Barrens"
+        },
+        {
+          "Count": 2,
+          "CardName": "Highway Robbery"
         },
         {
           "Count": 4,
           "CardName": "Sneaky Snacker"
         },
         {
-          "Count": 3,
-          "CardName": "Vampire's Kiss"
+          "Count": 2,
+          "CardName": "Sazacap's Brew"
         }
       ],
       "Sideboard": [
@@ -2133,14 +2133,6 @@
           "CardName": "Nihil Spellbomb"
         },
         {
-          "Count": 2,
-          "CardName": "Gorilla Shaman"
-        },
-        {
-          "Count": 2,
-          "CardName": "Tithing Blade // Consuming Sepulcher"
-        },
-        {
           "Count": 3,
           "CardName": "Trespasser's Curse"
         },
@@ -2149,13 +2141,21 @@
           "CardName": "Smash to Smithereens"
         },
         {
+          "Count": 2,
+          "CardName": "Gorilla Shaman"
+        },
+        {
           "Count": 1,
           "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tithing Blade"
         }
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Leo Rodrigo Heran Balbuena",
       "Result": "21th Place",
       "AnchorUri": "https://www.moxfield.com/decks/K_TbFbp27E-rnm-n142Rtg",
@@ -2268,7 +2268,7 @@
         },
         {
           "Count": 2,
-          "CardName": "Tithing Blade // Consuming Sepulcher"
+          "CardName": "Tithing Blade"
         },
         {
           "Count": 1,
@@ -2277,7 +2277,7 @@
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Raaayyyyyyyyyy",
       "Result": "22th Place",
       "AnchorUri": "https://www.moxfield.com/decks/pjuO0hqhQ0eGAmhO3n4K5Q",
@@ -2287,24 +2287,8 @@
           "CardName": "Acorn Harvest"
         },
         {
-          "Count": 3,
-          "CardName": "Exhume"
-        },
-        {
-          "Count": 3,
-          "CardName": "Gnaw to the Bone"
-        },
-        {
-          "Count": 3,
-          "CardName": "Blanchwood Prowler"
-        },
-        {
           "Count": 6,
           "CardName": "Forest"
-        },
-        {
-          "Count": 6,
-          "CardName": "Swamp"
         },
         {
           "Count": 4,
@@ -2315,12 +2299,44 @@
           "CardName": "Dread Return"
         },
         {
+          "Count": 3,
+          "CardName": "Exhume"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mire Triton"
+        },
+        {
           "Count": 4,
           "CardName": "Stinkweed Imp"
         },
         {
+          "Count": 6,
+          "CardName": "Swamp"
+        },
+        {
           "Count": 4,
           "CardName": "Satyr Wayfinder"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gnaw to the Bone"
+        },
+        {
+          "Count": 1,
+          "CardName": "Geothermal Bog"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wooded Ridgeline"
+        },
+        {
+          "Count": 2,
+          "CardName": "Haunted Mire"
+        },
+        {
+          "Count": 3,
+          "CardName": "Blanchwood Prowler"
         },
         {
           "Count": 4,
@@ -2336,23 +2352,7 @@
         },
         {
           "Count": 2,
-          "CardName": "Mire Triton"
-        },
-        {
-          "Count": 2,
-          "CardName": "Haunted Mire"
-        },
-        {
-          "Count": 2,
           "CardName": "Rubblebelt Maverick"
-        },
-        {
-          "Count": 1,
-          "CardName": "Geothermal Bog"
-        },
-        {
-          "Count": 1,
-          "CardName": "Wooded Ridgeline"
         }
       ],
       "Sideboard": [
@@ -2361,25 +2361,25 @@
           "CardName": "Ancient Grudge"
         },
         {
-          "Count": 4,
-          "CardName": "Snuff Out"
-        },
-        {
           "Count": 3,
           "CardName": "Ray of Revelation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gnaw to the Bone"
         },
         {
           "Count": 3,
           "CardName": "Rotten Reunion"
         },
         {
-          "Count": 1,
-          "CardName": "Gnaw to the Bone"
+          "Count": 4,
+          "CardName": "Snuff Out"
         }
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Nicolas Bordenabe",
       "Result": "23th Place",
       "AnchorUri": "https://www.moxfield.com/decks/4B4jHeqo0Eq5uKK9xQyf5A",
@@ -2401,40 +2401,8 @@
           "CardName": "Lightning Bolt"
         },
         {
-          "Count": 4,
-          "CardName": "Volatile Fjord"
-        },
-        {
-          "Count": 4,
-          "CardName": "Ponder"
-        },
-        {
-          "Count": 4,
-          "CardName": "Tolarian Terror"
-        },
-        {
-          "Count": 4,
-          "CardName": "Lórien Revealed"
-        },
-        {
           "Count": 1,
           "CardName": "Azure Fleet Admiral"
-        },
-        {
-          "Count": 1,
-          "CardName": "Lose Focus"
-        },
-        {
-          "Count": 1,
-          "CardName": "Crimson Fleet Commodore"
-        },
-        {
-          "Count": 1,
-          "CardName": "Bountiful Landscape"
-        },
-        {
-          "Count": 1,
-          "CardName": "Perilous Landscape"
         },
         {
           "Count": 9,
@@ -2445,20 +2413,52 @@
           "CardName": "Snow-Covered Mountain"
         },
         {
+          "Count": 4,
+          "CardName": "Volatile Fjord"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ponder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lose Focus"
+        },
+        {
+          "Count": 2,
+          "CardName": "Breath Weapon"
+        },
+        {
           "Count": 3,
           "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tolarian Terror"
         },
         {
           "Count": 3,
           "CardName": "Preordain"
         },
         {
+          "Count": 4,
+          "CardName": "Lórien Revealed"
+        },
+        {
+          "Count": 1,
+          "CardName": "Crimson Fleet Commodore"
+        },
+        {
           "Count": 3,
           "CardName": "Murmuring Mystic"
         },
         {
-          "Count": 2,
-          "CardName": "Breath Weapon"
+          "Count": 1,
+          "CardName": "Bountiful Landscape"
+        },
+        {
+          "Count": 1,
+          "CardName": "Perilous Landscape"
         }
       ],
       "Sideboard": [
@@ -2475,25 +2475,25 @@
           "CardName": "Red Elemental Blast"
         },
         {
-          "Count": 1,
-          "CardName": "Breath Weapon"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cast into the Fire"
-        },
-        {
           "Count": 3,
           "CardName": "Gorilla Shaman"
         },
         {
           "Count": 3,
           "CardName": "Annul"
+        },
+        {
+          "Count": 1,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cast into the Fire"
         }
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Rob Lamers",
       "Result": "24th Place",
       "AnchorUri": "https://www.moxfield.com/decks/AEosXbSwbE2ZCGSaVICDOg",
@@ -2540,7 +2540,7 @@
         },
         {
           "Count": 3,
-          "CardName": "Lunarch Veteran // Luminous Phantom"
+          "CardName": "Lunarch Veteran"
         },
         {
           "Count": 3,
@@ -2587,7 +2587,7 @@
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Gino De Guzman",
       "Result": "25th Place",
       "AnchorUri": "https://www.moxfield.com/decks/6VGeYeHG2UC_jlSn3Yl4-A",
@@ -2595,14 +2595,6 @@
         {
           "Count": 1,
           "CardName": "Mountain"
-        },
-        {
-          "Count": 1,
-          "CardName": "Rakdos Carnarium"
-        },
-        {
-          "Count": 1,
-          "CardName": "Bojuka Bog"
         },
         {
           "Count": 4,
@@ -2615,6 +2607,10 @@
         {
           "Count": 4,
           "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rakdos Carnarium"
         },
         {
           "Count": 4,
@@ -2649,20 +2645,24 @@
           "CardName": "Vampire's Kiss"
         },
         {
+          "Count": 3,
+          "CardName": "Demand Answers"
+        },
+        {
           "Count": 4,
           "CardName": "Jagged Barrens"
+        },
+        {
+          "Count": 2,
+          "CardName": "Highway Robbery"
         },
         {
           "Count": 4,
           "CardName": "Sneaky Snacker"
         },
         {
-          "Count": 3,
-          "CardName": "Demand Answers"
-        },
-        {
-          "Count": 2,
-          "CardName": "Highway Robbery"
+          "Count": 1,
+          "CardName": "Bojuka Bog"
         }
       ],
       "Sideboard": [
@@ -2693,7 +2693,7 @@
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Francesco Bernardi",
       "Result": "26th Place",
       "AnchorUri": "https://www.moxfield.com/decks/IeIlnA1SVkmizm0y52USkA",
@@ -2703,8 +2703,24 @@
           "CardName": "Swamp"
         },
         {
+          "Count": 3,
+          "CardName": "Forest"
+        },
+        {
           "Count": 2,
           "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Chromatic Star"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sadistic Glee"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rancor"
         },
         {
           "Count": 2,
@@ -2713,38 +2729,6 @@
         {
           "Count": 2,
           "CardName": "Haunted Cloak"
-        },
-        {
-          "Count": 2,
-          "CardName": "Burning-Tree Emissary"
-        },
-        {
-          "Count": 2,
-          "CardName": "Snakeskin Veil"
-        },
-        {
-          "Count": 2,
-          "CardName": "Evolution Witness"
-        },
-        {
-          "Count": 2,
-          "CardName": "Molten Gatekeeper"
-        },
-        {
-          "Count": 3,
-          "CardName": "Forest"
-        },
-        {
-          "Count": 3,
-          "CardName": "Chromatic Star"
-        },
-        {
-          "Count": 3,
-          "CardName": "Lembas"
-        },
-        {
-          "Count": 4,
-          "CardName": "Sadistic Glee"
         },
         {
           "Count": 4,
@@ -2759,8 +2743,24 @@
           "CardName": "Slagwoods Bridge"
         },
         {
+          "Count": 1,
+          "CardName": "Tamiyo's Safekeeping"
+        },
+        {
           "Count": 4,
           "CardName": "Deadly Dispute"
+        },
+        {
+          "Count": 2,
+          "CardName": "Burning-Tree Emissary"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lembas"
+        },
+        {
+          "Count": 2,
+          "CardName": "Snakeskin Veil"
         },
         {
           "Count": 4,
@@ -2771,20 +2771,20 @@
           "CardName": "Basking Broodscale"
         },
         {
-          "Count": 4,
-          "CardName": "Malevolent Rumble"
-        },
-        {
-          "Count": 1,
-          "CardName": "Rancor"
-        },
-        {
-          "Count": 1,
-          "CardName": "Tamiyo's Safekeeping"
+          "Count": 2,
+          "CardName": "Evolution Witness"
         },
         {
           "Count": 1,
           "CardName": "Twisted Landscape"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 2,
+          "CardName": "Molten Gatekeeper"
         }
       ],
       "Sideboard": [
@@ -2819,7 +2819,7 @@
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Ettore Cerracchio",
       "Result": "27th Place",
       "AnchorUri": "https://www.moxfield.com/decks/cMZbHv1INkifwFUEEFRtGg",
@@ -2841,6 +2841,10 @@
           "CardName": "Kuldotha Rebirth"
         },
         {
+          "Count": 3,
+          "CardName": "Goblin Grenade"
+        },
+        {
           "Count": 4,
           "CardName": "Chain Lightning"
         },
@@ -2851,6 +2855,10 @@
         {
           "Count": 4,
           "CardName": "Great Furnace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Reckless Impulse"
         },
         {
           "Count": 4,
@@ -2865,20 +2873,12 @@
           "CardName": "Goblin Blast-Runner"
         },
         {
-          "Count": 4,
-          "CardName": "Goblin Tomb Raider"
-        },
-        {
-          "Count": 3,
-          "CardName": "Goblin Grenade"
-        },
-        {
-          "Count": 2,
-          "CardName": "Reckless Impulse"
-        },
-        {
           "Count": 1,
           "CardName": "Fireblast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Tomb Raider"
         }
       ],
       "Sideboard": [
@@ -2901,7 +2901,7 @@
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Tobias van Kersbergen",
       "Result": "28th Place",
       "AnchorUri": "https://www.moxfield.com/decks/Ls6lFcCLQUOo21du49nEuQ",
@@ -2911,12 +2911,40 @@
           "CardName": "Kor Skyfisher"
         },
         {
+          "Count": 1,
+          "CardName": "Okiba-Gang Shinobi"
+        },
+        {
           "Count": 4,
           "CardName": "Glint Hawk"
         },
         {
+          "Count": 1,
+          "CardName": "Suffocating Fumes"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vault of Whispers"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ancient Den"
+        },
+        {
+          "Count": 2,
+          "CardName": "Swamp"
+        },
+        {
           "Count": 4,
           "CardName": "Cast Down"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dawnbringer Cleric"
+        },
+        {
+          "Count": 3,
+          "CardName": "Inspiring Overseer"
         },
         {
           "Count": 4,
@@ -2931,60 +2959,32 @@
           "CardName": "Thraben Inspector"
         },
         {
+          "Count": 2,
+          "CardName": "Orzhov Basilica"
+        },
+        {
           "Count": 4,
-          "CardName": "Tithing Blade // Consuming Sepulcher"
+          "CardName": "Tithing Blade"
         },
         {
           "Count": 4,
           "CardName": "Novice Inspector"
         },
         {
-          "Count": 4,
-          "CardName": "Refurbished Familiar"
-        },
-        {
-          "Count": 1,
-          "CardName": "Okiba-Gang Shinobi"
-        },
-        {
-          "Count": 1,
-          "CardName": "Suffocating Fumes"
-        },
-        {
-          "Count": 1,
-          "CardName": "Dawnbringer Cleric"
-        },
-        {
-          "Count": 2,
-          "CardName": "Vault of Whispers"
-        },
-        {
-          "Count": 2,
-          "CardName": "Swamp"
-        },
-        {
-          "Count": 2,
-          "CardName": "Orzhov Basilica"
-        },
-        {
           "Count": 2,
           "CardName": "Thraben Charm"
         },
         {
-          "Count": 2,
-          "CardName": "Bojuka Bog"
-        },
-        {
-          "Count": 3,
-          "CardName": "Ancient Den"
-        },
-        {
-          "Count": 3,
-          "CardName": "Inspiring Overseer"
-        },
-        {
           "Count": 5,
           "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Refurbished Familiar"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bojuka Bog"
         }
       ],
       "Sideboard": [
@@ -2997,20 +2997,20 @@
           "CardName": "Suffocating Fumes"
         },
         {
+          "Count": 3,
+          "CardName": "Revoke Existence"
+        },
+        {
           "Count": 1,
           "CardName": "Navigator's Compass"
         },
         {
+          "Count": 2,
+          "CardName": "Mukotai Ambusher"
+        },
+        {
           "Count": 1,
           "CardName": "Arms of Hadar"
-        },
-        {
-          "Count": 1,
-          "CardName": "Thraben Charm"
-        },
-        {
-          "Count": 3,
-          "CardName": "Revoke Existence"
         },
         {
           "Count": 3,
@@ -3018,16 +3018,16 @@
         },
         {
           "Count": 2,
-          "CardName": "Mukotai Ambusher"
+          "CardName": "Duress"
         },
         {
-          "Count": 2,
-          "CardName": "Duress"
+          "Count": 1,
+          "CardName": "Thraben Charm"
         }
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Martijn Siemes",
       "Result": "29th Place",
       "AnchorUri": "https://www.moxfield.com/decks/HY3RzXp2D0mK_gUA916GVw",
@@ -3045,56 +3045,36 @@
           "CardName": "Duress"
         },
         {
-          "Count": 1,
-          "CardName": "Ichor Wellspring"
-        },
-        {
-          "Count": 1,
-          "CardName": "Blood Fountain"
-        },
-        {
-          "Count": 1,
-          "CardName": "Snuff Out"
-        },
-        {
-          "Count": 1,
-          "CardName": "Haunted Mire"
-        },
-        {
           "Count": 4,
           "CardName": "Khalni Garden"
-        },
-        {
-          "Count": 4,
-          "CardName": "Defile"
-        },
-        {
-          "Count": 4,
-          "CardName": "Cast Down"
-        },
-        {
-          "Count": 4,
-          "CardName": "Lembas"
-        },
-        {
-          "Count": 4,
-          "CardName": "Fanatical Offering"
-        },
-        {
-          "Count": 4,
-          "CardName": "Tithing Blade // Consuming Sepulcher"
-        },
-        {
-          "Count": 4,
-          "CardName": "Deadly Dispute"
         },
         {
           "Count": 3,
           "CardName": "Crypt Rats"
         },
         {
+          "Count": 4,
+          "CardName": "Defile"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spinning Darkness"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ichor Wellspring"
+        },
+        {
           "Count": 3,
           "CardName": "Thorn of the Black Rose"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blood Fountain"
         },
         {
           "Count": 3,
@@ -3105,8 +3085,28 @@
           "CardName": "Troll of Khazad-dûm"
         },
         {
-          "Count": 2,
-          "CardName": "Spinning Darkness"
+          "Count": 4,
+          "CardName": "Lembas"
+        },
+        {
+          "Count": 1,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fanatical Offering"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tithing Blade"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deadly Dispute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Haunted Mire"
         }
       ],
       "Sideboard": [
@@ -3133,7 +3133,7 @@
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Arne Klarenberg",
       "Result": "30th Place",
       "AnchorUri": "https://www.moxfield.com/decks/nOyxLpFHB0mEVhLMggmvKg",
@@ -3143,40 +3143,8 @@
           "CardName": "Swamp"
         },
         {
-          "Count": 1,
-          "CardName": "Metallic Rebuke"
-        },
-        {
-          "Count": 1,
-          "CardName": "Makeshift Munitions"
-        },
-        {
           "Count": 4,
           "CardName": "Galvanic Blast"
-        },
-        {
-          "Count": 4,
-          "CardName": "Myr Enforcer"
-        },
-        {
-          "Count": 4,
-          "CardName": "Ichor Wellspring"
-        },
-        {
-          "Count": 4,
-          "CardName": "Mistvault Bridge"
-        },
-        {
-          "Count": 4,
-          "CardName": "Reckoner's Bargain"
-        },
-        {
-          "Count": 4,
-          "CardName": "Refurbished Familiar"
-        },
-        {
-          "Count": 4,
-          "CardName": "Deadly Dispute"
         },
         {
           "Count": 2,
@@ -3187,8 +3155,24 @@
           "CardName": "Thoughtcast"
         },
         {
+          "Count": 4,
+          "CardName": "Myr Enforcer"
+        },
+        {
           "Count": 2,
           "CardName": "Cast Down"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ichor Wellspring"
+        },
+        {
+          "Count": 1,
+          "CardName": "Metallic Rebuke"
+        },
+        {
+          "Count": 1,
+          "CardName": "Makeshift Munitions"
         },
         {
           "Count": 2,
@@ -3199,20 +3183,16 @@
           "CardName": "Krark-Clan Shaman"
         },
         {
-          "Count": 2,
-          "CardName": "Kenku Artificer"
-        },
-        {
-          "Count": 2,
-          "CardName": "Candy Trail"
-        },
-        {
           "Count": 3,
           "CardName": "Vault of Whispers"
         },
         {
           "Count": 3,
           "CardName": "Drossforge Bridge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mistvault Bridge"
         },
         {
           "Count": 3,
@@ -3223,22 +3203,34 @@
           "CardName": "Blood Fountain"
         },
         {
+          "Count": 4,
+          "CardName": "Reckoner's Bargain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Kenku Artificer"
+        },
+        {
           "Count": 3,
           "CardName": "Seat of the Synod"
+        },
+        {
+          "Count": 2,
+          "CardName": "Candy Trail"
+        },
+        {
+          "Count": 4,
+          "CardName": "Refurbished Familiar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deadly Dispute"
         }
       ],
       "Sideboard": [
         {
           "Count": 1,
           "CardName": "Hydroblast"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cast Down"
-        },
-        {
-          "Count": 1,
-          "CardName": "Breath Weapon"
         },
         {
           "Count": 4,
@@ -3249,13 +3241,21 @@
           "CardName": "Red Elemental Blast"
         },
         {
+          "Count": 1,
+          "CardName": "Cast Down"
+        },
+        {
           "Count": 4,
           "CardName": "Gorilla Shaman"
+        },
+        {
+          "Count": 1,
+          "CardName": "Breath Weapon"
         }
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Mirco Bonati",
       "Result": "31th Place",
       "AnchorUri": "https://www.moxfield.com/decks/Ly-WI8QsikqTmzF13Dm5pw",
@@ -3267,34 +3267,6 @@
         {
           "Count": 4,
           "CardName": "Counterspell"
-        },
-        {
-          "Count": 4,
-          "CardName": "Brainstorm"
-        },
-        {
-          "Count": 4,
-          "CardName": "The Modern Age // Vector Glider"
-        },
-        {
-          "Count": 4,
-          "CardName": "Tolarian Terror"
-        },
-        {
-          "Count": 4,
-          "CardName": "Contaminated Aquifer"
-        },
-        {
-          "Count": 4,
-          "CardName": "Lórien Revealed"
-        },
-        {
-          "Count": 4,
-          "CardName": "Snuff Out"
-        },
-        {
-          "Count": 4,
-          "CardName": "Sneaky Snacker"
         },
         {
           "Count": 11,
@@ -3309,34 +3281,54 @@
           "CardName": "Unexpected Fangs"
         },
         {
-          "Count": 2,
-          "CardName": "Deep Analysis"
+          "Count": 4,
+          "CardName": "Brainstorm"
         },
         {
           "Count": 3,
           "CardName": "Mental Note"
         },
         {
+          "Count": 1,
+          "CardName": "Ice Tunnel"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Modern Age"
+        },
+        {
           "Count": 3,
           "CardName": "Spell Pierce"
         },
         {
-          "Count": 1,
-          "CardName": "Ice Tunnel"
+          "Count": 4,
+          "CardName": "Tolarian Terror"
+        },
+        {
+          "Count": 4,
+          "CardName": "Contaminated Aquifer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lórien Revealed"
+        },
+        {
+          "Count": 4,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 2,
+          "CardName": "Deep Analysis"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sneaky Snacker"
         }
       ],
       "Sideboard": [
         {
           "Count": 2,
           "CardName": "Agony Warp"
-        },
-        {
-          "Count": 2,
-          "CardName": "Nihil Spellbomb"
-        },
-        {
-          "Count": 2,
-          "CardName": "Murmuring Mystic"
         },
         {
           "Count": 4,
@@ -3349,11 +3341,19 @@
         {
           "Count": 1,
           "CardName": "Unexpected Fangs"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Murmuring Mystic"
         }
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Thomas Gates",
       "Result": "32th Place",
       "AnchorUri": "https://www.moxfield.com/decks/EAphxBngEk6V87QJaTds8g",
@@ -3367,12 +3367,48 @@
           "CardName": "Agony Warp"
         },
         {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Deep Analysis"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thought Scour"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gurmag Angler"
+        },
+        {
           "Count": 1,
           "CardName": "Murmuring Mystic"
         },
         {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 2,
+          "CardName": "Preordain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cast Down"
+        },
+        {
           "Count": 1,
           "CardName": "Unexpected Fangs"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mental Note"
         },
         {
           "Count": 1,
@@ -3381,22 +3417,6 @@
         {
           "Count": 1,
           "CardName": "Ice Tunnel"
-        },
-        {
-          "Count": 4,
-          "CardName": "Counterspell"
-        },
-        {
-          "Count": 4,
-          "CardName": "Thought Scour"
-        },
-        {
-          "Count": 4,
-          "CardName": "Brainstorm"
-        },
-        {
-          "Count": 4,
-          "CardName": "Mental Note"
         },
         {
           "Count": 4,
@@ -3417,26 +3437,6 @@
         {
           "Count": 4,
           "CardName": "Sneaky Snacker"
-        },
-        {
-          "Count": 2,
-          "CardName": "Deep Analysis"
-        },
-        {
-          "Count": 2,
-          "CardName": "Gurmag Angler"
-        },
-        {
-          "Count": 2,
-          "CardName": "Spell Pierce"
-        },
-        {
-          "Count": 2,
-          "CardName": "Preordain"
-        },
-        {
-          "Count": 2,
-          "CardName": "Cast Down"
         }
       ],
       "Sideboard": [
@@ -3461,17 +3461,17 @@
           "CardName": "Unexpected Fangs"
         },
         {
-          "Count": 2,
-          "CardName": "Extract a Confession"
-        },
-        {
           "Count": 3,
           "CardName": "Annul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Extract a Confession"
         }
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Julius Siemes",
       "Result": "33th Place",
       "AnchorUri": "https://www.moxfield.com/decks/8Betft116EOKM0oO0iZsdA",
@@ -3489,12 +3489,36 @@
           "CardName": "Myr Enforcer"
         },
         {
+          "Count": 1,
+          "CardName": "Terrarion"
+        },
+        {
           "Count": 4,
           "CardName": "Galvanic Blast"
         },
         {
           "Count": 4,
           "CardName": "Vault of Whispers"
+        },
+        {
+          "Count": 1,
+          "CardName": "Krark-Clan Shaman"
+        },
+        {
+          "Count": 2,
+          "CardName": "Drossforge Bridge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mistvault Bridge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Silverbluff Bridge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Blood Fountain"
         },
         {
           "Count": 4,
@@ -3505,56 +3529,32 @@
           "CardName": "Thoughtcast"
         },
         {
+          "Count": 2,
+          "CardName": "Kenku Artificer"
+        },
+        {
           "Count": 4,
           "CardName": "Ichor Wellspring"
         },
         {
-          "Count": 4,
-          "CardName": "Seat of the Synod"
-        },
-        {
-          "Count": 4,
-          "CardName": "Deadly Dispute"
-        },
-        {
-          "Count": 1,
-          "CardName": "Terrarion"
-        },
-        {
-          "Count": 1,
-          "CardName": "Krark-Clan Shaman"
-        },
-        {
-          "Count": 1,
-          "CardName": "Wizard's Rockets"
-        },
-        {
-          "Count": 2,
-          "CardName": "Drossforge Bridge"
-        },
-        {
-          "Count": 2,
-          "CardName": "Silverbluff Bridge"
-        },
-        {
-          "Count": 2,
-          "CardName": "Kenku Artificer"
+          "Count": 3,
+          "CardName": "Chromatic Star"
         },
         {
           "Count": 2,
           "CardName": "Gearseeker Serpent"
         },
         {
-          "Count": 3,
-          "CardName": "Mistvault Bridge"
+          "Count": 4,
+          "CardName": "Seat of the Synod"
         },
         {
-          "Count": 3,
-          "CardName": "Blood Fountain"
+          "Count": 1,
+          "CardName": "Wizard's Rockets"
         },
         {
-          "Count": 3,
-          "CardName": "Chromatic Star"
+          "Count": 4,
+          "CardName": "Deadly Dispute"
         }
       ],
       "Sideboard": [
@@ -3569,6 +3569,10 @@
         {
           "Count": 1,
           "CardName": "Metallic Rebuke"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gorilla Shaman"
         },
         {
           "Count": 1,
@@ -3592,16 +3596,12 @@
         },
         {
           "Count": 1,
-          "CardName": "Tithing Blade // Consuming Sepulcher"
-        },
-        {
-          "Count": 2,
-          "CardName": "Gorilla Shaman"
+          "CardName": "Tithing Blade"
         }
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Andrey Petukhov",
       "Result": "34th Place",
       "AnchorUri": "https://www.moxfield.com/decks/eAQ8qkDmuEejYV_zGmWg3w",
@@ -3613,6 +3613,14 @@
         {
           "Count": 4,
           "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 3,
+          "CardName": "Murmuring Mystic"
+        },
+        {
+          "Count": 3,
+          "CardName": "Spell Pierce"
         },
         {
           "Count": 4,
@@ -3627,34 +3635,6 @@
           "CardName": "Brainstorm"
         },
         {
-          "Count": 4,
-          "CardName": "Volatile Fjord"
-        },
-        {
-          "Count": 4,
-          "CardName": "Ponder"
-        },
-        {
-          "Count": 4,
-          "CardName": "Tolarian Terror"
-        },
-        {
-          "Count": 4,
-          "CardName": "Lórien Revealed"
-        },
-        {
-          "Count": 3,
-          "CardName": "Murmuring Mystic"
-        },
-        {
-          "Count": 3,
-          "CardName": "Spell Pierce"
-        },
-        {
-          "Count": 3,
-          "CardName": "Snow-Covered Mountain"
-        },
-        {
           "Count": 1,
           "CardName": "Azure Fleet Admiral"
         },
@@ -3663,16 +3643,36 @@
           "CardName": "Crimson Fleet Commodore"
         },
         {
+          "Count": 9,
+          "CardName": "Snow-Covered Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Volatile Fjord"
+        },
+        {
+          "Count": 3,
+          "CardName": "Snow-Covered Mountain"
+        },
+        {
           "Count": 1,
           "CardName": "Lose Focus"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ponder"
         },
         {
           "Count": 1,
           "CardName": "Breath Weapon"
         },
         {
-          "Count": 9,
-          "CardName": "Snow-Covered Island"
+          "Count": 4,
+          "CardName": "Tolarian Terror"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lórien Revealed"
         },
         {
           "Count": 2,
@@ -3697,17 +3697,17 @@
           "CardName": "Breath Weapon"
         },
         {
-          "Count": 1,
-          "CardName": "Fanged Flames"
-        },
-        {
           "Count": 2,
           "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fanged Flames"
         }
       ]
     },
     {
-      "Date": "2024-08-03T10:00:00+00:00",
+      "Date": "2024-08-03T08:00:00+00:00",
       "Player": "Lucas Feliciano",
       "Result": "35th Place",
       "AnchorUri": "https://www.moxfield.com/decks/7lMzOZcfyEKofSIfuEcPEQ",
@@ -3717,40 +3717,8 @@
           "CardName": "Sadistic Glee"
         },
         {
-          "Count": 4,
-          "CardName": "Forest"
-        },
-        {
-          "Count": 4,
-          "CardName": "Deadly Dispute"
-        },
-        {
-          "Count": 4,
-          "CardName": "Ichor Wellspring"
-        },
-        {
-          "Count": 4,
-          "CardName": "Rubblebelt Maverick"
-        },
-        {
-          "Count": 4,
-          "CardName": "Basking Broodscale"
-        },
-        {
-          "Count": 4,
-          "CardName": "Twisted Landscape"
-        },
-        {
-          "Count": 4,
-          "CardName": "Malevolent Rumble"
-        },
-        {
           "Count": 3,
           "CardName": "Unearth"
-        },
-        {
-          "Count": 3,
-          "CardName": "Accursed Marauder"
         },
         {
           "Count": 2,
@@ -3761,6 +3729,14 @@
           "CardName": "Duress"
         },
         {
+          "Count": 4,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 5,
+          "CardName": "Swamp"
+        },
+        {
           "Count": 2,
           "CardName": "Tree of Tales"
         },
@@ -3769,8 +3745,28 @@
           "CardName": "Darkmoss Bridge"
         },
         {
+          "Count": 4,
+          "CardName": "Deadly Dispute"
+        },
+        {
           "Count": 2,
           "CardName": "Haunted Mire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ichor Wellspring"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fanatical Offering"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rubblebelt Maverick"
+        },
+        {
+          "Count": 4,
+          "CardName": "Basking Broodscale"
         },
         {
           "Count": 2,
@@ -3781,16 +3777,20 @@
           "CardName": "Eviscerator's Insight"
         },
         {
+          "Count": 4,
+          "CardName": "Twisted Landscape"
+        },
+        {
+          "Count": 3,
+          "CardName": "Accursed Marauder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
           "Count": 2,
           "CardName": "Nadier's Nightblade"
-        },
-        {
-          "Count": 5,
-          "CardName": "Swamp"
-        },
-        {
-          "Count": 1,
-          "CardName": "Fanatical Offering"
         }
       ],
       "Sideboard": [
@@ -3803,16 +3803,16 @@
           "CardName": "Life Goes On"
         },
         {
+          "Count": 4,
+          "CardName": "Snuff Out"
+        },
+        {
           "Count": 3,
           "CardName": "Drown in Sorrow"
         },
         {
           "Count": 3,
           "CardName": "Snakeskin Veil"
-        },
-        {
-          "Count": 4,
-          "CardName": "Snuff Out"
         }
       ]
     }

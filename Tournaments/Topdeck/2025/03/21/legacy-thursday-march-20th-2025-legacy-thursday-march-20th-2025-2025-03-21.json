@@ -94,7 +94,7 @@
         },
         {
           "Count": 4,
-          "CardName": "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar"
+          "CardName": "Tamiyo, Inquisitive Student"
         },
         {
           "Count": 4,
@@ -248,7 +248,7 @@
         },
         {
           "Count": 1,
-          "CardName": "Boggart Trawler // Boggart Bog"
+          "CardName": "Boggart Trawler"
         },
         {
           "Count": 1,
@@ -298,19 +298,19 @@
       "Mainboard": [
         {
           "Count": 1,
-          "CardName": "Plains"
-        },
-        {
-          "Count": 1,
           "CardName": "Mountain"
         },
         {
           "Count": 1,
-          "CardName": "Fury"
+          "CardName": "Plains"
         },
         {
           "Count": 1,
           "CardName": "Karakas"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fury"
         },
         {
           "Count": 4,
@@ -318,11 +318,7 @@
         },
         {
           "Count": 4,
-          "CardName": "City of Traitors"
-        },
-        {
-          "Count": 4,
-          "CardName": "Ancient Tomb"
+          "CardName": "Chrome Mox"
         },
         {
           "Count": 4,
@@ -330,7 +326,7 @@
         },
         {
           "Count": 4,
-          "CardName": "Chrome Mox"
+          "CardName": "Ancient Tomb"
         },
         {
           "Count": 4,
@@ -338,7 +334,7 @@
         },
         {
           "Count": 4,
-          "CardName": "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki"
+          "CardName": "Fable of the Mirror-Breaker"
         },
         {
           "Count": 4,
@@ -351,6 +347,10 @@
         {
           "Count": 4,
           "CardName": "Broadside Bombardiers"
+        },
+        {
+          "Count": 4,
+          "CardName": "City of Traitors"
         },
         {
           "Count": 3,
@@ -380,7 +380,11 @@
       "Sideboard": [
         {
           "Count": 2,
-          "CardName": "Containment Priest"
+          "CardName": "Magus of the Moon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Disruptor Flute"
         },
         {
           "Count": 2,
@@ -388,23 +392,19 @@
         },
         {
           "Count": 2,
-          "CardName": "Magus of the Moon"
-        },
-        {
-          "Count": 2,
           "CardName": "Rest in Peace"
         },
         {
           "Count": 2,
-          "CardName": "Disruptor Flute"
-        },
-        {
-          "Count": 1,
-          "CardName": "Swords to Plowshares"
+          "CardName": "Containment Priest"
         },
         {
           "Count": 1,
           "CardName": "Fury"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swords to Plowshares"
         },
         {
           "Count": 3,
@@ -436,22 +436,6 @@
         },
         {
           "Count": 1,
-          "CardName": "Daze"
-        },
-        {
-          "Count": 1,
-          "CardName": "Spoils of the Vault"
-        },
-        {
-          "Count": 1,
-          "CardName": "Lion's Eye Diamond"
-        },
-        {
-          "Count": 1,
-          "CardName": "Duress"
-        },
-        {
-          "Count": 1,
           "CardName": "Island"
         },
         {
@@ -476,11 +460,27 @@
         },
         {
           "Count": 1,
+          "CardName": "Daze"
+        },
+        {
+          "Count": 1,
           "CardName": "Undercity Sewers"
         },
         {
           "Count": 1,
           "CardName": "Consider"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spoils of the Vault"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lion's Eye Diamond"
+        },
+        {
+          "Count": 1,
+          "CardName": "Duress"
         },
         {
           "Count": 4,
@@ -507,8 +507,16 @@
           "CardName": "Ponder"
         },
         {
+          "Count": 4,
+          "CardName": "Force of Will"
+        },
+        {
           "Count": 3,
           "CardName": "Lotus Petal"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cabal Ritual"
         },
         {
           "Count": 3,
@@ -517,14 +525,6 @@
         {
           "Count": 3,
           "CardName": "Personal Tutor"
-        },
-        {
-          "Count": 4,
-          "CardName": "Force of Will"
-        },
-        {
-          "Count": 3,
-          "CardName": "Cabal Ritual"
         }
       ],
       "Sideboard": [
@@ -577,16 +577,24 @@
           "CardName": "Great Furnace"
         },
         {
-          "Count": 3,
-          "CardName": "Lightning Bolt"
-        },
-        {
           "Count": 2,
           "CardName": "Lotus Petal"
         },
         {
           "Count": 2,
           "CardName": "City of Traitors"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fury"
+        },
+        {
+          "Count": 2,
+          "CardName": "Grindstone"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lightning Bolt"
         },
         {
           "Count": 3,
@@ -597,36 +605,12 @@
           "CardName": "Pyroblast"
         },
         {
-          "Count": 1,
-          "CardName": "Soul-Guide Lantern"
-        },
-        {
-          "Count": 4,
-          "CardName": "Painter's Servant"
-        },
-        {
-          "Count": 4,
-          "CardName": "Ancient Tomb"
-        },
-        {
-          "Count": 4,
-          "CardName": "Goblin Engineer"
-        },
-        {
           "Count": 3,
           "CardName": "Simian Spirit Guide"
         },
         {
-          "Count": 4,
-          "CardName": "Urza's Saga"
-        },
-        {
-          "Count": 2,
-          "CardName": "Fury"
-        },
-        {
-          "Count": 4,
-          "CardName": "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki"
+          "Count": 1,
+          "CardName": "Soul-Guide Lantern"
         },
         {
           "Count": 1,
@@ -641,20 +625,36 @@
           "CardName": "Lavaspur Boots"
         },
         {
-          "Count": 2,
-          "CardName": "Grindstone"
-        },
-        {
-          "Count": 4,
-          "CardName": "Goblin Welder"
-        },
-        {
           "Count": 1,
           "CardName": "Arena of Glory"
         },
         {
           "Count": 1,
           "CardName": "Ensnaring Bridge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Painter's Servant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ancient Tomb"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Engineer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Saga"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fable of the Mirror-Breaker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Welder"
         }
       ],
       "Sideboard": [
@@ -675,12 +675,12 @@
           "CardName": "Fury"
         },
         {
-          "Count": 1,
-          "CardName": "Pithing Needle"
-        },
-        {
           "Count": 2,
           "CardName": "Thorn of Amethyst"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pithing Needle"
         },
         {
           "Count": 4,
@@ -696,7 +696,7 @@
       "Mainboard": [
         {
           "Count": 2,
-          "CardName": "Brazen Borrower // Petty Theft"
+          "CardName": "Brazen Borrower"
         },
         {
           "Count": 2,
@@ -760,7 +760,7 @@
         },
         {
           "Count": 4,
-          "CardName": "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar"
+          "CardName": "Tamiyo, Inquisitive Student"
         },
         {
           "Count": 4,
@@ -1003,24 +1003,16 @@
           "CardName": "Crop Rotation"
         },
         {
+          "Count": 3,
+          "CardName": "Liliana of the Veil"
+        },
+        {
+          "Count": 3,
+          "CardName": "Urza's Saga"
+        },
+        {
           "Count": 4,
           "CardName": "Wasteland"
-        },
-        {
-          "Count": 2,
-          "CardName": "Urborg, Tomb of Yawgmoth"
-        },
-        {
-          "Count": 2,
-          "CardName": "Life from the Loam"
-        },
-        {
-          "Count": 1,
-          "CardName": "Nurturing Peatland"
-        },
-        {
-          "Count": 2,
-          "CardName": "Bayou"
         },
         {
           "Count": 4,
@@ -1035,12 +1027,48 @@
           "CardName": "Hymn to Tourach"
         },
         {
-          "Count": 1,
-          "CardName": "Witherbloom Command"
+          "Count": 4,
+          "CardName": "Smallpox"
         },
         {
           "Count": 4,
-          "CardName": "Smallpox"
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 2,
+          "CardName": "Urborg, Tomb of Yawgmoth"
+        },
+        {
+          "Count": 2,
+          "CardName": "Life from the Loam"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bayou"
+        },
+        {
+          "Count": 2,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Orcish Bowmasters"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Karn, the Great Creator"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nurturing Peatland"
+        },
+        {
+          "Count": 1,
+          "CardName": "Witherbloom Command"
         },
         {
           "Count": 1,
@@ -1051,20 +1079,8 @@
           "CardName": "Currency Converter"
         },
         {
-          "Count": 3,
-          "CardName": "Liliana of the Veil"
-        },
-        {
-          "Count": 2,
-          "CardName": "Swamp"
-        },
-        {
           "Count": 1,
           "CardName": "Forest"
-        },
-        {
-          "Count": 2,
-          "CardName": "Orcish Bowmasters"
         },
         {
           "Count": 1,
@@ -1079,14 +1095,6 @@
           "CardName": "Underground Mortuary"
         },
         {
-          "Count": 2,
-          "CardName": "Bloodstained Mire"
-        },
-        {
-          "Count": 4,
-          "CardName": "Thoughtseize"
-        },
-        {
           "Count": 1,
           "CardName": "Thespian's Stage"
         },
@@ -1097,14 +1105,6 @@
         {
           "Count": 1,
           "CardName": "Dark Depths"
-        },
-        {
-          "Count": 2,
-          "CardName": "Karn, the Great Creator"
-        },
-        {
-          "Count": 3,
-          "CardName": "Urza's Saga"
         },
         {
           "Count": 1,
@@ -1121,20 +1121,20 @@
           "CardName": "Helm of Obedience"
         },
         {
-          "Count": 4,
-          "CardName": "Witherbloom Apprentice"
-        },
-        {
-          "Count": 4,
-          "CardName": "Chain of Smog"
-        },
-        {
           "Count": 1,
           "CardName": "Liquimetal Coating"
         },
         {
           "Count": 1,
           "CardName": "Ensnaring Bridge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Witherbloom Apprentice"
+        },
+        {
+          "Count": 4,
+          "CardName": "Chain of Smog"
         },
         {
           "Count": 4,
@@ -1222,7 +1222,7 @@
         },
         {
           "Count": 4,
-          "CardName": "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki"
+          "CardName": "Fable of the Mirror-Breaker"
         },
         {
           "Count": 4,
@@ -1352,7 +1352,7 @@
         },
         {
           "Count": 3,
-          "CardName": "Sink into Stupor // Soporific Springs"
+          "CardName": "Sink into Stupor"
         },
         {
           "Count": 9,

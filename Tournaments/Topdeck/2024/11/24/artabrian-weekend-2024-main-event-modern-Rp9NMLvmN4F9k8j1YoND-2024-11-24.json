@@ -17,40 +17,80 @@
           "CardName": "Island"
         },
         {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 3,
+          "CardName": "Preordain"
+        },
+        {
           "Count": 2,
           "CardName": "Spell Snare"
         },
         {
-          "Count": 2,
-          "CardName": "Undercity Sewers"
+          "Count": 4,
+          "CardName": "Thought Scour"
         },
         {
-          "Count": 2,
-          "CardName": "Sink into Stupor // Soporific Springs"
-        },
-        {
-          "Count": 2,
-          "CardName": "Kiora, the Rising Tide"
-        },
-        {
-          "Count": 1,
-          "CardName": "Swamp"
+          "Count": 3,
+          "CardName": "Watery Grave"
         },
         {
           "Count": 1,
           "CardName": "Scalding Tarn"
         },
         {
+          "Count": 4,
+          "CardName": "Unearth"
+        },
+        {
           "Count": 1,
           "CardName": "Misty Rainforest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 3,
+          "CardName": "Orcish Bowmasters"
         },
         {
           "Count": 1,
           "CardName": "Bitter Triumph"
         },
         {
+          "Count": 2,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 4,
+          "CardName": "Psychic Frog"
+        },
+        {
           "Count": 1,
           "CardName": "Harbinger of the Seas"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sink into Stupor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fatal Push"
         },
         {
           "Count": 1,
@@ -62,51 +102,11 @@
         },
         {
           "Count": 4,
-          "CardName": "Counterspell"
-        },
-        {
-          "Count": 4,
-          "CardName": "Thought Scour"
-        },
-        {
-          "Count": 4,
-          "CardName": "Unearth"
-        },
-        {
-          "Count": 4,
-          "CardName": "Polluted Delta"
-        },
-        {
-          "Count": 4,
-          "CardName": "Psychic Frog"
-        },
-        {
-          "Count": 4,
-          "CardName": "Fatal Push"
-        },
-        {
-          "Count": 4,
           "CardName": "Abhorrent Oculus"
         },
         {
-          "Count": 3,
-          "CardName": "Preordain"
-        },
-        {
-          "Count": 3,
-          "CardName": "Watery Grave"
-        },
-        {
-          "Count": 3,
-          "CardName": "Force of Negation"
-        },
-        {
-          "Count": 3,
-          "CardName": "Orcish Bowmasters"
-        },
-        {
-          "Count": 3,
-          "CardName": "Flooded Strand"
+          "Count": 2,
+          "CardName": "Kiora, the Rising Tide"
         }
       ],
       "Sideboard": [
@@ -116,15 +116,7 @@
         },
         {
           "Count": 2,
-          "CardName": "Graveyard Trespasser // Graveyard Glutton"
-        },
-        {
-          "Count": 2,
-          "CardName": "Surgical Extraction"
-        },
-        {
-          "Count": 2,
-          "CardName": "Harbinger of the Seas"
+          "CardName": "Graveyard Trespasser"
         },
         {
           "Count": 1,
@@ -133,6 +125,14 @@
         {
           "Count": 3,
           "CardName": "Stern Scolding"
+        },
+        {
+          "Count": 2,
+          "CardName": "Surgical Extraction"
+        },
+        {
+          "Count": 2,
+          "CardName": "Harbinger of the Seas"
         },
         {
           "Count": 3,
@@ -151,10 +151,6 @@
           "CardName": "Mountain"
         },
         {
-          "Count": 1,
-          "CardName": "Marsh Flats"
-        },
-        {
           "Count": 2,
           "CardName": "Plains"
         },
@@ -167,40 +163,12 @@
           "CardName": "Goblin Bombardment"
         },
         {
-          "Count": 2,
-          "CardName": "Flooded Strand"
-        },
-        {
-          "Count": 2,
-          "CardName": "Windswept Heath"
-        },
-        {
-          "Count": 2,
-          "CardName": "Ragavan, Nimble Pilferer"
-        },
-        {
-          "Count": 2,
-          "CardName": "Elegant Parlor"
-        },
-        {
-          "Count": 2,
-          "CardName": "Thraben Charm"
-        },
-        {
-          "Count": 2,
-          "CardName": "Galvanic Discharge"
-        },
-        {
-          "Count": 2,
-          "CardName": "Arena of Glory"
-        },
-        {
           "Count": 3,
           "CardName": "Lightning Bolt"
         },
         {
-          "Count": 3,
-          "CardName": "Static Prison"
+          "Count": 2,
+          "CardName": "Flooded Strand"
         },
         {
           "Count": 4,
@@ -211,12 +179,32 @@
           "CardName": "Arid Mesa"
         },
         {
+          "Count": 1,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 2,
+          "CardName": "Windswept Heath"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ragavan, Nimble Pilferer"
+        },
+        {
           "Count": 4,
           "CardName": "The One Ring"
         },
         {
+          "Count": 2,
+          "CardName": "Elegant Parlor"
+        },
+        {
           "Count": 4,
-          "CardName": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger"
+          "CardName": "Ajani, Nacatl Pariah"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thraben Charm"
         },
         {
           "Count": 4,
@@ -227,18 +215,38 @@
           "CardName": "Amped Raptor"
         },
         {
+          "Count": 2,
+          "CardName": "Galvanic Discharge"
+        },
+        {
           "Count": 4,
           "CardName": "Guide of Souls"
         },
         {
+          "Count": 3,
+          "CardName": "Static Prison"
+        },
+        {
           "Count": 4,
           "CardName": "Ocelot Pride"
+        },
+        {
+          "Count": 2,
+          "CardName": "Arena of Glory"
         }
       ],
       "Sideboard": [
         {
           "Count": 2,
           "CardName": "Exorcise"
+        },
+        {
+          "Count": 1,
+          "CardName": "Disruptor Flute"
+        },
+        {
+          "Count": 4,
+          "CardName": "White Orchid Phantom"
         },
         {
           "Count": 2,
@@ -249,14 +257,6 @@
           "CardName": "Orim's Chant"
         },
         {
-          "Count": 2,
-          "CardName": "Suncleanser"
-        },
-        {
-          "Count": 1,
-          "CardName": "Disruptor Flute"
-        },
-        {
           "Count": 1,
           "CardName": "Drannith Magistrate"
         },
@@ -265,8 +265,8 @@
           "CardName": "Jegantha, the Wellspring"
         },
         {
-          "Count": 4,
-          "CardName": "White Orchid Phantom"
+          "Count": 2,
+          "CardName": "Suncleanser"
         }
       ]
     },
@@ -281,8 +281,16 @@
           "CardName": "Mountain"
         },
         {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
           "Count": 1,
           "CardName": "Goblin Bombardment"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lightning Bolt"
         },
         {
           "Count": 1,
@@ -290,35 +298,7 @@
         },
         {
           "Count": 2,
-          "CardName": "Plains"
-        },
-        {
-          "Count": 2,
           "CardName": "Sacred Foundry"
-        },
-        {
-          "Count": 2,
-          "CardName": "Arena of Glory"
-        },
-        {
-          "Count": 3,
-          "CardName": "Lightning Bolt"
-        },
-        {
-          "Count": 3,
-          "CardName": "The One Ring"
-        },
-        {
-          "Count": 3,
-          "CardName": "Elegant Parlor"
-        },
-        {
-          "Count": 3,
-          "CardName": "Galvanic Discharge"
-        },
-        {
-          "Count": 3,
-          "CardName": "Static Prison"
         },
         {
           "Count": 4,
@@ -333,8 +313,16 @@
           "CardName": "Ragavan, Nimble Pilferer"
         },
         {
+          "Count": 3,
+          "CardName": "The One Ring"
+        },
+        {
+          "Count": 3,
+          "CardName": "Elegant Parlor"
+        },
+        {
           "Count": 4,
-          "CardName": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger"
+          "CardName": "Ajani, Nacatl Pariah"
         },
         {
           "Count": 4,
@@ -345,6 +333,10 @@
           "CardName": "Amped Raptor"
         },
         {
+          "Count": 3,
+          "CardName": "Galvanic Discharge"
+        },
+        {
           "Count": 4,
           "CardName": "Guide of Souls"
         },
@@ -353,8 +345,16 @@
           "CardName": "Phlage, Titan of Fire's Fury"
         },
         {
+          "Count": 3,
+          "CardName": "Static Prison"
+        },
+        {
           "Count": 4,
           "CardName": "Ocelot Pride"
+        },
+        {
+          "Count": 2,
+          "CardName": "Arena of Glory"
         }
       ],
       "Sideboard": [
@@ -363,16 +363,16 @@
           "CardName": "Deafening Silence"
         },
         {
+          "Count": 1,
+          "CardName": "Suncleanser"
+        },
+        {
           "Count": 2,
           "CardName": "Damping Sphere"
         },
         {
-          "Count": 2,
-          "CardName": "Thraben Charm"
-        },
-        {
-          "Count": 1,
-          "CardName": "Suncleanser"
+          "Count": 4,
+          "CardName": "Obsidian Charmaw"
         },
         {
           "Count": 1,
@@ -387,12 +387,12 @@
           "CardName": "Surgical Extraction"
         },
         {
-          "Count": 1,
-          "CardName": "Exorcise"
+          "Count": 2,
+          "CardName": "Thraben Charm"
         },
         {
-          "Count": 4,
-          "CardName": "Obsidian Charmaw"
+          "Count": 1,
+          "CardName": "Exorcise"
         }
       ]
     },
@@ -409,6 +409,14 @@
         {
           "Count": 1,
           "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tribal Flames"
         },
         {
           "Count": 1,
@@ -431,24 +439,8 @@
           "CardName": "Indatha Triome"
         },
         {
-          "Count": 1,
-          "CardName": "Orcish Bowmasters"
-        },
-        {
-          "Count": 1,
-          "CardName": "Thundering Falls"
-        },
-        {
-          "Count": 1,
-          "CardName": "Arena of Glory"
-        },
-        {
-          "Count": 4,
-          "CardName": "Lightning Bolt"
-        },
-        {
-          "Count": 4,
-          "CardName": "Tribal Flames"
+          "Count": 3,
+          "CardName": "Stubborn Denial"
         },
         {
           "Count": 4,
@@ -465,6 +457,14 @@
         {
           "Count": 4,
           "CardName": "Scion of Draco"
+        },
+        {
+          "Count": 1,
+          "CardName": "Orcish Bowmasters"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thundering Falls"
         },
         {
           "Count": 4,
@@ -488,11 +488,11 @@
         },
         {
           "Count": 3,
-          "CardName": "Stubborn Denial"
+          "CardName": "Phlage, Titan of Fire's Fury"
         },
         {
-          "Count": 3,
-          "CardName": "Phlage, Titan of Fire's Fury"
+          "Count": 1,
+          "CardName": "Arena of Glory"
         }
       ],
       "Sideboard": [
@@ -509,14 +509,6 @@
           "CardName": "Suncleanser"
         },
         {
-          "Count": 1,
-          "CardName": "Unlicensed Hearse"
-        },
-        {
-          "Count": 1,
-          "CardName": "Ghost Vacuum"
-        },
-        {
           "Count": 2,
           "CardName": "Wear // Tear"
         },
@@ -529,8 +521,16 @@
           "CardName": "Damping Sphere"
         },
         {
+          "Count": 1,
+          "CardName": "Unlicensed Hearse"
+        },
+        {
           "Count": 2,
           "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
         },
         {
           "Count": 2,
@@ -557,6 +557,10 @@
           "CardName": "Mishra's Bauble"
         },
         {
+          "Count": 1,
+          "CardName": "Stomping Ground"
+        },
+        {
           "Count": 4,
           "CardName": "Scalding Tarn"
         },
@@ -567,6 +571,10 @@
         {
           "Count": 4,
           "CardName": "Mutagenic Growth"
+        },
+        {
+          "Count": 2,
+          "CardName": "Underworld Breach"
         },
         {
           "Count": 4,
@@ -581,6 +589,10 @@
           "CardName": "Dragon's Rage Channeler"
         },
         {
+          "Count": 1,
+          "CardName": "Commercial District"
+        },
+        {
           "Count": 4,
           "CardName": "Slickshot Show-Off"
         },
@@ -593,24 +605,12 @@
           "CardName": "Amped Raptor"
         },
         {
-          "Count": 4,
-          "CardName": "Galvanic Discharge"
-        },
-        {
-          "Count": 1,
-          "CardName": "Stomping Ground"
-        },
-        {
-          "Count": 1,
-          "CardName": "Commercial District"
-        },
-        {
           "Count": 1,
           "CardName": "Barbarian Ring"
         },
         {
-          "Count": 2,
-          "CardName": "Underworld Breach"
+          "Count": 4,
+          "CardName": "Galvanic Discharge"
         }
       ],
       "Sideboard": [
@@ -619,12 +619,24 @@
           "CardName": "Tormod's Crypt"
         },
         {
+          "Count": 1,
+          "CardName": "Jegantha, the Wellspring"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fable of the Mirror-Breaker"
+        },
+        {
           "Count": 2,
           "CardName": "Fear, Fire, Foes!"
         },
         {
           "Count": 2,
-          "CardName": "Questing Druid // Seek the Beast"
+          "CardName": "Questing Druid"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pick Your Poison"
         },
         {
           "Count": 2,
@@ -633,18 +645,6 @@
         {
           "Count": 2,
           "CardName": "Disruptor Flute"
-        },
-        {
-          "Count": 1,
-          "CardName": "Jegantha, the Wellspring"
-        },
-        {
-          "Count": 1,
-          "CardName": "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki"
-        },
-        {
-          "Count": 3,
-          "CardName": "Pick Your Poison"
         }
       ]
     },
@@ -659,16 +659,16 @@
           "CardName": "Counterspell"
         },
         {
-          "Count": 4,
-          "CardName": "Flame of Anor"
-        },
-        {
-          "Count": 4,
-          "CardName": "Galvanic Discharge"
-        },
-        {
           "Count": 2,
           "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 3,
+          "CardName": "Preordain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Pierce"
         },
         {
           "Count": 2,
@@ -679,56 +679,12 @@
           "CardName": "Spell Snare"
         },
         {
-          "Count": 2,
-          "CardName": "Scalding Tarn"
-        },
-        {
-          "Count": 2,
-          "CardName": "Force of Negation"
-        },
-        {
-          "Count": 2,
-          "CardName": "Murktide Regent"
-        },
-        {
-          "Count": 2,
-          "CardName": "Thundering Falls"
-        },
-        {
-          "Count": 2,
-          "CardName": "Flare of Denial"
-        },
-        {
-          "Count": 2,
-          "CardName": "Sink into Stupor // Soporific Springs"
-        },
-        {
-          "Count": 3,
-          "CardName": "Preordain"
-        },
-        {
           "Count": 3,
           "CardName": "Snapcaster Mage"
         },
         {
           "Count": 3,
           "CardName": "Steam Vents"
-        },
-        {
-          "Count": 3,
-          "CardName": "Polluted Delta"
-        },
-        {
-          "Count": 3,
-          "CardName": "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar"
-        },
-        {
-          "Count": 3,
-          "CardName": "Island"
-        },
-        {
-          "Count": 1,
-          "CardName": "Spell Pierce"
         },
         {
           "Count": 1,
@@ -739,6 +695,22 @@
           "CardName": "Misty Rainforest"
         },
         {
+          "Count": 2,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 3,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Murktide Regent"
+        },
+        {
           "Count": 1,
           "CardName": "Hall of Storm Giants"
         },
@@ -747,20 +719,48 @@
           "CardName": "Otawara, Soaring City"
         },
         {
+          "Count": 4,
+          "CardName": "Flame of Anor"
+        },
+        {
           "Count": 1,
           "CardName": "Tishana's Tidebinder"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thundering Falls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flare of Denial"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tamiyo, Inquisitive Student"
+        },
+        {
+          "Count": 2,
+          "CardName": "Harbinger of the Seas"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sink into Stupor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Discharge"
         },
         {
           "Count": 1,
           "CardName": "Invert Polarity"
         },
         {
-          "Count": 1,
-          "CardName": "Mountain"
+          "Count": 3,
+          "CardName": "Island"
         },
         {
-          "Count": 2,
-          "CardName": "Harbinger of the Seas"
+          "Count": 1,
+          "CardName": "Mountain"
         },
         {
           "Count": 3,
@@ -777,20 +777,12 @@
           "CardName": "Mystical Dispute"
         },
         {
-          "Count": 1,
-          "CardName": "Brotherhood's End"
-        },
-        {
-          "Count": 1,
-          "CardName": "Jace, the Mind Sculptor"
-        },
-        {
-          "Count": 1,
-          "CardName": "Blood Moon"
-        },
-        {
           "Count": 4,
           "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Brotherhood's End"
         },
         {
           "Count": 2,
@@ -803,6 +795,14 @@
         {
           "Count": 2,
           "CardName": "Surgical Extraction"
+        },
+        {
+          "Count": 1,
+          "CardName": "Jace, the Mind Sculptor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blood Moon"
         }
       ]
     },
@@ -821,44 +821,12 @@
           "CardName": "Counterspell"
         },
         {
-          "Count": 4,
-          "CardName": "Preordain"
-        },
-        {
-          "Count": 4,
-          "CardName": "Snapcaster Mage"
-        },
-        {
-          "Count": 4,
-          "CardName": "Subtlety"
-        },
-        {
-          "Count": 4,
-          "CardName": "Flame of Anor"
-        },
-        {
-          "Count": 4,
-          "CardName": "Spirebluff Canal"
-        },
-        {
-          "Count": 4,
-          "CardName": "Archmage's Charm"
-        },
-        {
-          "Count": 4,
-          "CardName": "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar"
-        },
-        {
-          "Count": 4,
-          "CardName": "Galvanic Discharge"
-        },
-        {
           "Count": 3,
           "CardName": "Lightning Bolt"
         },
         {
-          "Count": 3,
-          "CardName": "Force of Negation"
+          "Count": 4,
+          "CardName": "Preordain"
         },
         {
           "Count": 2,
@@ -869,8 +837,28 @@
           "CardName": "Scalding Tarn"
         },
         {
+          "Count": 4,
+          "CardName": "Snapcaster Mage"
+        },
+        {
           "Count": 2,
           "CardName": "Misty Rainforest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Subtlety"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 3,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flame of Anor"
         },
         {
           "Count": 2,
@@ -886,29 +874,29 @@
         },
         {
           "Count": 1,
-          "CardName": "Otawara, Soaring City"
+          "CardName": "Polluted Delta"
         },
         {
-          "Count": 1,
-          "CardName": "Polluted Delta"
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Archmage's Charm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tamiyo, Inquisitive Student"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Discharge"
         }
       ],
       "Sideboard": [
         {
           "Count": 1,
           "CardName": "Mystical Dispute"
-        },
-        {
-          "Count": 1,
-          "CardName": "Murktide Regent"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cast into the Fire"
-        },
-        {
-          "Count": 1,
-          "CardName": "Unlicensed Hearse"
         },
         {
           "Count": 3,
@@ -921,6 +909,18 @@
         {
           "Count": 2,
           "CardName": "Kozilek's Return"
+        },
+        {
+          "Count": 1,
+          "CardName": "Murktide Regent"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Unlicensed Hearse"
         },
         {
           "Count": 4,
@@ -940,11 +940,11 @@
         },
         {
           "Count": 4,
-          "CardName": "Ruby Medallion"
+          "CardName": "Desperate Ritual"
         },
         {
           "Count": 4,
-          "CardName": "Desperate Ritual"
+          "CardName": "Pyretic Ritual"
         },
         {
           "Count": 4,
@@ -952,7 +952,7 @@
         },
         {
           "Count": 4,
-          "CardName": "Pyretic Ritual"
+          "CardName": "Ruby Medallion"
         },
         {
           "Count": 4,
@@ -964,15 +964,15 @@
         },
         {
           "Count": 4,
-          "CardName": "Ral, Monsoon Mage // Ral, Leyline Prodigy"
+          "CardName": "Ral, Monsoon Mage"
         },
         {
-          "Count": 3,
-          "CardName": "Bloodstained Mire"
+          "Count": 1,
+          "CardName": "Sunbaked Canyon"
         },
         {
-          "Count": 3,
-          "CardName": "Arid Mesa"
+          "Count": 1,
+          "CardName": "Artist's Talent"
         },
         {
           "Count": 3,
@@ -980,15 +980,15 @@
         },
         {
           "Count": 3,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 3,
           "CardName": "Wish"
         },
         {
-          "Count": 2,
-          "CardName": "Sacred Foundry"
-        },
-        {
-          "Count": 2,
-          "CardName": "Wooded Foothills"
+          "Count": 3,
+          "CardName": "Bloodstained Mire"
         },
         {
           "Count": 2,
@@ -996,7 +996,15 @@
         },
         {
           "Count": 2,
-          "CardName": "Valakut Awakening // Valakut Stoneforge"
+          "CardName": "Wooded Foothills"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 2,
+          "CardName": "Valakut Awakening"
         },
         {
           "Count": 2,
@@ -1009,36 +1017,12 @@
         {
           "Count": 2,
           "CardName": "Glimpse the Impossible"
-        },
-        {
-          "Count": 1,
-          "CardName": "Sunbaked Canyon"
-        },
-        {
-          "Count": 1,
-          "CardName": "Artist's Talent"
         }
       ],
       "Sideboard": [
         {
           "Count": 1,
-          "CardName": "Alchemist's Gambit"
-        },
-        {
-          "Count": 1,
-          "CardName": "Mine Collapse"
-        },
-        {
-          "Count": 1,
-          "CardName": "Underworld Breach"
-        },
-        {
-          "Count": 1,
-          "CardName": "Grapeshot"
-        },
-        {
-          "Count": 1,
-          "CardName": "Empty the Warrens"
+          "CardName": "Pact of Negation"
         },
         {
           "Count": 1,
@@ -1046,15 +1030,31 @@
         },
         {
           "Count": 1,
-          "CardName": "Pact of Negation"
+          "CardName": "Underworld Breach"
         },
         {
-          "Count": 4,
-          "CardName": "March of Otherworldly Light"
+          "Count": 1,
+          "CardName": "Empty the Warrens"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grapeshot"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mine Collapse"
+        },
+        {
+          "Count": 1,
+          "CardName": "Alchemist's Gambit"
         },
         {
           "Count": 4,
           "CardName": "Silence"
+        },
+        {
+          "Count": 4,
+          "CardName": "March of Otherworldly Light"
         }
       ]
     },
@@ -1130,7 +1130,7 @@
         },
         {
           "Count": 2,
-          "CardName": "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar"
+          "CardName": "Tamiyo, Inquisitive Student"
         },
         {
           "Count": 2,
@@ -1215,16 +1215,36 @@
           "CardName": "Mountain"
         },
         {
-          "Count": 1,
-          "CardName": "Blood Moon"
-        },
-        {
           "Count": 3,
           "CardName": "Plains"
         },
         {
+          "Count": 2,
+          "CardName": "Aether Hub"
+        },
+        {
+          "Count": 2,
+          "CardName": "Goblin Bombardment"
+        },
+        {
           "Count": 3,
           "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blood Moon"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 4,
+          "CardName": "Marsh Flats"
         },
         {
           "Count": 3,
@@ -1236,43 +1256,19 @@
         },
         {
           "Count": 2,
-          "CardName": "Aether Hub"
-        },
-        {
-          "Count": 2,
-          "CardName": "Goblin Bombardment"
-        },
-        {
-          "Count": 2,
           "CardName": "Elegant Parlor"
         },
         {
-          "Count": 2,
-          "CardName": "Galvanic Discharge"
-        },
-        {
-          "Count": 2,
-          "CardName": "Arena of Glory"
-        },
-        {
           "Count": 4,
-          "CardName": "Sacred Foundry"
-        },
-        {
-          "Count": 4,
-          "CardName": "Arid Mesa"
-        },
-        {
-          "Count": 4,
-          "CardName": "Marsh Flats"
-        },
-        {
-          "Count": 4,
-          "CardName": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger"
+          "CardName": "Ajani, Nacatl Pariah"
         },
         {
           "Count": 4,
           "CardName": "Amped Raptor"
+        },
+        {
+          "Count": 2,
+          "CardName": "Galvanic Discharge"
         },
         {
           "Count": 4,
@@ -1289,24 +1285,16 @@
         {
           "Count": 4,
           "CardName": "Ocelot Pride"
+        },
+        {
+          "Count": 2,
+          "CardName": "Arena of Glory"
         }
       ],
       "Sideboard": [
         {
           "Count": 1,
           "CardName": "Jegantha, the Wellspring"
-        },
-        {
-          "Count": 1,
-          "CardName": "Surgical Extraction"
-        },
-        {
-          "Count": 1,
-          "CardName": "Thraben Charm"
-        },
-        {
-          "Count": 1,
-          "CardName": "Exorcise"
         },
         {
           "Count": 2,
@@ -1321,12 +1309,158 @@
           "CardName": "Magebane Lizard"
         },
         {
+          "Count": 1,
+          "CardName": "Surgical Extraction"
+        },
+        {
           "Count": 2,
           "CardName": "Orim's Chant"
         },
         {
+          "Count": 1,
+          "CardName": "Thraben Charm"
+        },
+        {
           "Count": 3,
           "CardName": "White Orchid Phantom"
+        },
+        {
+          "Count": 1,
+          "CardName": "Exorcise"
+        }
+      ]
+    },
+    {
+      "Date": "2024-11-24T09:00:00+00:00",
+      "Player": "Miguel Casanova Cespo",
+      "Result": "12th Place",
+      "AnchorUri": "https://www.moxfield.com/decks/NmnrGpHsiECTsv0tGm_ANA",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 4,
+          "CardName": "Snapcaster Mage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 2,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 2,
+          "CardName": "Archmage's Charm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Expressive Iteration"
+        },
+        {
+          "Count": 2,
+          "CardName": "Subtlety"
+        },
+        {
+          "Count": 4,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hall of Storm Giants"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thundering Falls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tamiyo, Inquisitive Student"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tune the Narrative"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sink into Stupor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Discharge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Invert Polarity"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flame of Anor"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Tishana's Tidebinder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Invert Polarity"
+        },
+        {
+          "Count": 3,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stern Scolding"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stone of Erech"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blood Moon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyroclasm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Surgical Extraction"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dress Down"
         }
       ]
     },
@@ -1337,20 +1471,8 @@
       "AnchorUri": "https://www.moxfield.com/decks/jb2bs7Fh6kyiqFyqhSiUNQ",
       "Mainboard": [
         {
-          "Count": 4,
-          "CardName": "Lord of Atlantis"
-        },
-        {
-          "Count": 4,
-          "CardName": "Silvergill Adept"
-        },
-        {
-          "Count": 4,
-          "CardName": "Tide Shaper"
-        },
-        {
-          "Count": 4,
-          "CardName": "Harbinger of the Seas"
+          "Count": 2,
+          "CardName": "Cavern of Souls"
         },
         {
           "Count": 4,
@@ -1358,7 +1480,11 @@
         },
         {
           "Count": 4,
-          "CardName": "Sink into Stupor // Soporific Springs"
+          "CardName": "Mutavault"
+        },
+        {
+          "Count": 3,
+          "CardName": "Force of Negation"
         },
         {
           "Count": 4,
@@ -1366,39 +1492,23 @@
         },
         {
           "Count": 2,
-          "CardName": "Cavern of Souls"
-        },
-        {
-          "Count": 2,
-          "CardName": "Glasspool Mimic // Glasspool Shore"
-        },
-        {
-          "Count": 2,
-          "CardName": "Svyelun of Sea and Sky"
-        },
-        {
-          "Count": 3,
-          "CardName": "Flare of Denial"
-        },
-        {
-          "Count": 3,
-          "CardName": "Tishana's Tidebinder"
+          "CardName": "Glasspool Mimic"
         },
         {
           "Count": 3,
           "CardName": "Rishadan Dockhand"
         },
         {
-          "Count": 3,
-          "CardName": "Force of Negation"
+          "Count": 2,
+          "CardName": "Svyelun of Sea and Sky"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tide Shaper"
         },
         {
           "Count": 1,
           "CardName": "Otawara, Soaring City"
-        },
-        {
-          "Count": 1,
-          "CardName": "Minamo, School at Water's Edge"
         },
         {
           "Count": 8,
@@ -1406,17 +1516,45 @@
         },
         {
           "Count": 4,
-          "CardName": "Mutavault"
+          "CardName": "Silvergill Adept"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lord of Atlantis"
+        },
+        {
+          "Count": 1,
+          "CardName": "Minamo, School at Water's Edge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tishana's Tidebinder"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flare of Denial"
+        },
+        {
+          "Count": 4,
+          "CardName": "Harbinger of the Seas"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sink into Stupor"
         }
       ],
       "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Consign to Memory"
+        },
         {
           "Count": 3,
           "CardName": "Floodpits Drowner"
         },
         {
           "Count": 3,
-          "CardName": "Consign to Memory"
+          "CardName": "Harbinger of the Tides"
         },
         {
           "Count": 3,
@@ -1425,10 +1563,6 @@
         {
           "Count": 3,
           "CardName": "Stern Scolding"
-        },
-        {
-          "Count": 3,
-          "CardName": "Harbinger of the Tides"
         }
       ]
     },
@@ -1443,48 +1577,16 @@
           "CardName": "Island"
         },
         {
-          "Count": 2,
-          "CardName": "Force of Negation"
-        },
-        {
-          "Count": 2,
-          "CardName": "Graveyard Trespasser // Graveyard Glutton"
-        },
-        {
-          "Count": 2,
-          "CardName": "Undercity Sewers"
-        },
-        {
-          "Count": 2,
-          "CardName": "Flooded Strand"
-        },
-        {
-          "Count": 2,
-          "CardName": "Bloodstained Mire"
-        },
-        {
-          "Count": 2,
-          "CardName": "Sink into Stupor // Soporific Springs"
-        },
-        {
           "Count": 1,
           "CardName": "Swamp"
         },
         {
-          "Count": 1,
-          "CardName": "Misty Rainforest"
-        },
-        {
-          "Count": 1,
-          "CardName": "Shoot the Sheriff"
-        },
-        {
-          "Count": 1,
-          "CardName": "Gloomlake Verge"
-        },
-        {
           "Count": 4,
           "CardName": "Counterspell"
+        },
+        {
+          "Count": 3,
+          "CardName": "Watery Grave"
         },
         {
           "Count": 4,
@@ -1495,12 +1597,36 @@
           "CardName": "Thought Scour"
         },
         {
+          "Count": 2,
+          "CardName": "Force of Negation"
+        },
+        {
           "Count": 4,
           "CardName": "Unearth"
         },
         {
+          "Count": 1,
+          "CardName": "Misty Rainforest"
+        },
+        {
           "Count": 4,
           "CardName": "Consider"
+        },
+        {
+          "Count": 2,
+          "CardName": "Graveyard Trespasser"
+        },
+        {
+          "Count": 3,
+          "CardName": "Orcish Bowmasters"
+        },
+        {
+          "Count": 2,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flooded Strand"
         },
         {
           "Count": 4,
@@ -1511,26 +1637,46 @@
           "CardName": "Psychic Frog"
         },
         {
+          "Count": 2,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shoot the Sheriff"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sink into Stupor"
+        },
+        {
           "Count": 4,
           "CardName": "Fatal Push"
         },
         {
+          "Count": 1,
+          "CardName": "Gloomlake Verge"
+        },
+        {
           "Count": 4,
           "CardName": "Abhorrent Oculus"
-        },
-        {
-          "Count": 3,
-          "CardName": "Watery Grave"
-        },
-        {
-          "Count": 3,
-          "CardName": "Orcish Bowmasters"
         }
       ],
       "Sideboard": [
         {
           "Count": 2,
           "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Graveyard Trespasser"
+        },
+        {
+          "Count": 1,
+          "CardName": "Glistening Deluge"
         },
         {
           "Count": 2,
@@ -1542,27 +1688,15 @@
         },
         {
           "Count": 1,
-          "CardName": "Force of Negation"
-        },
-        {
-          "Count": 1,
-          "CardName": "Graveyard Trespasser // Graveyard Glutton"
-        },
-        {
-          "Count": 1,
-          "CardName": "Glistening Deluge"
-        },
-        {
-          "Count": 1,
           "CardName": "Toxic Deluge"
-        },
-        {
-          "Count": 1,
-          "CardName": "Ghost Vacuum"
         },
         {
           "Count": 4,
           "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
         }
       ]
     },
@@ -1581,22 +1715,6 @@
           "CardName": "Shadowspear"
         },
         {
-          "Count": 1,
-          "CardName": "Soul-Guide Lantern"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cranial Plating"
-        },
-        {
-          "Count": 1,
-          "CardName": "Pithing Needle"
-        },
-        {
-          "Count": 1,
-          "CardName": "Lavaspur Boots"
-        },
-        {
           "Count": 2,
           "CardName": "Glass Casket"
         },
@@ -1609,10 +1727,6 @@
           "CardName": "Metallic Rebuke"
         },
         {
-          "Count": 3,
-          "CardName": "Seachrome Coast"
-        },
-        {
           "Count": 4,
           "CardName": "Mishra's Bauble"
         },
@@ -1623,6 +1737,14 @@
         {
           "Count": 4,
           "CardName": "Memnite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cranial Plating"
         },
         {
           "Count": 4,
@@ -1645,8 +1767,16 @@
           "CardName": "Thought Monitor"
         },
         {
+          "Count": 1,
+          "CardName": "Pithing Needle"
+        },
+        {
           "Count": 4,
           "CardName": "Spire of Industry"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seachrome Coast"
         },
         {
           "Count": 4,
@@ -1655,6 +1785,10 @@
         {
           "Count": 4,
           "CardName": "Kappa Cannoneer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lavaspur Boots"
         }
       ],
       "Sideboard": [
@@ -1663,28 +1797,28 @@
           "CardName": "Grafdigger's Cage"
         },
         {
-          "Count": 1,
-          "CardName": "Pithing Needle"
-        },
-        {
-          "Count": 1,
-          "CardName": "Haywire Mite"
-        },
-        {
           "Count": 3,
           "CardName": "Whipflare"
-        },
-        {
-          "Count": 3,
-          "CardName": "Consign to Memory"
         },
         {
           "Count": 2,
           "CardName": "Dovin's Veto"
         },
         {
+          "Count": 1,
+          "CardName": "Pithing Needle"
+        },
+        {
           "Count": 4,
           "CardName": "Damping Sphere"
+        },
+        {
+          "Count": 3,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Haywire Mite"
         }
       ]
     },
@@ -1699,8 +1833,24 @@
           "CardName": "Ephemerate"
         },
         {
+          "Count": 1,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hallowed Fountain"
+        },
+        {
           "Count": 4,
           "CardName": "Goryo's Vengeance"
+        },
+        {
+          "Count": 1,
+          "CardName": "Watery Grave"
+        },
+        {
+          "Count": 3,
+          "CardName": "Force of Negation"
         },
         {
           "Count": 4,
@@ -1711,8 +1861,24 @@
           "CardName": "Marsh Flats"
         },
         {
+          "Count": 2,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 1,
+          "CardName": "Griselbrand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ziatora's Proving Ground"
+        },
+        {
           "Count": 4,
           "CardName": "Tainted Indulgence"
+        },
+        {
+          "Count": 3,
+          "CardName": "Leyline Binding"
         },
         {
           "Count": 4,
@@ -1721,26 +1887,6 @@
         {
           "Count": 4,
           "CardName": "Atraxa, Grand Unifier"
-        },
-        {
-          "Count": 4,
-          "CardName": "Psychic Frog"
-        },
-        {
-          "Count": 1,
-          "CardName": "Godless Shrine"
-        },
-        {
-          "Count": 1,
-          "CardName": "Hallowed Fountain"
-        },
-        {
-          "Count": 1,
-          "CardName": "Watery Grave"
-        },
-        {
-          "Count": 1,
-          "CardName": "Ziatora's Proving Ground"
         },
         {
           "Count": 1,
@@ -1763,28 +1909,20 @@
           "CardName": "Undercity Sewers"
         },
         {
-          "Count": 1,
-          "CardName": "Plains"
+          "Count": 2,
+          "CardName": "Flooded Strand"
         },
         {
-          "Count": 3,
-          "CardName": "Force of Negation"
-        },
-        {
-          "Count": 3,
-          "CardName": "Leyline Binding"
+          "Count": 4,
+          "CardName": "Psychic Frog"
         },
         {
           "Count": 3,
           "CardName": "Thoughtseize"
         },
         {
-          "Count": 2,
-          "CardName": "Solitude"
-        },
-        {
-          "Count": 2,
-          "CardName": "Flooded Strand"
+          "Count": 1,
+          "CardName": "Plains"
         },
         {
           "Count": 2,
@@ -1793,10 +1931,6 @@
         {
           "Count": 2,
           "CardName": "Kiora, the Rising Tide"
-        },
-        {
-          "Count": 1,
-          "CardName": "Griselbrand"
         }
       ],
       "Sideboard": [
@@ -1813,10 +1947,6 @@
           "CardName": "Celestial Purge"
         },
         {
-          "Count": 2,
-          "CardName": "Teferi, Time Raveler"
-        },
-        {
           "Count": 1,
           "CardName": "Drannith Magistrate"
         },
@@ -1827,6 +1957,10 @@
         {
           "Count": 3,
           "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Teferi, Time Raveler"
         }
       ]
     },
@@ -1841,32 +1975,68 @@
           "CardName": "Forest"
         },
         {
-          "Count": 3,
-          "CardName": "Cavern of Souls"
-        },
-        {
           "Count": 4,
           "CardName": "Ancient Stirrings"
+        },
+        {
+          "Count": 2,
+          "CardName": "Llanowar Reborn"
         },
         {
           "Count": 4,
           "CardName": "Prismatic Vista"
         },
         {
+          "Count": 2,
+          "CardName": "Springleaf Drum"
+        },
+        {
           "Count": 4,
           "CardName": "Blade of the Bloodchief"
+        },
+        {
+          "Count": 2,
+          "CardName": "Snakeskin Veil"
         },
         {
           "Count": 4,
           "CardName": "Urza's Saga"
         },
         {
+          "Count": 1,
+          "CardName": "Yavimaya, Cradle of Growth"
+        },
+        {
+          "Count": 1,
+          "CardName": "Myr Scrapling"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pithing Needle"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cavern of Souls"
+        },
+        {
           "Count": 4,
           "CardName": "Walking Ballista"
         },
         {
+          "Count": 1,
+          "CardName": "Wastes"
+        },
+        {
           "Count": 4,
           "CardName": "Basking Broodscale"
+        },
+        {
+          "Count": 1,
+          "CardName": "Evolution Witness"
         },
         {
           "Count": 4,
@@ -1885,42 +2055,6 @@
           "CardName": "Eldrazi Temple"
         },
         {
-          "Count": 2,
-          "CardName": "Llanowar Reborn"
-        },
-        {
-          "Count": 2,
-          "CardName": "Springleaf Drum"
-        },
-        {
-          "Count": 2,
-          "CardName": "Snakeskin Veil"
-        },
-        {
-          "Count": 2,
-          "CardName": "Boseiju, Who Endures"
-        },
-        {
-          "Count": 1,
-          "CardName": "Yavimaya, Cradle of Growth"
-        },
-        {
-          "Count": 1,
-          "CardName": "Myr Scrapling"
-        },
-        {
-          "Count": 1,
-          "CardName": "Pithing Needle"
-        },
-        {
-          "Count": 1,
-          "CardName": "Wastes"
-        },
-        {
-          "Count": 1,
-          "CardName": "Evolution Witness"
-        },
-        {
           "Count": 1,
           "CardName": "Haywire Mite"
         }
@@ -1931,8 +2065,16 @@
           "CardName": "Grafdigger's Cage"
         },
         {
+          "Count": 2,
+          "CardName": "Dismember"
+        },
+        {
           "Count": 1,
           "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soulless Jailer"
         },
         {
           "Count": 1,
@@ -1947,26 +2089,18 @@
           "CardName": "Vexing Bauble"
         },
         {
-          "Count": 2,
-          "CardName": "Dismember"
-        },
-        {
-          "Count": 2,
-          "CardName": "Soulless Jailer"
+          "Count": 4,
+          "CardName": "Veil of Summer"
         },
         {
           "Count": 2,
           "CardName": "Haywire Mite"
-        },
-        {
-          "Count": 4,
-          "CardName": "Veil of Summer"
         }
       ]
     },
     {
       "Date": "2024-11-24T09:00:00+00:00",
-      "Player": "Maestro Kumano",
+      "Player": "Diego Norrea",
       "Result": "18th Place",
       "AnchorUri": "https://www.moxfield.com/decks/htz9KBT_pU-q42ZLvN0w7w",
       "Mainboard": [
@@ -1977,6 +2111,14 @@
         {
           "Count": 1,
           "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tribal Flames"
         },
         {
           "Count": 1,
@@ -1995,24 +2137,12 @@
           "CardName": "Temple Garden"
         },
         {
+          "Count": 3,
+          "CardName": "Wild Nacatl"
+        },
+        {
           "Count": 1,
           "CardName": "Indatha Triome"
-        },
-        {
-          "Count": 1,
-          "CardName": "Thundering Falls"
-        },
-        {
-          "Count": 1,
-          "CardName": "Arena of Glory"
-        },
-        {
-          "Count": 4,
-          "CardName": "Lightning Bolt"
-        },
-        {
-          "Count": 4,
-          "CardName": "Tribal Flames"
         },
         {
           "Count": 4,
@@ -2023,12 +2153,24 @@
           "CardName": "Arid Mesa"
         },
         {
+          "Count": 3,
+          "CardName": "Ragavan, Nimble Pilferer"
+        },
+        {
           "Count": 4,
           "CardName": "Territorial Kavu"
         },
         {
           "Count": 4,
           "CardName": "Scion of Draco"
+        },
+        {
+          "Count": 3,
+          "CardName": "Orcish Bowmasters"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thundering Falls"
         },
         {
           "Count": 4,
@@ -2047,34 +2189,18 @@
           "CardName": "Leyline Binding"
         },
         {
-          "Count": 3,
-          "CardName": "Wild Nacatl"
-        },
-        {
-          "Count": 3,
-          "CardName": "Ragavan, Nimble Pilferer"
-        },
-        {
-          "Count": 3,
-          "CardName": "Orcish Bowmasters"
-        },
-        {
           "Count": 2,
           "CardName": "Phlage, Titan of Fire's Fury"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arena of Glory"
         }
       ],
       "Sideboard": [
         {
           "Count": 2,
           "CardName": "Soul-Guide Lantern"
-        },
-        {
-          "Count": 2,
-          "CardName": "Damping Sphere"
-        },
-        {
-          "Count": 2,
-          "CardName": "Thraben Charm"
         },
         {
           "Count": 1,
@@ -2085,12 +2211,20 @@
           "CardName": "Wear // Tear"
         },
         {
-          "Count": 1,
-          "CardName": "Rest in Peace"
+          "Count": 2,
+          "CardName": "Damping Sphere"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thraben Charm"
         },
         {
           "Count": 3,
           "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rest in Peace"
         },
         {
           "Count": 3,
@@ -2114,11 +2248,7 @@
         },
         {
           "Count": 2,
-          "CardName": "Emeria's Call // Emeria, Shattered Skyclave"
-        },
-        {
-          "Count": 4,
-          "CardName": "Bishop of Wings"
+          "CardName": "Emeria's Call"
         },
         {
           "Count": 4,
@@ -2126,11 +2256,7 @@
         },
         {
           "Count": 4,
-          "CardName": "Temple Garden"
-        },
-        {
-          "Count": 4,
-          "CardName": "Branchloft Pathway // Boulderloft Pathway"
+          "CardName": "Bishop of Wings"
         },
         {
           "Count": 4,
@@ -2138,19 +2264,7 @@
         },
         {
           "Count": 4,
-          "CardName": "Kayla's Reconstruction"
-        },
-        {
-          "Count": 4,
-          "CardName": "Resplendent Angel"
-        },
-        {
-          "Count": 4,
-          "CardName": "Skyclave Apparition"
-        },
-        {
-          "Count": 4,
-          "CardName": "Razorverge Thicket"
+          "CardName": "Temple Garden"
         },
         {
           "Count": 4,
@@ -2158,11 +2272,31 @@
         },
         {
           "Count": 4,
-          "CardName": "Giada, Font of Hope"
+          "CardName": "Resplendent Angel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Branchloft Pathway"
+        },
+        {
+          "Count": 4,
+          "CardName": "Skyclave Apparition"
         },
         {
           "Count": 4,
           "CardName": "Righteous Valkyrie"
+        },
+        {
+          "Count": 4,
+          "CardName": "Giada, Font of Hope"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kayla's Reconstruction"
+        },
+        {
+          "Count": 4,
+          "CardName": "Razorverge Thicket"
         },
         {
           "Count": 1,
@@ -2183,8 +2317,16 @@
       ],
       "Sideboard": [
         {
-          "Count": 1,
-          "CardName": "Deafening Silence"
+          "Count": 3,
+          "CardName": "Aven Interrupter"
+        },
+        {
+          "Count": 3,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 3,
+          "CardName": "Portable Hole"
         },
         {
           "Count": 1,
@@ -2199,20 +2341,12 @@
           "CardName": "Authority of the Consuls"
         },
         {
+          "Count": 1,
+          "CardName": "Deafening Silence"
+        },
+        {
           "Count": 2,
           "CardName": "Heroic Intervention"
-        },
-        {
-          "Count": 3,
-          "CardName": "Portable Hole"
-        },
-        {
-          "Count": 3,
-          "CardName": "Aven Interrupter"
-        },
-        {
-          "Count": 3,
-          "CardName": "Rest in Peace"
         }
       ]
     },
@@ -2231,8 +2365,44 @@
           "CardName": "Mountain"
         },
         {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 3,
+          "CardName": "Subtlety"
+        },
+        {
           "Count": 1,
           "CardName": "March of Otherworldly Light"
+        },
+        {
+          "Count": 4,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 4,
+          "CardName": "The One Ring"
         },
         {
           "Count": 1,
@@ -2259,6 +2429,30 @@
           "CardName": "Meticulous Archive"
         },
         {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tamiyo, Inquisitive Student"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wrath of the Skies"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tune the Narrative"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Discharge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Phlage, Titan of Fire's Fury"
+        },
+        {
           "Count": 1,
           "CardName": "Invert Polarity"
         },
@@ -2269,66 +2463,6 @@
         {
           "Count": 1,
           "CardName": "Arena of Glory"
-        },
-        {
-          "Count": 2,
-          "CardName": "Plains"
-        },
-        {
-          "Count": 2,
-          "CardName": "Spell Snare"
-        },
-        {
-          "Count": 2,
-          "CardName": "Hallowed Fountain"
-        },
-        {
-          "Count": 2,
-          "CardName": "Steam Vents"
-        },
-        {
-          "Count": 4,
-          "CardName": "Counterspell"
-        },
-        {
-          "Count": 4,
-          "CardName": "Arid Mesa"
-        },
-        {
-          "Count": 4,
-          "CardName": "Force of Negation"
-        },
-        {
-          "Count": 4,
-          "CardName": "The One Ring"
-        },
-        {
-          "Count": 4,
-          "CardName": "Flooded Strand"
-        },
-        {
-          "Count": 4,
-          "CardName": "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar"
-        },
-        {
-          "Count": 4,
-          "CardName": "Wrath of the Skies"
-        },
-        {
-          "Count": 4,
-          "CardName": "Galvanic Discharge"
-        },
-        {
-          "Count": 3,
-          "CardName": "Subtlety"
-        },
-        {
-          "Count": 3,
-          "CardName": "Tune the Narrative"
-        },
-        {
-          "Count": 3,
-          "CardName": "Phlage, Titan of Fire's Fury"
         }
       ],
       "Sideboard": [
@@ -2345,20 +2479,20 @@
           "CardName": "Drannith Magistrate"
         },
         {
-          "Count": 1,
-          "CardName": "March of Otherworldly Light"
-        },
-        {
-          "Count": 1,
-          "CardName": "Ghost Vacuum"
-        },
-        {
           "Count": 4,
           "CardName": "Obsidian Charmaw"
         },
         {
+          "Count": 1,
+          "CardName": "March of Otherworldly Light"
+        },
+        {
           "Count": 4,
           "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
         }
       ]
     },
@@ -2382,11 +2516,15 @@
         },
         {
           "Count": 4,
-          "CardName": "Sea Gate Restoration // Sea Gate, Reborn"
+          "CardName": "Sea Gate Restoration"
         },
         {
           "Count": 4,
-          "CardName": "Jwari Disruption // Jwari Ruins"
+          "CardName": "Jwari Disruption"
+        },
+        {
+          "Count": 2,
+          "CardName": "Beyeen Veil"
         },
         {
           "Count": 4,
@@ -2401,36 +2539,32 @@
           "CardName": "Fallaji Archaeologist"
         },
         {
+          "Count": 1,
+          "CardName": "Commandeer"
+        },
+        {
           "Count": 4,
           "CardName": "Flare of Denial"
         },
         {
           "Count": 4,
-          "CardName": "Suppression Ray // Orderly Plaza"
+          "CardName": "Suppression Ray"
+        },
+        {
+          "Count": 2,
+          "CardName": "Waterlogged Teachings"
         },
         {
           "Count": 4,
-          "CardName": "Sink into Stupor // Soporific Springs"
+          "CardName": "Sink into Stupor"
         },
         {
           "Count": 4,
-          "CardName": "Hydroelectric Specimen // Hydroelectric Laboratory"
+          "CardName": "Hydroelectric Specimen"
         },
         {
           "Count": 4,
           "CardName": "Thundertrap Trainer"
-        },
-        {
-          "Count": 2,
-          "CardName": "Beyeen Veil // Beyeen Coast"
-        },
-        {
-          "Count": 2,
-          "CardName": "Waterlogged Teachings // Inundated Archive"
-        },
-        {
-          "Count": 1,
-          "CardName": "Commandeer"
         },
         {
           "Count": 3,
@@ -2443,6 +2577,10 @@
           "CardName": "Tormod's Crypt"
         },
         {
+          "Count": 3,
+          "CardName": "Spell Snare"
+        },
+        {
           "Count": 1,
           "CardName": "Portable Hole"
         },
@@ -2453,10 +2591,6 @@
         {
           "Count": 1,
           "CardName": "Commandeer"
-        },
-        {
-          "Count": 3,
-          "CardName": "Spell Snare"
         },
         {
           "Count": 2,
@@ -2491,12 +2625,20 @@
           "CardName": "Ancient Stirrings"
         },
         {
+          "Count": 1,
+          "CardName": "Llanowar Reborn"
+        },
+        {
           "Count": 4,
           "CardName": "Boreal Druid"
         },
         {
           "Count": 4,
           "CardName": "Prismatic Vista"
+        },
+        {
+          "Count": 1,
+          "CardName": "Springleaf Drum"
         },
         {
           "Count": 4,
@@ -2511,12 +2653,28 @@
           "CardName": "Urza's Saga"
         },
         {
+          "Count": 1,
+          "CardName": "Myr Scrapling"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
           "Count": 4,
           "CardName": "Walking Ballista"
         },
         {
+          "Count": 1,
+          "CardName": "Wastes"
+        },
+        {
           "Count": 4,
           "CardName": "Basking Broodscale"
+        },
+        {
+          "Count": 1,
+          "CardName": "Evolution Witness"
         },
         {
           "Count": 4,
@@ -2536,31 +2694,7 @@
         },
         {
           "Count": 1,
-          "CardName": "Llanowar Reborn"
-        },
-        {
-          "Count": 1,
-          "CardName": "Springleaf Drum"
-        },
-        {
-          "Count": 1,
-          "CardName": "Myr Scrapling"
-        },
-        {
-          "Count": 1,
-          "CardName": "Wastes"
-        },
-        {
-          "Count": 1,
-          "CardName": "Evolution Witness"
-        },
-        {
-          "Count": 1,
           "CardName": "Haywire Mite"
-        },
-        {
-          "Count": 2,
-          "CardName": "Boseiju, Who Endures"
         }
       ],
       "Sideboard": [
@@ -2569,36 +2703,36 @@
           "CardName": "Grafdigger's Cage"
         },
         {
-          "Count": 1,
-          "CardName": "Soul-Guide Lantern"
-        },
-        {
-          "Count": 1,
-          "CardName": "Pithing Needle"
-        },
-        {
-          "Count": 1,
-          "CardName": "Vexing Bauble"
-        },
-        {
-          "Count": 1,
-          "CardName": "Haywire Mite"
-        },
-        {
           "Count": 2,
           "CardName": "Dismember"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soul-Guide Lantern"
         },
         {
           "Count": 2,
           "CardName": "Damping Sphere"
         },
         {
+          "Count": 1,
+          "CardName": "Pithing Needle"
+        },
+        {
           "Count": 2,
           "CardName": "Pick Your Poison"
         },
         {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        },
+        {
           "Count": 4,
           "CardName": "Veil of Summer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Haywire Mite"
         }
       ]
     },
@@ -2609,96 +2743,16 @@
       "AnchorUri": "https://www.moxfield.com/decks/4JMsw0U2mkSvFGtu9ejgkA",
       "Mainboard": [
         {
-          "Count": 1,
-          "CardName": "Godless Shrine"
-        },
-        {
-          "Count": 1,
-          "CardName": "Watery Grave"
-        },
-        {
-          "Count": 1,
-          "CardName": "Hallowed Fountain"
-        },
-        {
-          "Count": 1,
-          "CardName": "Overgrown Tomb"
-        },
-        {
-          "Count": 1,
-          "CardName": "Griselbrand"
-        },
-        {
-          "Count": 1,
-          "CardName": "Island"
-        },
-        {
-          "Count": 1,
-          "CardName": "Plains"
-        },
-        {
-          "Count": 1,
-          "CardName": "Swamp"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cephalid Coliseum"
-        },
-        {
-          "Count": 1,
-          "CardName": "Meticulous Archive"
-        },
-        {
-          "Count": 1,
-          "CardName": "Shadowy Backstreet"
-        },
-        {
-          "Count": 1,
-          "CardName": "Undercity Sewers"
-        },
-        {
-          "Count": 1,
-          "CardName": "Ulamog, the Defiler"
-        },
-        {
-          "Count": 1,
-          "CardName": "Sink into Stupor // Soporific Springs"
-        },
-        {
-          "Count": 4,
-          "CardName": "Goryo's Vengeance"
-        },
-        {
-          "Count": 4,
+          "Count": 3,
           "CardName": "Ephemerate"
         },
         {
-          "Count": 4,
+          "Count": 3,
           "CardName": "Force of Negation"
-        },
-        {
-          "Count": 4,
-          "CardName": "Prismatic Ending"
-        },
-        {
-          "Count": 4,
-          "CardName": "Atraxa, Grand Unifier"
-        },
-        {
-          "Count": 4,
-          "CardName": "Psychic Frog"
         },
         {
           "Count": 3,
           "CardName": "Marsh Flats"
-        },
-        {
-          "Count": 3,
-          "CardName": "Polluted Delta"
-        },
-        {
-          "Count": 3,
-          "CardName": "Thoughtseize"
         },
         {
           "Count": 3,
@@ -2709,12 +2763,96 @@
           "CardName": "Fallaji Archaeologist"
         },
         {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 1,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Overgrown Tomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Watery Grave"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ziatora's Proving Ground"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 1,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shadowy Backstreet"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ulamog, the Defiler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cephalid Coliseum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sink into Stupor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goryo's Vengeance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline Binding"
+        },
+        {
+          "Count": 4,
+          "CardName": "Atraxa, Grand Unifier"
+        },
+        {
+          "Count": 4,
+          "CardName": "Psychic Frog"
+        },
+        {
           "Count": 2,
           "CardName": "Flooded Strand"
         },
         {
           "Count": 2,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 2,
           "CardName": "Tainted Indulgence"
+        },
+        {
+          "Count": 2,
+          "CardName": "Polluted Delta"
         },
         {
           "Count": 2,
@@ -2727,20 +2865,20 @@
       ],
       "Sideboard": [
         {
-          "Count": 2,
-          "CardName": "Consign to Memory"
+          "Count": 1,
+          "CardName": "Mystical Dispute"
         },
         {
-          "Count": 2,
-          "CardName": "Wrath of the Skies"
+          "Count": 1,
+          "CardName": "Stony Silence"
         },
         {
-          "Count": 2,
-          "CardName": "Cling to Dust"
+          "Count": 1,
+          "CardName": "Damping Sphere"
         },
         {
-          "Count": 2,
-          "CardName": "Drannith Magistrate"
+          "Count": 1,
+          "CardName": "Kaito, Bane of Nightmares"
         },
         {
           "Count": 2,
@@ -2748,15 +2886,19 @@
         },
         {
           "Count": 2,
-          "CardName": "Annul"
-        },
-        {
-          "Count": 2,
           "CardName": "Teferi, Time Raveler"
         },
         {
-          "Count": 1,
-          "CardName": "Damping Sphere"
+          "Count": 2,
+          "CardName": "Wrath of the Skies"
+        },
+        {
+          "Count": 2,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 3,
+          "CardName": "Leyline of the Void"
         }
       ]
     },
@@ -2773,6 +2915,14 @@
         {
           "Count": 1,
           "CardName": "Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Spell Snare"
         },
         {
           "Count": 1,
@@ -2795,8 +2945,24 @@
           "CardName": "Sacred Foundry"
         },
         {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 3,
+          "CardName": "Snapcaster Mage"
+        },
+        {
           "Count": 1,
           "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 4,
+          "CardName": "The One Ring"
         },
         {
           "Count": 1,
@@ -2819,60 +2985,36 @@
           "CardName": "Meticulous Archive"
         },
         {
-          "Count": 1,
-          "CardName": "Cascade Bluffs"
-        },
-        {
-          "Count": 1,
-          "CardName": "Arena of Glory"
-        },
-        {
-          "Count": 2,
-          "CardName": "Plains"
-        },
-        {
-          "Count": 3,
-          "CardName": "Spell Snare"
-        },
-        {
-          "Count": 3,
-          "CardName": "Snapcaster Mage"
-        },
-        {
-          "Count": 3,
-          "CardName": "Wrath of the Skies"
-        },
-        {
-          "Count": 3,
-          "CardName": "Phlage, Titan of Fire's Fury"
-        },
-        {
-          "Count": 3,
-          "CardName": "Teferi, Time Raveler"
-        },
-        {
-          "Count": 4,
-          "CardName": "Counterspell"
-        },
-        {
-          "Count": 4,
-          "CardName": "Arid Mesa"
-        },
-        {
-          "Count": 4,
-          "CardName": "The One Ring"
-        },
-        {
           "Count": 4,
           "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cascade Bluffs"
         },
         {
           "Count": 4,
           "CardName": "Orim's Chant"
         },
         {
+          "Count": 3,
+          "CardName": "Wrath of the Skies"
+        },
+        {
           "Count": 4,
           "CardName": "Galvanic Discharge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Phlage, Titan of Fire's Fury"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arena of Glory"
+        },
+        {
+          "Count": 3,
+          "CardName": "Teferi, Time Raveler"
         },
         {
           "Count": 4,
@@ -2893,16 +3035,16 @@
           "CardName": "Angel's Grace"
         },
         {
-          "Count": 2,
-          "CardName": "Pyroclasm"
-        },
-        {
           "Count": 3,
           "CardName": "Surgical Extraction"
         },
         {
           "Count": 4,
           "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyroclasm"
         }
       ]
     },
@@ -2925,6 +3067,10 @@
           "CardName": "Swamp"
         },
         {
+          "Count": 4,
+          "CardName": "Ephemerate"
+        },
+        {
           "Count": 1,
           "CardName": "Godless Shrine"
         },
@@ -2933,8 +3079,40 @@
           "CardName": "Hallowed Fountain"
         },
         {
+          "Count": 4,
+          "CardName": "Goryo's Vengeance"
+        },
+        {
           "Count": 1,
           "CardName": "Watery Grave"
+        },
+        {
+          "Count": 4,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 2,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faithful Mending"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tainted Indulgence"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Atraxa, Grand Unifier"
+        },
+        {
+          "Count": 2,
+          "CardName": "Jace, Vryn's Prodigy"
         },
         {
           "Count": 1,
@@ -2953,42 +3131,6 @@
           "CardName": "Meticulous Archive"
         },
         {
-          "Count": 1,
-          "CardName": "Pest Control"
-        },
-        {
-          "Count": 1,
-          "CardName": "Griselbrand"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cephalid Coliseum"
-        },
-        {
-          "Count": 1,
-          "CardName": "Sink into Stupor // Soporific Springs"
-        },
-        {
-          "Count": 4,
-          "CardName": "Ephemerate"
-        },
-        {
-          "Count": 4,
-          "CardName": "Goryo's Vengeance"
-        },
-        {
-          "Count": 4,
-          "CardName": "Marsh Flats"
-        },
-        {
-          "Count": 4,
-          "CardName": "Tainted Indulgence"
-        },
-        {
-          "Count": 4,
-          "CardName": "Atraxa, Grand Unifier"
-        },
-        {
           "Count": 4,
           "CardName": "Polluted Delta"
         },
@@ -3001,28 +3143,28 @@
           "CardName": "Thoughtseize"
         },
         {
-          "Count": 4,
-          "CardName": "Emperor of Bones"
+          "Count": 1,
+          "CardName": "Pest Control"
         },
         {
-          "Count": 2,
-          "CardName": "Solitude"
-        },
-        {
-          "Count": 2,
-          "CardName": "Faithful Mending"
-        },
-        {
-          "Count": 2,
-          "CardName": "Force of Negation"
-        },
-        {
-          "Count": 2,
-          "CardName": "Jace, Vryn's Prodigy // Jace, Telepath Unbound"
+          "Count": 1,
+          "CardName": "Griselbrand"
         },
         {
           "Count": 2,
           "CardName": "Ulamog, the Defiler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Emperor of Bones"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cephalid Coliseum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sink into Stupor"
         }
       ],
       "Sideboard": [
@@ -3035,10 +3177,6 @@
           "CardName": "Celestial Purge"
         },
         {
-          "Count": 2,
-          "CardName": "Damping Sphere"
-        },
-        {
           "Count": 1,
           "CardName": "Nihil Spellbomb"
         },
@@ -3047,16 +3185,20 @@
           "CardName": "Temporary Lockdown"
         },
         {
+          "Count": 2,
+          "CardName": "Damping Sphere"
+        },
+        {
           "Count": 1,
           "CardName": "Wrath of the Skies"
         },
         {
-          "Count": 1,
-          "CardName": "Ghost Vacuum"
-        },
-        {
           "Count": 4,
           "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
         }
       ]
     },
@@ -3079,32 +3221,12 @@
           "CardName": "Glass Casket"
         },
         {
-          "Count": 1,
-          "CardName": "Hallowed Fountain"
-        },
-        {
-          "Count": 1,
-          "CardName": "Pithing Needle"
-        },
-        {
-          "Count": 1,
-          "CardName": "Thoughtcast"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cranial Plating"
-        },
-        {
-          "Count": 1,
-          "CardName": "Tormod's Crypt"
-        },
-        {
-          "Count": 1,
-          "CardName": "Lavaspur Boots"
-        },
-        {
           "Count": 3,
           "CardName": "Metallic Rebuke"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hallowed Fountain"
         },
         {
           "Count": 4,
@@ -3119,12 +3241,28 @@
           "CardName": "Portable Hole"
         },
         {
+          "Count": 1,
+          "CardName": "Pithing Needle"
+        },
+        {
           "Count": 4,
           "CardName": "Spire of Industry"
         },
         {
+          "Count": 1,
+          "CardName": "Thoughtcast"
+        },
+        {
           "Count": 4,
           "CardName": "Ornithopter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Darksteel Citadel"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cranial Plating"
         },
         {
           "Count": 4,
@@ -3147,16 +3285,20 @@
           "CardName": "Springleaf Drum"
         },
         {
-          "Count": 4,
-          "CardName": "Kappa Cannoneer"
-        },
-        {
-          "Count": 2,
-          "CardName": "Darksteel Citadel"
+          "Count": 1,
+          "CardName": "Tormod's Crypt"
         },
         {
           "Count": 2,
           "CardName": "Seachrome Coast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kappa Cannoneer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lavaspur Boots"
         }
       ],
       "Sideboard": [
@@ -3169,16 +3311,8 @@
           "CardName": "Dispatch"
         },
         {
-          "Count": 2,
-          "CardName": "Haywire Mite"
-        },
-        {
           "Count": 1,
           "CardName": "Pithing Needle"
-        },
-        {
-          "Count": 1,
-          "CardName": "Relic of Progenitus"
         },
         {
           "Count": 4,
@@ -3187,6 +3321,14 @@
         {
           "Count": 3,
           "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 2,
+          "CardName": "Haywire Mite"
         }
       ]
     },
@@ -3205,6 +3347,10 @@
           "CardName": "Whir of Invention"
         },
         {
+          "Count": 3,
+          "CardName": "Pact of Negation"
+        },
+        {
           "Count": 4,
           "CardName": "Disrupting Shoal"
         },
@@ -3214,11 +3360,19 @@
         },
         {
           "Count": 4,
-          "CardName": "Sea Gate Restoration // Sea Gate, Reborn"
+          "CardName": "Sea Gate Restoration"
+        },
+        {
+          "Count": 2,
+          "CardName": "Jwari Disruption"
         },
         {
           "Count": 4,
-          "CardName": "Beyeen Veil // Beyeen Coast"
+          "CardName": "Beyeen Veil"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tameshi, Reality Architect"
         },
         {
           "Count": 4,
@@ -3229,40 +3383,28 @@
           "CardName": "Flare of Denial"
         },
         {
-          "Count": 4,
-          "CardName": "Suppression Ray // Orderly Plaza"
-        },
-        {
-          "Count": 4,
-          "CardName": "Sink into Stupor // Soporific Springs"
-        },
-        {
-          "Count": 4,
-          "CardName": "Hydroelectric Specimen // Hydroelectric Laboratory"
-        },
-        {
-          "Count": 4,
-          "CardName": "Thundertrap Trainer"
-        },
-        {
-          "Count": 3,
-          "CardName": "Pact of Negation"
-        },
-        {
-          "Count": 3,
-          "CardName": "Tameshi, Reality Architect"
-        },
-        {
-          "Count": 2,
-          "CardName": "Jwari Disruption // Jwari Ruins"
-        },
-        {
           "Count": 2,
           "CardName": "Harbinger of the Seas"
         },
         {
+          "Count": 4,
+          "CardName": "Suppression Ray"
+        },
+        {
           "Count": 2,
-          "CardName": "Waterlogged Teachings // Inundated Archive"
+          "CardName": "Waterlogged Teachings"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sink into Stupor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroelectric Specimen"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thundertrap Trainer"
         }
       ],
       "Sideboard": [
@@ -3271,20 +3413,16 @@
           "CardName": "Into the Flood Maw"
         },
         {
+          "Count": 3,
+          "CardName": "Unable to Scream"
+        },
+        {
           "Count": 2,
           "CardName": "Mystical Dispute"
         },
         {
           "Count": 2,
           "CardName": "Consign to Memory"
-        },
-        {
-          "Count": 2,
-          "CardName": "Spell Snare"
-        },
-        {
-          "Count": 3,
-          "CardName": "Unable to Scream"
         },
         {
           "Count": 1,
@@ -3299,158 +3437,12 @@
           "CardName": "Damping Sphere"
         },
         {
-          "Count": 1,
-          "CardName": "Tormod's Crypt"
-        }
-      ]
-    },
-    {
-      "Date": "2024-11-24T09:00:00+00:00",
-      "Player": "César Novo Martínez",
-      "Result": "28th Place",
-      "AnchorUri": "https://www.moxfield.com/decks/VUvxisS9QEKTkhZiyispPw",
-      "Mainboard": [
-        {
-          "Count": 4,
-          "CardName": "Urza's Mine"
-        },
-        {
-          "Count": 4,
-          "CardName": "Urza's Tower"
-        },
-        {
-          "Count": 4,
-          "CardName": "Karn, the Great Creator"
-        },
-        {
-          "Count": 4,
-          "CardName": "Eldrazi Temple"
-        },
-        {
-          "Count": 4,
-          "CardName": "Thought-Knot Seer"
-        },
-        {
-          "Count": 4,
-          "CardName": "Chalice of the Void"
-        },
-        {
-          "Count": 4,
-          "CardName": "Ugin's Labyrinth"
-        },
-        {
-          "Count": 4,
-          "CardName": "Devourer of Destiny"
-        },
-        {
-          "Count": 4,
-          "CardName": "Sowing Mycospawn"
-        },
-        {
-          "Count": 4,
-          "CardName": "Kozilek's Command"
-        },
-        {
-          "Count": 4,
-          "CardName": "Urza's Power Plant"
-        },
-        {
-          "Count": 1,
-          "CardName": "Ulamog, the Ceaseless Hunger"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cavern of Souls"
-        },
-        {
-          "Count": 1,
-          "CardName": "Forest"
-        },
-        {
-          "Count": 1,
-          "CardName": "Warping Wail"
-        },
-        {
-          "Count": 1,
-          "CardName": "Mystic Forge"
-        },
-        {
-          "Count": 3,
-          "CardName": "All Is Dust"
-        },
-        {
           "Count": 2,
-          "CardName": "Dismember"
-        },
-        {
-          "Count": 2,
-          "CardName": "World Breaker"
-        },
-        {
-          "Count": 2,
-          "CardName": "Talisman of Impulse"
-        },
-        {
-          "Count": 2,
-          "CardName": "Talisman of Resilience"
-        }
-      ],
-      "Sideboard": [
-        {
-          "Count": 1,
-          "CardName": "Walking Ballista"
-        },
-        {
-          "Count": 1,
-          "CardName": "Trinisphere"
-        },
-        {
-          "Count": 1,
-          "CardName": "Ensnaring Bridge"
-        },
-        {
-          "Count": 1,
-          "CardName": "Sundering Titan"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cityscape Leveler"
-        },
-        {
-          "Count": 1,
-          "CardName": "Liquimetal Coating"
+          "CardName": "Spell Snare"
         },
         {
           "Count": 1,
           "CardName": "Tormod's Crypt"
-        },
-        {
-          "Count": 1,
-          "CardName": "Disruptor Flute"
-        },
-        {
-          "Count": 1,
-          "CardName": "Warping Wail"
-        },
-        {
-          "Count": 1,
-          "CardName": "Mystic Forge"
-        },
-        {
-          "Count": 1,
-          "CardName": "Engineered Explosives"
-        },
-        {
-          "Count": 1,
-          "CardName": "Relic of Progenitus"
-        },
-        {
-          "Count": 1,
-          "CardName": "Haywire Mite"
-        },
-        {
-          "Count": 2,
-          "CardName": "The Stone Brain"
         }
       ]
     },
@@ -3465,48 +3457,40 @@
           "CardName": "Emry, Lurker of the Loch"
         },
         {
-          "Count": 2,
-          "CardName": "Breeding Pool"
-        },
-        {
-          "Count": 2,
-          "CardName": "Botanical Sanctum"
-        },
-        {
-          "Count": 2,
-          "CardName": "Welding Jar"
-        },
-        {
-          "Count": 2,
-          "CardName": "Gemstone Caverns"
-        },
-        {
-          "Count": 2,
-          "CardName": "Boseiju, Who Endures"
-        },
-        {
-          "Count": 2,
-          "CardName": "Forest"
-        },
-        {
           "Count": 3,
           "CardName": "Ancient Stirrings"
-        },
-        {
-          "Count": 3,
-          "CardName": "Agatha's Soul Cauldron"
         },
         {
           "Count": 1,
           "CardName": "Basilisk Collar"
         },
         {
+          "Count": 4,
+          "CardName": "Arcbound Ravager"
+        },
+        {
+          "Count": 4,
+          "CardName": "Inkmoth Nexus"
+        },
+        {
           "Count": 1,
           "CardName": "Pithing Needle"
         },
         {
+          "Count": 4,
+          "CardName": "Hardened Scales"
+        },
+        {
           "Count": 1,
           "CardName": "Pendelhaven"
+        },
+        {
+          "Count": 2,
+          "CardName": "Breeding Pool"
+        },
+        {
+          "Count": 2,
+          "CardName": "Botanical Sanctum"
         },
         {
           "Count": 1,
@@ -3521,6 +3505,10 @@
           "CardName": "Wooded Foothills"
         },
         {
+          "Count": 2,
+          "CardName": "Welding Jar"
+        },
+        {
           "Count": 1,
           "CardName": "Springleaf Drum"
         },
@@ -3533,28 +3521,12 @@
           "CardName": "Hangarback Walker"
         },
         {
+          "Count": 2,
+          "CardName": "Gemstone Caverns"
+        },
+        {
           "Count": 1,
           "CardName": "Blade of the Bloodchief"
-        },
-        {
-          "Count": 1,
-          "CardName": "Hedge Maze"
-        },
-        {
-          "Count": 1,
-          "CardName": "Ghost Vacuum"
-        },
-        {
-          "Count": 4,
-          "CardName": "Arcbound Ravager"
-        },
-        {
-          "Count": 4,
-          "CardName": "Inkmoth Nexus"
-        },
-        {
-          "Count": 4,
-          "CardName": "Hardened Scales"
         },
         {
           "Count": 4,
@@ -3565,30 +3537,38 @@
           "CardName": "Zabaz, the Glimmerwasp"
         },
         {
+          "Count": 2,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
           "Count": 4,
           "CardName": "Patchwork Automaton"
         },
         {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
           "Count": 4,
           "CardName": "Walking Ballista"
+        },
+        {
+          "Count": 3,
+          "CardName": "Agatha's Soul Cauldron"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hedge Maze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
         }
       ],
       "Sideboard": [
         {
           "Count": 2,
           "CardName": "Disruptor Flute"
-        },
-        {
-          "Count": 2,
-          "CardName": "Veil of Summer"
-        },
-        {
-          "Count": 2,
-          "CardName": "Spell Pierce"
-        },
-        {
-          "Count": 2,
-          "CardName": "Dismember"
         },
         {
           "Count": 3,
@@ -3599,6 +3579,14 @@
           "CardName": "Grafdigger's Cage"
         },
         {
+          "Count": 2,
+          "CardName": "Veil of Summer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shadowspear"
+        },
+        {
           "Count": 1,
           "CardName": "Haywire Mite"
         },
@@ -3607,8 +3595,12 @@
           "CardName": "Soul-Guide Lantern"
         },
         {
-          "Count": 1,
-          "CardName": "Shadowspear"
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dismember"
         }
       ]
     },
@@ -3627,6 +3619,10 @@
           "CardName": "Whir of Invention"
         },
         {
+          "Count": 3,
+          "CardName": "Pact of Negation"
+        },
+        {
           "Count": 4,
           "CardName": "Disrupting Shoal"
         },
@@ -3635,12 +3631,20 @@
           "CardName": "Lotus Bloom"
         },
         {
-          "Count": 4,
-          "CardName": "Sea Gate Restoration // Sea Gate, Reborn"
+          "Count": 1,
+          "CardName": "Commandeer"
         },
         {
           "Count": 4,
-          "CardName": "Jwari Disruption // Jwari Ruins"
+          "CardName": "Sea Gate Restoration"
+        },
+        {
+          "Count": 4,
+          "CardName": "Jwari Disruption"
+        },
+        {
+          "Count": 2,
+          "CardName": "Beyeen Veil"
         },
         {
           "Count": 4,
@@ -3656,35 +3660,23 @@
         },
         {
           "Count": 4,
-          "CardName": "Suppression Ray // Orderly Plaza"
+          "CardName": "Suppression Ray"
+        },
+        {
+          "Count": 2,
+          "CardName": "Waterlogged Teachings"
         },
         {
           "Count": 4,
-          "CardName": "Sink into Stupor // Soporific Springs"
+          "CardName": "Sink into Stupor"
         },
         {
           "Count": 4,
-          "CardName": "Hydroelectric Specimen // Hydroelectric Laboratory"
+          "CardName": "Hydroelectric Specimen"
         },
         {
           "Count": 4,
           "CardName": "Thundertrap Trainer"
-        },
-        {
-          "Count": 3,
-          "CardName": "Pact of Negation"
-        },
-        {
-          "Count": 1,
-          "CardName": "Commandeer"
-        },
-        {
-          "Count": 2,
-          "CardName": "Beyeen Veil // Beyeen Coast"
-        },
-        {
-          "Count": 2,
-          "CardName": "Waterlogged Teachings // Inundated Archive"
         }
       ],
       "Sideboard": [
@@ -3693,12 +3685,12 @@
           "CardName": "Unable to Scream"
         },
         {
-          "Count": 3,
-          "CardName": "Harbinger of the Seas"
-        },
-        {
           "Count": 2,
           "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 3,
+          "CardName": "Harbinger of the Seas"
         },
         {
           "Count": 1,
@@ -3733,36 +3725,12 @@
           "CardName": "Blood Crypt"
         },
         {
-          "Count": 2,
-          "CardName": "Thoughtseize"
-        },
-        {
-          "Count": 2,
-          "CardName": "Arena of Glory"
-        },
-        {
-          "Count": 2,
-          "CardName": "Violent Urge"
-        },
-        {
           "Count": 1,
           "CardName": "Overgrown Tomb"
         },
         {
-          "Count": 1,
-          "CardName": "Commercial District"
-        },
-        {
-          "Count": 1,
-          "CardName": "Raucous Theater"
-        },
-        {
-          "Count": 1,
-          "CardName": "Mountain"
-        },
-        {
-          "Count": 1,
-          "CardName": "Forest"
+          "Count": 2,
+          "CardName": "Thoughtseize"
         },
         {
           "Count": 4,
@@ -3781,6 +3749,18 @@
           "CardName": "Street Wraith"
         },
         {
+          "Count": 1,
+          "CardName": "Commercial District"
+        },
+        {
+          "Count": 1,
+          "CardName": "Raucous Theater"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
           "Count": 4,
           "CardName": "Wooded Foothills"
         },
@@ -3797,6 +3777,10 @@
           "CardName": "Detective's Phoenix"
         },
         {
+          "Count": 2,
+          "CardName": "Arena of Glory"
+        },
+        {
           "Count": 4,
           "CardName": "Malevolent Rumble"
         },
@@ -3807,6 +3791,14 @@
         {
           "Count": 4,
           "CardName": "Omnivorous Flytrap"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Violent Urge"
         }
       ],
       "Sideboard": [
@@ -3847,60 +3839,8 @@
           "CardName": "Island"
         },
         {
-          "Count": 2,
-          "CardName": "Bloodstained Mire"
-        },
-        {
-          "Count": 2,
-          "CardName": "Flooded Strand"
-        },
-        {
-          "Count": 2,
-          "CardName": "Watery Grave"
-        },
-        {
-          "Count": 2,
-          "CardName": "Consider"
-        },
-        {
-          "Count": 2,
-          "CardName": "Undercity Sewers"
-        },
-        {
-          "Count": 2,
-          "CardName": "Harbinger of the Seas"
-        },
-        {
-          "Count": 2,
-          "CardName": "Sink into Stupor // Soporific Springs"
-        },
-        {
           "Count": 1,
           "CardName": "Swamp"
-        },
-        {
-          "Count": 1,
-          "CardName": "Spell Pierce"
-        },
-        {
-          "Count": 1,
-          "CardName": "Darkslick Shores"
-        },
-        {
-          "Count": 1,
-          "CardName": "Archmage's Charm"
-        },
-        {
-          "Count": 1,
-          "CardName": "Subtlety"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cling to Dust"
-        },
-        {
-          "Count": 1,
-          "CardName": "Shoot the Sheriff"
         },
         {
           "Count": 4,
@@ -3911,32 +3851,84 @@
           "CardName": "Fatal Push"
         },
         {
+          "Count": 1,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flooded Strand"
+        },
+        {
           "Count": 4,
           "CardName": "Preordain"
         },
         {
-          "Count": 4,
-          "CardName": "Polluted Delta"
-        },
-        {
-          "Count": 4,
-          "CardName": "Murktide Regent"
-        },
-        {
-          "Count": 4,
-          "CardName": "Orcish Bowmasters"
-        },
-        {
-          "Count": 4,
-          "CardName": "Psychic Frog"
+          "Count": 2,
+          "CardName": "Watery Grave"
         },
         {
           "Count": 3,
           "CardName": "Spell Snare"
         },
         {
+          "Count": 4,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 1,
+          "CardName": "Darkslick Shores"
+        },
+        {
+          "Count": 1,
+          "CardName": "Archmage's Charm"
+        },
+        {
           "Count": 3,
           "CardName": "Force of Negation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Subtlety"
+        },
+        {
+          "Count": 4,
+          "CardName": "Murktide Regent"
+        },
+        {
+          "Count": 2,
+          "CardName": "Consider"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cling to Dust"
+        },
+        {
+          "Count": 4,
+          "CardName": "Orcish Bowmasters"
+        },
+        {
+          "Count": 2,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 4,
+          "CardName": "Psychic Frog"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shoot the Sheriff"
+        },
+        {
+          "Count": 2,
+          "CardName": "Harbinger of the Seas"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sink into Stupor"
         },
         {
           "Count": 3,
@@ -3953,6 +3945,14 @@
           "CardName": "Surgical Extraction"
         },
         {
+          "Count": 4,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stern Scolding"
+        },
+        {
           "Count": 1,
           "CardName": "The Meathook Massacre"
         },
@@ -3965,24 +3965,16 @@
           "CardName": "Subtlety"
         },
         {
+          "Count": 2,
+          "CardName": "Thoughtseize"
+        },
+        {
           "Count": 1,
           "CardName": "Nihil Spellbomb"
         },
         {
           "Count": 1,
           "CardName": "Toxic Deluge"
-        },
-        {
-          "Count": 4,
-          "CardName": "Consign to Memory"
-        },
-        {
-          "Count": 2,
-          "CardName": "Stern Scolding"
-        },
-        {
-          "Count": 2,
-          "CardName": "Thoughtseize"
         }
       ]
     },
@@ -3997,32 +3989,32 @@
           "CardName": "Island"
         },
         {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
           "Count": 2,
           "CardName": "Spell Snare"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thought Scour"
+        },
+        {
+          "Count": 3,
+          "CardName": "Watery Grave"
         },
         {
           "Count": 2,
           "CardName": "Scalding Tarn"
         },
         {
-          "Count": 2,
-          "CardName": "Force of Negation"
-        },
-        {
-          "Count": 2,
-          "CardName": "Undercity Sewers"
-        },
-        {
-          "Count": 2,
-          "CardName": "Harbinger of the Seas"
-        },
-        {
-          "Count": 2,
-          "CardName": "Sink into Stupor // Soporific Springs"
-        },
-        {
-          "Count": 1,
-          "CardName": "Swamp"
+          "Count": 4,
+          "CardName": "Unearth"
         },
         {
           "Count": 1,
@@ -4033,28 +4025,32 @@
           "CardName": "Misty Rainforest"
         },
         {
+          "Count": 3,
+          "CardName": "Murktide Regent"
+        },
+        {
           "Count": 1,
           "CardName": "Otawara, Soaring City"
         },
         {
-          "Count": 1,
-          "CardName": "Bloodstained Mire"
+          "Count": 2,
+          "CardName": "Force of Negation"
         },
         {
-          "Count": 4,
-          "CardName": "Counterspell"
+          "Count": 3,
+          "CardName": "Orcish Bowmasters"
         },
         {
-          "Count": 4,
-          "CardName": "Thought Scour"
-        },
-        {
-          "Count": 4,
-          "CardName": "Unearth"
+          "Count": 2,
+          "CardName": "Undercity Sewers"
         },
         {
           "Count": 4,
           "CardName": "Consider"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bloodstained Mire"
         },
         {
           "Count": 4,
@@ -4065,24 +4061,20 @@
           "CardName": "Psychic Frog"
         },
         {
+          "Count": 2,
+          "CardName": "Harbinger of the Seas"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sink into Stupor"
+        },
+        {
           "Count": 4,
           "CardName": "Fatal Push"
         },
         {
           "Count": 4,
           "CardName": "Abhorrent Oculus"
-        },
-        {
-          "Count": 3,
-          "CardName": "Watery Grave"
-        },
-        {
-          "Count": 3,
-          "CardName": "Murktide Regent"
-        },
-        {
-          "Count": 3,
-          "CardName": "Orcish Bowmasters"
         }
       ],
       "Sideboard": [
@@ -4095,12 +4087,12 @@
           "CardName": "Toxic Deluge"
         },
         {
-          "Count": 2,
-          "CardName": "Graveyard Trespasser // Graveyard Glutton"
-        },
-        {
           "Count": 1,
           "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Graveyard Trespasser"
         },
         {
           "Count": 1,
@@ -4131,8 +4123,20 @@
           "CardName": "Godless Shrine"
         },
         {
+          "Count": 4,
+          "CardName": "Goryo's Vengeance"
+        },
+        {
           "Count": 1,
           "CardName": "Watery Grave"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ephemerate"
+        },
+        {
+          "Count": 4,
+          "CardName": "Force of Negation"
         },
         {
           "Count": 1,
@@ -4141,6 +4145,38 @@
         {
           "Count": 1,
           "CardName": "Overgrown Tomb"
+        },
+        {
+          "Count": 3,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 2,
+          "CardName": "Jace, Vryn's Prodigy"
+        },
+        {
+          "Count": 3,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 3,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 2,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 1,
+          "CardName": "Griselbrand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tainted Indulgence"
+        },
+        {
+          "Count": 4,
+          "CardName": "Atraxa, Grand Unifier"
         },
         {
           "Count": 1,
@@ -4159,6 +4195,22 @@
           "CardName": "Shadowy Backstreet"
         },
         {
+          "Count": 3,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Psychic Frog"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ulamog, the Defiler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Emperor of Bones"
+        },
+        {
           "Count": 1,
           "CardName": "Cephalid Coliseum"
         },
@@ -4171,68 +4223,8 @@
           "CardName": "Swamp"
         },
         {
-          "Count": 4,
-          "CardName": "Goryo's Vengeance"
-        },
-        {
-          "Count": 4,
-          "CardName": "Ephemerate"
-        },
-        {
-          "Count": 4,
-          "CardName": "Force of Negation"
-        },
-        {
-          "Count": 4,
-          "CardName": "Tainted Indulgence"
-        },
-        {
-          "Count": 4,
-          "CardName": "Atraxa, Grand Unifier"
-        },
-        {
-          "Count": 4,
-          "CardName": "Psychic Frog"
-        },
-        {
-          "Count": 4,
-          "CardName": "Emperor of Bones"
-        },
-        {
-          "Count": 3,
-          "CardName": "Polluted Delta"
-        },
-        {
-          "Count": 3,
-          "CardName": "Marsh Flats"
-        },
-        {
-          "Count": 3,
-          "CardName": "Prismatic Ending"
-        },
-        {
-          "Count": 3,
-          "CardName": "Flooded Strand"
-        },
-        {
-          "Count": 2,
-          "CardName": "Jace, Vryn's Prodigy // Jace, Telepath Unbound"
-        },
-        {
-          "Count": 2,
-          "CardName": "Solitude"
-        },
-        {
-          "Count": 2,
-          "CardName": "Ulamog, the Defiler"
-        },
-        {
           "Count": 2,
           "CardName": "Kiora, the Rising Tide"
-        },
-        {
-          "Count": 1,
-          "CardName": "Griselbrand"
         }
       ],
       "Sideboard": [
@@ -4253,12 +4245,12 @@
           "CardName": "Solitude"
         },
         {
-          "Count": 2,
-          "CardName": "Wrath of the Skies"
-        },
-        {
           "Count": 1,
           "CardName": "Supreme Verdict"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wrath of the Skies"
         },
         {
           "Count": 4,
@@ -4277,8 +4269,36 @@
           "CardName": "Drown in the Loch"
         },
         {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
           "Count": 4,
           "CardName": "Visions of Beyond"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shelldock Isle"
+        },
+        {
+          "Count": 1,
+          "CardName": "Oboro, Palace in the Clouds"
+        },
+        {
+          "Count": 3,
+          "CardName": "Field of Ruin"
+        },
+        {
+          "Count": 2,
+          "CardName": "Watery Grave"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 3,
+          "CardName": "Polluted Delta"
         },
         {
           "Count": 4,
@@ -4297,22 +4317,6 @@
           "CardName": "Tasha's Hideous Laughter"
         },
         {
-          "Count": 4,
-          "CardName": "Archive Trap"
-        },
-        {
-          "Count": 1,
-          "CardName": "Plains"
-        },
-        {
-          "Count": 1,
-          "CardName": "Shelldock Isle"
-        },
-        {
-          "Count": 1,
-          "CardName": "Oboro, Palace in the Clouds"
-        },
-        {
           "Count": 1,
           "CardName": "Otawara, Soaring City"
         },
@@ -4321,16 +4325,8 @@
           "CardName": "Raffine's Tower"
         },
         {
-          "Count": 3,
-          "CardName": "Field of Ruin"
-        },
-        {
-          "Count": 3,
-          "CardName": "Flooded Strand"
-        },
-        {
-          "Count": 3,
-          "CardName": "Polluted Delta"
+          "Count": 2,
+          "CardName": "Swamp"
         },
         {
           "Count": 3,
@@ -4339,6 +4335,10 @@
         {
           "Count": 3,
           "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Archive Trap"
         },
         {
           "Count": 3,
@@ -4351,28 +4351,12 @@
         {
           "Count": 3,
           "CardName": "Path to Exile"
-        },
-        {
-          "Count": 2,
-          "CardName": "Watery Grave"
-        },
-        {
-          "Count": 2,
-          "CardName": "Swamp"
         }
       ],
       "Sideboard": [
         {
           "Count": 2,
           "CardName": "Crypt Incursion"
-        },
-        {
-          "Count": 2,
-          "CardName": "Ensnaring Bridge"
-        },
-        {
-          "Count": 2,
-          "CardName": "Engineered Explosives"
         },
         {
           "Count": 1,
@@ -4397,124 +4381,14 @@
         {
           "Count": 4,
           "CardName": "Flare of Denial"
-        }
-      ]
-    },
-    {
-      "Date": "2024-11-24T09:00:00+00:00",
-      "Player": "Rodrigo Yáñez",
-      "Result": "36th Place",
-      "AnchorUri": "https://www.moxfield.com/decks/eyRVRZpMGk-HOPXFMXfwQA",
-      "Mainboard": [
-        {
-          "Count": 2,
-          "CardName": "Island"
         },
         {
           "Count": 2,
-          "CardName": "Metallic Rebuke"
+          "CardName": "Ensnaring Bridge"
         },
         {
           "Count": 2,
-          "CardName": "Thoughtcast"
-        },
-        {
-          "Count": 2,
-          "CardName": "Seachrome Coast"
-        },
-        {
-          "Count": 1,
-          "CardName": "Shadowspear"
-        },
-        {
-          "Count": 1,
-          "CardName": "Soul-Guide Lantern"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cranial Plating"
-        },
-        {
-          "Count": 1,
-          "CardName": "Pithing Needle"
-        },
-        {
-          "Count": 1,
-          "CardName": "Lavaspur Boots"
-        },
-        {
-          "Count": 3,
-          "CardName": "Darksteel Citadel"
-        },
-        {
-          "Count": 4,
-          "CardName": "Mishra's Bauble"
-        },
-        {
-          "Count": 4,
-          "CardName": "Ornithopter"
-        },
-        {
-          "Count": 4,
-          "CardName": "Memnite"
-        },
-        {
-          "Count": 4,
-          "CardName": "Springleaf Drum"
-        },
-        {
-          "Count": 4,
-          "CardName": "Urza's Saga"
-        },
-        {
-          "Count": 4,
-          "CardName": "Portable Hole"
-        },
-        {
-          "Count": 4,
-          "CardName": "Razortide Bridge"
-        },
-        {
-          "Count": 4,
-          "CardName": "Thought Monitor"
-        },
-        {
-          "Count": 4,
-          "CardName": "Spire of Industry"
-        },
-        {
-          "Count": 4,
-          "CardName": "Emry, Lurker of the Loch"
-        },
-        {
-          "Count": 4,
-          "CardName": "Kappa Cannoneer"
-        }
-      ],
-      "Sideboard": [
-        {
-          "Count": 2,
-          "CardName": "Glass Casket"
-        },
-        {
-          "Count": 2,
-          "CardName": "Dispatch"
-        },
-        {
-          "Count": 1,
-          "CardName": "Tormod's Crypt"
-        },
-        {
-          "Count": 3,
-          "CardName": "Whipflare"
-        },
-        {
-          "Count": 3,
-          "CardName": "Consign to Memory"
-        },
-        {
-          "Count": 4,
-          "CardName": "Damping Sphere"
+          "CardName": "Engineered Explosives"
         }
       ]
     },
@@ -4527,10 +4401,6 @@
         {
           "Count": 1,
           "CardName": "Spell Snare"
-        },
-        {
-          "Count": 1,
-          "CardName": "Commandeer"
         },
         {
           "Count": 4,
@@ -4546,15 +4416,15 @@
         },
         {
           "Count": 4,
-          "CardName": "Sea Gate Restoration // Sea Gate, Reborn"
+          "CardName": "Sea Gate Restoration"
         },
         {
           "Count": 4,
-          "CardName": "Jwari Disruption // Jwari Ruins"
+          "CardName": "Jwari Disruption"
         },
         {
           "Count": 4,
-          "CardName": "Beyeen Veil // Beyeen Coast"
+          "CardName": "Beyeen Veil"
         },
         {
           "Count": 4,
@@ -4569,20 +4439,24 @@
           "CardName": "Fallaji Archaeologist"
         },
         {
+          "Count": 1,
+          "CardName": "Commandeer"
+        },
+        {
           "Count": 4,
           "CardName": "Flare of Denial"
         },
         {
           "Count": 4,
-          "CardName": "Suppression Ray // Orderly Plaza"
+          "CardName": "Suppression Ray"
         },
         {
           "Count": 4,
-          "CardName": "Sink into Stupor // Soporific Springs"
+          "CardName": "Sink into Stupor"
         },
         {
           "Count": 4,
-          "CardName": "Hydroelectric Specimen // Hydroelectric Laboratory"
+          "CardName": "Hydroelectric Specimen"
         },
         {
           "Count": 4,
@@ -4607,12 +4481,16 @@
           "CardName": "Spell Snare"
         },
         {
+          "Count": 2,
+          "CardName": "Marrow Shards"
+        },
+        {
           "Count": 1,
           "CardName": "Commandeer"
         },
         {
-          "Count": 2,
-          "CardName": "Marrow Shards"
+          "Count": 3,
+          "CardName": "Harbinger of the Seas"
         },
         {
           "Count": 2,
@@ -4625,10 +4503,6 @@
         {
           "Count": 2,
           "CardName": "Unable to Scream"
-        },
-        {
-          "Count": 3,
-          "CardName": "Harbinger of the Seas"
         }
       ]
     },
@@ -4652,7 +4526,15 @@
         },
         {
           "Count": 1,
-          "CardName": "Bonecrusher Giant // Stomp"
+          "CardName": "Bonecrusher Giant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tribal Flames"
         },
         {
           "Count": 1,
@@ -4675,16 +4557,44 @@
           "CardName": "Marsh Flats"
         },
         {
+          "Count": 4,
+          "CardName": "Windswept Heath"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wooded Foothills"
+        },
+        {
           "Count": 1,
           "CardName": "Zagoth Triome"
         },
         {
+          "Count": 3,
+          "CardName": "Stubborn Denial"
+        },
+        {
+          "Count": 4,
+          "CardName": "Scion of Draco"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ragavan, Nimble Pilferer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Territorial Kavu"
+        },
+        {
           "Count": 1,
-          "CardName": "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki"
+          "CardName": "Fable of the Mirror-Breaker"
         },
         {
           "Count": 1,
           "CardName": "Ziatora's Proving Ground"
+        },
+        {
+          "Count": 3,
+          "CardName": "Orcish Bowmasters"
         },
         {
           "Count": 1,
@@ -4699,28 +4609,8 @@
           "CardName": "Meticulous Archive"
         },
         {
-          "Count": 4,
-          "CardName": "Lightning Bolt"
-        },
-        {
-          "Count": 4,
-          "CardName": "Tribal Flames"
-        },
-        {
-          "Count": 4,
-          "CardName": "Windswept Heath"
-        },
-        {
-          "Count": 4,
-          "CardName": "Wooded Foothills"
-        },
-        {
-          "Count": 4,
-          "CardName": "Scion of Draco"
-        },
-        {
-          "Count": 4,
-          "CardName": "Territorial Kavu"
+          "Count": 2,
+          "CardName": "Nishoba Brawler"
         },
         {
           "Count": 4,
@@ -4731,22 +4621,6 @@
           "CardName": "Leyline of the Guildpact"
         },
         {
-          "Count": 3,
-          "CardName": "Stubborn Denial"
-        },
-        {
-          "Count": 3,
-          "CardName": "Ragavan, Nimble Pilferer"
-        },
-        {
-          "Count": 3,
-          "CardName": "Orcish Bowmasters"
-        },
-        {
-          "Count": 2,
-          "CardName": "Nishoba Brawler"
-        },
-        {
           "Count": 2,
           "CardName": "Phlage, Titan of Fire's Fury"
         }
@@ -4755,10 +4629,6 @@
         {
           "Count": 1,
           "CardName": "Reprieve"
-        },
-        {
-          "Count": 1,
-          "CardName": "Jegantha, the Wellspring"
         },
         {
           "Count": 2,
@@ -4773,16 +4643,20 @@
           "CardName": "Teferi, Time Raveler"
         },
         {
+          "Count": 1,
+          "CardName": "Jegantha, the Wellspring"
+        },
+        {
           "Count": 2,
           "CardName": "Surgical Extraction"
         },
         {
-          "Count": 2,
-          "CardName": "Anger of the Gods"
-        },
-        {
           "Count": 3,
           "CardName": "Leyline of the Void"
+        },
+        {
+          "Count": 2,
+          "CardName": "Anger of the Gods"
         }
       ]
     },
@@ -4805,6 +4679,14 @@
           "CardName": "Swamp"
         },
         {
+          "Count": 4,
+          "CardName": "Ephemerate"
+        },
+        {
+          "Count": 3,
+          "CardName": "Spell Snare"
+        },
+        {
           "Count": 1,
           "CardName": "Godless Shrine"
         },
@@ -4813,8 +4695,40 @@
           "CardName": "Hallowed Fountain"
         },
         {
+          "Count": 4,
+          "CardName": "Goryo's Vengeance"
+        },
+        {
           "Count": 1,
           "CardName": "Watery Grave"
+        },
+        {
+          "Count": 3,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 4,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 2,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 4,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fallaji Archaeologist"
+        },
+        {
+          "Count": 4,
+          "CardName": "Atraxa, Grand Unifier"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lórien Revealed"
         },
         {
           "Count": 1,
@@ -4833,46 +4747,6 @@
           "CardName": "Meticulous Archive"
         },
         {
-          "Count": 1,
-          "CardName": "Griselbrand"
-        },
-        {
-          "Count": 4,
-          "CardName": "Ephemerate"
-        },
-        {
-          "Count": 4,
-          "CardName": "Goryo's Vengeance"
-        },
-        {
-          "Count": 4,
-          "CardName": "Prismatic Ending"
-        },
-        {
-          "Count": 4,
-          "CardName": "Force of Negation"
-        },
-        {
-          "Count": 4,
-          "CardName": "Fallaji Archaeologist"
-        },
-        {
-          "Count": 4,
-          "CardName": "Atraxa, Grand Unifier"
-        },
-        {
-          "Count": 4,
-          "CardName": "Psychic Frog"
-        },
-        {
-          "Count": 3,
-          "CardName": "Spell Snare"
-        },
-        {
-          "Count": 3,
-          "CardName": "Marsh Flats"
-        },
-        {
           "Count": 3,
           "CardName": "Flooded Strand"
         },
@@ -4881,20 +4755,20 @@
           "CardName": "Polluted Delta"
         },
         {
-          "Count": 3,
-          "CardName": "Kiora, the Rising Tide"
+          "Count": 4,
+          "CardName": "Psychic Frog"
         },
         {
-          "Count": 2,
-          "CardName": "Solitude"
-        },
-        {
-          "Count": 2,
-          "CardName": "Lórien Revealed"
+          "Count": 1,
+          "CardName": "Griselbrand"
         },
         {
           "Count": 2,
           "CardName": "Emperor of Bones"
+        },
+        {
+          "Count": 3,
+          "CardName": "Kiora, the Rising Tide"
         }
       ],
       "Sideboard": [
@@ -4919,12 +4793,12 @@
           "CardName": "Wrath of the Skies"
         },
         {
-          "Count": 3,
-          "CardName": "Stony Silence"
-        },
-        {
           "Count": 4,
           "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 3,
+          "CardName": "Stony Silence"
         }
       ]
     },
@@ -4939,28 +4813,16 @@
           "CardName": "Island"
         },
         {
-          "Count": 3,
-          "CardName": "Fire // Ice"
-        },
-        {
-          "Count": 3,
-          "CardName": "Emrakul, the Aeons Torn"
-        },
-        {
-          "Count": 3,
-          "CardName": "Nulldrifter"
-        },
-        {
-          "Count": 3,
-          "CardName": "Portent of Calamity"
-        },
-        {
           "Count": 1,
           "CardName": "Mountain"
         },
         {
           "Count": 1,
           "CardName": "All Is Dust"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fire // Ice"
         },
         {
           "Count": 1,
@@ -4975,20 +4837,16 @@
           "CardName": "Emrakul, the Promised End"
         },
         {
-          "Count": 1,
-          "CardName": "Otawara, Soaring City"
-        },
-        {
-          "Count": 1,
-          "CardName": "Minamo, School at Water's Edge"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cascading Cataracts"
+          "Count": 3,
+          "CardName": "Emrakul, the Aeons Torn"
         },
         {
           "Count": 4,
           "CardName": "Through the Breach"
+        },
+        {
+          "Count": 2,
+          "CardName": "Narset, Parter of Veils"
         },
         {
           "Count": 4,
@@ -4999,28 +4857,12 @@
           "CardName": "Shivan Reef"
         },
         {
-          "Count": 4,
-          "CardName": "The One Ring"
-        },
-        {
-          "Count": 4,
-          "CardName": "Eldrazi Temple"
-        },
-        {
-          "Count": 4,
-          "CardName": "Ugin's Labyrinth"
-        },
-        {
-          "Count": 4,
-          "CardName": "Kozilek's Command"
-        },
-        {
-          "Count": 2,
-          "CardName": "Narset, Parter of Veils"
-        },
-        {
           "Count": 2,
           "CardName": "Kozilek's Return"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
         },
         {
           "Count": 2,
@@ -5031,8 +4873,40 @@
           "CardName": "Force of Negation"
         },
         {
+          "Count": 4,
+          "CardName": "The One Ring"
+        },
+        {
+          "Count": 1,
+          "CardName": "Minamo, School at Water's Edge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eldrazi Temple"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ugin's Labyrinth"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nulldrifter"
+        },
+        {
           "Count": 2,
           "CardName": "Ulamog, the Defiler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kozilek's Command"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cascading Cataracts"
+        },
+        {
+          "Count": 3,
+          "CardName": "Portent of Calamity"
         }
       ],
       "Sideboard": [
@@ -5041,20 +4915,8 @@
           "CardName": "Soul-Guide Lantern"
         },
         {
-          "Count": 1,
-          "CardName": "Brotherhood's End"
-        },
-        {
-          "Count": 1,
-          "CardName": "Soulless Jailer"
-        },
-        {
           "Count": 3,
           "CardName": "Thought-Knot Seer"
-        },
-        {
-          "Count": 3,
-          "CardName": "Consign to Memory"
         },
         {
           "Count": 2,
@@ -5065,8 +4927,20 @@
           "CardName": "The Stone Brain"
         },
         {
+          "Count": 1,
+          "CardName": "Brotherhood's End"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soulless Jailer"
+        },
+        {
           "Count": 2,
           "CardName": "Spell Snare"
+        },
+        {
+          "Count": 3,
+          "CardName": "Consign to Memory"
         }
       ]
     },
@@ -5081,6 +4955,10 @@
           "CardName": "Castle Garenbrig"
         },
         {
+          "Count": 2,
+          "CardName": "Lotus Field"
+        },
+        {
           "Count": 1,
           "CardName": "Tolaria West"
         },
@@ -5089,12 +4967,32 @@
           "CardName": "Hanweir Battlements"
         },
         {
+          "Count": 4,
+          "CardName": "Arboreal Grazer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gruul Turf"
+        },
+        {
+          "Count": 4,
+          "CardName": "Simic Growth Chamber"
+        },
+        {
           "Count": 1,
           "CardName": "Vesuva"
         },
         {
+          "Count": 4,
+          "CardName": "Amulet of Vigor"
+        },
+        {
           "Count": 1,
           "CardName": "Mirrorpool"
+        },
+        {
+          "Count": 3,
+          "CardName": "Crumbling Vestige"
         },
         {
           "Count": 1,
@@ -5109,12 +5007,40 @@
           "CardName": "Valakut, the Molten Pinnacle"
         },
         {
+          "Count": 4,
+          "CardName": "Primeval Titan"
+        },
+        {
+          "Count": 3,
+          "CardName": "Summoner's Pact"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Saga"
+        },
+        {
           "Count": 1,
           "CardName": "Dryad of the Ilysian Grove"
         },
         {
+          "Count": 3,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
           "Count": 1,
           "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "The One Ring"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spelunking"
         },
         {
           "Count": 1,
@@ -5143,58 +5069,6 @@
         {
           "Count": 1,
           "CardName": "Shifting Woodland"
-        },
-        {
-          "Count": 2,
-          "CardName": "Lotus Field"
-        },
-        {
-          "Count": 2,
-          "CardName": "Gruul Turf"
-        },
-        {
-          "Count": 2,
-          "CardName": "Forest"
-        },
-        {
-          "Count": 2,
-          "CardName": "Spelunking"
-        },
-        {
-          "Count": 4,
-          "CardName": "Arboreal Grazer"
-        },
-        {
-          "Count": 4,
-          "CardName": "Simic Growth Chamber"
-        },
-        {
-          "Count": 4,
-          "CardName": "Amulet of Vigor"
-        },
-        {
-          "Count": 4,
-          "CardName": "Primeval Titan"
-        },
-        {
-          "Count": 4,
-          "CardName": "Urza's Saga"
-        },
-        {
-          "Count": 4,
-          "CardName": "The One Ring"
-        },
-        {
-          "Count": 3,
-          "CardName": "Crumbling Vestige"
-        },
-        {
-          "Count": 3,
-          "CardName": "Summoner's Pact"
-        },
-        {
-          "Count": 3,
-          "CardName": "Boseiju, Who Endures"
         },
         {
           "Count": 3,
@@ -5263,12 +5137,52 @@
           "CardName": "Island"
         },
         {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 3,
+          "CardName": "Preordain"
+        },
+        {
           "Count": 2,
           "CardName": "Spell Snare"
         },
         {
+          "Count": 4,
+          "CardName": "Thought Scour"
+        },
+        {
+          "Count": 3,
+          "CardName": "Watery Grave"
+        },
+        {
+          "Count": 1,
+          "CardName": "Go for the Throat"
+        },
+        {
+          "Count": 4,
+          "CardName": "Unearth"
+        },
+        {
           "Count": 2,
           "CardName": "Murktide Regent"
+        },
+        {
+          "Count": 3,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Darkslick Shores"
+        },
+        {
+          "Count": 3,
+          "CardName": "Orcish Bowmasters"
         },
         {
           "Count": 2,
@@ -5279,36 +5193,8 @@
           "CardName": "Bloodstained Mire"
         },
         {
-          "Count": 2,
-          "CardName": "Harbinger of the Seas"
-        },
-        {
-          "Count": 2,
-          "CardName": "Sink into Stupor // Soporific Springs"
-        },
-        {
-          "Count": 1,
-          "CardName": "Swamp"
-        },
-        {
-          "Count": 1,
-          "CardName": "Go for the Throat"
-        },
-        {
-          "Count": 1,
-          "CardName": "Darkslick Shores"
-        },
-        {
-          "Count": 4,
-          "CardName": "Counterspell"
-        },
-        {
-          "Count": 4,
-          "CardName": "Thought Scour"
-        },
-        {
-          "Count": 4,
-          "CardName": "Unearth"
+          "Count": 3,
+          "CardName": "Flooded Strand"
         },
         {
           "Count": 4,
@@ -5319,32 +5205,20 @@
           "CardName": "Psychic Frog"
         },
         {
+          "Count": 2,
+          "CardName": "Harbinger of the Seas"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sink into Stupor"
+        },
+        {
           "Count": 4,
           "CardName": "Fatal Push"
         },
         {
           "Count": 4,
           "CardName": "Abhorrent Oculus"
-        },
-        {
-          "Count": 3,
-          "CardName": "Preordain"
-        },
-        {
-          "Count": 3,
-          "CardName": "Watery Grave"
-        },
-        {
-          "Count": 3,
-          "CardName": "Force of Negation"
-        },
-        {
-          "Count": 3,
-          "CardName": "Orcish Bowmasters"
-        },
-        {
-          "Count": 3,
-          "CardName": "Flooded Strand"
         }
       ],
       "Sideboard": [
@@ -5357,6 +5231,10 @@
           "CardName": "Glistening Deluge"
         },
         {
+          "Count": 2,
+          "CardName": "Stern Scolding"
+        },
+        {
           "Count": 1,
           "CardName": "Toxic Deluge"
         },
@@ -5365,16 +5243,12 @@
           "CardName": "Unlicensed Hearse"
         },
         {
-          "Count": 1,
-          "CardName": "Harbinger of the Seas"
-        },
-        {
-          "Count": 2,
-          "CardName": "Stern Scolding"
-        },
-        {
           "Count": 2,
           "CardName": "Surgical Extraction"
+        },
+        {
+          "Count": 1,
+          "CardName": "Harbinger of the Seas"
         },
         {
           "Count": 4,
@@ -5393,6 +5267,26 @@
           "CardName": "Island"
         },
         {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fire // Ice"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 2,
+          "CardName": "Crackling Drake"
+        },
+        {
           "Count": 3,
           "CardName": "Spell Snare"
         },
@@ -5401,20 +5295,12 @@
           "CardName": "Steam Vents"
         },
         {
-          "Count": 3,
-          "CardName": "Flooded Strand"
+          "Count": 4,
+          "CardName": "Scalding Tarn"
         },
         {
-          "Count": 3,
-          "CardName": "Flare of Denial"
-        },
-        {
-          "Count": 1,
-          "CardName": "Mountain"
-        },
-        {
-          "Count": 1,
-          "CardName": "Lightning Bolt"
+          "Count": 4,
+          "CardName": "Snapcaster Mage"
         },
         {
           "Count": 1,
@@ -5429,60 +5315,48 @@
           "CardName": "Cascade Bluffs"
         },
         {
-          "Count": 1,
-          "CardName": "Consider"
-        },
-        {
-          "Count": 1,
-          "CardName": "Archmage's Charm"
-        },
-        {
-          "Count": 4,
-          "CardName": "Counterspell"
-        },
-        {
-          "Count": 4,
-          "CardName": "Scalding Tarn"
-        },
-        {
-          "Count": 4,
-          "CardName": "Snapcaster Mage"
-        },
-        {
           "Count": 4,
           "CardName": "Flame of Anor"
-        },
-        {
-          "Count": 4,
-          "CardName": "Tune the Narrative"
-        },
-        {
-          "Count": 4,
-          "CardName": "Galvanic Discharge"
-        },
-        {
-          "Count": 4,
-          "CardName": "Thundertrap Trainer"
-        },
-        {
-          "Count": 2,
-          "CardName": "Fire // Ice"
-        },
-        {
-          "Count": 2,
-          "CardName": "Crackling Drake"
         },
         {
           "Count": 2,
           "CardName": "Thundering Falls"
         },
         {
+          "Count": 1,
+          "CardName": "Consider"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Archmage's Charm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flare of Denial"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tune the Narrative"
+        },
+        {
           "Count": 2,
-          "CardName": "Sink into Stupor // Soporific Springs"
+          "CardName": "Sink into Stupor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Discharge"
         },
         {
           "Count": 2,
           "CardName": "Arena of Glory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thundertrap Trainer"
         }
       ],
       "Sideboard": [
@@ -5499,6 +5373,10 @@
           "CardName": "Kozilek's Return"
         },
         {
+          "Count": 2,
+          "CardName": "Obsidian Charmaw"
+        },
+        {
           "Count": 1,
           "CardName": "Force of Negation"
         },
@@ -5508,19 +5386,15 @@
         },
         {
           "Count": 2,
-          "CardName": "Obsidian Charmaw"
-        },
-        {
-          "Count": 2,
           "CardName": "Surgical Extraction"
-        },
-        {
-          "Count": 2,
-          "CardName": "Pyroclasm"
         },
         {
           "Count": 4,
           "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyroclasm"
         }
       ]
     },
@@ -5535,52 +5409,56 @@
           "CardName": "Silvergill Adept"
         },
         {
-          "Count": 2,
-          "CardName": "Mutavault"
-        },
-        {
-          "Count": 2,
-          "CardName": "Tishana's Tidebinder"
-        },
-        {
           "Count": 4,
           "CardName": "Lord of Atlantis"
-        },
-        {
-          "Count": 4,
-          "CardName": "Aether Vial"
-        },
-        {
-          "Count": 4,
-          "CardName": "Master of the Pearl Trident"
-        },
-        {
-          "Count": 4,
-          "CardName": "Tide Shaper"
-        },
-        {
-          "Count": 4,
-          "CardName": "Vodalian Hexcatcher"
-        },
-        {
-          "Count": 4,
-          "CardName": "Sink into Stupor // Soporific Springs"
-        },
-        {
-          "Count": 4,
-          "CardName": "Floodpits Drowner"
         },
         {
           "Count": 3,
           "CardName": "Cavern of Souls"
         },
         {
+          "Count": 4,
+          "CardName": "Aether Vial"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mutavault"
+        },
+        {
           "Count": 3,
           "CardName": "Force of Negation"
         },
         {
+          "Count": 1,
+          "CardName": "Waterlogged Grove"
+        },
+        {
+          "Count": 4,
+          "CardName": "Master of the Pearl Trident"
+        },
+        {
           "Count": 3,
           "CardName": "Svyelun of Sea and Sky"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tide Shaper"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 9,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vodalian Hexcatcher"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tishana's Tidebinder"
         },
         {
           "Count": 3,
@@ -5591,16 +5469,12 @@
           "CardName": "Harbinger of the Seas"
         },
         {
-          "Count": 1,
-          "CardName": "Waterlogged Grove"
+          "Count": 4,
+          "CardName": "Sink into Stupor"
         },
         {
-          "Count": 1,
-          "CardName": "Otawara, Soaring City"
-        },
-        {
-          "Count": 9,
-          "CardName": "Island"
+          "Count": 4,
+          "CardName": "Floodpits Drowner"
         }
       ],
       "Sideboard": [
@@ -5645,14 +5519,6 @@
           "CardName": "Mountain"
         },
         {
-          "Count": 1,
-          "CardName": "Marsh Flats"
-        },
-        {
-          "Count": 1,
-          "CardName": "Monumental Henge"
-        },
-        {
           "Count": 2,
           "CardName": "Plains"
         },
@@ -5663,22 +5529,6 @@
         {
           "Count": 2,
           "CardName": "Goblin Bombardment"
-        },
-        {
-          "Count": 2,
-          "CardName": "Ragavan, Nimble Pilferer"
-        },
-        {
-          "Count": 2,
-          "CardName": "Elegant Parlor"
-        },
-        {
-          "Count": 2,
-          "CardName": "Galvanic Discharge"
-        },
-        {
-          "Count": 2,
-          "CardName": "Arena of Glory"
         },
         {
           "Count": 3,
@@ -5693,12 +5543,24 @@
           "CardName": "Arid Mesa"
         },
         {
+          "Count": 1,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ragavan, Nimble Pilferer"
+        },
+        {
           "Count": 4,
           "CardName": "The One Ring"
         },
         {
+          "Count": 2,
+          "CardName": "Elegant Parlor"
+        },
+        {
           "Count": 4,
-          "CardName": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger"
+          "CardName": "Ajani, Nacatl Pariah"
         },
         {
           "Count": 4,
@@ -5709,6 +5571,10 @@
           "CardName": "Amped Raptor"
         },
         {
+          "Count": 2,
+          "CardName": "Galvanic Discharge"
+        },
+        {
           "Count": 4,
           "CardName": "Guide of Souls"
         },
@@ -5717,12 +5583,20 @@
           "CardName": "Phlage, Titan of Fire's Fury"
         },
         {
+          "Count": 1,
+          "CardName": "Monumental Henge"
+        },
+        {
           "Count": 4,
           "CardName": "Static Prison"
         },
         {
           "Count": 4,
           "CardName": "Ocelot Pride"
+        },
+        {
+          "Count": 2,
+          "CardName": "Arena of Glory"
         }
       ],
       "Sideboard": [
@@ -5733,6 +5607,10 @@
         {
           "Count": 1,
           "CardName": "Jegantha, the Wellspring"
+        },
+        {
+          "Count": 2,
+          "CardName": "Suncleanser"
         },
         {
           "Count": 1,
@@ -5747,14 +5625,6 @@
           "CardName": "Surgical Extraction"
         },
         {
-          "Count": 1,
-          "CardName": "Ghost Vacuum"
-        },
-        {
-          "Count": 2,
-          "CardName": "Suncleanser"
-        },
-        {
           "Count": 2,
           "CardName": "Orim's Chant"
         },
@@ -5765,6 +5635,10 @@
         {
           "Count": 3,
           "CardName": "White Orchid Phantom"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
         }
       ]
     },
@@ -5783,12 +5657,40 @@
           "CardName": "Manamorphose"
         },
         {
+          "Count": 1,
+          "CardName": "Stomping Ground"
+        },
+        {
           "Count": 4,
           "CardName": "Desperate Ritual"
         },
         {
+          "Count": 1,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 3,
+          "CardName": "Scalding Tarn"
+        },
+        {
           "Count": 4,
           "CardName": "Pyretic Ritual"
+        },
+        {
+          "Count": 3,
+          "CardName": "Past in Flames"
+        },
+        {
+          "Count": 1,
+          "CardName": "Valakut Awakening"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grapeshot"
+        },
+        {
+          "Count": 3,
+          "CardName": "Arid Mesa"
         },
         {
           "Count": 4,
@@ -5799,28 +5701,12 @@
           "CardName": "Wrenn's Resolve"
         },
         {
-          "Count": 4,
-          "CardName": "Ruby Medallion"
+          "Count": 3,
+          "CardName": "Flame of Anor"
         },
         {
-          "Count": 4,
-          "CardName": "Ral, Monsoon Mage // Ral, Leyline Prodigy"
-        },
-        {
-          "Count": 1,
-          "CardName": "Stomping Ground"
-        },
-        {
-          "Count": 1,
-          "CardName": "Steam Vents"
-        },
-        {
-          "Count": 1,
-          "CardName": "Valakut Awakening // Valakut Stoneforge"
-        },
-        {
-          "Count": 1,
-          "CardName": "Grapeshot"
+          "Count": 2,
+          "CardName": "Questing Druid"
         },
         {
           "Count": 1,
@@ -5835,50 +5721,30 @@
           "CardName": "Thundering Falls"
         },
         {
+          "Count": 3,
+          "CardName": "Wooded Foothills"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ruby Medallion"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ral, Monsoon Mage"
+        },
+        {
           "Count": 1,
           "CardName": "Artist's Talent"
         },
         {
           "Count": 3,
-          "CardName": "Scalding Tarn"
-        },
-        {
-          "Count": 3,
-          "CardName": "Past in Flames"
-        },
-        {
-          "Count": 3,
-          "CardName": "Arid Mesa"
-        },
-        {
-          "Count": 3,
-          "CardName": "Flame of Anor"
-        },
-        {
-          "Count": 3,
-          "CardName": "Wooded Foothills"
-        },
-        {
-          "Count": 3,
           "CardName": "Wish"
-        },
-        {
-          "Count": 2,
-          "CardName": "Questing Druid // Seek the Beast"
         }
       ],
       "Sideboard": [
         {
           "Count": 2,
           "CardName": "Nature's Claim"
-        },
-        {
-          "Count": 2,
-          "CardName": "Into the Flood Maw"
-        },
-        {
-          "Count": 2,
-          "CardName": "Flusterstorm"
         },
         {
           "Count": 1,
@@ -5905,6 +5771,14 @@
           "CardName": "Brotherhood's End"
         },
         {
+          "Count": 2,
+          "CardName": "Into the Flood Maw"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flusterstorm"
+        },
+        {
           "Count": 3,
           "CardName": "Veil of Summer"
         }
@@ -5921,32 +5795,8 @@
           "CardName": "Blood Crypt"
         },
         {
-          "Count": 1,
-          "CardName": "Commercial District"
-        },
-        {
-          "Count": 1,
-          "CardName": "Raucous Theater"
-        },
-        {
-          "Count": 1,
-          "CardName": "Forest"
-        },
-        {
-          "Count": 1,
-          "CardName": "Mountain"
-        },
-        {
           "Count": 3,
           "CardName": "Stomping Ground"
-        },
-        {
-          "Count": 3,
-          "CardName": "Scalding Tarn"
-        },
-        {
-          "Count": 3,
-          "CardName": "Arena of Glory"
         },
         {
           "Count": 2,
@@ -5957,10 +5807,6 @@
           "CardName": "Wooded Foothills"
         },
         {
-          "Count": 2,
-          "CardName": "Violent Urge"
-        },
-        {
           "Count": 4,
           "CardName": "Tarfire"
         },
@@ -5969,12 +5815,24 @@
           "CardName": "Arid Mesa"
         },
         {
+          "Count": 3,
+          "CardName": "Scalding Tarn"
+        },
+        {
           "Count": 4,
           "CardName": "Mishra's Bauble"
         },
         {
           "Count": 4,
           "CardName": "Street Wraith"
+        },
+        {
+          "Count": 1,
+          "CardName": "Commercial District"
+        },
+        {
+          "Count": 1,
+          "CardName": "Raucous Theater"
         },
         {
           "Count": 4,
@@ -5989,6 +5847,10 @@
           "CardName": "Dragon's Rage Channeler"
         },
         {
+          "Count": 3,
+          "CardName": "Arena of Glory"
+        },
+        {
           "Count": 4,
           "CardName": "Malevolent Rumble"
         },
@@ -5999,6 +5861,18 @@
         {
           "Count": 4,
           "CardName": "Omnivorous Flytrap"
+        },
+        {
+          "Count": 2,
+          "CardName": "Violent Urge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
         }
       ],
       "Sideboard": [
@@ -6007,8 +5881,16 @@
           "CardName": "Nihil Spellbomb"
         },
         {
+          "Count": 3,
+          "CardName": "Pyroclasm"
+        },
+        {
           "Count": 2,
           "CardName": "Pick Your Poison"
+        },
+        {
+          "Count": 4,
+          "CardName": "Magebane Lizard"
         },
         {
           "Count": 2,
@@ -6017,14 +5899,6 @@
         {
           "Count": 2,
           "CardName": "Unholy Heat"
-        },
-        {
-          "Count": 3,
-          "CardName": "Pyroclasm"
-        },
-        {
-          "Count": 4,
-          "CardName": "Magebane Lizard"
         }
       ]
     },
@@ -6120,7 +5994,7 @@
         },
         {
           "Count": 2,
-          "CardName": "Sink into Stupor // Soporific Springs"
+          "CardName": "Sink into Stupor"
         },
         {
           "Count": 2,
@@ -6138,7 +6012,7 @@
         },
         {
           "Count": 1,
-          "CardName": "Graveyard Trespasser // Graveyard Glutton"
+          "CardName": "Graveyard Trespasser"
         },
         {
           "Count": 1,
@@ -6181,22 +6055,6 @@
           "CardName": "Stomping Ground"
         },
         {
-          "Count": 1,
-          "CardName": "Mountain"
-        },
-        {
-          "Count": 1,
-          "CardName": "Boseiju, Who Endures"
-        },
-        {
-          "Count": 1,
-          "CardName": "Commercial District"
-        },
-        {
-          "Count": 1,
-          "CardName": "Raucous Theater"
-        },
-        {
           "Count": 4,
           "CardName": "Indomitable Creativity"
         },
@@ -6207,6 +6065,10 @@
         {
           "Count": 4,
           "CardName": "Fatal Push"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
         },
         {
           "Count": 4,
@@ -6226,11 +6088,31 @@
         },
         {
           "Count": 4,
-          "CardName": "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki"
+          "CardName": "Fable of the Mirror-Breaker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boseiju, Who Endures"
         },
         {
           "Count": 4,
           "CardName": "Wrenn and Six"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bitter Reunion"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blood Crypt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Commercial District"
+        },
+        {
+          "Count": 1,
+          "CardName": "Raucous Theater"
         },
         {
           "Count": 4,
@@ -6243,14 +6125,6 @@
         {
           "Count": 4,
           "CardName": "Faithless Looting"
-        },
-        {
-          "Count": 2,
-          "CardName": "Bitter Reunion"
-        },
-        {
-          "Count": 2,
-          "CardName": "Blood Crypt"
         }
       ],
       "Sideboard": [
@@ -6259,24 +6133,24 @@
           "CardName": "Veil of Summer"
         },
         {
-          "Count": 3,
-          "CardName": "Terastodon"
-        },
-        {
           "Count": 2,
           "CardName": "Pyroclasm"
-        },
-        {
-          "Count": 2,
-          "CardName": "Meltdown"
         },
         {
           "Count": 4,
           "CardName": "Leyline of the Void"
         },
         {
+          "Count": 3,
+          "CardName": "Terastodon"
+        },
+        {
           "Count": 1,
           "CardName": "Brotherhood's End"
+        },
+        {
+          "Count": 2,
+          "CardName": "Meltdown"
         }
       ]
     },
@@ -6291,32 +6165,12 @@
           "CardName": "Mountain"
         },
         {
-          "Count": 1,
-          "CardName": "Flooded Strand"
-        },
-        {
           "Count": 3,
           "CardName": "Plains"
         },
         {
           "Count": 3,
           "CardName": "Aether Hub"
-        },
-        {
-          "Count": 3,
-          "CardName": "Sacred Foundry"
-        },
-        {
-          "Count": 3,
-          "CardName": "The One Ring"
-        },
-        {
-          "Count": 3,
-          "CardName": "Galvanic Discharge"
-        },
-        {
-          "Count": 3,
-          "CardName": "Static Prison"
         },
         {
           "Count": 2,
@@ -6327,8 +6181,16 @@
           "CardName": "Lightning Bolt"
         },
         {
+          "Count": 3,
+          "CardName": "Sacred Foundry"
+        },
+        {
           "Count": 2,
           "CardName": "Blood Moon"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arid Mesa"
         },
         {
           "Count": 2,
@@ -6339,28 +6201,32 @@
           "CardName": "Ragavan, Nimble Pilferer"
         },
         {
+          "Count": 3,
+          "CardName": "The One Ring"
+        },
+        {
           "Count": 2,
           "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ajani, Nacatl Pariah"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flooded Strand"
         },
         {
           "Count": 2,
           "CardName": "Windswept Heath"
         },
         {
-          "Count": 2,
-          "CardName": "Arena of Glory"
-        },
-        {
-          "Count": 4,
-          "CardName": "Arid Mesa"
-        },
-        {
-          "Count": 4,
-          "CardName": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger"
-        },
-        {
           "Count": 4,
           "CardName": "Amped Raptor"
+        },
+        {
+          "Count": 3,
+          "CardName": "Galvanic Discharge"
         },
         {
           "Count": 4,
@@ -6371,8 +6237,16 @@
           "CardName": "Phlage, Titan of Fire's Fury"
         },
         {
+          "Count": 3,
+          "CardName": "Static Prison"
+        },
+        {
           "Count": 4,
           "CardName": "Ocelot Pride"
+        },
+        {
+          "Count": 2,
+          "CardName": "Arena of Glory"
         }
       ],
       "Sideboard": [
@@ -6389,14 +6263,6 @@
           "CardName": "Jegantha, the Wellspring"
         },
         {
-          "Count": 1,
-          "CardName": "Magebane Lizard"
-        },
-        {
-          "Count": 1,
-          "CardName": "Surgical Extraction"
-        },
-        {
           "Count": 2,
           "CardName": "Suncleanser"
         },
@@ -6407,6 +6273,14 @@
         {
           "Count": 2,
           "CardName": "Fear, Fire, Foes!"
+        },
+        {
+          "Count": 1,
+          "CardName": "Magebane Lizard"
+        },
+        {
+          "Count": 1,
+          "CardName": "Surgical Extraction"
         },
         {
           "Count": 2,
@@ -6441,60 +6315,12 @@
           "CardName": "Pyretic Ritual"
         },
         {
-          "Count": 4,
-          "CardName": "Reckless Impulse"
-        },
-        {
-          "Count": 4,
-          "CardName": "Wrenn's Resolve"
-        },
-        {
-          "Count": 4,
-          "CardName": "Wooded Foothills"
-        },
-        {
-          "Count": 4,
-          "CardName": "Ruby Medallion"
-        },
-        {
-          "Count": 4,
-          "CardName": "Ral, Monsoon Mage // Ral, Leyline Prodigy"
-        },
-        {
           "Count": 3,
           "CardName": "Past in Flames"
         },
         {
-          "Count": 3,
-          "CardName": "Wish"
-        },
-        {
           "Count": 2,
-          "CardName": "Valakut Awakening // Valakut Stoneforge"
-        },
-        {
-          "Count": 2,
-          "CardName": "Scalding Tarn"
-        },
-        {
-          "Count": 2,
-          "CardName": "Strike It Rich"
-        },
-        {
-          "Count": 2,
-          "CardName": "Questing Druid // Seek the Beast"
-        },
-        {
-          "Count": 2,
-          "CardName": "Commercial District"
-        },
-        {
-          "Count": 2,
-          "CardName": "Bloodstained Mire"
-        },
-        {
-          "Count": 2,
-          "CardName": "Glimpse the Impossible"
+          "CardName": "Valakut Awakening"
         },
         {
           "Count": 1,
@@ -6505,8 +6331,56 @@
           "CardName": "Arid Mesa"
         },
         {
+          "Count": 2,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 2,
+          "CardName": "Strike It Rich"
+        },
+        {
+          "Count": 4,
+          "CardName": "Reckless Impulse"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wrenn's Resolve"
+        },
+        {
+          "Count": 2,
+          "CardName": "Questing Druid"
+        },
+        {
           "Count": 1,
           "CardName": "Stomping Ground"
+        },
+        {
+          "Count": 2,
+          "CardName": "Commercial District"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wooded Foothills"
+        },
+        {
+          "Count": 2,
+          "CardName": "Glimpse the Impossible"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ruby Medallion"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ral, Monsoon Mage"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wish"
         }
       ],
       "Sideboard": [
@@ -6517,6 +6391,10 @@
         {
           "Count": 1,
           "CardName": "Past in Flames"
+        },
+        {
+          "Count": 2,
+          "CardName": "Abrade"
         },
         {
           "Count": 1,
@@ -6551,10 +6429,6 @@
           "CardName": "Nature's Claim"
         },
         {
-          "Count": 2,
-          "CardName": "Abrade"
-        },
-        {
           "Count": 3,
           "CardName": "Veil of Summer"
         }
@@ -6571,30 +6445,6 @@
           "CardName": "Island"
         },
         {
-          "Count": 1,
-          "CardName": "Sacred Foundry"
-        },
-        {
-          "Count": 1,
-          "CardName": "Steam Vents"
-        },
-        {
-          "Count": 1,
-          "CardName": "Zagoth Triome"
-        },
-        {
-          "Count": 1,
-          "CardName": "Prismatic Ending"
-        },
-        {
-          "Count": 1,
-          "CardName": "Elegant Parlor"
-        },
-        {
-          "Count": 1,
-          "CardName": "Thundering Falls"
-        },
-        {
           "Count": 2,
           "CardName": "Plains"
         },
@@ -6607,32 +6457,32 @@
           "CardName": "Hallowed Fountain"
         },
         {
+          "Count": 1,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 1,
+          "CardName": "Steam Vents"
+        },
+        {
           "Count": 2,
           "CardName": "Scalding Tarn"
-        },
-        {
-          "Count": 2,
-          "CardName": "Stern Scolding"
-        },
-        {
-          "Count": 2,
-          "CardName": "Teferi, Time Raveler"
         },
         {
           "Count": 3,
           "CardName": "Force of Negation"
         },
         {
-          "Count": 3,
-          "CardName": "Nulldrifter"
-        },
-        {
-          "Count": 3,
-          "CardName": "Arena of Glory"
+          "Count": 1,
+          "CardName": "Zagoth Triome"
         },
         {
           "Count": 4,
           "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 1,
+          "CardName": "Prismatic Ending"
         },
         {
           "Count": 4,
@@ -6643,6 +6493,18 @@
           "CardName": "The One Ring"
         },
         {
+          "Count": 2,
+          "CardName": "Stern Scolding"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thundering Falls"
+        },
+        {
           "Count": 4,
           "CardName": "Flooded Strand"
         },
@@ -6651,12 +6513,24 @@
           "CardName": "Leyline Binding"
         },
         {
+          "Count": 3,
+          "CardName": "Nulldrifter"
+        },
+        {
           "Count": 4,
           "CardName": "Phlage, Titan of Fire's Fury"
         },
         {
           "Count": 4,
           "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 3,
+          "CardName": "Arena of Glory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Teferi, Time Raveler"
         },
         {
           "Count": 4,
@@ -6676,6 +6550,10 @@
           "CardName": "Breeding Pool"
         },
         {
+          "Count": 2,
+          "CardName": "Cavern of Souls"
+        },
+        {
           "Count": 1,
           "CardName": "Hallowed Fountain"
         },
@@ -6684,48 +6562,20 @@
           "CardName": "Steam Vents"
         },
         {
-          "Count": 1,
-          "CardName": "Indatha Triome"
-        },
-        {
-          "Count": 1,
-          "CardName": "Raugrin Triome"
-        },
-        {
-          "Count": 1,
-          "CardName": "Spara's Headquarters"
-        },
-        {
-          "Count": 1,
-          "CardName": "Commercial District"
-        },
-        {
-          "Count": 1,
-          "CardName": "Hedge Maze"
-        },
-        {
-          "Count": 1,
-          "CardName": "Meticulous Archive"
-        },
-        {
-          "Count": 1,
-          "CardName": "Thundering Falls"
-        },
-        {
-          "Count": 1,
-          "CardName": "Subtlety"
-        },
-        {
-          "Count": 2,
-          "CardName": "Cavern of Souls"
-        },
-        {
           "Count": 2,
           "CardName": "Arid Mesa"
         },
         {
+          "Count": 3,
+          "CardName": "Polluted Delta"
+        },
+        {
           "Count": 2,
           "CardName": "Windswept Heath"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wrenn and Six"
         },
         {
           "Count": 2,
@@ -6744,38 +6594,6 @@
           "CardName": "Forest"
         },
         {
-          "Count": 2,
-          "CardName": "Boseiju, Who Endures"
-        },
-        {
-          "Count": 3,
-          "CardName": "Polluted Delta"
-        },
-        {
-          "Count": 3,
-          "CardName": "Leyline Binding"
-        },
-        {
-          "Count": 3,
-          "CardName": "Nulldrifter"
-        },
-        {
-          "Count": 3,
-          "CardName": "Tune the Narrative"
-        },
-        {
-          "Count": 3,
-          "CardName": "Galvanic Discharge"
-        },
-        {
-          "Count": 3,
-          "CardName": "Prismatic Ending"
-        },
-        {
-          "Count": 4,
-          "CardName": "Wrenn and Six"
-        },
-        {
           "Count": 4,
           "CardName": "Ephemerate"
         },
@@ -6788,12 +6606,60 @@
           "CardName": "Flooded Strand"
         },
         {
+          "Count": 1,
+          "CardName": "Indatha Triome"
+        },
+        {
+          "Count": 1,
+          "CardName": "Raugrin Triome"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spara's Headquarters"
+        },
+        {
+          "Count": 3,
+          "CardName": "Leyline Binding"
+        },
+        {
           "Count": 4,
           "CardName": "The One Ring"
         },
         {
+          "Count": 1,
+          "CardName": "Commercial District"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hedge Maze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thundering Falls"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nulldrifter"
+        },
+        {
           "Count": 4,
           "CardName": "Wrath of the Skies"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tune the Narrative"
+        },
+        {
+          "Count": 3,
+          "CardName": "Galvanic Discharge"
         },
         {
           "Count": 4,
@@ -6804,6 +6670,14 @@
           "CardName": "Omnath, Locus of Creation"
         },
         {
+          "Count": 3,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 1,
+          "CardName": "Subtlety"
+        },
+        {
           "Count": 4,
           "CardName": "Solitude"
         }
@@ -6812,6 +6686,10 @@
         {
           "Count": 2,
           "CardName": "Endurance"
+        },
+        {
+          "Count": 3,
+          "CardName": "Obsidian Charmaw"
         },
         {
           "Count": 2,
@@ -6832,10 +6710,6 @@
         {
           "Count": 2,
           "CardName": "Rest in Peace"
-        },
-        {
-          "Count": 3,
-          "CardName": "Obsidian Charmaw"
         }
       ]
     },
@@ -6846,36 +6720,8 @@
       "AnchorUri": "https://www.moxfield.com/decks/1efoIDwXlEGQri4LgkinOw",
       "Mainboard": [
         {
-          "Count": 3,
-          "CardName": "Mind Stone"
-        },
-        {
-          "Count": 3,
-          "CardName": "Expedition Map"
-        },
-        {
-          "Count": 3,
-          "CardName": "All Is Dust"
-        },
-        {
-          "Count": 3,
-          "CardName": "The One Ring"
-        },
-        {
           "Count": 4,
-          "CardName": "Urza's Mine"
-        },
-        {
-          "Count": 4,
-          "CardName": "Urza's Power Plant"
-        },
-        {
-          "Count": 4,
-          "CardName": "Urza's Tower"
-        },
-        {
-          "Count": 4,
-          "CardName": "Eldrazi Temple"
+          "CardName": "Thought-Knot Seer"
         },
         {
           "Count": 4,
@@ -6883,11 +6729,7 @@
         },
         {
           "Count": 4,
-          "CardName": "Karn, the Great Creator"
-        },
-        {
-          "Count": 4,
-          "CardName": "Thought-Knot Seer"
+          "CardName": "Eldrazi Temple"
         },
         {
           "Count": 4,
@@ -6903,45 +6745,65 @@
         },
         {
           "Count": 4,
+          "CardName": "Urza's Mine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Tower"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Power Plant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Karn, the Great Creator"
+        },
+        {
+          "Count": 4,
           "CardName": "Sire of Seven Deaths"
         },
         {
-          "Count": 2,
-          "CardName": "Trinisphere"
+          "Count": 3,
+          "CardName": "Mind Stone"
+        },
+        {
+          "Count": 3,
+          "CardName": "The One Ring"
+        },
+        {
+          "Count": 3,
+          "CardName": "Expedition Map"
+        },
+        {
+          "Count": 3,
+          "CardName": "All Is Dust"
+        },
+        {
+          "Count": 1,
+          "CardName": "Snow-Covered Wastes"
         },
         {
           "Count": 1,
           "CardName": "Blast Zone"
         },
         {
-          "Count": 1,
-          "CardName": "Snow-Covered Wastes"
+          "Count": 2,
+          "CardName": "Trinisphere"
         }
       ],
       "Sideboard": [
         {
           "Count": 1,
+          "CardName": "Tormod's Crypt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Walking Ballista"
+        },
+        {
+          "Count": 1,
           "CardName": "Ratchet Bomb"
-        },
-        {
-          "Count": 1,
-          "CardName": "Vexing Bauble"
-        },
-        {
-          "Count": 1,
-          "CardName": "The One Ring"
-        },
-        {
-          "Count": 1,
-          "CardName": "Disruptor Flute"
-        },
-        {
-          "Count": 1,
-          "CardName": "The Stone Brain"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cityscape Leveler"
         },
         {
           "Count": 1,
@@ -6953,23 +6815,15 @@
         },
         {
           "Count": 1,
+          "CardName": "The Stone Brain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cityscape Leveler"
+        },
+        {
+          "Count": 1,
           "CardName": "Sundering Titan"
-        },
-        {
-          "Count": 1,
-          "CardName": "Ensnaring Bridge"
-        },
-        {
-          "Count": 1,
-          "CardName": "Trinisphere"
-        },
-        {
-          "Count": 1,
-          "CardName": "Tormod's Crypt"
-        },
-        {
-          "Count": 1,
-          "CardName": "Walking Ballista"
         },
         {
           "Count": 1,
@@ -6977,7 +6831,27 @@
         },
         {
           "Count": 1,
+          "CardName": "The One Ring"
+        },
+        {
+          "Count": 1,
+          "CardName": "Trinisphere"
+        },
+        {
+          "Count": 1,
+          "CardName": "Disruptor Flute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        },
+        {
+          "Count": 1,
           "CardName": "Oblivion Stone"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ensnaring Bridge"
         }
       ]
     }
@@ -7088,7 +6962,7 @@
         },
         {
           "Player1": "Miguel Casanova Cespo",
-          "Player2": "Maestro Kumano",
+          "Player2": "Diego Norrea",
           "Result": "1-0-0"
         },
         {
@@ -7253,7 +7127,7 @@
         },
         {
           "Player1": "Adrian Simon",
-          "Player2": "Maestro Kumano",
+          "Player2": "Diego Norrea",
           "Result": "1-0-0"
         },
         {
@@ -7392,7 +7266,7 @@
           "Result": "1-0-0"
         },
         {
-          "Player1": "Maestro Kumano",
+          "Player1": "Diego Norrea",
           "Player2": "Christian Monzón",
           "Result": "1-0-0"
         }
@@ -7512,7 +7386,7 @@
           "Result": "1-0-0"
         },
         {
-          "Player1": "Maestro Kumano",
+          "Player1": "Diego Norrea",
           "Player2": "Carlos Gomez Iglesias",
           "Result": "1-0-0"
         },
@@ -7597,7 +7471,7 @@
           "Result": "1-0-0"
         },
         {
-          "Player1": "Maestro Kumano",
+          "Player1": "Diego Norrea",
           "Player2": "David Benito Duran",
           "Result": "1-0-0"
         },
@@ -7682,7 +7556,7 @@
           "Result": "1-0-0"
         },
         {
-          "Player1": "Maestro Kumano",
+          "Player1": "Diego Norrea",
           "Player2": "Manuel García López",
           "Result": "1-0-0"
         },
@@ -7979,7 +7853,7 @@
     },
     {
       "Rank": 18,
-      "Player": "Maestro Kumano",
+      "Player": "Diego Norrea",
       "Points": 12,
       "Wins": 4,
       "Losses": 2,

@@ -14,11 +14,19 @@
       "Mainboard": [
         {
           "Count": 1,
-          "CardName": "Brazen Borrower // Petty Theft"
+          "CardName": "Brazen Borrower"
         },
         {
           "Count": 1,
-          "CardName": "Bonecrusher Giant // Stomp"
+          "CardName": "Bonecrusher Giant"
+        },
+        {
+          "Count": 2,
+          "CardName": "Island"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mountain"
         },
         {
           "Count": 1,
@@ -117,6 +125,10 @@
           "CardName": "Inspiring Vantage"
         },
         {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
           "Count": 1,
           "CardName": "Mana Leak"
         },
@@ -198,7 +210,7 @@
         },
         {
           "Count": 1,
-          "CardName": "Dennick, Pious Apprentice // Dennick, Pious Apparition"
+          "CardName": "Dennick, Pious Apprentice"
         },
         {
           "Count": 1,
@@ -326,6 +338,10 @@
         },
         {
           "Count": 1,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 1,
           "CardName": "Oust"
         },
         {
@@ -367,22 +383,6 @@
         {
           "Count": 1,
           "CardName": "Stormcarved Coast"
-        },
-        {
-          "Count": 2,
-          "CardName": "Island"
-        },
-        {
-          "Count": 3,
-          "CardName": "Mountain"
-        },
-        {
-          "Count": 3,
-          "CardName": "Plains"
-        },
-        {
-          "Count": 1,
-          "CardName": "Sacred Foundry"
         }
       ],
       "Sideboard": []
@@ -409,7 +409,7 @@
         },
         {
           "Player1": "Phélicien",
-          "Player2": "proquin Gaël ",
+          "Player2": "Gaël Proquin",
           "Result": "1-0-0"
         },
         {
@@ -464,7 +464,7 @@
         },
         {
           "Player1": "Epiard simon",
-          "Player2": "proquin Gaël ",
+          "Player2": "Gaël Proquin",
           "Result": "1-0-0"
         }
       ]
@@ -504,7 +504,7 @@
         },
         {
           "Player1": "Vincent Malenfer",
-          "Player2": "proquin Gaël ",
+          "Player2": "Gaël Proquin",
           "Result": "1-0-0"
         }
       ]
@@ -543,7 +543,7 @@
           "Result": "1-0-0"
         },
         {
-          "Player1": "proquin Gaël ",
+          "Player1": "Gaël Proquin",
           "Player2": "BERTHOMÉ David",
           "Result": "1-0-0"
         }
@@ -674,7 +674,7 @@
     },
     {
       "Rank": 12,
-      "Player": "proquin Gaël ",
+      "Player": "Gaël Proquin",
       "Points": 3,
       "Wins": 1,
       "Losses": 3,
