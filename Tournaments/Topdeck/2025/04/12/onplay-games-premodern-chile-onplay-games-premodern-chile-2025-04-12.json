@@ -1,0 +1,279 @@
+{
+  "Tournament": {
+    "Date": "2025-04-12T14:29:00+00:00",
+    "Name": "OnPlay Games Premodern Chile ",
+    "Uri": "https://topdeck.gg/event/onplay-games-premodern-chile",
+    "Formats": "Premodern"
+  },
+  "Decks": [
+    {
+      "Date": "2025-04-12T14:29:00+00:00",
+      "Player": "Gabriel Cuevas Campos",
+      "Result": "5th Place",
+      "AnchorUri": "https://www.moxfield.com/decks/VWtBG89YO0O7KpfHP3HU6g",
+      "Mainboard": [
+        {
+          "Count": 12,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mishra's Factory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Zombie Infestation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cabal Therapy"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nether Spirit"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rishadan Port"
+        },
+        {
+          "Count": 4,
+          "CardName": "Contamination"
+        },
+        {
+          "Count": 3,
+          "CardName": "Skeletal Scrying"
+        },
+        {
+          "Count": 3,
+          "CardName": "Innocent Blood"
+        },
+        {
+          "Count": 3,
+          "CardName": "Powder Keg"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wasteland"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sickening Dreams"
+        },
+        {
+          "Count": 2,
+          "CardName": "Phyrexian Arena"
+        },
+        {
+          "Count": 2,
+          "CardName": "Contagion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vendetta"
+        },
+        {
+          "Count": 1,
+          "CardName": "Smother"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Haunting Echoes"
+        },
+        {
+          "Count": 2,
+          "CardName": "Perish"
+        },
+        {
+          "Count": 2,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 3,
+          "CardName": "Null Rod"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dystopia"
+        },
+        {
+          "Count": 3,
+          "CardName": "Engineered Plague"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Jose Manuel Borquez",
+          "Player2": "Gabriel Castillo Diaz",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Gabriel Cuevas Campos",
+          "Player2": "Hugo Rosas",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Viceroy_",
+          "Player2": "Pedro Masferrer Riquelme",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Matias Abadal",
+          "Player2": "Hermes Hernandez",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Matias Abadal",
+          "Player2": "Jose Manuel Borquez",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Viceroy_",
+          "Player2": "Hugo Rosas",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Gabriel Cuevas Campos",
+          "Player2": "Pedro Masferrer Riquelme",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Gabriel Castillo Diaz",
+          "Player2": "Hermes Hernandez",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Viceroy_",
+          "Player2": "Matias Abadal",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Gabriel Castillo Diaz",
+          "Player2": "Gabriel Cuevas Campos",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Jose Manuel Borquez",
+          "Player2": "Hugo Rosas",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Hermes Hernandez",
+          "Player2": "Pedro Masferrer Riquelme",
+          "Result": "1-0-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Viceroy_",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.44222222222222224,
+      "GWP": 1,
+      "OGWP": 0.41047619047619044
+    },
+    {
+      "Rank": 2,
+      "Player": "Matias Abadal",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666666666666666,
+      "GWP": 0.5714285714285714,
+      "OGWP": 0.6964285714285715
+    },
+    {
+      "Rank": 3,
+      "Player": "Jose Manuel Borquez",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5544444444444444,
+      "GWP": 0.7142857142857143,
+      "OGWP": 0.490952380952381
+    },
+    {
+      "Rank": 4,
+      "Player": "Gabriel Castillo Diaz",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.48148148148148145,
+      "GWP": 0.5714285714285714,
+      "OGWP": 0.5297619047619048
+    },
+    {
+      "Rank": 5,
+      "Player": "Gabriel Cuevas Campos",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.44222222222222224,
+      "GWP": 0.5,
+      "OGWP": 0.41047619047619044
+    },
+    {
+      "Rank": 6,
+      "Player": "Hermes Hernandez",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5544444444444444,
+      "GWP": 0.375,
+      "OGWP": 0.490952380952381
+    },
+    {
+      "Rank": 7,
+      "Player": "Hugo Rosas",
+      "Points": 1,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.7037037037037037,
+      "GWP": 0.16666666666666666,
+      "OGWP": 0.7380952380952381
+    },
+    {
+      "Rank": 8,
+      "Player": "Pedro Masferrer Riquelme",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5925925925925926,
+      "GWP": 0.14285714285714285,
+      "OGWP": 0.625
+    }
+  ]
+}
