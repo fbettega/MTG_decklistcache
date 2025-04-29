@@ -133,7 +133,58 @@
       ]
     }
   ],
-  "Rounds": [],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "Jochen Nies",
+          "Player2": "Falk M",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Martin Sohrweide",
+          "Player2": "Falk M",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Falk M",
+          "Player2": "Thomas83",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "damur",
+          "Player2": "Falk M",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Falk M",
+          "Player2": "Niklas Benecke",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ],
   "Standings": [
     {
       "Rank": 1,
@@ -214,7 +265,7 @@
     },
     {
       "Rank": 8,
-      "Player": "Philipp Demir",
+      "Player": "damur",
       "Points": 6,
       "Wins": 2,
       "Losses": 2,

@@ -1701,7 +1701,128 @@
       ]
     }
   ],
-  "Rounds": [],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "Hunter Sandlin",
+          "Player2": "KaizerCam",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Charlie Hearne",
+          "Player2": "Corbin Davis",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Eser Gokalp",
+          "Player2": "Evan Johnson",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ZanK",
+          "Player2": "Corin Skinnon",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Zack Shue",
+          "Player2": "Lauren Kelly",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Acererak",
+          "Player2": "-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "David Womick",
+          "Player2": "Michael Yach",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Hunter Sandlin",
+          "Player2": "David Womick",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Charlie Hearne",
+          "Player2": "Acererak",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Eser Gokalp",
+          "Player2": "Zack Shue",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ZanK",
+          "Player2": "Michael Yach",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Evan Johnson",
+          "Player2": "-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Corin Skinnon",
+          "Player2": "Lauren Kelly",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KaizerCam",
+          "Player2": "Corbin Davis",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Hunter Sandlin",
+          "Player2": "ZanK",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Charlie Hearne",
+          "Player2": "Eser Gokalp",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Evan Johnson",
+          "Player2": "KaizerCam",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Corin Skinnon",
+          "Player2": "David Womick",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Zack Shue",
+          "Player2": "Acererak",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Corbin Davis",
+          "Player2": "Lauren Kelly",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Michael Yach",
+          "Player2": "-",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ],
   "Standings": [
     {
       "Rank": 1,

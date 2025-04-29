@@ -5893,7 +5893,828 @@
       ]
     }
   ],
-  "Rounds": [],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "mindFTW",
+          "Player2": "Everett Nabors",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Elijah Wilson",
+          "Player2": "Halken14",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dean Polintan",
+          "Player2": "Jimbabwe",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Taloness",
+          "Player2": "Eanfrith",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dave Crowley",
+          "Player2": "Clay Westman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Andrew Mahieu",
+          "Player2": "Samuel Wallace",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Russell Wilder",
+          "Player2": "wvargas3rd",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "dootpocalypse",
+          "Player2": "Andrew Gleason",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Bill Comminos",
+          "Player2": "Zachariah lindower",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cameron Armstrong",
+          "Player2": "Evan Jenson",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Azyrr",
+          "Player2": "dret2",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Nathan Rummel",
+          "Player2": "Aaron Lewis",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sam Hayes",
+          "Player2": "JoshHolley",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Brandon Pierson",
+          "Player2": "Adam Goodwin",
+          "Result": "0-0-3"
+        },
+        {
+          "Player1": "Nate Brown",
+          "Player2": "Christian Ruiz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Britt Field",
+          "Player2": "Jay karbach",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "19tclass",
+          "Player2": "SurgingStormGG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jakob Heckert",
+          "Player2": "Sam Hernandez",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "William Schlichting",
+          "Player2": "Jacob Cook",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tyler Mollenkopf",
+          "Player2": "Alex Wallace",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Adam Goodwin",
+          "Player2": "Brandon Pierson",
+          "Result": "0-0-3"
+        },
+        {
+          "Player1": "Joshua Gidcumb",
+          "Player2": "Chris Barfield",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mloveless",
+          "Player2": "Taylorpack13",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "deanthonymdavis",
+          "Player2": "-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SteelTester",
+          "Player2": "Joseph Santoro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jake Rutkowski",
+          "Player2": "Vindi922",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ozzy4dead",
+          "Player2": "Vincent Agosta",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ryan Dykes",
+          "Player2": "Blake Cameron",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Everett Nabors",
+          "Player2": "-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Elijah Wilson",
+          "Player2": "mloveless",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dean Polintan",
+          "Player2": "dootpocalypse",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Taloness",
+          "Player2": "Dave Crowley",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Clay Westman",
+          "Player2": "dret2",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Joshua Gidcumb",
+          "Player2": "Andrew Mahieu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Russell Wilder",
+          "Player2": "Jake Rutkowski",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wvargas3rd",
+          "Player2": "Samuel Wallace",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Bill Comminos",
+          "Player2": "ozzy4dead",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cameron Armstrong",
+          "Player2": "SteelTester",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nathan Rummel",
+          "Player2": "Nate Brown",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Azyrr",
+          "Player2": "deanthonymdavis",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Andrew Gleason",
+          "Player2": "Sam Hernandez",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mindFTW",
+          "Player2": "Sam Hayes",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Brandon Pierson",
+          "Player2": "Taylorpack13",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jay karbach",
+          "Player2": "Chris Barfield",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "19tclass",
+          "Player2": "Tyler Mollenkopf",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "Jakob Heckert",
+          "Player2": "Britt Field",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Christian Ruiz",
+          "Player2": "Adam Goodwin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "William Schlichting",
+          "Player2": "Ryan Dykes",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jimbabwe",
+          "Player2": "Evan Jenson",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JoshHolley",
+          "Player2": "SurgingStormGG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tyler Mollenkopf",
+          "Player2": "19tclass",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "Zachariah lindower",
+          "Player2": "Aaron Lewis",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Alex Wallace",
+          "Player2": "Joseph Santoro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jacob Cook",
+          "Player2": "Vincent Agosta",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Vindi922",
+          "Player2": "Blake Cameron",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Halken14",
+          "Player2": "Eanfrith",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Everett Nabors",
+          "Player2": "Sam Hayes",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Elijah Wilson",
+          "Player2": "Jakob Heckert",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dean Polintan",
+          "Player2": "Nathan Rummel",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Taloness",
+          "Player2": "Azyrr",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Clay Westman",
+          "Player2": "Alex Wallace",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Andrew Mahieu",
+          "Player2": "Tyler Mollenkopf",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Russell Wilder",
+          "Player2": "Cameron Armstrong",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wvargas3rd",
+          "Player2": "Jacob Cook",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dootpocalypse",
+          "Player2": "Ryan Dykes",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Bill Comminos",
+          "Player2": "Joshua Gidcumb",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "dret2",
+          "Player2": "Evan Jenson",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Andrew Gleason",
+          "Player2": "Dave Crowley",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Brandon Pierson",
+          "Player2": "19tclass",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nate Brown",
+          "Player2": "Jay karbach",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "Jay karbach",
+          "Player2": "Nate Brown",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "William Schlichting",
+          "Player2": "mindFTW",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Christian Ruiz",
+          "Player2": "JoshHolley",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mloveless",
+          "Player2": "Britt Field",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Adam Goodwin",
+          "Player2": "Taylorpack13",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "deanthonymdavis",
+          "Player2": "SteelTester",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Zachariah lindower",
+          "Player2": "Halken14",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Vindi922",
+          "Player2": "ozzy4dead",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Vincent Agosta",
+          "Player2": "-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jimbabwe",
+          "Player2": "Jake Rutkowski",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Aaron Lewis",
+          "Player2": "Samuel Wallace",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Chris Barfield",
+          "Player2": "Sam Hernandez",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Blake Cameron",
+          "Player2": "SurgingStormGG",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Everett Nabors",
+          "Player2": "Joshua Gidcumb",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Elijah Wilson",
+          "Player2": "Taloness",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dean Polintan",
+          "Player2": "Bill Comminos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Clay Westman",
+          "Player2": "deanthonymdavis",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Andrew Mahieu",
+          "Player2": "mloveless",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Russell Wilder",
+          "Player2": "William Schlichting",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wvargas3rd",
+          "Player2": "dootpocalypse",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cameron Armstrong",
+          "Player2": "Vindi922",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "dret2",
+          "Player2": "Aaron Lewis",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jay karbach",
+          "Player2": "Nathan Rummel",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Brandon Pierson",
+          "Player2": "Azyrr",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Andrew Gleason",
+          "Player2": "Zachariah lindower",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sam Hayes",
+          "Player2": "ozzy4dead",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nate Brown",
+          "Player2": "Tyler Mollenkopf",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Adam Goodwin",
+          "Player2": "19tclass",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jakob Heckert",
+          "Player2": "mindFTW",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Christian Ruiz",
+          "Player2": "Jimbabwe",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Evan Jenson",
+          "Player2": "Taylorpack13",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JoshHolley",
+          "Player2": "Sam Hernandez",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Britt Field",
+          "Player2": "Jake Rutkowski",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Alex Wallace",
+          "Player2": "Halken14",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jacob Cook",
+          "Player2": "SteelTester",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Vincent Agosta",
+          "Player2": "Dave Crowley",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Everett Nabors",
+          "Player2": "Taloness",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "Elijah Wilson",
+          "Player2": "Russell Wilder",
+          "Result": "0-0-3"
+        },
+        {
+          "Player1": "Dean Polintan",
+          "Player2": "Brandon Pierson",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Taloness",
+          "Player2": "Everett Nabors",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "Clay Westman",
+          "Player2": "Cameron Armstrong",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Andrew Mahieu",
+          "Player2": "Christian Ruiz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Russell Wilder",
+          "Player2": "Elijah Wilson",
+          "Result": "0-0-3"
+        },
+        {
+          "Player1": "wvargas3rd",
+          "Player2": "William Schlichting",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dootpocalypse",
+          "Player2": "JoshHolley",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bill Comminos",
+          "Player2": "Nate Brown",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dret2",
+          "Player2": "Zachariah lindower",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nathan Rummel",
+          "Player2": "Joshua Gidcumb",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Azyrr",
+          "Player2": "mloveless",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Andrew Gleason",
+          "Player2": "Jakob Heckert",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sam Hayes",
+          "Player2": "Alex Wallace",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jay karbach",
+          "Player2": "Adam Goodwin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "19tclass",
+          "Player2": "Jacob Cook",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mindFTW",
+          "Player2": "Vincent Agosta",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Evan Jenson",
+          "Player2": "Halken14",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Britt Field",
+          "Player2": "deanthonymdavis",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tyler Mollenkopf",
+          "Player2": "SteelTester",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jimbabwe",
+          "Player2": "Vindi922",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sam Hernandez",
+          "Player2": "-",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "Everett Nabors",
+          "Player2": "Brandon Pierson",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Elijah Wilson",
+          "Player2": "wvargas3rd",
+          "Result": "0-0-3"
+        },
+        {
+          "Player1": "Dean Polintan",
+          "Player2": "Russell Wilder",
+          "Result": "0-0-3"
+        },
+        {
+          "Player1": "Taloness",
+          "Player2": "Jay karbach",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Clay Westman",
+          "Player2": "Bill Comminos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Andrew Mahieu",
+          "Player2": "Andrew Gleason",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Russell Wilder",
+          "Player2": "Dean Polintan",
+          "Result": "0-0-3"
+        },
+        {
+          "Player1": "wvargas3rd",
+          "Player2": "Elijah Wilson",
+          "Result": "0-0-3"
+        },
+        {
+          "Player1": "dootpocalypse",
+          "Player2": "Jakob Heckert",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cameron Armstrong",
+          "Player2": "mindFTW",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dret2",
+          "Player2": "Christian Ruiz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nathan Rummel",
+          "Player2": "William Schlichting",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Azyrr",
+          "Player2": "Jimbabwe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sam Hayes",
+          "Player2": "Britt Field",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nate Brown",
+          "Player2": "Adam Goodwin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "19tclass",
+          "Player2": "mloveless",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Evan Jenson",
+          "Player2": "Sam Hernandez",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JoshHolley",
+          "Player2": "Jacob Cook",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SteelTester",
+          "Player2": "-",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "Everett Nabors",
+          "Player2": "Andrew Mahieu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Elijah Wilson",
+          "Player2": "Russell Wilder",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dean Polintan",
+          "Player2": "wvargas3rd",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Taloness",
+          "Player2": "Clay Westman",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "Everett Nabors",
+          "Player2": "Taloness",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Elijah Wilson",
+          "Player2": "Dean Polintan",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "Matches": [
+        {
+          "Player1": "Everett Nabors",
+          "Player2": "Elijah Wilson",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ],
   "Standings": [
     {
       "Rank": 1,

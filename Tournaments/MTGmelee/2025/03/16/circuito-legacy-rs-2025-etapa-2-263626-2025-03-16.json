@@ -3206,7 +3206,7 @@
     },
     {
       "Date": null,
-      "Player": "EduardoF",
+      "Player": "EduardoFraga",
       "Result": "24th Place",
       "AnchorUri": "https://melee.gg/Decklist/View/ec76323f-31dc-4555-8841-3b877717072c",
       "Mainboard": [
@@ -3355,7 +3355,393 @@
       ]
     }
   ],
-  "Rounds": [],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "Vitor SCHUATZ Souza",
+          "Player2": "wagner iankowski",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DaniAntunes",
+          "Player2": "Fabricio Bertoluci",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DiegoB1",
+          "Player2": "EduardoFraga",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Robertinho",
+          "Player2": "PRIMOBRUSTOLIN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Vagner Oliveira",
+          "Player2": "thomascs2",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GuilhermePissolatto",
+          "Player2": "Bruno Fernando",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nyanya",
+          "Player2": "Everson Machado",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Iuri Freytag",
+          "Player2": "tiagordutra",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Julliano Moreira",
+          "Player2": "Felipe Colussi oliva",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Renan Caldas de Paula",
+          "Player2": "Pedro Pohren",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Alexandre Albiero",
+          "Player2": "MorelLeonardo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sol_Orion",
+          "Player2": "mralbani",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Vitor SCHUATZ Souza",
+          "Player2": "Iuri Freytag",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DiegoB1",
+          "Player2": "DaniAntunes",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Robertinho",
+          "Player2": "Sol_Orion",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PRIMOBRUSTOLIN",
+          "Player2": "MorelLeonardo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wagner iankowski",
+          "Player2": "mralbani",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Vagner Oliveira",
+          "Player2": "GuilhermePissolatto",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "nyanya",
+          "Player2": "Julliano Moreira",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tiagordutra",
+          "Player2": "thomascs2",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Felipe Colussi oliva",
+          "Player2": "Fabricio Bertoluci",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pedro Pohren",
+          "Player2": "Bruno Fernando",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Renan Caldas de Paula",
+          "Player2": "Alexandre Albiero",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Everson Machado",
+          "Player2": "EduardoFraga",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Vitor SCHUATZ Souza",
+          "Player2": "Vagner Oliveira",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DaniAntunes",
+          "Player2": "Felipe Colussi oliva",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DiegoB1",
+          "Player2": "nyanya",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Robertinho",
+          "Player2": "Renan Caldas de Paula",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PRIMOBRUSTOLIN",
+          "Player2": "Alexandre Albiero",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wagner iankowski",
+          "Player2": "Pedro Pohren",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GuilhermePissolatto",
+          "Player2": "Everson Machado",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Iuri Freytag",
+          "Player2": "Julliano Moreira",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "tiagordutra",
+          "Player2": "Sol_Orion",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Bruno Fernando",
+          "Player2": "MorelLeonardo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "thomascs2",
+          "Player2": "EduardoFraga",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Fabricio Bertoluci",
+          "Player2": "mralbani",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Vitor SCHUATZ Souza",
+          "Player2": "nyanya",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DaniAntunes",
+          "Player2": "GuilhermePissolatto",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DiegoB1",
+          "Player2": "Robertinho",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PRIMOBRUSTOLIN",
+          "Player2": "Iuri Freytag",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Everson Machado",
+          "Player2": "wagner iankowski",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "tiagordutra",
+          "Player2": "Vagner Oliveira",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Felipe Colussi oliva",
+          "Player2": "Pedro Pohren",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bruno Fernando",
+          "Player2": "Julliano Moreira",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "thomascs2",
+          "Player2": "Sol_Orion",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Fabricio Bertoluci",
+          "Player2": "Alexandre Albiero",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MorelLeonardo",
+          "Player2": "EduardoFraga",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Vitor SCHUATZ Souza",
+          "Player2": "DiegoB1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DaniAntunes",
+          "Player2": "PRIMOBRUSTOLIN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Robertinho",
+          "Player2": "tiagordutra",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wagner iankowski",
+          "Player2": "Felipe Colussi oliva",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Vagner Oliveira",
+          "Player2": "Bruno Fernando",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GuilhermePissolatto",
+          "Player2": "Sol_Orion",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nyanya",
+          "Player2": "thomascs2",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Iuri Freytag",
+          "Player2": "Fabricio Bertoluci",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Julliano Moreira",
+          "Player2": "EduardoFraga",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MorelLeonardo",
+          "Player2": "Pedro Pohren",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Alexandre Albiero",
+          "Player2": "Everson Machado",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "Vitor SCHUATZ Souza",
+          "Player2": "Robertinho",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DaniAntunes",
+          "Player2": "nyanya",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DiegoB1",
+          "Player2": "GuilhermePissolatto",
+          "Result": "1-1-1"
+        },
+        {
+          "Player1": "PRIMOBRUSTOLIN",
+          "Player2": "tiagordutra",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wagner iankowski",
+          "Player2": "Iuri Freytag",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Vagner Oliveira",
+          "Player2": "Fabricio Bertoluci",
+          "Result": "1-1-1"
+        },
+        {
+          "Player1": "GuilhermePissolatto",
+          "Player2": "DiegoB1",
+          "Result": "1-1-1"
+        },
+        {
+          "Player1": "Felipe Colussi oliva",
+          "Player2": "MorelLeonardo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Julliano Moreira",
+          "Player2": "Alexandre Albiero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bruno Fernando",
+          "Player2": "Sol_Orion",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "thomascs2",
+          "Player2": "Everson Machado",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Fabricio Bertoluci",
+          "Player2": "Vagner Oliveira",
+          "Result": "1-1-1"
+        },
+        {
+          "Player1": "Pedro Pohren",
+          "Player2": "EduardoFraga",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ],
   "Standings": [
     {
       "Rank": 1,
@@ -3612,7 +3998,7 @@
     },
     {
       "Rank": 24,
-      "Player": "EduardoF",
+      "Player": "EduardoFraga",
       "Points": 0,
       "Wins": 0,
       "Losses": 6,

@@ -552,7 +552,108 @@
       ]
     }
   ],
-  "Rounds": [],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "Rostislav Brozhat",
+          "Player2": "-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Alex Khan",
+          "Player2": "MiFlyer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Maxim Shagoiko",
+          "Player2": "Valery Zubovich",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dukalis1985",
+          "Player2": "K1ppy",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Rostislav Brozhat",
+          "Player2": "Maxim Shagoiko",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Alex Khan",
+          "Player2": "OMGProfunny",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TroV1",
+          "Player2": "Valery Zubovich",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "gerber2000",
+          "Player2": "K1ppy",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Rostislav Brozhat",
+          "Player2": "Роман Кохан",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Akel",
+          "Player2": "Alex Khan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Maxim Shagoiko",
+          "Player2": "TroV1",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "Valery Zubovich",
+          "Player2": "K1ppy",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Dzianis Chuyanau",
+          "Player2": "Rostislav Brozhat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Alex Khan",
+          "Player2": "Dukalis1985",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Maxim Shagoiko",
+          "Player2": "gerber2000",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "K1ppy",
+          "Player2": "-",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ],
   "Standings": [
     {
       "Rank": 1,

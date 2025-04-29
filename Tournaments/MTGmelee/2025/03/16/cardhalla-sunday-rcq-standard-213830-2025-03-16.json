@@ -507,7 +507,68 @@
       ]
     }
   ],
-  "Rounds": [],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "Cameron Patey",
+          "Player2": "Cawvey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Daniel Edwards",
+          "Player2": "Andrew Ohlschwager",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "VeniaminYampolsky",
+          "Player2": "Alex Pimmel",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Cameron Patey",
+          "Player2": "Doublea710",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Daniel Edwards",
+          "Player2": "VeniaminYampolsky",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Andrew Ohlschwager",
+          "Player2": "Alex Pimmel",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Cameron Patey",
+          "Player2": "Daniel Edwards",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "VeniaminYampolsky",
+          "Player2": "-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Alex Pimmel",
+          "Player2": "-",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ],
   "Standings": [
     {
       "Rank": 1,

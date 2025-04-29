@@ -4587,7 +4587,583 @@
       ]
     }
   ],
-  "Rounds": [],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "Francisco Camargo",
+          "Player2": "Pedro Henrique Stramandinoli",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gustavo Gazzola Smarito",
+          "Player2": "Thanus Miziara",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Adrien Venancio",
+          "Player2": "Mark Bittencourt",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Thiago Meneghin",
+          "Player2": "Gabriel Pinheiro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Felipe Missio",
+          "Player2": "Pedro Nuno",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rafael Huehara",
+          "Player2": "Braian Takahira",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "emanosb",
+          "Player2": "Felipe Gonçalves",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MarkJr",
+          "Player2": "Rudá dos Reis",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Alfredo Obregón",
+          "Player2": "Luiz Felipe Dentinho",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dupl0",
+          "Player2": "Lucas Buzon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Leonardo Almeida",
+          "Player2": "Sequelah",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Caio Acca",
+          "Player2": "Leonardo Bacci",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Giovanni Castro",
+          "Player2": "Vinícius Lopes",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "lukebria",
+          "Player2": "Vinícius Yoshida Valera",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DCG",
+          "Player2": "Elston",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Victor Goethe",
+          "Player2": "Matiuzzo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Leshira",
+          "Player2": "AleDosGoblins",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Gustavo Gazzola Smarito",
+          "Player2": "Francisco Camargo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Adrien Venancio",
+          "Player2": "Giovanni Castro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Thiago Meneghin",
+          "Player2": "lukebria",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Felipe Missio",
+          "Player2": "Victor Goethe",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Rafael Huehara",
+          "Player2": "MarkJr",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Felipe Gonçalves",
+          "Player2": "Vinícius Yoshida Valera",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Rudá dos Reis",
+          "Player2": "Leshira",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Leonardo Almeida",
+          "Player2": "Alfredo Obregón",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Pedro Nuno",
+          "Player2": "Lucas Buzon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "emanosb",
+          "Player2": "Dupl0",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Pedro Henrique Stramandinoli",
+          "Player2": "AleDosGoblins",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Caio Acca",
+          "Player2": "DCG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Luiz Felipe Dentinho",
+          "Player2": "Matiuzzo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mark Bittencourt",
+          "Player2": "Leonardo Bacci",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Vinícius Lopes",
+          "Player2": "Elston",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Thanus Miziara",
+          "Player2": "Sequelah",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Braian Takahira",
+          "Player2": "-",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Francisco Camargo",
+          "Player2": "Giovanni Castro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gustavo Gazzola Smarito",
+          "Player2": "Caio Acca",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Adrien Venancio",
+          "Player2": "Thiago Meneghin",
+          "Result": "1-1-1"
+        },
+        {
+          "Player1": "Thiago Meneghin",
+          "Player2": "Adrien Venancio",
+          "Result": "1-1-1"
+        },
+        {
+          "Player1": "Felipe Missio",
+          "Player2": "emanosb",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "Rafael Huehara",
+          "Player2": "Leonardo Almeida",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Felipe Gonçalves",
+          "Player2": "lukebria",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rudá dos Reis",
+          "Player2": "Pedro Henrique Stramandinoli",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MarkJr",
+          "Player2": "Luiz Felipe Dentinho",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Alfredo Obregón",
+          "Player2": "Mark Bittencourt",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Pedro Nuno",
+          "Player2": "Braian Takahira",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dupl0",
+          "Player2": "Leshira",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lucas Buzon",
+          "Player2": "Leonardo Bacci",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DCG",
+          "Player2": "Vinícius Lopes",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "emanosb",
+          "Player2": "Felipe Missio",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "Vinícius Yoshida Valera",
+          "Player2": "Sequelah",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Victor Goethe",
+          "Player2": "Thanus Miziara",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AleDosGoblins",
+          "Player2": "Matiuzzo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Elston",
+          "Player2": "-",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Francisco Camargo",
+          "Player2": "Elston",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rafael Huehara",
+          "Player2": "Gustavo Gazzola Smarito",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Adrien Venancio",
+          "Player2": "emanosb",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Felipe Missio",
+          "Player2": "Thiago Meneghin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Felipe Gonçalves",
+          "Player2": "MarkJr",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Leonardo Almeida",
+          "Player2": "Rudá dos Reis",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Alfredo Obregón",
+          "Player2": "DCG",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Pedro Nuno",
+          "Player2": "Dupl0",
+          "Result": "1-1-1"
+        },
+        {
+          "Player1": "Dupl0",
+          "Player2": "Pedro Nuno",
+          "Result": "1-1-1"
+        },
+        {
+          "Player1": "Pedro Henrique Stramandinoli",
+          "Player2": "lukebria",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Caio Acca",
+          "Player2": "Victor Goethe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Luiz Felipe Dentinho",
+          "Player2": "Vinícius Yoshida Valera",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lucas Buzon",
+          "Player2": "Mark Bittencourt",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Vinícius Lopes",
+          "Player2": "Leshira",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Leonardo Bacci",
+          "Player2": "Sequelah",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AleDosGoblins",
+          "Player2": "Giovanni Castro",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Francisco Camargo",
+          "Player2": "Leonardo Almeida",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Adrien Venancio",
+          "Player2": "Gustavo Gazzola Smarito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Thiago Meneghin",
+          "Player2": "Pedro Henrique Stramandinoli",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Felipe Missio",
+          "Player2": "Rafael Huehara",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Felipe Gonçalves",
+          "Player2": "Caio Acca",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Rudá dos Reis",
+          "Player2": "Victor Goethe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MarkJr",
+          "Player2": "DCG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dupl0",
+          "Player2": "Alfredo Obregón",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pedro Nuno",
+          "Player2": "emanosb",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Vinícius Lopes",
+          "Player2": "Luiz Felipe Dentinho",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mark Bittencourt",
+          "Player2": "Giovanni Castro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lucas Buzon",
+          "Player2": "AleDosGoblins",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Vinícius Yoshida Valera",
+          "Player2": "Leonardo Bacci",
+          "Result": "1-1-1"
+        },
+        {
+          "Player1": "Leonardo Bacci",
+          "Player2": "Vinícius Yoshida Valera",
+          "Result": "1-1-1"
+        },
+        {
+          "Player1": "lukebria",
+          "Player2": "Leshira",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sequelah",
+          "Player2": "-",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "Francisco Camargo",
+          "Player2": "Pedro Nuno",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gustavo Gazzola Smarito",
+          "Player2": "Leonardo Almeida",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Adrien Venancio",
+          "Player2": "Felipe Missio",
+          "Result": "0-0-3"
+        },
+        {
+          "Player1": "Thiago Meneghin",
+          "Player2": "Dupl0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Felipe Missio",
+          "Player2": "Adrien Venancio",
+          "Result": "0-0-3"
+        },
+        {
+          "Player1": "Rafael Huehara",
+          "Player2": "Felipe Gonçalves",
+          "Result": "0-0-3"
+        },
+        {
+          "Player1": "Felipe Gonçalves",
+          "Player2": "Rafael Huehara",
+          "Result": "0-0-3"
+        },
+        {
+          "Player1": "Rudá dos Reis",
+          "Player2": "Vinícius Lopes",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MarkJr",
+          "Player2": "Caio Acca",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Alfredo Obregón",
+          "Player2": "Lucas Buzon",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Pedro Henrique Stramandinoli",
+          "Player2": "emanosb",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Luiz Felipe Dentinho",
+          "Player2": "-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mark Bittencourt",
+          "Player2": "lukebria",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Vinícius Yoshida Valera",
+          "Player2": "-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Leonardo Bacci",
+          "Player2": "AleDosGoblins",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sequelah",
+          "Player2": "Leshira",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "Francisco Camargo",
+          "Player2": "Rudá dos Reis",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gustavo Gazzola Smarito",
+          "Player2": "Felipe Missio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Adrien Venancio",
+          "Player2": "Felipe Gonçalves",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Thiago Meneghin",
+          "Player2": "Rafael Huehara",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "Francisco Camargo",
+          "Player2": "Thiago Meneghin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gustavo Gazzola Smarito",
+          "Player2": "Adrien Venancio",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ],
   "Standings": [
     {
       "Rank": 1,

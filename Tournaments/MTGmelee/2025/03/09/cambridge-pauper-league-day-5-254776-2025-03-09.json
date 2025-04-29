@@ -10,7 +10,7 @@
       "Date": null,
       "Player": "Meffo",
       "Result": "1st Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/487713",
+      "AnchorUri": "https://melee.gg/Decklist/View/abafef1d-1f2d-4be7-8a81-e79d9f4f1114",
       "Mainboard": [
         {
           "Count": 4,
@@ -103,8 +103,8 @@
     {
       "Date": null,
       "Player": "tabz3",
-      "Result": "3st Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/481825",
+      "Result": "2st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/77cba851-9991-4cdf-bd1b-3b1d003729db",
       "Mainboard": [
         {
           "Count": 4,
@@ -202,7 +202,7 @@
       "Date": null,
       "Player": "joe9599",
       "Result": "4th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/487653",
+      "AnchorUri": "https://melee.gg/Decklist/View/7a61dbb0-9341-4081-a763-a1dde72d1efe",
       "Mainboard": [
         {
           "Count": 3,
@@ -311,8 +311,8 @@
     {
       "Date": null,
       "Player": "maddyman",
-      "Result": "6th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/488237",
+      "Result": "7th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/ccb6794b-191f-4039-b0b6-abb9f4a21b04",
       "Mainboard": [
         {
           "Count": 4,
@@ -486,79 +486,79 @@
     {
       "Rank": 1,
       "Player": "Meffo",
-      "Points": 6,
-      "Wins": 2,
+      "Points": 9,
+      "Wins": 3,
       "Losses": 0,
       "Draws": 0,
-      "OMWP": 0.5,
+      "OMWP": 0.55555556,
       "GWP": 1.0,
-      "OGWP": 0.45
+      "OGWP": 0.56944444
     },
     {
       "Rank": 2,
-      "Player": "sunshine797",
+      "Player": "tabz3",
       "Points": 6,
       "Wins": 2,
-      "Losses": 0,
+      "Losses": 1,
       "Draws": 0,
-      "OMWP": 0.41666667,
-      "GWP": 1.0,
-      "OGWP": 0.41666667
+      "OMWP": 0.66666667,
+      "GWP": 0.66666667,
+      "OGWP": 0.71428571
     },
     {
       "Rank": 3,
-      "Player": "tabz3",
-      "Points": 3,
-      "Wins": 1,
+      "Player": "sunshine797",
+      "Points": 6,
+      "Wins": 2,
       "Losses": 1,
       "Draws": 0,
-      "OMWP": 1.0,
-      "GWP": 0.5,
-      "OGWP": 1.0
+      "OMWP": 0.66666667,
+      "GWP": 0.66666667,
+      "OGWP": 0.63492063
     },
     {
       "Rank": 4,
       "Player": "joe9599",
-      "Points": 3,
-      "Wins": 1,
+      "Points": 6,
+      "Wins": 2,
       "Losses": 1,
       "Draws": 0,
-      "OMWP": 1.0,
-      "GWP": 0.5,
-      "OGWP": 1.0
+      "OMWP": 0.5,
+      "GWP": 0.57142857,
+      "OGWP": 0.52083333
     },
     {
       "Rank": 5,
       "Player": "Devilduckii",
       "Points": 3,
       "Wins": 1,
-      "Losses": 1,
+      "Losses": 2,
       "Draws": 0,
-      "OMWP": 0.75,
-      "GWP": 0.4,
-      "OGWP": 0.8
+      "OMWP": 0.66666667,
+      "GWP": 0.375,
+      "OGWP": 0.66666667
     },
     {
       "Rank": 6,
-      "Player": "maddyman",
+      "Player": "KalTheOmnipotent",
       "Points": 3,
       "Wins": 1,
-      "Losses": 1,
+      "Losses": 2,
       "Draws": 0,
-      "OMWP": 0.41666667,
-      "GWP": 0.6,
-      "OGWP": 0.36666667
+      "OMWP": 0.5,
+      "GWP": 0.33333333,
+      "OGWP": 0.54761905
     },
     {
       "Rank": 7,
-      "Player": "KalTheOmnipotent",
-      "Points": 0,
-      "Wins": 0,
+      "Player": "maddyman",
+      "Points": 3,
+      "Wins": 1,
       "Losses": 2,
       "Draws": 0,
-      "OMWP": 0.75,
-      "GWP": 0.0,
-      "OGWP": 0.8
+      "OMWP": 0.44444444,
+      "GWP": 0.42857143,
+      "OGWP": 0.45833333
     }
   ]
 }

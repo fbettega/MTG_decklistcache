@@ -312,7 +312,78 @@
       "Sideboard": []
     }
   ],
-  "Rounds": [],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "aklshk",
+          "Player2": "Valery Zubovich",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Rostislav Brozhat",
+          "Player2": "Stas Voiteh",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "aklshk",
+          "Player2": "Rostislav Brozhat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ihar Plisko",
+          "Player2": "Valery Zubovich",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "aklshk",
+          "Player2": "Yauhen Rapanovich",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Valery Zubovich",
+          "Player2": "-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rostislav Brozhat",
+          "Player2": "Artem Sutko",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Maksim Martseniuk",
+          "Player2": "aklshk",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Valery Zubovich",
+          "Player2": "Artem Sutko",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ihar Plisko",
+          "Player2": "Rostislav Brozhat",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ],
   "Standings": [
     {
       "Rank": 1,

@@ -1299,7 +1299,118 @@
       ]
     }
   ],
-  "Rounds": [],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "Nick Gil",
+          "Player2": "Jesper Hedenqvist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Scott Worthen",
+          "Player2": "Inaste Noquar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "╝ DJkidinfinite13",
+          "Player2": "TinyValkyrie",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Frederik Emil Bang",
+          "Player2": "Arcanny",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Landlord Fabless",
+          "Player2": "Germán Fraga",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Nick Gil",
+          "Player2": "Scott Worthen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Inaste Noquar",
+          "Player2": "Arcanny",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "╝ DJkidinfinite13",
+          "Player2": "Landlord Fabless",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Frederik Emil Bang",
+          "Player2": "TinyValkyrie",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jesper Hedenqvist",
+          "Player2": "Germán Fraga",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "╝ DJkidinfinite13",
+          "Player2": "Nick Gil",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Inaste Noquar",
+          "Player2": "Jesper Hedenqvist",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Frederik Emil Bang",
+          "Player2": "Scott Worthen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TinyValkyrie",
+          "Player2": "-",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Nick Gil",
+          "Player2": "Frederik Emil Bang",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Inaste Noquar",
+          "Player2": "╝ DJkidinfinite13",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Inaste Noquar",
+          "Player2": "Nick Gil",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ],
   "Standings": [
     {
       "Rank": 1,
