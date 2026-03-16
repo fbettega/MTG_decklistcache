@@ -1,0 +1,971 @@
+{
+  "Tournament": {
+    "Date": "2026-03-14T21:00:00+00:00",
+    "Name": "Vault 509 Trading Card Shop Standard RCQ",
+    "Uri": "https://melee.gg/Tournament/View/413864",
+    "Formats": "Standard"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "adubbs",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/9ba705a5-f59f-4e79-b2d6-b40d0163f3b1",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "milli857",
+      "Result": "2st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/e84639f5-5150-4dd0-a2a8-b40d015e4d5c",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Boomerang Basics"
+        },
+        {
+          "Count": 4,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 2,
+          "CardName": "Eddymurk Crab"
+        },
+        {
+          "Count": 4,
+          "CardName": "Elusive Otter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Into the Flood Maw"
+        },
+        {
+          "Count": 5,
+          "CardName": "Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Opt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shore Up"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sleight of Hand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Slickshot Show-Off"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stormchaser's Talent"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wild Ride"
+        },
+        {
+          "Count": 2,
+          "CardName": "Willowrush Verge"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Drake Hatcher"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fire Magic"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pyroclasm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ral, Crackling Wit"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sear"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Snare"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Astrid Star",
+      "Result": "3st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/35074c78-70f7-49d8-9b8c-b40d015dd06a",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Abandon Attachments"
+        },
+        {
+          "Count": 4,
+          "CardName": "Accumulate Wisdom"
+        },
+        {
+          "Count": 1,
+          "CardName": "Agna Qel'a"
+        },
+        {
+          "Count": 4,
+          "CardName": "Artist's Talent"
+        },
+        {
+          "Count": 3,
+          "CardName": "Boomerang Basics"
+        },
+        {
+          "Count": 4,
+          "CardName": "Combustion Technique"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cori Mountain Monastery"
+        },
+        {
+          "Count": 4,
+          "CardName": "Firebending Lesson"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gran-Gran"
+        },
+        {
+          "Count": 1,
+          "CardName": "Iroh's Demonstration"
+        },
+        {
+          "Count": 6,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "It'll Quench Ya!"
+        },
+        {
+          "Count": 4,
+          "CardName": "Monument to Endurance"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 3,
+          "CardName": "Stormchaser's Talent"
+        },
+        {
+          "Count": 2,
+          "CardName": "Three Steps Ahead"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Disdainful Stroke"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flashfreeze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Get Out"
+        },
+        {
+          "Count": 1,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ral, Crackling Wit"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sear"
+        },
+        {
+          "Count": 1,
+          "CardName": "Slagstorm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "ehershkovitz",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/04bc2d7d-363b-462c-83c9-b40d015e1f0a",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Ajani, Outland Chaperone"
+        },
+        {
+          "Count": 3,
+          "CardName": "Anim Pakal, Thousandth Moon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Catharsis"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dalkovan Encampment"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fountainport"
+        },
+        {
+          "Count": 4,
+          "CardName": "Inspiring Vantage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Kinbinding"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Painter's Studio // Defaced Gallery"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 1,
+          "CardName": "Restless Bivouac"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 4,
+          "CardName": "Skyknight Squire"
+        },
+        {
+          "Count": 3,
+          "CardName": "Song of Totentanz"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stadium Headliner"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunbillow Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voice of Victory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Warleader's Call"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arabella, Abandoned Doll"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ajani, Outland Chaperone"
+        },
+        {
+          "Count": 2,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elspeth, Storm Slayer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 3,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 2,
+          "CardName": "Split Up"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Matthew Townsend-Farr",
+      "Result": "5th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/7cd5b1ec-23a7-431a-b916-b40d015e1c66",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "LegallyBrooke",
+      "Result": "7th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/d8c8d202-ef8a-4e7d-a2ee-b40d015da8a5",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Cori Mountain Monastery"
+        },
+        {
+          "Count": 3,
+          "CardName": "Restless Anchorage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sunbillow Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thundering Falls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 3,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 1,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gwen Stacy"
+        },
+        {
+          "Count": 4,
+          "CardName": "Get Out"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sear"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pyroclasm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Helix"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 3,
+          "CardName": "Aang, Swift Savior"
+        },
+        {
+          "Count": 2,
+          "CardName": "Day of Judgment"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Legend of Kuruk"
+        },
+        {
+          "Count": 3,
+          "CardName": "Shiko, Paragon of the Way"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elspeth, Storm Slayer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ashling, Rekindled"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tishana's Tidebinder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Inspiring Vantage"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Pyroclasm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Doorkeeper Thrull"
+        },
+        {
+          "Count": 1,
+          "CardName": "Requisition Raid"
+        },
+        {
+          "Count": 3,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Voice of Victory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Enduring Curiosity"
+        },
+        {
+          "Count": 2,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tishana's Tidebinder"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Nick Godinez",
+      "Result": "9th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/de9b7b95-9800-4a9c-b317-b40d01615b73",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Bitter Triumph"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blazemire Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blood Crypt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bloodghast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bloodthorn Flail"
+        },
+        {
+          "Count": 1,
+          "CardName": "Carnage, Crimson Chaos"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cool but Rude"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flamewake Phoenix"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gloomlake Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Inti, Seneschal of the Sun"
+        },
+        {
+          "Count": 3,
+          "CardName": "Iron-Shield Elf"
+        },
+        {
+          "Count": 4,
+          "CardName": "Marauding Mako"
+        },
+        {
+          "Count": 4,
+          "CardName": "Moonshadow"
+        },
+        {
+          "Count": 3,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 2,
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 1,
+          "CardName": "Restless Vents"
+        },
+        {
+          "Count": 2,
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 2,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 3,
+          "CardName": "Watery Grave"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Case of the Crimson Pulse"
+        },
+        {
+          "Count": 3,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 1,
+          "CardName": "Frostcliff Siege"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Intimidation Tactics"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyroclasm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Qarsi Revenant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sunspine Lynx"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "adubbs",
+          "Player2": "Astrid Star",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "milli857",
+          "Player2": "Omega4Sight",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ehershkovitz",
+          "Player2": "Matthew Townsend-Farr",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LegallyBrooke",
+          "Player2": "-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nick Godinez",
+          "Player2": "Joseph Zimmerman",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Joseph Zimmerman",
+          "Player2": "adubbs",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "milli857",
+          "Player2": "Matthew Townsend-Farr",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Astrid Star",
+          "Player2": "Nick Godinez",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ehershkovitz",
+          "Player2": "LegallyBrooke",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "adubbs",
+          "Player2": "-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "milli857",
+          "Player2": "LegallyBrooke",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Astrid Star",
+          "Player2": "ehershkovitz",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Nick Godinez",
+          "Player2": "Matthew Townsend-Farr",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "adubbs",
+          "Player2": "Omega4Sight",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "milli857",
+          "Player2": "Astrid Star",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ehershkovitz",
+          "Player2": "Joseph Zimmerman",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Matthew Townsend-Farr",
+          "Player2": "-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LegallyBrooke",
+          "Player2": "Nick Godinez",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "adubbs",
+          "Player2": "Nick Godinez",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "milli857",
+          "Player2": "ehershkovitz",
+          "Result": "0-0-3"
+        },
+        {
+          "Player1": "Astrid Star",
+          "Player2": "Joseph Zimmerman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ehershkovitz",
+          "Player2": "milli857",
+          "Result": "0-0-3"
+        },
+        {
+          "Player1": "Matthew Townsend-Farr",
+          "Player2": "-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Omega4Sight",
+          "Player2": "LegallyBrooke",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "adubbs",
+          "Player2": "milli857",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Astrid Star",
+          "Player2": "ehershkovitz",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "adubbs",
+          "Player2": "Astrid Star",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "milli857",
+          "Player2": "ehershkovitz",
+          "Result": "0-0-3"
+        },
+        {
+          "Player1": "ehershkovitz",
+          "Player2": "milli857",
+          "Result": "0-0-3"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "adubbs",
+      "Points": 18,
+      "Wins": 6,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5015873,
+      "GWP": 0.7647059,
+      "OGWP": 0.4961286
+    },
+    {
+      "Rank": 2,
+      "Player": "milli857",
+      "Points": 14,
+      "Wins": 4,
+      "Losses": 1,
+      "Draws": 2,
+      "OMWP": 0.5251701,
+      "GWP": 0.5789474,
+      "OGWP": 0.5078728
+    },
+    {
+      "Rank": 3,
+      "Player": "Astrid Star",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6040816,
+      "GWP": 0.5555556,
+      "OGWP": 0.5759194
+    },
+    {
+      "Rank": 4,
+      "Player": "ehershkovitz",
+      "Points": 11,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 2,
+      "OMWP": 0.5251701,
+      "GWP": 0.5,
+      "OGWP": 0.5145366
+    },
+    {
+      "Rank": 5,
+      "Player": "Matthew Townsend-Farr",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6444444,
+      "GWP": 0.4545455,
+      "OGWP": 0.5897436
+    },
+    {
+      "Rank": 6,
+      "Player": "Omega4Sight",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6166667,
+      "GWP": 0.3636364,
+      "OGWP": 0.5801282
+    },
+    {
+      "Rank": 7,
+      "Player": "LegallyBrooke",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5833333,
+      "GWP": 0.4166667,
+      "OGWP": 0.5332168
+    },
+    {
+      "Rank": 8,
+      "Player": "Joseph Zimmerman",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5733333,
+      "GWP": 0.4615385,
+      "OGWP": 0.5523976
+    },
+    {
+      "Rank": 9,
+      "Player": "Nick Godinez",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.52,
+      "GWP": 0.4615385,
+      "OGWP": 0.5308358
+    }
+  ]
+}
