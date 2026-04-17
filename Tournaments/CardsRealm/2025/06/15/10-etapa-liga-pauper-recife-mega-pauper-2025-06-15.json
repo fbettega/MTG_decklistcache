@@ -1,0 +1,465 @@
+{
+  "Tournament": {
+    "Date": "2025-06-15T12:30:00",
+    "Name": "10° Etapa Liga Pauper Recife - MEGA PAUPER",
+    "Uri": "https://mtg.cardsrealm.com/en-us/tournament/1k2j4-10deg-etapa-liga-pauper-recife-mega-pauper",
+    "Formats": "Pauper"
+  },
+  "Decks": [
+    {
+      "Date": "2025-06-15T12:30:00",
+      "Player": "João Sette",
+      "Result": "3rd Place",
+      "AnchorUri": "https://mtg.cardsrealm.com/en-us/decks/jk39-mono-u-fadas-2303",
+      "Mainboard": [
+        {
+          "Count": 18,
+          "CardName": "Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Harrier Strix"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brinebarrow Intruder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Seer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Miscreant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Moon-Circuit Hacker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spellstutter Sprite"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ninja of the Deep Hours"
+        },
+        {
+          "Count": 2,
+          "CardName": "Unable to Scream"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bind the Monster"
+        },
+        {
+          "Count": 3,
+          "CardName": "Of One Mind"
+        },
+        {
+          "Count": 3,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 2,
+          "CardName": "Snap"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Steel Sabotage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gut Shot"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "Biel",
+          "Player2": "Edmilson",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Leonan",
+          "Player2": "Wolf",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lukitas",
+          "Player2": "Lippe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Murilo",
+          "Player2": "João Sette",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Pedro Reis",
+          "Player2": "Myka",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dexter",
+          "Player2": "Roberto Zueira",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Heric Andrade",
+          "Player2": "Batista",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Goblin Boy",
+          "Player2": "Italo Gabriel",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Boyband",
+          "Player2": "Felipe Reis",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lucas Cavalcante",
+          "Player2": "Tarcisio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GABRIEL MOTA SOUZA",
+          "Player2": "Yan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Luiz Carlos",
+          "Player2": "Rod Bacana",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jose Brayner",
+          "Player2": "Gerson",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "GABRIEL MOTA SOUZA",
+          "Player2": "Leonan",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Gerson",
+          "Player2": "Myka",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "João Sette",
+          "Player2": "Lukitas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Luiz Carlos",
+          "Player2": "Italo Gabriel",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Boyband",
+          "Player2": "Edmilson",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Batista",
+          "Player2": "Dexter",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rod Bacana",
+          "Player2": "Lucas Cavalcante",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Felipe Reis",
+          "Player2": "Goblin Boy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tarcisio",
+          "Player2": "Biel",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Heric Andrade",
+          "Player2": "Roberto Zueira",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "Murilo",
+          "Player2": "Lippe",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Brayner",
+          "Player2": "Yan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Wolf",
+          "Player2": "Pedro Reis",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Gerson",
+          "Player2": "Italo Gabriel",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "João Sette",
+          "Player2": "Leonan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Batista",
+          "Player2": "Lucas Cavalcante",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Boyband",
+          "Player2": "Lukitas",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Goblin Boy",
+          "Player2": "Myka",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Brayner",
+          "Player2": "GABRIEL MOTA SOUZA",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tarcisio",
+          "Player2": "Edmilson",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Luiz Carlos",
+          "Player2": "Dexter",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Pedro Reis",
+          "Player2": "Lippe",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "Heric Andrade",
+          "Player2": "Rod Bacana",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Felipe Reis",
+          "Player2": "Roberto Zueira",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Murilo",
+          "Player2": "Wolf",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Biel",
+          "Player2": "Yan",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "João Sette",
+          "Player2": "Gerson",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Batista",
+          "Player2": "Lukitas",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "Leonan",
+          "Player2": "Lucas Cavalcante",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Myka",
+          "Player2": "Italo Gabriel",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GABRIEL MOTA SOUZA",
+          "Player2": "Dexter",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Boyband",
+          "Player2": "Tarcisio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Brayner",
+          "Player2": "Lippe",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Pedro Reis",
+          "Player2": "Edmilson",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Goblin Boy",
+          "Player2": "Luiz Carlos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Wolf",
+          "Player2": "Biel",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Felipe Reis",
+          "Player2": "Rod Bacana",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Murilo",
+          "Player2": "Heric Andrade",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Roberto Zueira",
+          "Player2": "Yan",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "Batista",
+          "Player2": "Gerson",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "João Sette",
+          "Player2": "Lucas Cavalcante",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tarcisio",
+          "Player2": "Italo Gabriel",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GABRIEL MOTA SOUZA",
+          "Player2": "Lukitas",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Leonan",
+          "Player2": "Pedro Reis",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Brayner",
+          "Player2": "Myka",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Boyband",
+          "Player2": "Dexter",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "Goblin Boy",
+          "Player2": "Biel",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lippe",
+          "Player2": "Rod Bacana",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Roberto Zueira",
+          "Player2": "Edmilson",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Wolf",
+          "Player2": "Luiz Carlos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Murilo",
+          "Player2": "Felipe Reis",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Heric Andrade",
+          "Player2": "Yan",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 3,
+      "Player": "João Sette",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5733,
+      "GWP": 0.6923,
+      "OGWP": 0.5477000000000001
+    }
+  ]
+}

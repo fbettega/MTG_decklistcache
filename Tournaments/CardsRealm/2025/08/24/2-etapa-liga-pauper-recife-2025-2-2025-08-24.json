@@ -1,0 +1,271 @@
+{
+  "Tournament": {
+    "Date": "2025-08-24T12:30:00",
+    "Name": "2° Etapa Liga Pauper Recife 2025.2",
+    "Uri": "https://mtg.cardsrealm.com/en-us/tournament/1k2n4-2deg-etapa-liga-pauper-recife-20252",
+    "Formats": "Pauper"
+  },
+  "Decks": [
+    {
+      "Date": "2025-08-24T12:30:00",
+      "Player": "João Sette",
+      "Result": "3rd Place",
+      "AnchorUri": "https://mtg.cardsrealm.com/en-us/decks/k8on-fadas-liga-pauper",
+      "Mainboard": [
+        {
+          "Count": 18,
+          "CardName": "Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Humbling Elder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Harrier Strix"
+        },
+        {
+          "Count": 3,
+          "CardName": "Brinebarrow Intruder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Seer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Miscreant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Moon-Circuit Hacker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spellstutter Sprite"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ninja of the Deep Hours"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bind the Monster"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sunken City"
+        },
+        {
+          "Count": 4,
+          "CardName": "Of One Mind"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Snap"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Azure Fleet Admiral"
+        },
+        {
+          "Count": 2,
+          "CardName": "Unable to Scream"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bind the Monster"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Steel Sabotage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dispel"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "Wolf",
+          "Player2": "Pedro Reis",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Felipe Reis",
+          "Player2": "Felipe Ninja",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Brayner",
+          "Player2": "Dexter",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "João Sette",
+          "Player2": "Gogoboy",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "BoyBand",
+          "Player2": "Heric",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Yan",
+          "Player2": "Luquita",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Dexter",
+          "Player2": "Felipe Ninja",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "João Sette",
+          "Player2": "Heric",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Wolf",
+          "Player2": "Luquita",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "Yan",
+          "Player2": "Gogoboy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BoyBand",
+          "Player2": "Pedro Reis",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Brayner",
+          "Player2": "Felipe Reis",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Heric",
+          "Player2": "Dexter",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "Luquita",
+          "Player2": "Felipe Ninja",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Brayner",
+          "Player2": "Wolf",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "João Sette",
+          "Player2": "Pedro Reis",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "BoyBand",
+          "Player2": "Yan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Felipe Reis",
+          "Player2": "Gogoboy",
+          "Result": "1-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Heric",
+          "Player2": "Luquita",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dexter",
+          "Player2": "Yan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Brayner",
+          "Player2": "João Sette",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Wolf",
+          "Player2": "Felipe Ninja",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Pedro Reis",
+          "Player2": "Gogoboy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BoyBand",
+          "Player2": "Felipe Reis",
+          "Result": "0-2-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 3,
+      "Player": "João Sette",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5416,
+      "GWP": 0.5455,
+      "OGWP": 0.5657
+    }
+  ]
+}
