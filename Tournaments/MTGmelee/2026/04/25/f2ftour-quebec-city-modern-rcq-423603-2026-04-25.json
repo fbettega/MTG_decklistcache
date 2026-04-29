@@ -1,0 +1,2238 @@
+{
+  "Tournament": {
+    "Date": "2026-04-25T14:15:00+00:00",
+    "Name": "F2FTour Quebec City - Modern RCQ",
+    "Uri": "https://melee.gg/Tournament/View/423603",
+    "Formats": "Modern"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "VinC10",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/1a2e0fcd-8278-4e09-9e13-b4370172ca89",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Suppression Ray"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sea Gate Restoration"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flare of Denial"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fallaji Archaeologist"
+        },
+        {
+          "Count": 4,
+          "CardName": "Whir of Invention"
+        },
+        {
+          "Count": 4,
+          "CardName": "Disrupting Shoal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thundertrap Trainer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Into the Flood Maw"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stern Scolding"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lotus Bloom"
+        },
+        {
+          "Count": 4,
+          "CardName": "Jwari Disruption"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Charbelcher"
+        },
+        {
+          "Count": 4,
+          "CardName": "Waterlogged Teachings"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroelectric Specimen"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sink into Stupor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tameshi, Reality Architect"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 3,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Strix Serenade"
+        },
+        {
+          "Count": 1,
+          "CardName": "Into the Flood Maw"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flusterstorm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grafdigger's Cage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Engineered Explosives"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tezzeret the Seeker"
+        },
+        {
+          "Count": 2,
+          "CardName": "Harbinger of the Seas"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "pkiob",
+      "Result": "2st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/bece43dd-8574-4082-85f5-b437016de9c2",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Agatha's Soul Cauldron"
+        },
+        {
+          "Count": 4,
+          "CardName": "Badgermole Cub"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 2,
+          "CardName": "Chord of Calling"
+        },
+        {
+          "Count": 4,
+          "CardName": "Delighted Halfling"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dredger's Insight"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dryad Arbor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Endurance"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Formidable Speaker"
+        },
+        {
+          "Count": 3,
+          "CardName": "Green Sun's Zenith"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grist, the Hunger Tide"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hapatra, Vizier of Poisons"
+        },
+        {
+          "Count": 2,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 2,
+          "CardName": "Orcish Bowmasters"
+        },
+        {
+          "Count": 3,
+          "CardName": "Overgrown Tomb"
+        },
+        {
+          "Count": 3,
+          "CardName": "Spymaster's Vault"
+        },
+        {
+          "Count": 1,
+          "CardName": "Strangleroot Geist"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Underground Mortuary"
+        },
+        {
+          "Count": 4,
+          "CardName": "Verdant Catacombs"
+        },
+        {
+          "Count": 1,
+          "CardName": "Virulent Emissary"
+        },
+        {
+          "Count": 3,
+          "CardName": "Walking Ballista"
+        },
+        {
+          "Count": 4,
+          "CardName": "Windswept Heath"
+        },
+        {
+          "Count": 4,
+          "CardName": "Yawgmoth, Thran Physician"
+        },
+        {
+          "Count": 3,
+          "CardName": "Young Wolf"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Endurance"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force of Vigor"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fulminator Mage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pile On"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scavenging Ooze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soulless Jailer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vexing Bauble"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Gabriel Bernier",
+      "Result": "3st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/fd55a24d-244c-4a65-9815-b43701684973",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ajani, Nacatl Pariah"
+        },
+        {
+          "Count": 3,
+          "CardName": "Arena of Glory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blood Moon"
+        },
+        {
+          "Count": 3,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Discharge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Goblin Bombardment"
+        },
+        {
+          "Count": 4,
+          "CardName": "Guide of Souls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ocelot Pride"
+        },
+        {
+          "Count": 4,
+          "CardName": "Phlage, Titan of Fire's Fury"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ragavan, Nimble Pilferer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seasoned Pyromancer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Legend of Roku"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thraben Charm"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Damping Sphere"
+        },
+        {
+          "Count": 1,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Obsidian Charmaw"
+        },
+        {
+          "Count": 2,
+          "CardName": "Orim's Chant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shatterstorm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 1,
+          "CardName": "Surgical Extraction"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vexing Bauble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wear // Tear"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wrath of the Skies"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Maxime Auger",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/c51f219a-92e6-409a-b52e-b4370170447f",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Arena of Glory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 2,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Doorkeeper Thrull"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 1,
+          "CardName": "Indatha Triome"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline Binding"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline of the Guildpact"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Phlage, Titan of Fire's Fury"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ragavan, Nimble Pilferer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 3,
+          "CardName": "Stubborn Denial"
+        },
+        {
+          "Count": 1,
+          "CardName": "Teferi, Time Raveler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Temple Garden"
+        },
+        {
+          "Count": 4,
+          "CardName": "Territorial Kavu"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thundering Falls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wooded Foothills"
+        },
+        {
+          "Count": 4,
+          "CardName": "Scion of Draco"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Surgical Extraction"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Legend of Roku"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wear // Tear"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wrath of the Skies"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Obsidian Charmaw"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rough // Tumble"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Matthieu McBane",
+      "Result": "5th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/a7d3f4aa-8b02-4db3-8f9c-b4370167d03e",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 3,
+          "CardName": "Consult the Star Charts"
+        },
+        {
+          "Count": 2,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 1,
+          "CardName": "Day's Undoing"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Discharge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Geier Reach Sanitarium"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Isochron Scepter"
+        },
+        {
+          "Count": 1,
+          "CardName": "March of Otherworldly Light"
+        },
+        {
+          "Count": 2,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 1,
+          "CardName": "Monumental Henge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mystic Gate"
+        },
+        {
+          "Count": 4,
+          "CardName": "Narset, Parter of Veils"
+        },
+        {
+          "Count": 4,
+          "CardName": "Orim's Chant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Phlage, Titan of Fire's Fury"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 3,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 1,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 1,
+          "CardName": "Supreme Verdict"
+        },
+        {
+          "Count": 3,
+          "CardName": "Teferi, Time Raveler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thundering Falls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wrath of the Skies"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Celestial Purge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fire Magic"
+        },
+        {
+          "Count": 1,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Isochron Scepter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Phlage, Titan of Fire's Fury"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wrath of the Skies"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "hlamv",
+      "Result": "6th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/e67ccbac-ad09-4aba-af41-b437016af252",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Atraxa, Grand Unifier"
+        },
+        {
+          "Count": 3,
+          "CardName": "Emperor of Bones"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ephemerate"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faithful Mending"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 3,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goryo's Vengeance"
+        },
+        {
+          "Count": 1,
+          "CardName": "Griselbrand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Jace, Vryn's Prodigy"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ketramose, the New Dawn"
+        },
+        {
+          "Count": 4,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 1,
+          "CardName": "Overgrown Tomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pest Control"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 4,
+          "CardName": "Psychic Frog"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shadowy Backstreet"
+        },
+        {
+          "Count": 3,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 1,
+          "CardName": "Superior Spider-Man"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vanishing Verse"
+        },
+        {
+          "Count": 1,
+          "CardName": "Watery Grave"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Ashiok, Dream Render"
+        },
+        {
+          "Count": 2,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Damping Sphere"
+        },
+        {
+          "Count": 1,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pest Control"
+        },
+        {
+          "Count": 1,
+          "CardName": "Requisition Raid"
+        },
+        {
+          "Count": 1,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 2,
+          "CardName": "Subtlety"
+        },
+        {
+          "Count": 2,
+          "CardName": "Teferi, Time Raveler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wrath of the Skies"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "SamN2",
+      "Result": "7th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/e21b9b0d-2d9f-4839-8a24-b437016c6d57",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Phlage, Titan of Fire's Fury"
+        },
+        {
+          "Count": 2,
+          "CardName": "Voice of Victory"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Guide of Souls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ocelot Pride"
+        },
+        {
+          "Count": 4,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ajani, Nacatl Pariah"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Discharge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thraben Charm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seasoned Pyromancer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Arena of Glory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ragavan, Nimble Pilferer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dalkovan Encampment"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fable of the Mirror-Breaker"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 3,
+          "CardName": "Goblin Bombardment"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Orim's Chant"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wrath of the Skies"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wear // Tear"
+        },
+        {
+          "Count": 1,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 2,
+          "CardName": "Surgical Extraction"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blood Moon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vexing Bauble"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Legend of Roku"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "AntoineDuclos",
+      "Result": "8th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/5365b360-89e5-41ad-b8b5-b437016d8490",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Urza's Tower"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Mine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Power Plant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eldrazi Temple"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wastes"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mind Stone"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thought-Knot Seer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kozilek's Command"
+        },
+        {
+          "Count": 4,
+          "CardName": "Karn, the Great Creator"
+        },
+        {
+          "Count": 4,
+          "CardName": "Devourer of Destiny"
+        },
+        {
+          "Count": 2,
+          "CardName": "Warping Wail"
+        },
+        {
+          "Count": 4,
+          "CardName": "Glaring Fleshraker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Expedition Map"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ugin, Eye of the Storms"
+        },
+        {
+          "Count": 1,
+          "CardName": "Trinisphere"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sire of Seven Deaths"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ugin's Labyrinth"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chalice of the Void"
+        },
+        {
+          "Count": 1,
+          "CardName": "Walking Ballista"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pithing Needle"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ensnaring Bridge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Disruptor Flute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tormod's Crypt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cityscape Leveler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Extinguisher Battleship"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Stone Brain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Skysovereign, Consul Flagship"
+        },
+        {
+          "Count": 1,
+          "CardName": "Liquimetal Coating"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grafdigger's Cage"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Filigree Sylex"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "wuyjj",
+      "Result": "19th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/0fa77add-ca10-48cc-9d40-b437016835a3",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Tchar",
+      "Result": "31th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/8d37f836-ccdf-4710-b33f-b43700eaa698",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "SimonB",
+      "Result": "44th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/0b1b5ec1-2924-4aab-a06d-b43700ead003",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "wnbjl",
+      "Result": "46th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/726fe132-e828-4610-a2d6-b43700ead0d0",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "DavV5",
+      "Result": "57th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/cd753f06-b417-4433-9cce-b43700ea4071",
+      "Mainboard": [],
+      "Sideboard": []
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "VinC10",
+          "Player2": "Steven Nguyen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "pkiob",
+          "Player2": "Xanto",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gabriel Bernier",
+          "Player2": "iwjbn",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Maxime Auger",
+          "Player2": "SmokeMeatBoy",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Matthieu McBane",
+          "Player2": "fomiv",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "hlamv",
+          "Player2": "kingjessy1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SamN2",
+          "Player2": "Leo Deriviere",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AntoineDuclos",
+          "Player2": "JCDesbiens",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wuyjj",
+          "Player2": "exrum",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tchar",
+          "Player2": "-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SimonB",
+          "Player2": "icshc",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Virgile Laforce-Francoeur",
+          "Player2": "wnbjl",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mathiasv",
+          "Player2": "DavV5",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "VinC10",
+          "Player2": "ThomasEmileOuellette",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "pkiob",
+          "Player2": "SamN2",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gabriel Bernier",
+          "Player2": "Maxime Auger",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Virgile Laforce-Francoeur",
+          "Player2": "Matthieu McBane",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hlamv",
+          "Player2": "Maël Cournoyer-Michel",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AntoineDuclos",
+          "Player2": "Tchar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wuyjj",
+          "Player2": "HenG6",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EriM4",
+          "Player2": "SimonB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wnbjl",
+          "Player2": "Maik M",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "JCDancause",
+          "Player2": "DavV5",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Virgile Laforce-Francoeur",
+          "Player2": "VinC10",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "pkiob",
+          "Player2": "HenG6",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Gabriel Bernier",
+          "Player2": "Gabriel Guimond",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Maxime Auger",
+          "Player2": "JCDancause",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Matthieu McBane",
+          "Player2": "MatC58",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "hlamv",
+          "Player2": "qllve",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SamN2",
+          "Player2": "exrum",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AntoineDuclos",
+          "Player2": "Jean-Philippe Morin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wuyjj",
+          "Player2": "qgkwx",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tchar",
+          "Player2": "CdT2",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kingjessy1",
+          "Player2": "SimonB",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jean-Philippe Goyet",
+          "Player2": "wnbjl",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "VinC10",
+          "Player2": "TheITGuy",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "pkiob",
+          "Player2": "hlamv",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Gabriel Bernier",
+          "Player2": "Mathiasv",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Maxime Auger",
+          "Player2": "Xanto",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Matthieu McBane",
+          "Player2": "Boratzilla",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SamN2",
+          "Player2": "Kevin Parent",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AntoineDuclos",
+          "Player2": "Virgile Laforce-Francoeur",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "EriM4",
+          "Player2": "wuyjj",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jean-Philippe Goyet",
+          "Player2": "Tchar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "exrum",
+          "Player2": "SimonB",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "Matches": [
+        {
+          "Player1": "VinC10",
+          "Player2": "Jean-Philippe Goyet",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "pkiob",
+          "Player2": "EriM4",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gabriel Bernier",
+          "Player2": "AntoineDuclos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Maxime Auger",
+          "Player2": "OliR8",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Matthieu McBane",
+          "Player2": "wuyjj",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hlamv",
+          "Player2": "NicholasMichaud",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SamN2",
+          "Player2": "fayxi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Maël Cournoyer-Michel",
+          "Player2": "Tchar",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "Matches": [
+        {
+          "Player1": "VinC10",
+          "Player2": "EriM4",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "pkiob",
+          "Player2": "Gabriel Bernier",
+          "Result": "0-0-3"
+        },
+        {
+          "Player1": "Gabriel Bernier",
+          "Player2": "pkiob",
+          "Result": "0-0-3"
+        },
+        {
+          "Player1": "Maxime Auger",
+          "Player2": "Gabriel Guimond",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Matthieu McBane",
+          "Player2": "Mathiasv",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hlamv",
+          "Player2": "SamN2",
+          "Result": "0-0-3"
+        },
+        {
+          "Player1": "SamN2",
+          "Player2": "hlamv",
+          "Result": "0-0-3"
+        },
+        {
+          "Player1": "AntoineDuclos",
+          "Player2": "wuyjj",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "Matches": [
+        {
+          "Player1": "VinC10",
+          "Player2": "Matthieu McBane",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pkiob",
+          "Player2": "SamN2",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gabriel Bernier",
+          "Player2": "AntoineDuclos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Maxime Auger",
+          "Player2": "hlamv",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "Matches": [
+        {
+          "Player1": "VinC10",
+          "Player2": "Gabriel Bernier",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pkiob",
+          "Player2": "Maxime Auger",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "Matches": [
+        {
+          "Player1": "VinC10",
+          "Player2": "pkiob",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "VinC10",
+      "Points": 15,
+      "Wins": 8,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5092593,
+      "GWP": 0.6111111,
+      "OGWP": 0.5229197
+    },
+    {
+      "Rank": 2,
+      "Player": "pkiob",
+      "Points": 16,
+      "Wins": 7,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.6388889,
+      "GWP": 0.7333333,
+      "OGWP": 0.5517915
+    },
+    {
+      "Rank": 3,
+      "Player": "Gabriel Bernier",
+      "Points": 16,
+      "Wins": 6,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.6944444,
+      "GWP": 0.6470588,
+      "OGWP": 0.6280093
+    },
+    {
+      "Rank": 4,
+      "Player": "Maxime Auger",
+      "Points": 15,
+      "Wins": 6,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5648148,
+      "GWP": 0.6875,
+      "OGWP": 0.5269518
+    },
+    {
+      "Rank": 5,
+      "Player": "Matthieu McBane",
+      "Points": 15,
+      "Wins": 5,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4462963,
+      "GWP": 0.6923077,
+      "OGWP": 0.499913
+    },
+    {
+      "Rank": 6,
+      "Player": "hlamv",
+      "Points": 13,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.6296296,
+      "GWP": 0.625,
+      "OGWP": 0.5719755
+    },
+    {
+      "Rank": 7,
+      "Player": "SamN2",
+      "Points": 13,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.6018519,
+      "GWP": 0.5625,
+      "OGWP": 0.5605769
+    },
+    {
+      "Rank": 8,
+      "Player": "AntoineDuclos",
+      "Points": 13,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.5296296,
+      "GWP": 0.6666667,
+      "OGWP": 0.4898868
+    },
+    {
+      "Rank": 9,
+      "Player": "qgkwx",
+      "Points": 13,
+      "Wins": 4,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.4907407,
+      "GWP": 0.6888889,
+      "OGWP": 0.4989418
+    },
+    {
+      "Rank": 10,
+      "Player": "Gabriel Guimond",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6018519,
+      "GWP": 0.625,
+      "OGWP": 0.5613514
+    },
+    {
+      "Rank": 11,
+      "Player": "EriM4",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5648148,
+      "GWP": 0.6428571,
+      "OGWP": 0.5074074
+    },
+    {
+      "Rank": 12,
+      "Player": "NicholasMichaud",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5092593,
+      "GWP": 0.6153846,
+      "OGWP": 0.5191239
+    },
+    {
+      "Rank": 13,
+      "Player": "exrum",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5092593,
+      "GWP": 0.6,
+      "OGWP": 0.5020121
+    },
+    {
+      "Rank": 14,
+      "Player": "fgksz",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.6666667,
+      "OGWP": 0.5027146
+    },
+    {
+      "Rank": 15,
+      "Player": "SmokeMeatBoy",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4722222,
+      "GWP": 0.6428571,
+      "OGWP": 0.4543269
+    },
+    {
+      "Rank": 16,
+      "Player": "Maël Cournoyer-Michel",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4648148,
+      "GWP": 0.6428571,
+      "OGWP": 0.468198
+    },
+    {
+      "Rank": 17,
+      "Player": "Virgile Laforce-Francoeur",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.6851852,
+      "GWP": 0.5714286,
+      "OGWP": 0.6028846
+    },
+    {
+      "Rank": 18,
+      "Player": "Mathiasv",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.6018519,
+      "GWP": 0.5555556,
+      "OGWP": 0.5491537
+    },
+    {
+      "Rank": 19,
+      "Player": "wuyjj",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6851852,
+      "GWP": 0.5333333,
+      "OGWP": 0.6317867
+    },
+    {
+      "Rank": 20,
+      "Player": "OliR8",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6111111,
+      "GWP": 0.5384615,
+      "OGWP": 0.5527625
+    },
+    {
+      "Rank": 21,
+      "Player": "HenG6",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.537037,
+      "GWP": 0.5,
+      "OGWP": 0.5222222
+    },
+    {
+      "Rank": 22,
+      "Player": "Jean-Philippe Goyet",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5133333,
+      "GWP": 0.5111111,
+      "OGWP": 0.4763492
+    },
+    {
+      "Rank": 23,
+      "Player": "Kevin Parent",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5111111,
+      "GWP": 0.5384615,
+      "OGWP": 0.4952381
+    },
+    {
+      "Rank": 24,
+      "Player": "Jean-Philippe Morin",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5092593,
+      "GWP": 0.4375,
+      "OGWP": 0.5202279
+    },
+    {
+      "Rank": 25,
+      "Player": "fayxi",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5018519,
+      "GWP": 0.5333333,
+      "OGWP": 0.5109606
+    },
+    {
+      "Rank": 26,
+      "Player": "ThomasEmileOuellette",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.5333333,
+      "OGWP": 0.4724715
+    },
+    {
+      "Rank": 27,
+      "Player": "FelGB",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4466667,
+      "GWP": 0.6,
+      "OGWP": 0.48
+    },
+    {
+      "Rank": 28,
+      "Player": "TheITGuy",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.5454545,
+      "OGWP": 0.6256944
+    },
+    {
+      "Rank": 29,
+      "Player": "Pyhell",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5972222,
+      "GWP": 0.5,
+      "OGWP": 0.5725198
+    },
+    {
+      "Rank": 30,
+      "Player": "Xanto",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.5925926,
+      "GWP": 0.3333333,
+      "OGWP": 0.5661706
+    },
+    {
+      "Rank": 31,
+      "Player": "Tchar",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.4166667,
+      "OGWP": 0.5551587
+    },
+    {
+      "Rank": 32,
+      "Player": "qllve",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.537037,
+      "GWP": 0.3777778,
+      "OGWP": 0.506713
+    },
+    {
+      "Rank": 33,
+      "Player": "Boratzilla",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5333333,
+      "GWP": 0.4545455,
+      "OGWP": 0.5317949
+    },
+    {
+      "Rank": 34,
+      "Player": "kingjessy1",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5277778,
+      "GWP": 0.5,
+      "OGWP": 0.4951389
+    },
+    {
+      "Rank": 35,
+      "Player": "fomiv",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.5277778,
+      "GWP": 0.3846154,
+      "OGWP": 0.4917582
+    },
+    {
+      "Rank": 36,
+      "Player": "Marc-André Tremblay",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.5,
+      "OGWP": 0.5228938
+    },
+    {
+      "Rank": 37,
+      "Player": "iwjbn",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4888889,
+      "GWP": 0.5,
+      "OGWP": 0.4629011
+    },
+    {
+      "Rank": 38,
+      "Player": "CdT2",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.437037,
+      "GWP": 0.4,
+      "OGWP": 0.4759259
+    },
+    {
+      "Rank": 39,
+      "Player": "Maik M",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.4333333,
+      "GWP": 0.4166667,
+      "OGWP": 0.4383333
+    },
+    {
+      "Rank": 40,
+      "Player": "SeniorPuel",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.4,
+      "GWP": 0.3333333,
+      "OGWP": 0.4275204
+    },
+    {
+      "Rank": 41,
+      "Player": "MatC58",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.5,
+      "OGWP": 0.508547
+    },
+    {
+      "Rank": 42,
+      "Player": "JCDancause",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.375,
+      "OGWP": 0.5180556
+    },
+    {
+      "Rank": 43,
+      "Player": "JCDesbiens",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.3333333,
+      "OGWP": 0.5568681
+    },
+    {
+      "Rank": 44,
+      "Player": "SimonB",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5416667,
+      "GWP": 0.3333333,
+      "OGWP": 0.5190476
+    },
+    {
+      "Rank": 45,
+      "Player": "SteT36",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 5,
+      "Draws": 0,
+      "OMWP": 0.4666667,
+      "GWP": 0.3333333,
+      "OGWP": 0.4721612
+    },
+    {
+      "Rank": 46,
+      "Player": "wnbjl",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.462963,
+      "GWP": 0.3333333,
+      "OGWP": 0.4997355
+    },
+    {
+      "Rank": 47,
+      "Player": "SimD11",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.5,
+      "OGWP": 0.4683761
+    },
+    {
+      "Rank": 48,
+      "Player": "L0st",
+      "Points": 1,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.3333333,
+      "GWP": 0.3333333,
+      "OGWP": 0.3333333
+    },
+    {
+      "Rank": 49,
+      "Player": "Lilly Lloyd",
+      "Points": 1,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.3333333,
+      "GWP": 0.3333333,
+      "OGWP": 0.3333333
+    },
+    {
+      "Rank": 50,
+      "Player": "sebbeaulieu",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.7222222,
+      "GWP": 0.3333333,
+      "OGWP": 0.6888889
+    },
+    {
+      "Rank": 51,
+      "Player": "JsBouthillette",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.3333333,
+      "OGWP": 0.6428571
+    },
+    {
+      "Rank": 52,
+      "Player": "Jasmine Moore",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.3333333,
+      "OGWP": 0.6428571
+    },
+    {
+      "Rank": 53,
+      "Player": "Steven Nguyen",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6111111,
+      "GWP": 0.3333333,
+      "OGWP": 0.537037
+    },
+    {
+      "Rank": 54,
+      "Player": "Leo Deriviere",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5740741,
+      "GWP": 0.3333333,
+      "OGWP": 0.5669872
+    },
+    {
+      "Rank": 55,
+      "Player": "dvlvb",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.3333333,
+      "OGWP": 0.5
+    },
+    {
+      "Rank": 56,
+      "Player": "MaxL30",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.3333333,
+      "OGWP": 0.5
+    },
+    {
+      "Rank": 57,
+      "Player": "DavV5",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.3333333,
+      "OGWP": 0.4652778
+    },
+    {
+      "Rank": 58,
+      "Player": "FraV8",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4166667,
+      "GWP": 0.3333333,
+      "OGWP": 0.45
+    },
+    {
+      "Rank": 59,
+      "Player": "MatQ",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.3333333,
+      "GWP": 0.3333333,
+      "OGWP": 0.5
+    },
+    {
+      "Rank": 60,
+      "Player": "MaximeOuellet",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.3333333,
+      "GWP": 0.3333333,
+      "OGWP": 0.3777778
+    },
+    {
+      "Rank": 61,
+      "Player": "icshc",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.3333333,
+      "GWP": 0.3333333,
+      "OGWP": 0.3333333
+    }
+  ]
+}
