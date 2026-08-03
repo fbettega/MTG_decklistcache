@@ -1,0 +1,394 @@
+{
+  "Tournament": {
+    "Date": "2026-08-02T12:30:00",
+    "Name": "8° Etapa Liga Pauper Recife",
+    "Uri": "https://mtg.cardsrealm.com/en-us/tournament/1k3bc-8deg-etapa-liga-pauper-recife",
+    "Formats": "Pauper"
+  },
+  "Decks": [
+    {
+      "Date": "2026-08-02T12:30:00",
+      "Player": "João Sette",
+      "Result": "1st Place",
+      "AnchorUri": "https://mtg.cardsrealm.com/en-us/decks/kh12-ub-fadas",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Seething Landscape"
+        },
+        {
+          "Count": 4,
+          "CardName": "Contaminated Aquifer"
+        },
+        {
+          "Count": 10,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dimir Aqueduct"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Seer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Moon-Circuit Hacker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Augur of Bolas"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spellstutter Sprite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mukotai Ambusher"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thorn of the Black Rose"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ninja of the Deep Hours"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sewer-veillance Cam"
+        },
+        {
+          "Count": 1,
+          "CardName": "Extract a Confession"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lórien Revealed"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 1,
+          "CardName": "Agony Warp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 1,
+          "CardName": "Suffocating Fumes"
+        },
+        {
+          "Count": 4,
+          "CardName": "Snuff Out"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Mukotai Ambusher"
+        },
+        {
+          "Count": 1,
+          "CardName": "Murmuring Mystic"
+        },
+        {
+          "Count": 1,
+          "CardName": "Campfire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arms of Hadar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blue Elemental Blast"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "Heric",
+          "Player2": "Rodolfo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gerson",
+          "Player2": "Charlinhos",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "dexter",
+          "Player2": "Beto",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "João Sette",
+          "Player2": "Morcegão",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jose Brayner",
+          "Player2": "Filipe Lipp",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Xucrute",
+          "Player2": "diogo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "lukita",
+          "Player2": "Richardson Moura",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lucas Daniel",
+          "Player2": "Sebastião",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Edmito",
+          "Player2": "Pedro Reis",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Yan",
+          "Player2": "Dante",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Bye",
+          "Player2": "Miguel",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Filipe Lipp",
+          "Player2": "Charlinhos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Heric",
+          "Player2": "Beto",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "Pedro Reis",
+          "Player2": "diogo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lucas Daniel",
+          "Player2": "lukita",
+          "Result": "0-1-0"
+        },
+        {
+          "Player1": "Yan",
+          "Player2": "João Sette",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Dante",
+          "Player2": "Miguel",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Morcegão",
+          "Player2": "Sebastião",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Jose Brayner",
+          "Player2": "Richardson Moura",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "dexter",
+          "Player2": "Xucrute",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Gerson",
+          "Player2": "Edmito",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Bye",
+          "Player2": "Rodolfo",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Filipe Lipp",
+          "Player2": "Pedro Reis",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "João Sette",
+          "Player2": "lukita",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Heric",
+          "Player2": "Miguel",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lucas Daniel",
+          "Player2": "Beto",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rodolfo",
+          "Player2": "Charlinhos",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Yan",
+          "Player2": "diogo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Brayner",
+          "Player2": "Edmito",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "dexter",
+          "Player2": "Sebastião",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dante",
+          "Player2": "Morcegão",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Gerson",
+          "Player2": "Richardson Moura",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "Bye",
+          "Player2": "Xucrute",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "João Sette",
+          "Player2": "Filipe Lipp",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Heric",
+          "Player2": "Pedro Reis",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "lukita",
+          "Player2": "Miguel",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Lucas Daniel",
+          "Player2": "Rodolfo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jose Brayner",
+          "Player2": "diogo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Beto",
+          "Player2": "Sebastião",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Morcegão",
+          "Player2": "Charlinhos",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Yan",
+          "Player2": "Edmito",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Gerson",
+          "Player2": "Xucrute",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dexter",
+          "Player2": "Dante",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "João Sette",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5416,
+      "GWP": 0.7273000000000001,
+      "OGWP": 0.5195000000000001
+    }
+  ]
+}
