@@ -1,0 +1,3632 @@
+{
+  "Tournament": {
+    "Date": "2026-08-20",
+    "Name": "Pauper Challenge 32",
+    "Uri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725",
+    "Formats": "Pauper"
+  },
+  "Decks": [
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "barff",
+      "Result": "1st Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_barff",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Brinebarrow Intruder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cryoshatter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Miscreant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Seer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Harrier Strix"
+        },
+        {
+          "Count": 18,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Moon-Circuit Hacker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ninja of the Deep Hours"
+        },
+        {
+          "Count": 4,
+          "CardName": "Of One Mind"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sewer-veillance Cam"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spellstutter Sprite"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spreading Seas"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steel Sabotage"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "boom_bust",
+      "Result": "2nd Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_boom_bust",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Faithless Looting"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fiery Temper"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fireblast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Grab the Prize"
+        },
+        {
+          "Count": 3,
+          "CardName": "Guttersnipe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Highway Robbery"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kessig Flamebreather"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lava Dart"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 18,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sneaky Snacker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voldaren Epicure"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 2,
+          "CardName": "End the Festivities"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 2,
+          "CardName": "Smash to Smithereens"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "AlessandroPiraccini",
+      "Result": "3rd Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_AlessandroPiraccini",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Faithless Looting"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fiery Temper"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fireblast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Grab the Prize"
+        },
+        {
+          "Count": 4,
+          "CardName": "Guttersnipe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Highway Robbery"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kessig Flamebreather"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lava Dart"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 20,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sneaky Snacker"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Campfire"
+        },
+        {
+          "Count": 3,
+          "CardName": "Electrickery"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Relic of Progenitus"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "Dustin_Comite",
+      "Result": "4th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_Dustin_Comite",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Faithless Looting"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fiery Temper"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fireblast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Grab the Prize"
+        },
+        {
+          "Count": 3,
+          "CardName": "Guttersnipe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Highway Robbery"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kessig Flamebreather"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lava Dart"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 18,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sneaky Snacker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voldaren Epicure"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 2,
+          "CardName": "End the Festivities"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 2,
+          "CardName": "Searing Blaze"
+        },
+        {
+          "Count": 3,
+          "CardName": "Smash to Smithereens"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "ziofrancone",
+      "Result": "5th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_ziofrancone",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ancient Stirrings"
+        },
+        {
+          "Count": 4,
+          "CardName": "Barrels of Blasting Jelly"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bonder's Ornament"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bramble Wurm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Conduit Pylons"
+        },
+        {
+          "Count": 3,
+          "CardName": "Crop Rotation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Expedition Map"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Giant's Boulder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nyxborn Hydra"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pulse of Murasa"
+        },
+        {
+          "Count": 1,
+          "CardName": "Slippery Karst"
+        },
+        {
+          "Count": 4,
+          "CardName": "Unfathomable Truths"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Mine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Power Plant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Tower"
+        },
+        {
+          "Count": 4,
+          "CardName": "Writhing Chrysalis"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Ancient Grudge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Coalition Honor Guard"
+        },
+        {
+          "Count": 3,
+          "CardName": "Faerie Macabre"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "Beicodegeia",
+      "Result": "6th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_Beicodegeia",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Brinebarrow Intruder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cryoshatter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Miscreant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Seer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Harrier Strix"
+        },
+        {
+          "Count": 18,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Moon-Circuit Hacker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ninja of the Deep Hours"
+        },
+        {
+          "Count": 4,
+          "CardName": "Of One Mind"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sewer-veillance Cam"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spellstutter Sprite"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spreading Seas"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steel Sabotage"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "Ixidor29",
+      "Result": "7th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_Ixidor29",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Annoyed Altisaur"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arbor Elf"
+        },
+        {
+          "Count": 3,
+          "CardName": "Avenging Hunter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Boarding Party"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bonder's Ornament"
+        },
+        {
+          "Count": 1,
+          "CardName": "Colossal Dreadmask"
+        },
+        {
+          "Count": 3,
+          "CardName": "Eldrazi Repurposer"
+        },
+        {
+          "Count": 14,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Generous Ent"
+        },
+        {
+          "Count": 2,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mwonvuli Acid-Moss"
+        },
+        {
+          "Count": 2,
+          "CardName": "Structural Distortion"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thermokarst"
+        },
+        {
+          "Count": 4,
+          "CardName": "Utopia Sprawl"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wild Growth"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wooded Ridgeline"
+        },
+        {
+          "Count": 4,
+          "CardName": "Writhing Chrysalis"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 3,
+          "CardName": "Deglamer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 3,
+          "CardName": "Suplex"
+        },
+        {
+          "Count": 3,
+          "CardName": "Weather the Storm"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "ewerb123",
+      "Result": "8th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_ewerb123",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ancient Stirrings"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bonder's Ornament"
+        },
+        {
+          "Count": 4,
+          "CardName": "Boulderbranch Golem"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bramble Wurm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Candy Trail"
+        },
+        {
+          "Count": 2,
+          "CardName": "Conduit Pylons"
+        },
+        {
+          "Count": 3,
+          "CardName": "Crop Rotation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Expedition Map"
+        },
+        {
+          "Count": 3,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Generous Ent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Giant's Boulder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Maelstrom Colossus"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pinnacle Kill-Ship"
+        },
+        {
+          "Count": 2,
+          "CardName": "Unfathomable Truths"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Mine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Power Plant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Tower"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flaring Pain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tangle"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tranquility"
+        },
+        {
+          "Count": 1,
+          "CardName": "Whispersilk Cloak"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "JuaKi",
+      "Result": "9th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_JuaKi",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Abundant Growth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ancestral Mask"
+        },
+        {
+          "Count": 4,
+          "CardName": "Armadillo Cloak"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ash Barrens"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cartouche of Solidarity"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ethereal Armor"
+        },
+        {
+          "Count": 12,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gladecover Scout"
+        },
+        {
+          "Count": 3,
+          "CardName": "Kruphix's Insight"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lifelink"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Rancor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sentinel's Eyes"
+        },
+        {
+          "Count": 2,
+          "CardName": "Silhana Ledgewalker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Slippery Bogle"
+        },
+        {
+          "Count": 4,
+          "CardName": "Utopia Sprawl"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wild Growth"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faerie Macabre"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flaring Pain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mask of Law and Grace"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spirit Link"
+        },
+        {
+          "Count": 2,
+          "CardName": "Standard Bearer"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "Pafru",
+      "Result": "10th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_Pafru",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Axebane Guardian"
+        },
+        {
+          "Count": 4,
+          "CardName": "Balustrade Spy"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dread Return"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elves of Deep Shadow"
+        },
+        {
+          "Count": 3,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gatecreeper Vine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Generous Ent"
+        },
+        {
+          "Count": 1,
+          "CardName": "Jaspera Sentinel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Land Grant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lead the Stampede"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lotleth Giant"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lotus Petal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Masked Vandal"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mesmeric Fiend"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nyxborn Hydra"
+        },
+        {
+          "Count": 4,
+          "CardName": "Overgrown Battlement"
+        },
+        {
+          "Count": 2,
+          "CardName": "Quirion Ranger"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sagu Wildling"
+        },
+        {
+          "Count": 4,
+          "CardName": "Saruli Caretaker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Troll of Khazad-dûm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wall of Roots"
+        },
+        {
+          "Count": 4,
+          "CardName": "Winding Way"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Acorn Harvest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Avenging Hunter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faerie Macabre"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fang Dragon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flaring Pain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Guerrilla Gorilla"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mesmeric Fiend"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nylea's Disciple"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nyxborn Hydra"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "mechrataal",
+      "Result": "11th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_mechrataal",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Accursed Marauder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Avenging Hunter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 2,
+          "CardName": "Campfire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 3,
+          "CardName": "Crypt Rats"
+        },
+        {
+          "Count": 3,
+          "CardName": "Defile"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eviscerator's Insight"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fanatical Offering"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fungal Infection"
+        },
+        {
+          "Count": 1,
+          "CardName": "Haunted Mire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ichor Wellspring"
+        },
+        {
+          "Count": 4,
+          "CardName": "Khalni Garden"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lembas"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spinning Darkness"
+        },
+        {
+          "Count": 1,
+          "CardName": "Suffocating Fumes"
+        },
+        {
+          "Count": 10,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tithing Blade"
+        },
+        {
+          "Count": 3,
+          "CardName": "Troll of Khazad-dûm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Unmake"
+        },
+        {
+          "Count": 2,
+          "CardName": "Witch's Cottage"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Avenging Hunter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Drown in Sorrow"
+        },
+        {
+          "Count": 3,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faerie Macabre"
+        },
+        {
+          "Count": 3,
+          "CardName": "Troublemaker Ouphe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Weather the Storm"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "VitorCarvalho01",
+      "Result": "12th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_VitorCarvalho01",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Blood Fountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Drossforge Bridge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Great Furnace"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ichor Wellspring"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kenku Artificer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Krark-Clan Shaman"
+        },
+        {
+          "Count": 1,
+          "CardName": "Makeshift Munitions"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mistvault Bridge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Myr Enforcer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 4,
+          "CardName": "Reckoner's Bargain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Refurbished Familiar"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seat of the Synod"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sewer-veillance Cam"
+        },
+        {
+          "Count": 2,
+          "CardName": "Silverbluff Bridge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtcast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 2,
+          "CardName": "Toxin Analysis"
+        },
+        {
+          "Count": 3,
+          "CardName": "Utrom Monitor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vault of Whispers"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Extract a Confession"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Krark-Clan Shaman"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Unexpected Fangs"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "Watchwolf92",
+      "Result": "13th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_Watchwolf92",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 4,
+          "CardName": "Contaminated Aquifer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gurmag Angler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ice Tunnel"
+        },
+        {
+          "Count": 11,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lórien Revealed"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mental Note"
+        },
+        {
+          "Count": 2,
+          "CardName": "Murmuring Mystic"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ponder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thought Scour"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tolarian Terror"
+        },
+        {
+          "Count": 2,
+          "CardName": "Unexpected Fangs"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Agony Warp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thorn of the Black Rose"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "Luminati",
+      "Result": "14th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_Luminati",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cryptic Serpent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deem Inferior"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deep Analysis"
+        },
+        {
+          "Count": 4,
+          "CardName": "Delver of Secrets"
+        },
+        {
+          "Count": 16,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lórien Revealed"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mental Note"
+        },
+        {
+          "Count": 2,
+          "CardName": "Murmuring Mystic"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ponder"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sleep of the Dead"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thought Scour"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tolarian Terror"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Envelop"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gut Shot"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "Malpyrocky",
+      "Result": "15th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_Malpyrocky",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Basilisk Gate"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bitter Reunion"
+        },
+        {
+          "Count": 4,
+          "CardName": "Citadel Gate"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cliffgate"
+        },
+        {
+          "Count": 2,
+          "CardName": "Journey to Nowhere"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 2,
+          "CardName": "Manor Gate"
+        },
+        {
+          "Count": 2,
+          "CardName": "Melded Moxite"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Outlaw Medic"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Prismatic Strands"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pursue the Past"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Cat"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sneaky Snacker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thraben Charm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Writhing Chrysalis"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dust to Dust"
+        },
+        {
+          "Count": 2,
+          "CardName": "Guardian of the Guildpact"
+        },
+        {
+          "Count": 3,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tamiyo's Safekeeping"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "GLSwadow",
+      "Result": "16th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_GLSwadow",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Annoyed Altisaur"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arbor Elf"
+        },
+        {
+          "Count": 3,
+          "CardName": "Avenging Hunter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Boarding Party"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bonder's Ornament"
+        },
+        {
+          "Count": 2,
+          "CardName": "Eldrazi Repurposer"
+        },
+        {
+          "Count": 15,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Generous Ent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mwonvuli Acid-Moss"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thermokarst"
+        },
+        {
+          "Count": 4,
+          "CardName": "Utopia Sprawl"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wild Growth"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wooded Ridgeline"
+        },
+        {
+          "Count": 4,
+          "CardName": "Writhing Chrysalis"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Deglamer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Monstrous Emergence"
+        },
+        {
+          "Count": 3,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 2,
+          "CardName": "Suplex"
+        },
+        {
+          "Count": 2,
+          "CardName": "Weather the Storm"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "Jrhu252",
+      "Result": "17th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_Jrhu252",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Artful Dodge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Boomerang"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cryptic Serpent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Delver of Secrets"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force Spike"
+        },
+        {
+          "Count": 16,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lórien Revealed"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mental Note"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sleep of the Dead"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thought Scour"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tolarian Terror"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Envelop"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gut Shot"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Steel Sabotage"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "4FunNoWin",
+      "Result": "18th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_4FunNoWin",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ancient Stirrings"
+        },
+        {
+          "Count": 2,
+          "CardName": "Barrels of Blasting Jelly"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bonder's Ornament"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boulderbranch Golem"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bramble Wurm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Conduit Pylons"
+        },
+        {
+          "Count": 3,
+          "CardName": "Crop Rotation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Expedition Map"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Generous Ent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Giant's Boulder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Haunted Fengraf"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kaervek's Torch"
+        },
+        {
+          "Count": 4,
+          "CardName": "Maelstrom Colossus"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pinnacle Kill-Ship"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rooftop Percher"
+        },
+        {
+          "Count": 4,
+          "CardName": "Unfathomable Truths"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Mine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Power Plant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Tower"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Call Damage Control"
+        },
+        {
+          "Count": 4,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 2,
+          "CardName": "Scour from Existence"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "CAM_13",
+      "Result": "19th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_CAM_13",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Battle Screech"
+        },
+        {
+          "Count": 4,
+          "CardName": "Boros Garrison"
+        },
+        {
+          "Count": 1,
+          "CardName": "Darval, Whose Web Protects"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kor Skyfisher"
+        },
+        {
+          "Count": 3,
+          "CardName": "Leonardo, Big Brother"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lunarch Veteran"
+        },
+        {
+          "Count": 4,
+          "CardName": "Novice Inspector"
+        },
+        {
+          "Count": 2,
+          "CardName": "Patient Instructor"
+        },
+        {
+          "Count": 16,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Prismatic Strands"
+        },
+        {
+          "Count": 4,
+          "CardName": "Raffine's Informant"
+        },
+        {
+          "Count": 3,
+          "CardName": "Rally the Peasants"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thraben Charm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thraben Inspector"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Dust to Dust"
+        },
+        {
+          "Count": 2,
+          "CardName": "Holy Light"
+        },
+        {
+          "Count": 4,
+          "CardName": "Journey to Nowhere"
+        },
+        {
+          "Count": 4,
+          "CardName": "Martyr of Sands"
+        },
+        {
+          "Count": 1,
+          "CardName": "Prismatic Strands"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "Marco2002",
+      "Result": "20th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_Marco2002",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Brinebarrow Intruder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cryoshatter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Miscreant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Seer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Harrier Strix"
+        },
+        {
+          "Count": 19,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Moon-Circuit Hacker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ninja of the Deep Hours"
+        },
+        {
+          "Count": 4,
+          "CardName": "Of One Mind"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sewer-veillance Cam"
+        },
+        {
+          "Count": 2,
+          "CardName": "Snap"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spellstutter Sprite"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cryoshatter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Envelop"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steel Sabotage"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "Slasher21",
+      "Result": "21th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_Slasher21",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Annoyed Altisaur"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arbor Elf"
+        },
+        {
+          "Count": 3,
+          "CardName": "Avenging Hunter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Boarding Party"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eldrazi Repurposer"
+        },
+        {
+          "Count": 14,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Jewel Thief"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sagu Wildling"
+        },
+        {
+          "Count": 2,
+          "CardName": "Smaug, the Great Calamity"
+        },
+        {
+          "Count": 2,
+          "CardName": "Snow-Covered Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Utopia Sprawl"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wild Growth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Writhing Chrysalis"
+        },
+        {
+          "Count": 2,
+          "CardName": "You Meet in a Tavern"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 3,
+          "CardName": "Deglamer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Faerie Macabre"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mwonvuli Acid-Moss"
+        },
+        {
+          "Count": 3,
+          "CardName": "Weather the Storm"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "Kako_Ferrer",
+      "Result": "22th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_Kako_Ferrer",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Abandon Attachments"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 4,
+          "CardName": "Contaminated Aquifer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deep Analysis"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gurmag Angler"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ice Tunnel"
+        },
+        {
+          "Count": 10,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lórien Revealed"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mental Note"
+        },
+        {
+          "Count": 1,
+          "CardName": "Murmuring Mystic"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sneaky Snacker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thought Scour"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tolarian Terror"
+        },
+        {
+          "Count": 2,
+          "CardName": "Unexpected Fangs"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Arms of Hadar"
+        },
+        {
+          "Count": 3,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 3,
+          "CardName": "Steel Sabotage"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "Oceansoul92",
+      "Result": "23th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_Oceansoul92",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Boomerang"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cryptic Serpent"
+        },
+        {
+          "Count": 2,
+          "CardName": "Deem Inferior"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deep Analysis"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dragon Wings"
+        },
+        {
+          "Count": 3,
+          "CardName": "Force Spike"
+        },
+        {
+          "Count": 16,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lórien Revealed"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mental Note"
+        },
+        {
+          "Count": 1,
+          "CardName": "Murmuring Mystic"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ponder"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sleep of the Dead"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thought Scour"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tolarian Terror"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vapor Snag"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dragon Wings"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gut Shot"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Steel Sabotage"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "ejk",
+      "Result": "24th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_ejk",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Annoyed Altisaur"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arbor Elf"
+        },
+        {
+          "Count": 3,
+          "CardName": "Avenging Hunter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Boarding Party"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eldrazi Repurposer"
+        },
+        {
+          "Count": 14,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Jewel Thief"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sagu Wildling"
+        },
+        {
+          "Count": 2,
+          "CardName": "Smaug, the Great Calamity"
+        },
+        {
+          "Count": 2,
+          "CardName": "Snow-Covered Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Utopia Sprawl"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wild Growth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Writhing Chrysalis"
+        },
+        {
+          "Count": 2,
+          "CardName": "You Meet in a Tavern"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 3,
+          "CardName": "Deglamer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Faerie Macabre"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mwonvuli Acid-Moss"
+        },
+        {
+          "Count": 3,
+          "CardName": "Weather the Storm"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "MahThor",
+      "Result": "25th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_MahThor",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Annoyed Altisaur"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arbor Elf"
+        },
+        {
+          "Count": 3,
+          "CardName": "Avenging Hunter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Boarding Party"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bonder's Ornament"
+        },
+        {
+          "Count": 2,
+          "CardName": "Eldrazi Repurposer"
+        },
+        {
+          "Count": 15,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Generous Ent"
+        },
+        {
+          "Count": 2,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mwonvuli Acid-Moss"
+        },
+        {
+          "Count": 2,
+          "CardName": "Structural Distortion"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thermokarst"
+        },
+        {
+          "Count": 4,
+          "CardName": "Utopia Sprawl"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wild Growth"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wooded Ridgeline"
+        },
+        {
+          "Count": 4,
+          "CardName": "Writhing Chrysalis"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Deglamer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 4,
+          "CardName": "Weather the Storm"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "ThiagoGuerra",
+      "Result": "26th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_ThiagoGuerra",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Ancient Den"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 2,
+          "CardName": "Eviscerator's Insight"
+        },
+        {
+          "Count": 4,
+          "CardName": "Glint Hawk"
+        },
+        {
+          "Count": 1,
+          "CardName": "Goldmire Bridge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Greatsword of Tyr"
+        },
+        {
+          "Count": 2,
+          "CardName": "Grim Bauble"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kor Skyfisher"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lembas"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mortuary Mire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 4,
+          "CardName": "Novice Inspector"
+        },
+        {
+          "Count": 1,
+          "CardName": "Okiba-Gang Shinobi"
+        },
+        {
+          "Count": 1,
+          "CardName": "Omen of the Dead"
+        },
+        {
+          "Count": 2,
+          "CardName": "Oroku Saki, Shredder Rising"
+        },
+        {
+          "Count": 2,
+          "CardName": "Orzhov Basilica"
+        },
+        {
+          "Count": 4,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Radiant Fountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Refurbished Familiar"
+        },
+        {
+          "Count": 2,
+          "CardName": "Scoured Barrens"
+        },
+        {
+          "Count": 2,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thorn of the Black Rose"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thraben Charm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thraben Inspector"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tithing Blade"
+        },
+        {
+          "Count": 3,
+          "CardName": "Vault of Whispers"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Arms of Hadar"
+        },
+        {
+          "Count": 3,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dust to Dust"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mukotai Ambusher"
+        },
+        {
+          "Count": 1,
+          "CardName": "Suffocating Fumes"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thraben Charm"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "xmelanx",
+      "Result": "27th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_xmelanx",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ancestral Anger"
+        },
+        {
+          "Count": 4,
+          "CardName": "Apostle's Blessing"
+        },
+        {
+          "Count": 3,
+          "CardName": "Faithless Looting"
+        },
+        {
+          "Count": 4,
+          "CardName": "Festival Crasher"
+        },
+        {
+          "Count": 4,
+          "CardName": "Highway Robbery"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kiln Fiend"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lava Dart"
+        },
+        {
+          "Count": 4,
+          "CardName": "Manamorphose"
+        },
+        {
+          "Count": 17,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mutagenic Growth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rite of Flame"
+        },
+        {
+          "Count": 4,
+          "CardName": "Temur Battle Rage"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Dwarven Forge-Chanter"
+        },
+        {
+          "Count": 2,
+          "CardName": "End the Festivities"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flaring Pain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Singe"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "LBBL",
+      "Result": "28th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_LBBL",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ancestral Anger"
+        },
+        {
+          "Count": 4,
+          "CardName": "Apostle's Blessing"
+        },
+        {
+          "Count": 3,
+          "CardName": "Faithless Looting"
+        },
+        {
+          "Count": 4,
+          "CardName": "Festival Crasher"
+        },
+        {
+          "Count": 4,
+          "CardName": "Highway Robbery"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kiln Fiend"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lava Dart"
+        },
+        {
+          "Count": 4,
+          "CardName": "Manamorphose"
+        },
+        {
+          "Count": 17,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mutagenic Growth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rite of Flame"
+        },
+        {
+          "Count": 4,
+          "CardName": "Temur Battle Rage"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Dwarven Forge-Chanter"
+        },
+        {
+          "Count": 2,
+          "CardName": "End the Festivities"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flaring Pain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Singe"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "Tav",
+      "Result": "29th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_Tav",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Faithless Looting"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fiery Temper"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fireblast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Grab the Prize"
+        },
+        {
+          "Count": 3,
+          "CardName": "Guttersnipe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Highway Robbery"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kessig Flamebreather"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lava Dart"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 19,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sneaky Snacker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voldaren Epicure"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cleansing Wildfire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 2,
+          "CardName": "Searing Blaze"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "_blaze66",
+      "Result": "30th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck__blaze66",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Blood Fountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cleansing Wildfire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Drossforge Bridge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Eviscerator's Insight"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fanatical Offering"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ichor Wellspring"
+        },
+        {
+          "Count": 3,
+          "CardName": "Krark-Clan Shaman"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lembas"
+        },
+        {
+          "Count": 1,
+          "CardName": "Makeshift Munitions"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nyxborn Hydra"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pulse of Murasa"
+        },
+        {
+          "Count": 4,
+          "CardName": "Refurbished Familiar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Slagwoods Bridge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 3,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Toxin Analysis"
+        },
+        {
+          "Count": 4,
+          "CardName": "Twisted Landscape"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vault of Whispers"
+        },
+        {
+          "Count": 4,
+          "CardName": "Writhing Chrysalis"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 3,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Troublemaker Ouphe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Weather the Storm"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "Zabots",
+      "Result": "31th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_Zabots",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Abandon Attachments"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 4,
+          "CardName": "Contaminated Aquifer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deep Analysis"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gurmag Angler"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ice Tunnel"
+        },
+        {
+          "Count": 10,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lórien Revealed"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mental Note"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ponder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sneaky Snacker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 1,
+          "CardName": "Suffocating Fumes"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thought Scour"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tolarian Terror"
+        },
+        {
+          "Count": 1,
+          "CardName": "Unexpected Fangs"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arms of Hadar"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Extract a Confession"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Murmuring Mystic"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Unexpected Fangs"
+        }
+      ]
+    },
+    {
+      "Date": "2026-08-20T19:00:00+00:00",
+      "Player": "jade-venus",
+      "Result": "32th Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-challenge-32-2026-08-1912852725#deck_jade-venus",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Abundant Growth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ancestral Mask"
+        },
+        {
+          "Count": 4,
+          "CardName": "Armadillo Cloak"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ash Barrens"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cartouche of Solidarity"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ethereal Armor"
+        },
+        {
+          "Count": 12,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gladecover Scout"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lifelink"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rancor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sentinel's Eyes"
+        },
+        {
+          "Count": 4,
+          "CardName": "Silhana Ledgewalker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Slippery Bogle"
+        },
+        {
+          "Count": 4,
+          "CardName": "Utopia Sprawl"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Flaring Pain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mask of Law and Grace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ram Through"
+        },
+        {
+          "Count": 3,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spirit Link"
+        },
+        {
+          "Count": 3,
+          "CardName": "Standard Bearer"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Quarterfinals",
+      "Matches": [
+        {
+          "Player1": "AlessandroPiraccini",
+          "Player2": "Ixidor29",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "boom_bust",
+          "Player2": "Beicodegeia",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dustin_Comite",
+          "Player2": "ziofrancone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "barff",
+          "Player2": "ewerb123",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Semifinals",
+      "Matches": [
+        {
+          "Player1": "barff",
+          "Player2": "Dustin_Comite",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "boom_bust",
+          "Player2": "AlessandroPiraccini",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Finals",
+      "Matches": [
+        {
+          "Player1": "barff",
+          "Player2": "boom_bust",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "barff",
+      "Points": 18,
+      "Wins": 9,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.66667,
+      "GWP": 0.85714,
+      "OGWP": 0.60982
+    },
+    {
+      "Rank": 2,
+      "Player": "AlessandroPiraccini",
+      "Points": 15,
+      "Wins": 6,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.61111,
+      "GWP": 0.6875,
+      "OGWP": 0.55556
+    },
+    {
+      "Rank": 3,
+      "Player": "boom_bust",
+      "Points": 15,
+      "Wins": 7,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.61111,
+      "GWP": 0.66667,
+      "OGWP": 0.59038
+    },
+    {
+      "Rank": 4,
+      "Player": "ziofrancone",
+      "Points": 15,
+      "Wins": 5,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.58334,
+      "GWP": 0.64706,
+      "OGWP": 0.53858
+    },
+    {
+      "Rank": 5,
+      "Player": "Dustin_Comite",
+      "Points": 15,
+      "Wins": 6,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.53889,
+      "GWP": 0.78571,
+      "OGWP": 0.52516
+    },
+    {
+      "Rank": 6,
+      "Player": "Beicodegeia",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.69444,
+      "GWP": 0.57143,
+      "OGWP": 0.59147
+    },
+    {
+      "Rank": 7,
+      "Player": "Ixidor29",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.65,
+      "GWP": 0.57143,
+      "OGWP": 0.61101
+    },
+    {
+      "Rank": 8,
+      "Player": "ewerb123",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.63889,
+      "GWP": 0.6,
+      "OGWP": 0.58642
+    },
+    {
+      "Rank": 9,
+      "Player": "JuaKi",
+      "Points": 12,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.63333,
+      "GWP": 0.66667,
+      "OGWP": 0.59912
+    },
+    {
+      "Rank": 10,
+      "Player": "Pafru",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.61111,
+      "GWP": 0.6,
+      "OGWP": 0.5661
+    },
+    {
+      "Rank": 11,
+      "Player": "mechrataal",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.59444,
+      "GWP": 0.625,
+      "OGWP": 0.57689
+    },
+    {
+      "Rank": 12,
+      "Player": "VitorCarvalho01",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.57778,
+      "GWP": 0.58824,
+      "OGWP": 0.55305
+    },
+    {
+      "Rank": 13,
+      "Player": "Watchwolf92",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.55556,
+      "GWP": 0.64286,
+      "OGWP": 0.51917
+    },
+    {
+      "Rank": 14,
+      "Player": "Luminati",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.51111,
+      "GWP": 0.66667,
+      "OGWP": 0.49627
+    },
+    {
+      "Rank": 15,
+      "Player": "Malpyrocky",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.47222,
+      "GWP": 0.69231,
+      "OGWP": 0.44742
+    },
+    {
+      "Rank": 16,
+      "Player": "GLSwadow",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.45,
+      "GWP": 0.5,
+      "OGWP": 0.49184
+    },
+    {
+      "Rank": 17,
+      "Player": "Jrhu252",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.61111,
+      "GWP": 0.46667,
+      "OGWP": 0.59599
+    },
+    {
+      "Rank": 18,
+      "Player": "4FunNoWin",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.58333,
+      "GWP": 0.5,
+      "OGWP": 0.55617
+    },
+    {
+      "Rank": 19,
+      "Player": "CAM_13",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.56667,
+      "GWP": 0.57143,
+      "OGWP": 0.53335
+    },
+    {
+      "Rank": 20,
+      "Player": "Marco2002",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.56667,
+      "GWP": 0.53333,
+      "OGWP": 0.50982
+    },
+    {
+      "Rank": 21,
+      "Player": "Slasher21",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.55556,
+      "GWP": 0.53846,
+      "OGWP": 0.52451
+    },
+    {
+      "Rank": 22,
+      "Player": "Kako_Ferrer",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.51111,
+      "GWP": 0.5,
+      "OGWP": 0.51882
+    },
+    {
+      "Rank": 23,
+      "Player": "Oceansoul92",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.48333,
+      "GWP": 0.53333,
+      "OGWP": 0.50157
+    },
+    {
+      "Rank": 24,
+      "Player": "ejk",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.47222,
+      "GWP": 0.5,
+      "OGWP": 0.47708
+    },
+    {
+      "Rank": 25,
+      "Player": "MahThor",
+      "Points": 9,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.46667,
+      "GWP": 0.5,
+      "OGWP": 0.45936
+    },
+    {
+      "Rank": 26,
+      "Player": "ThiagoGuerra",
+      "Points": 9,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.46667,
+      "GWP": 0.42857,
+      "OGWP": 0.47204
+    },
+    {
+      "Rank": 27,
+      "Player": "xmelanx",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.41667,
+      "GWP": 0.46667,
+      "OGWP": 0.44504
+    },
+    {
+      "Rank": 28,
+      "Player": "LBBL",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6,
+      "GWP": 0.45455,
+      "OGWP": 0.54146
+    },
+    {
+      "Rank": 29,
+      "Player": "Tav",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.58,
+      "GWP": 0.41667,
+      "OGWP": 0.52288
+    },
+    {
+      "Rank": 30,
+      "Player": "_blaze66",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.4375,
+      "OGWP": 0.48958
+    },
+    {
+      "Rank": 31,
+      "Player": "Zabots",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.41667,
+      "OGWP": 0.45765
+    },
+    {
+      "Rank": 32,
+      "Player": "jade-venus",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.30769,
+      "OGWP": 0.50885
+    }
+  ]
+}
