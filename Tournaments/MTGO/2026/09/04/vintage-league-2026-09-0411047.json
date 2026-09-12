@@ -1,0 +1,604 @@
+{
+  "Tournament": {
+    "Date": "2026-09-04",
+    "Name": "Vintage League",
+    "Uri": "https://www.mtgo.com/decklist/vintage-league-2026-09-0411047",
+    "Formats": "Vintage"
+  },
+  "Decks": [
+    {
+      "Date": "2026-09-04T00:00:00+00:00",
+      "Player": "taku123",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/vintage-league-2026-09-0411047#deck_taku123",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Ancestral Recall"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ancient Tomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Black Lotus"
+        },
+        {
+          "Count": 4,
+          "CardName": "Coveted Jewel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Displacer Kitten"
+        },
+        {
+          "Count": 4,
+          "CardName": "Force of Will"
+        },
+        {
+          "Count": 4,
+          "CardName": "Grim Monolith"
+        },
+        {
+          "Count": 2,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mana Crypt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mana Vault"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mishra's Workshop"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mox Emerald"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mox Jet"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mox Pearl"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mox Ruby"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mox Sapphire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Phyrexian Metamorph"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sink into Stupor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sol Ring"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Mightstone and Weakstone"
+        },
+        {
+          "Count": 4,
+          "CardName": "The One Ring"
+        },
+        {
+          "Count": 1,
+          "CardName": "Time Walk"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tinker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tolarian Academy"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ultron, Artificial Malevolence"
+        },
+        {
+          "Count": 1,
+          "CardName": "Urza's Saga"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Petrified Hamlet"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spectral Restitching"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-04T00:00:00+00:00",
+      "Player": "FranciscoCR91",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/vintage-league-2026-09-0411047#deck_FranciscoCR91",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Basking Rootwalla"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bazaar of Baghdad"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blazing Rootwalla"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chalice of the Void"
+        },
+        {
+          "Count": 4,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 3,
+          "CardName": "Force of Vigor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Force of Will"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fury"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gitaxian Probe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hollow One"
+        },
+        {
+          "Count": 4,
+          "CardName": "Master of Death"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mental Misstep"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mindbreak Trap"
+        },
+        {
+          "Count": 4,
+          "CardName": "Noxious Revival"
+        },
+        {
+          "Count": 4,
+          "CardName": "Serum Powder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Squee, Goblin Nabob"
+        },
+        {
+          "Count": 1,
+          "CardName": "Strip Mine"
+        },
+        {
+          "Count": 2,
+          "CardName": "Subtlety"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vengevine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wasteland"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Echoing Deeps"
+        },
+        {
+          "Count": 1,
+          "CardName": "Force of Vigor"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fury"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline of the Void"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ravenous Trap"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vengeful Pharaoh"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-04T00:00:00+00:00",
+      "Player": "Robjob4",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/vintage-league-2026-09-0411047#deck_Robjob4",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Ancestral Recall"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ancient Tomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Black Lotus"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chaos Defiler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Coveted Jewel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Force of Will"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gitaxian Probe"
+        },
+        {
+          "Count": 3,
+          "CardName": "Grim Monolith"
+        },
+        {
+          "Count": 2,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Karn, the Great Creator"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mana Crypt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mana Vault"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mishra's Workshop"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mox Emerald"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mox Jet"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mox Pearl"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mox Ruby"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mox Sapphire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Paradox Engine"
+        },
+        {
+          "Count": 1,
+          "CardName": "Paradoxical Outcome"
+        },
+        {
+          "Count": 4,
+          "CardName": "Phyrexian Metamorph"
+        },
+        {
+          "Count": 3,
+          "CardName": "Relic of Sauron"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sink into Stupor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sol Ring"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 1,
+          "CardName": "Talon Gates of Madara"
+        },
+        {
+          "Count": 4,
+          "CardName": "The One Ring"
+        },
+        {
+          "Count": 1,
+          "CardName": "Time Walk"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tinker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tolarian Academy"
+        },
+        {
+          "Count": 4,
+          "CardName": "Transmute Artifact"
+        },
+        {
+          "Count": 1,
+          "CardName": "Urza's Saga"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Argentum Masticore"
+        },
+        {
+          "Count": 3,
+          "CardName": "Defense Grid"
+        },
+        {
+          "Count": 1,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Portable Hole"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soulless Jailer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Talon Gates of Madara"
+        },
+        {
+          "Count": 1,
+          "CardName": "Trinisphere"
+        },
+        {
+          "Count": 2,
+          "CardName": "Void Mirror"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wurmcoil Engine"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-04T00:00:00+00:00",
+      "Player": "Slasher21",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/vintage-league-2026-09-0411047#deck_Slasher21",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ancient Tomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Black Lotus"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chalice of the Void"
+        },
+        {
+          "Count": 1,
+          "CardName": "City of Traitors"
+        },
+        {
+          "Count": 4,
+          "CardName": "Glaring Fleshraker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Grim Monolith"
+        },
+        {
+          "Count": 1,
+          "CardName": "Inventors' Fair"
+        },
+        {
+          "Count": 1,
+          "CardName": "Karn, the Great Creator"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lodestone Golem"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lotus Petal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mana Crypt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mana Vault"
+        },
+        {
+          "Count": 4,
+          "CardName": "Manifold Key"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mishra's Workshop"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mox Emerald"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mox Jet"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mox Pearl"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mox Ruby"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mox Sapphire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mystic Forge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pithing Needle"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sensei's Divining Top"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sol Ring"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 4,
+          "CardName": "Talon Gates of Madara"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tezzeret, Cruel Captain"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Fantasticar"
+        },
+        {
+          "Count": 4,
+          "CardName": "The One Ring"
+        },
+        {
+          "Count": 1,
+          "CardName": "Time Vault"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tolarian Academy"
+        },
+        {
+          "Count": 1,
+          "CardName": "Trinisphere"
+        },
+        {
+          "Count": 1,
+          "CardName": "Urza's Saga"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Argentum Masticore"
+        },
+        {
+          "Count": 3,
+          "CardName": "Defense Grid"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 2,
+          "CardName": "Grafdigger's Cage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mycosynth Lattice"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wurmcoil Engine"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}
