@@ -1,0 +1,934 @@
+{
+  "Tournament": {
+    "Date": "2026-09-14",
+    "Name": "Premodern League",
+    "Uri": "https://www.mtgo.com/decklist/premodern-league-2026-09-1411007",
+    "Formats": null
+  },
+  "Decks": [
+    {
+      "Date": "2026-09-14T00:00:00+00:00",
+      "Player": "gruvious",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-09-1411007#deck_gruvious",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Armageddon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Battlefield Forge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Call of the Herd"
+        },
+        {
+          "Count": 2,
+          "CardName": "Exalted Angel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fire // Ice"
+        },
+        {
+          "Count": 3,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gemstone Mine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mox Diamond"
+        },
+        {
+          "Count": 2,
+          "CardName": "Naturalize"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nimble Mongoose"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rishadan Port"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rith's Grove"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swords to Plowshares"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sylvan Library"
+        },
+        {
+          "Count": 4,
+          "CardName": "Terravore"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tranquil Thicket"
+        },
+        {
+          "Count": 1,
+          "CardName": "Treetop Village"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wasteland"
+        },
+        {
+          "Count": 3,
+          "CardName": "Weathered Wayfarer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Windswept Heath"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Call of the Herd"
+        },
+        {
+          "Count": 1,
+          "CardName": "Engineered Plague"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hidden Gibbons"
+        },
+        {
+          "Count": 2,
+          "CardName": "Phyrexian Furnace"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pyroclasm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ray of Revelation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sphere of Law"
+        },
+        {
+          "Count": 2,
+          "CardName": "Zuran Orb"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-14T00:00:00+00:00",
+      "Player": "EternallySurprised",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-09-1411007#deck_EternallySurprised",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Akroma, Angel of Wrath"
+        },
+        {
+          "Count": 2,
+          "CardName": "Arcane Denial"
+        },
+        {
+          "Count": 3,
+          "CardName": "Black Vise"
+        },
+        {
+          "Count": 4,
+          "CardName": "Chain of Vapor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Daze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Enlightened Tutor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Forsaken City"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gaea's Blessing"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gush"
+        },
+        {
+          "Count": 3,
+          "CardName": "Impulse"
+        },
+        {
+          "Count": 15,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lat-Nam's Legacy"
+        },
+        {
+          "Count": 4,
+          "CardName": "Oath of Druids"
+        },
+        {
+          "Count": 1,
+          "CardName": "Root Maze"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stasis"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thwart"
+        },
+        {
+          "Count": 4,
+          "CardName": "Treva's Ruins"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Ancestor's Chosen"
+        },
+        {
+          "Count": 2,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cursed Totem"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Seal of Cleansing"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shard Phoenix"
+        },
+        {
+          "Count": 2,
+          "CardName": "Swords to Plowshares"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tsabo's Web"
+        },
+        {
+          "Count": 1,
+          "CardName": "Upheaval"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-14T00:00:00+00:00",
+      "Player": "Minivan_of_Jeskai",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-09-1411007#deck_Minivan_of_Jeskai",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Anurid Brushhopper"
+        },
+        {
+          "Count": 3,
+          "CardName": "Armageddon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Battlefield Forge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Call of the Herd"
+        },
+        {
+          "Count": 2,
+          "CardName": "City of Brass"
+        },
+        {
+          "Count": 1,
+          "CardName": "Darigaaz's Caldera"
+        },
+        {
+          "Count": 1,
+          "CardName": "Disenchant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Earthquake"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gemstone Mine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mox Diamond"
+        },
+        {
+          "Count": 1,
+          "CardName": "Naturalize"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rishadan Port"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rith's Grove"
+        },
+        {
+          "Count": 1,
+          "CardName": "Secluded Steppe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swords to Plowshares"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sylvan Library"
+        },
+        {
+          "Count": 4,
+          "CardName": "Terravore"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tranquil Thicket"
+        },
+        {
+          "Count": 2,
+          "CardName": "Treetop Village"
+        },
+        {
+          "Count": 3,
+          "CardName": "Vindicate"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wasteland"
+        },
+        {
+          "Count": 3,
+          "CardName": "Weathered Wayfarer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Werebear"
+        },
+        {
+          "Count": 4,
+          "CardName": "Windswept Heath"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Aura of Silence"
+        },
+        {
+          "Count": 1,
+          "CardName": "Circle of Protection: Red"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gaea's Blessing"
+        },
+        {
+          "Count": 1,
+          "CardName": "Naturalize"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pyroclasm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tormod's Crypt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tranquil Domain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Zuran Orb"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-14T00:00:00+00:00",
+      "Player": "Kizaru_",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-09-1411007#deck_Kizaru_",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Anurid Brushhopper"
+        },
+        {
+          "Count": 3,
+          "CardName": "Armageddon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Call of the Herd"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cataclysm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gemstone Mine"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kor Haven"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mox Diamond"
+        },
+        {
+          "Count": 2,
+          "CardName": "Naturalize"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nimble Mongoose"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rishadan Port"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rith's Grove"
+        },
+        {
+          "Count": 2,
+          "CardName": "Secluded Steppe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swords to Plowshares"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sylvan Library"
+        },
+        {
+          "Count": 4,
+          "CardName": "Terravore"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tranquil Thicket"
+        },
+        {
+          "Count": 2,
+          "CardName": "Treetop Village"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wasteland"
+        },
+        {
+          "Count": 4,
+          "CardName": "Weathered Wayfarer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Windswept Heath"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Aura of Silence"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cataclysm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Circle of Protection: Red"
+        },
+        {
+          "Count": 1,
+          "CardName": "Crumble"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cursed Totem"
+        },
+        {
+          "Count": 1,
+          "CardName": "Naturalize"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pyroclasm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ray of Revelation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tormod's Crypt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Zuran Orb"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-14T00:00:00+00:00",
+      "Player": "Sweppes",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-09-1411007#deck_Sweppes",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Blastoderm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Call of the Herd"
+        },
+        {
+          "Count": 2,
+          "CardName": "Decimate"
+        },
+        {
+          "Count": 4,
+          "CardName": "Earthquake"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Karplusan Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mishra's Factory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mossfire Valley"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Naturalize"
+        },
+        {
+          "Count": 4,
+          "CardName": "Phyrexian Furnace"
+        },
+        {
+          "Count": 4,
+          "CardName": "Powder Keg"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ravenous Baloth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sylvan Library"
+        },
+        {
+          "Count": 4,
+          "CardName": "Treetop Village"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wall of Roots"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wooded Foothills"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Hull Breach"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyroclasm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tormod's Crypt"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-14T00:00:00+00:00",
+      "Player": "4FunNoWin",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-09-1411007#deck_4FunNoWin",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Argothian Enchantress"
+        },
+        {
+          "Count": 1,
+          "CardName": "Aura of Silence"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brushland"
+        },
+        {
+          "Count": 4,
+          "CardName": "Enchantress's Presence"
+        },
+        {
+          "Count": 6,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mirri's Guile"
+        },
+        {
+          "Count": 3,
+          "CardName": "Opalescence"
+        },
+        {
+          "Count": 3,
+          "CardName": "Parallax Wave"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Replenish"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seal of Cleansing"
+        },
+        {
+          "Count": 4,
+          "CardName": "Serra's Sanctum"
+        },
+        {
+          "Count": 2,
+          "CardName": "Solitary Confinement"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sterling Grove"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swords to Plowshares"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wild Growth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Windswept Heath"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wooded Foothills"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Aura of Silence"
+        },
+        {
+          "Count": 1,
+          "CardName": "Choke"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elephant Grass"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gaea's Blessing"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sacred Ground"
+        },
+        {
+          "Count": 1,
+          "CardName": "Seal of Cleansing"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tormod's Crypt"
+        },
+        {
+          "Count": 2,
+          "CardName": "Warmth"
+        },
+        {
+          "Count": 3,
+          "CardName": "Xantid Swarm"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-14T00:00:00+00:00",
+      "Player": "walrusmadness",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-09-1411007#deck_walrusmadness",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Anger"
+        },
+        {
+          "Count": 2,
+          "CardName": "Armageddon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Auramancer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Birds of Paradise"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brushland"
+        },
+        {
+          "Count": 2,
+          "CardName": "Deranged Hermit"
+        },
+        {
+          "Count": 6,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fyndhorn Elves"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gaea's Cradle"
+        },
+        {
+          "Count": 2,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 1,
+          "CardName": "Masticore"
+        },
+        {
+          "Count": 1,
+          "CardName": "Monk Realist"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Multani's Acolyte"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nantuko Vigilante"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 1,
+          "CardName": "Priest of Titania"
+        },
+        {
+          "Count": 2,
+          "CardName": "Quirion Ranger"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ravenous Baloth"
+        },
+        {
+          "Count": 1,
+          "CardName": "Squee, Goblin Nabob"
+        },
+        {
+          "Count": 4,
+          "CardName": "Survival of the Fittest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swords to Plowshares"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thornscape Battlemage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wall of Roots"
+        },
+        {
+          "Count": 4,
+          "CardName": "Windswept Heath"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wirewood Symbiote"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wooded Foothills"
+        },
+        {
+          "Count": 1,
+          "CardName": "Yavimaya Granger"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Armageddon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Caller of the Claw"
+        },
+        {
+          "Count": 1,
+          "CardName": "Glowrider"
+        },
+        {
+          "Count": 1,
+          "CardName": "Masticore"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nantuko Vigilante"
+        },
+        {
+          "Count": 3,
+          "CardName": "Naturalize"
+        },
+        {
+          "Count": 3,
+          "CardName": "Presence of the Master"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ravenous Baloth"
+        },
+        {
+          "Count": 3,
+          "CardName": "Warmth"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}
