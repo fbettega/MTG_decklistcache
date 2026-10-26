@@ -1,0 +1,294 @@
+{
+  "Tournament": {
+    "Date": "2026-10-23T22:01:33+00:00",
+    "Name": "Modern 10K On Demand Trials #10",
+    "Uri": "https://topdeck.gg/event/modern-10k-on-demand-trials-10",
+    "Formats": "Modern"
+  },
+  "Decks": [
+    {
+      "Date": "2026-10-23T22:01:33+00:00",
+      "Player": "Brian Dang",
+      "Result": "3st Place",
+      "AnchorUri": "https://topdeck.gg/event/modern-10k-on-demand-trials-10",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ancient Stirrings"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 4,
+          "CardName": "Basking Broodscale"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blade of the Bloodchief"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 3,
+          "CardName": "Devourer of Destiny"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eldrazi Temple"
+        },
+        {
+          "Count": 4,
+          "CardName": "Emrakul, the Promised End"
+        },
+        {
+          "Count": 5,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gemstone Caverns"
+        },
+        {
+          "Count": 1,
+          "CardName": "Haywire Mite"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kozilek's Command"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sire of Seven Deaths"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sowing Mycospawn"
+        },
+        {
+          "Count": 1,
+          "CardName": "Springleaf Drum"
+        },
+        {
+          "Count": 2,
+          "CardName": "Talisman of Resilience"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ugin's Labyrinth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Saga"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 1,
+          "CardName": "Disruptor Flute"
+        },
+        {
+          "Count": 2,
+          "CardName": "Grafdigger's Cage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nature's Claim"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pithing Needle"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sire of Seven Deaths"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thief of Existence"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thought-Knot Seer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Trinisphere"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Top 8",
+      "Matches": [
+        {
+          "Player1": "Josh Gordon",
+          "Player2": "Stefan Crespo",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Brian Dang",
+          "Player2": "Jacob",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Matt Xu",
+          "Player2": "Jason Sheu",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Sam Ng",
+          "Player2": "Michael Wu",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Top 4",
+      "Matches": [
+        {
+          "Player1": "Josh Gordon",
+          "Player2": "Brian Dang",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Sam Ng",
+          "Player2": "Matt Xu",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Top 2",
+      "Matches": [
+        {
+          "Player1": "Sam Ng",
+          "Player2": "Josh Gordon",
+          "Result": "1-0-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Sam Ng",
+      "Points": 0,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 2,
+      "Player": "Josh Gordon",
+      "Points": 0,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 3,
+      "Player": "Brian Dang",
+      "Points": 0,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 4,
+      "Player": "Matt Xu",
+      "Points": 0,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 5,
+      "Player": "Stefan Crespo",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 6,
+      "Player": "Jason Sheu",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 7,
+      "Player": "Jacob",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    },
+    {
+      "Rank": 8,
+      "Player": "Michael Wu",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0,
+      "GWP": 0,
+      "OGWP": 0
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "Tournament": {
+    "Date": "2026-10-25T21:00:00+00:00",
+    "Name": "Pauper Sunday",
+    "Uri": "https://topdeck.gg/event/pauper-sunday-4",
+    "Formats": "Pauper"
+  },
+  "Decks": [
+    {
+      "Date": "2026-10-25T21:00:00+00:00",
+      "Player": "Dryden MacPherson",
+      "Result": "4th Place",
+      "AnchorUri": "https://topdeck.gg/event/pauper-sunday-4",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Brinebarrow Intruder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cryoshatter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Miscreant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Seer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Harrier Strix"
+        },
+        {
+          "Count": 18,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Moon-Circuit Hacker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ninja of the Deep Hours"
+        },
+        {
+          "Count": 4,
+          "CardName": "Of One Mind"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sewer-veillance Cam"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spellstutter Sprite"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Envelop"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 2,
+          "CardName": "Steel Sabotage"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "JamesN",
+          "Player2": "Miles Pralle",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Ben P",
+          "Player2": "Dryden MacPherson",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "JamesN",
+          "Player2": "Ben P",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Miles Pralle",
+          "Player2": "Dryden MacPherson",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "JamesN",
+          "Player2": "Dryden MacPherson",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Ben P",
+          "Player2": "Miles Pralle",
+          "Result": "1-0-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "JamesN",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.44333333333333336,
+      "GWP": 1,
+      "OGWP": 0.44333333333333336
+    },
+    {
+      "Rank": 2,
+      "Player": "Ben P",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5544444444444444,
+      "GWP": 0.5714285714285714,
+      "OGWP": 0.5861904761904763
+    },
+    {
+      "Rank": 3,
+      "Player": "Miles Pralle",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6655555555555556,
+      "GWP": 0.42857142857142855,
+      "OGWP": 0.6338095238095238
+    },
+    {
+      "Rank": 4,
+      "Player": "Dryden MacPherson",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6666666666666666,
+      "GWP": 0,
+      "OGWP": 0.6666666666666666
+    }
+  ]
+}
