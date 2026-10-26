@@ -1,0 +1,300 @@
+{
+  "Tournament": {
+    "Date": "2025-10-22T15:00:00+00:00",
+    "Name": "Bellum Pauperum | La Competència ",
+    "Uri": "https://topdeck.gg/event/bellum-pauperum",
+    "Formats": "Pauper"
+  },
+  "Decks": [
+    {
+      "Date": "2025-10-22T15:00:00+00:00",
+      "Player": "Albert Vitoria Gracia",
+      "Result": "9th Place",
+      "AnchorUri": "https://topdeck.gg/event/bellum-pauperum",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Deep Analysis"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flood of Recollection"
+        },
+        {
+          "Count": 4,
+          "CardName": "High Tide"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ideas Unbound"
+        },
+        {
+          "Count": 15,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lórien Revealed"
+        },
+        {
+          "Count": 4,
+          "CardName": "Merchant Scroll"
+        },
+        {
+          "Count": 3,
+          "CardName": "Muddle the Mixture"
+        },
+        {
+          "Count": 4,
+          "CardName": "Peer Through Depths"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ponder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Preordain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Psychic Puppetry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Reach Through Mists"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stream of Thought"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gigadrowse"
+        },
+        {
+          "Count": 3,
+          "CardName": "Snap"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stream of Thought"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Killersevi999",
+          "Player2": "Albert Vitoria Gracia",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Jesu",
+          "Player2": "Dulcet",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Xavi Lopez",
+          "Player2": "Eric Marco",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Jose Antonio cubiles ",
+          "Player2": "Carlos Sevilla Moya",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "PauperPan",
+          "Player2": "David Spiga Ruiz ",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Xavi Lopez",
+          "Player2": "Jesu",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Jose Antonio cubiles ",
+          "Player2": "PauperPan",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Eric Marco",
+          "Player2": "Killersevi999",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "David Spiga Ruiz ",
+          "Player2": "Albert Vitoria Gracia",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Carlos Sevilla Moya",
+          "Player2": "Dulcet",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Xavi Lopez",
+          "Player2": "Jose Antonio cubiles ",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Eric Marco",
+          "Player2": "PauperPan",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Killersevi999",
+          "Player2": "David Spiga Ruiz ",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Carlos Sevilla Moya",
+          "Player2": "Jesu",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Albert Vitoria Gracia",
+          "Player2": "Dulcet",
+          "Result": "1-0-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Xavi Lopez",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5555555555555555,
+      "GWP": 0.8571428571428571,
+      "OGWP": 0.5385714285714286
+    },
+    {
+      "Rank": 2,
+      "Player": "Jose Antonio cubiles ",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666666666666666,
+      "GWP": 0.7142857142857143,
+      "OGWP": 0.6190476190476191
+    },
+    {
+      "Rank": 3,
+      "Player": "Eric Marco",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666666666666666,
+      "GWP": 0.5714285714285714,
+      "OGWP": 0.6051587301587301
+    },
+    {
+      "Rank": 4,
+      "Player": "Killersevi999",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4444444444444444,
+      "GWP": 0.625,
+      "OGWP": 0.4444444444444444
+    },
+    {
+      "Rank": 5,
+      "Player": "Carlos Sevilla Moya",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4433333333333333,
+      "GWP": 0.6666666666666666,
+      "OGWP": 0.4580952380952381
+    },
+    {
+      "Rank": 6,
+      "Player": "Jesu",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6655555555555556,
+      "GWP": 0.2857142857142857,
+      "OGWP": 0.6179365079365079
+    },
+    {
+      "Rank": 7,
+      "Player": "PauperPan",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5555555555555555,
+      "GWP": 0.3333333333333333,
+      "OGWP": 0.5396825396825397
+    },
+    {
+      "Rank": 8,
+      "Player": "David Spiga Ruiz ",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4444444444444444,
+      "GWP": 0.3333333333333333,
+      "OGWP": 0.46230158730158727
+    },
+    {
+      "Rank": 9,
+      "Player": "Albert Vitoria Gracia",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.44333333333333336,
+      "GWP": 0.42857142857142855,
+      "OGWP": 0.42944444444444446
+    },
+    {
+      "Rank": 10,
+      "Player": "Dulcet",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4444444444444444,
+      "GWP": 0.14285714285714285,
+      "OGWP": 0.47507936507936505
+    }
+  ]
+}

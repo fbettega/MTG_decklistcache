@@ -1,0 +1,444 @@
+{
+  "Tournament": {
+    "Date": "2026-10-07T15:00:00+00:00",
+    "Name": "pauper lliga",
+    "Uri": "https://topdeck.gg/event/pauper-lliga",
+    "Formats": "Pauper"
+  },
+  "Decks": [
+    {
+      "Date": "2026-10-07T15:00:00+00:00",
+      "Player": "Oriol Molins",
+      "Result": "8th Place",
+      "AnchorUri": "https://topdeck.gg/event/pauper-lliga",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Erebor Flamesmith"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fiery Temper"
+        },
+        {
+          "Count": 4,
+          "CardName": "Firebrand Archer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Grab the Prize"
+        },
+        {
+          "Count": 4,
+          "CardName": "Guttersnipe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lava Dart"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 14,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Needle Drop"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rite of Flame"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunscorched Desert"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thermo-Alchemist"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thrill of Possibility"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flaring Pain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gut Shot"
+        },
+        {
+          "Count": 3,
+          "CardName": "Raze the Effigy"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-07T15:00:00+00:00",
+      "Player": "Bichito",
+      "Result": "9th Place",
+      "AnchorUri": "https://topdeck.gg/event/pauper-lliga",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ancient Stirrings"
+        },
+        {
+          "Count": 4,
+          "CardName": "Barrels of Blasting Jelly"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bonder's Ornament"
+        },
+        {
+          "Count": 4,
+          "CardName": "Boulderbranch Golem"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bramble Wurm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Crop Rotation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Expedition Map"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Generous Ent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Giant's Boulder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Haunted Fengraf"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hidden Grotto"
+        },
+        {
+          "Count": 4,
+          "CardName": "Maelstrom Colossus"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pinnacle Kill-Ship"
+        },
+        {
+          "Count": 3,
+          "CardName": "Unfathomable Truths"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Mine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Power Plant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Tower"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pulse of Murasa"
+        },
+        {
+          "Count": 3,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 3,
+          "CardName": "Scour from Existence"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Arnival",
+          "Player2": "Farnelius",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Guillem Garzon Florensa",
+          "Player2": "Beto",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "abel",
+          "Player2": "Gerard Barrachina",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Moises",
+          "Player2": "Marcel",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Hector",
+          "Player2": "Oriol Molins",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "abel",
+          "Player2": "Arnival",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Hector",
+          "Player2": "Guillem Garzon Florensa",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Moises",
+          "Player2": "Oriol Molins",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Marcel",
+          "Player2": "Bichito",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Beto",
+          "Player2": "Gerard Barrachina",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Farnelius",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "abel",
+          "Player2": "Moises",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Hector",
+          "Player2": "Arnival",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Farnelius",
+          "Player2": "Beto",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Marcel",
+          "Player2": "Guillem Garzon Florensa",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Oriol Molins",
+          "Player2": "Gerard Barrachina",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Bichito",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "4",
+      "Matches": [
+        {
+          "Player1": "Hector",
+          "Player2": "abel",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Guillem Garzon Florensa",
+          "Player2": "Moises",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Marcel",
+          "Player2": "Oriol Molins",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Gerard Barrachina",
+          "Player2": "Bichito",
+          "Result": "1-0-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Hector",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.47833333333333333,
+      "GWP": 0.8,
+      "OGWP": 0.4772727272727273
+    },
+    {
+      "Rank": 2,
+      "Player": "abel",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5408333333333333,
+      "GWP": 0.6666666666666666,
+      "OGWP": 0.49924242424242427
+    },
+    {
+      "Rank": 3,
+      "Player": "Marcel",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.41583333333333333,
+      "GWP": 0.6666666666666666,
+      "OGWP": 0.45941558441558444
+    },
+    {
+      "Rank": 4,
+      "Player": "Guillem Garzon Florensa",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6458333333333333,
+      "GWP": 0.45454545454545453,
+      "OGWP": 0.6027777777777777
+    },
+    {
+      "Rank": 5,
+      "Player": "Moises",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5825,
+      "GWP": 0.5,
+      "OGWP": 0.5606060606060606
+    },
+    {
+      "Rank": 6,
+      "Player": "Farnelius",
+      "Points": 6,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.3333333333333333,
+      "GWP": 0.5714285714285714,
+      "OGWP": 0.38888888888888884
+    },
+    {
+      "Rank": 7,
+      "Player": "Arnival",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.8055555555555555,
+      "GWP": 0.3333333333333333,
+      "OGWP": 0.6793650793650793
+    },
+    {
+      "Rank": 8,
+      "Player": "Oriol Molins",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.645,
+      "GWP": 0.45454545454545453,
+      "OGWP": 0.5825757575757575
+    },
+    {
+      "Rank": 9,
+      "Player": "Bichito",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.54,
+      "GWP": 0.42857142857142855,
+      "OGWP": 0.5151515151515151
+    },
+    {
+      "Rank": 10,
+      "Player": "Beto",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4988888888888889,
+      "GWP": 0.4444444444444444,
+      "OGWP": 0.4632034632034632
+    },
+    {
+      "Rank": 11,
+      "Player": "Gerard Barrachina",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.43666666666666665,
+      "GWP": 0.36363636363636365,
+      "OGWP": 0.4985569985569986
+    }
+  ]
+}

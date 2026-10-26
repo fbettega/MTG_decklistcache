@@ -1,0 +1,328 @@
+{
+  "Tournament": {
+    "Date": "2026-05-29T22:30:00+00:00",
+    "Name": "Friday Night Weekly Legacy at KC! ",
+    "Uri": "https://topdeck.gg/event/friday-night-weekly-legacy-at-kc-2",
+    "Formats": "Legacy"
+  },
+  "Decks": [
+    {
+      "Date": "2026-05-29T22:30:00+00:00",
+      "Player": "Nathien Westgate",
+      "Result": "5th Place",
+      "AnchorUri": "https://topdeck.gg/event/friday-night-weekly-legacy-at-kc-2",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sage of the Skies"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boromir, Warden of the Tower"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sheltered by Ghosts"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ancient Tomb"
+        },
+        {
+          "Count": 3,
+          "CardName": "Witch Enchanter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "The One Ring"
+        },
+        {
+          "Count": 4,
+          "CardName": "Chrome Mox"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lotus Petal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Karakas"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 4,
+          "CardName": "City of Traitors"
+        },
+        {
+          "Count": 3,
+          "CardName": "Voice of Victory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seasoned Dungeoneer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Chancellor of the Annex"
+        },
+        {
+          "Count": 4,
+          "CardName": "Archon of Emeria"
+        },
+        {
+          "Count": 4,
+          "CardName": "Anointed Peacekeeper"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Faerie Macabre"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swords to Plowshares"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sheltered by Ghosts"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sanctifier en-Vec"
+        },
+        {
+          "Count": 2,
+          "CardName": "Containment Priest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Armageddon"
+        },
+        {
+          "Count": 4,
+          "CardName": "Clarion Conqueror"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Steven Baker",
+          "Player2": "Ameth Alzate",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Bear",
+          "Player2": "Nathien Westgate",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Kyle Sleggs",
+          "Player2": "Patrick Tracey",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Nick",
+          "Player2": "Alex L",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Matt Merolla",
+          "Player2": "Thomas Kelly",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Steven Baker",
+          "Player2": "Bear",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Kyle Sleggs",
+          "Player2": "Matt Merolla",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Nick",
+          "Player2": "Thomas Kelly",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Nathien Westgate",
+          "Player2": "Alex L",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Ameth Alzate",
+          "Player2": "Patrick Tracey",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Steven Baker",
+          "Player2": "Kyle Sleggs",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Nick",
+          "Player2": "Bear",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Nathien Westgate",
+          "Player2": "Ameth Alzate",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Matt Merolla",
+          "Player2": "Alex L",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Thomas Kelly",
+          "Player2": "Patrick Tracey",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "4",
+      "Matches": []
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Steven Baker",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.4814814814814814,
+      "GWP": 1,
+      "OGWP": 0.44333333333333336
+    },
+    {
+      "Rank": 2,
+      "Player": "Nick",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.36925925925925923,
+      "GWP": 0.625,
+      "OGWP": 0.3957142857142857
+    },
+    {
+      "Rank": 3,
+      "Player": "Kyle Sleggs",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6655555555555556,
+      "GWP": 0.5714285714285714,
+      "OGWP": 0.6655555555555556
+    },
+    {
+      "Rank": 4,
+      "Player": "Matt Merolla",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.44333333333333336,
+      "GWP": 0.6666666666666666,
+      "OGWP": 0.44333333333333336
+    },
+    {
+      "Rank": 5,
+      "Player": "Nathien Westgate",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.36925925925925923,
+      "GWP": 0.7142857142857143,
+      "OGWP": 0.3628571428571428
+    },
+    {
+      "Rank": 6,
+      "Player": "Bear",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.8148148148148148,
+      "GWP": 0.42857142857142855,
+      "OGWP": 0.7797619047619048
+    },
+    {
+      "Rank": 7,
+      "Player": "Ameth Alzate",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6655555555555556,
+      "GWP": 0.2857142857142857,
+      "OGWP": 0.6814285714285715
+    },
+    {
+      "Rank": 8,
+      "Player": "Thomas Kelly",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5914814814814815,
+      "GWP": 0.42857142857142855,
+      "OGWP": 0.5405555555555556
+    },
+    {
+      "Rank": 9,
+      "Player": "Alex L",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.7037037037037037,
+      "GWP": 0.14285714285714285,
+      "OGWP": 0.6686507936507936
+    },
+    {
+      "Rank": 10,
+      "Player": "Patrick Tracey",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4444444444444444,
+      "GWP": 0.25,
+      "OGWP": 0.44333333333333336
+    }
+  ]
+}

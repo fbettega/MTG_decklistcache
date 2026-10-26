@@ -1,0 +1,432 @@
+{
+  "Tournament": {
+    "Date": "2026-07-03T02:00:00+00:00",
+    "Name": "Legacy Thursday",
+    "Uri": "https://topdeck.gg/event/legacy-thursday-58",
+    "Formats": "Legacy"
+  },
+  "Decks": [
+    {
+      "Date": "2026-07-03T02:00:00+00:00",
+      "Player": "Elliot Fisher",
+      "Result": "6th Place",
+      "AnchorUri": "https://topdeck.gg/event/legacy-thursday-58",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cabal Therapy"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cephalid Illusionist"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dread Return"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flow State"
+        },
+        {
+          "Count": 4,
+          "CardName": "Force of Will"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 3,
+          "CardName": "Loki, God of Mischief"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 2,
+          "CardName": "Misty Rainforest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Narcomoeba"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nomads en-Kor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ponder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 2,
+          "CardName": "Swords to Plowshares"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tamiyo, Inquisitive Student"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thassa's Oracle"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tundra"
+        },
+        {
+          "Count": 1,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 2,
+          "CardName": "Underground Sea"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wasteland"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Barrowgoyf"
+        },
+        {
+          "Count": 3,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Orcish Bowmasters"
+        },
+        {
+          "Count": 1,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 2,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 2,
+          "CardName": "Swords to Plowshares"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thoughtseize"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Andrew Alexandrov",
+          "Player2": "Marvin Goncalves de Aquino",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Elliot Fisher",
+          "Player2": "Artem Arushanyan",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Mazin Marwan",
+          "Player2": "Quinn Spooner",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Thomas Donaldson",
+          "Player2": "Pavel Samsonov",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Alastair Mclellan",
+          "Player2": "Kebin",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Matthew Thiessen",
+          "Player2": "Veronica Baldys",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Alastair Mclellan",
+          "Player2": "Elliot Fisher",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Mazin Marwan",
+          "Player2": "Andrew Alexandrov",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Thomas Donaldson",
+          "Player2": "Matthew Thiessen",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Artem Arushanyan",
+          "Player2": "Veronica Baldys",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Kebin",
+          "Player2": "Marvin Goncalves de Aquino",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Pavel Samsonov",
+          "Player2": "Quinn Spooner",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Thomas Donaldson",
+          "Player2": "Mazin Marwan",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Kebin",
+          "Player2": "Elliot Fisher",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Artem Arushanyan",
+          "Player2": "Alastair Mclellan",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Pavel Samsonov",
+          "Player2": "Andrew Alexandrov",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Matthew Thiessen",
+          "Player2": "Quinn Spooner",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Veronica Baldys",
+          "Player2": "Marvin Goncalves de Aquino",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "4",
+      "Matches": [
+        {
+          "Player1": "Kebin",
+          "Player2": "Thomas Donaldson",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Matthew Thiessen",
+          "Player2": "Mazin Marwan",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Pavel Samsonov",
+          "Player2": "Artem Arushanyan",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Elliot Fisher",
+          "Player2": "Veronica Baldys",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Alastair Mclellan",
+          "Player2": "Andrew Alexandrov",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Marvin Goncalves de Aquino",
+          "Player2": "Quinn Spooner",
+          "Result": "1-0-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Thomas Donaldson",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6875,
+      "GWP": 0.5454545454545454,
+      "OGWP": 0.5958333333333333
+    },
+    {
+      "Rank": 2,
+      "Player": "Kebin",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5616666666666666,
+      "GWP": 0.6,
+      "OGWP": 0.5499999999999999
+    },
+    {
+      "Rank": 3,
+      "Player": "Pavel Samsonov",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.47750000000000004,
+      "GWP": 0.7,
+      "OGWP": 0.43414141414141416
+    },
+    {
+      "Rank": 4,
+      "Player": "Matthew Thiessen",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.47750000000000004,
+      "GWP": 0.5833333333333334,
+      "OGWP": 0.43477272727272726
+    },
+    {
+      "Rank": 5,
+      "Player": "Alastair Mclellan",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.5408333333333334,
+      "GWP": 0.6,
+      "OGWP": 0.5152777777777777
+    },
+    {
+      "Rank": 6,
+      "Player": "Elliot Fisher",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.5408333333333334,
+      "GWP": 0.6,
+      "OGWP": 0.502020202020202
+    },
+    {
+      "Rank": 7,
+      "Player": "Artem Arushanyan",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5616666666666666,
+      "GWP": 0.4444444444444444,
+      "OGWP": 0.5659090909090909
+    },
+    {
+      "Rank": 8,
+      "Player": "Mazin Marwan",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.54,
+      "GWP": 0.5,
+      "OGWP": 0.46886363636363637
+    },
+    {
+      "Rank": 9,
+      "Player": "Andrew Alexandrov",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5408333333333334,
+      "GWP": 0.4166666666666667,
+      "OGWP": 0.5636363636363636
+    },
+    {
+      "Rank": 10,
+      "Player": "Veronica Baldys",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5408333333333334,
+      "GWP": 0.36363636363636365,
+      "OGWP": 0.5205808080808081
+    },
+    {
+      "Rank": 11,
+      "Player": "Marvin Goncalves de Aquino",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.43500000000000005,
+      "GWP": 0.45454545454545453,
+      "OGWP": 0.4275757575757576
+    },
+    {
+      "Rank": 12,
+      "Player": "Quinn Spooner",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.5825,
+      "GWP": 0.2,
+      "OGWP": 0.559469696969697
+    }
+  ]
+}

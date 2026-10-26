@@ -1,0 +1,658 @@
+{
+  "Tournament": {
+    "Date": "2026-06-27T08:00:00+00:00",
+    "Name": "WSK Legacy Win-a-dual",
+    "Uri": "https://topdeck.gg/event/wsk-legacy-win-a-dual",
+    "Formats": "Legacy"
+  },
+  "Decks": [
+    {
+      "Date": "2026-06-27T08:00:00+00:00",
+      "Player": "Daniel Åkerblom",
+      "Result": "16th Place",
+      "AnchorUri": "https://topdeck.gg/event/wsk-legacy-win-a-dual",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Abundant Countryside"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ancient Tomb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Broadside Bombardiers"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Devourer of Destiny"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eldrazi Linebreaker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eldrazi Temple"
+        },
+        {
+          "Count": 3,
+          "CardName": "Eye of Ugin"
+        },
+        {
+          "Count": 4,
+          "CardName": "Glaring Fleshraker"
+        },
+        {
+          "Count": 2,
+          "CardName": "It That Heralds the End"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kozilek's Command"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lotus Petal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Petrified Hamlet"
+        },
+        {
+          "Count": 3,
+          "CardName": "Reality Smasher"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thorn of Amethyst"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thought-Knot Seer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wastes"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wastescape Battlemage"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Barrowgoyf"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 3,
+          "CardName": "Disruptor Flute"
+        },
+        {
+          "Count": 2,
+          "CardName": "Null Rod"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thorn of Amethyst"
+        },
+        {
+          "Count": 2,
+          "CardName": "Unlicensed Hearse"
+        },
+        {
+          "Count": 2,
+          "CardName": "Warping Wail"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Olle Andersson",
+          "Player2": "AxelBerg",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Albin",
+          "Player2": "Mikael Sellen",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Lucas",
+          "Player2": "Daniel Åkerblom",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Alexander Svensson ",
+          "Player2": "Tarik",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Linus Johansson",
+          "Player2": "Steven Knudsen",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Simon Alfredsson",
+          "Player2": "Erik Svensson",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Alex Broere",
+          "Player2": "Andreas Halkjaer",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Adam",
+          "Player2": "Dennis Johansson ",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Christopher Tisell",
+          "Player2": "Simon Ek",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Jonatan Larsson",
+          "Player2": "Jonathan Johansson",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Lucas",
+          "Player2": "Olle Andersson",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Christopher Tisell",
+          "Player2": "Linus Johansson",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Simon Alfredsson",
+          "Player2": "Alex Broere",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Jonatan Larsson",
+          "Player2": "Adam",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Albin",
+          "Player2": "Tarik",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Andreas Halkjaer",
+          "Player2": "Alexander Svensson ",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Dennis Johansson ",
+          "Player2": "AxelBerg",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Simon Ek",
+          "Player2": "Daniel Åkerblom",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Jonathan Johansson",
+          "Player2": "Erik Svensson",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Steven Knudsen",
+          "Player2": "Mikael Sellen",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Lucas",
+          "Player2": "Simon Alfredsson",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Jonatan Larsson",
+          "Player2": "Christopher Tisell",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Andreas Halkjaer",
+          "Player2": "Albin",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Adam",
+          "Player2": "Jonathan Johansson",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Alex Broere",
+          "Player2": "Olle Andersson",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Dennis Johansson ",
+          "Player2": "Linus Johansson",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Simon Ek",
+          "Player2": "Steven Knudsen",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Tarik",
+          "Player2": "Erik Svensson",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Daniel Åkerblom",
+          "Player2": "Alexander Svensson ",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "AxelBerg",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "4",
+      "Matches": [
+        {
+          "Player1": "Jonatan Larsson",
+          "Player2": "Lucas",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Simon Alfredsson",
+          "Player2": "Christopher Tisell",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Andreas Halkjaer",
+          "Player2": "Adam",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Alex Broere",
+          "Player2": "Simon Ek",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Dennis Johansson ",
+          "Player2": "Tarik",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Jonathan Johansson",
+          "Player2": "Albin",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Steven Knudsen",
+          "Player2": "AxelBerg",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Linus Johansson",
+          "Player2": "Daniel Åkerblom",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Olle Andersson",
+          "Player2": "Alexander Svensson ",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "5",
+      "Matches": [
+        {
+          "Player1": "Simon Alfredsson",
+          "Player2": "Jonatan Larsson",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Andreas Halkjaer",
+          "Player2": "Dennis Johansson ",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Lucas",
+          "Player2": "Alex Broere",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Christopher Tisell",
+          "Player2": "Olle Andersson",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Adam",
+          "Player2": "Steven Knudsen",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Jonathan Johansson",
+          "Player2": "Linus Johansson",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Simon Ek",
+          "Player2": "Tarik",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Albin",
+          "Player2": "Daniel Åkerblom",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Top 8",
+      "Matches": [
+        {
+          "Player1": "Adam",
+          "Player2": "Jonatan Larsson",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Lucas",
+          "Player2": "Andreas Halkjaer",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Christopher Tisell",
+          "Player2": "Dennis Johansson ",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Simon Alfredsson",
+          "Player2": "Alex Broere",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Top 4",
+      "Matches": [
+        {
+          "Player1": "Adam",
+          "Player2": "Lucas",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Simon Alfredsson",
+          "Player2": "Christopher Tisell",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Top 2",
+      "Matches": [
+        {
+          "Player1": "Adam",
+          "Player2": "Simon Alfredsson",
+          "Result": "1-0-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Adam",
+      "Points": 9,
+      "Wins": 6,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5866666666666667,
+      "GWP": 0.5833333333333334,
+      "OGWP": 0.5642857142857143
+    },
+    {
+      "Rank": 2,
+      "Player": "Simon Alfredsson",
+      "Points": 11,
+      "Wins": 5,
+      "Losses": 1,
+      "Draws": 2,
+      "OMWP": 0.5993333333333333,
+      "GWP": 0.6153846153846154,
+      "OGWP": 0.569030303030303
+    },
+    {
+      "Rank": 3,
+      "Player": "Christopher Tisell",
+      "Points": 10,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.5866666666666667,
+      "GWP": 0.6666666666666666,
+      "OGWP": 0.5382284382284382
+    },
+    {
+      "Rank": 4,
+      "Player": "Lucas",
+      "Points": 10,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.5593333333333333,
+      "GWP": 0.6363636363636364,
+      "OGWP": 0.5230769230769231
+    },
+    {
+      "Rank": 5,
+      "Player": "Jonatan Larsson",
+      "Points": 11,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 2,
+      "OMWP": 0.6266666666666667,
+      "GWP": 0.6666666666666666,
+      "OGWP": 0.6003496503496504
+    },
+    {
+      "Rank": 6,
+      "Player": "Andreas Halkjaer",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.5326666666666666,
+      "GWP": 0.5714285714285714,
+      "OGWP": 0.5250909090909092
+    },
+    {
+      "Rank": 7,
+      "Player": "Dennis Johansson ",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.4793333333333333,
+      "GWP": 0.5833333333333334,
+      "OGWP": 0.48361904761904756
+    },
+    {
+      "Rank": 8,
+      "Player": "Alex Broere",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6133333333333333,
+      "GWP": 0.5454545454545454,
+      "OGWP": 0.5464535464535464
+    },
+    {
+      "Rank": 9,
+      "Player": "Simon Ek",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.466,
+      "GWP": 0.45454545454545453,
+      "OGWP": 0.49575757575757573
+    },
+    {
+      "Rank": 10,
+      "Player": "Jonathan Johansson",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.5193333333333333,
+      "GWP": 0.5,
+      "OGWP": 0.5326666666666667
+    },
+    {
+      "Rank": 11,
+      "Player": "Linus Johansson",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.506,
+      "GWP": 0.5,
+      "OGWP": 0.5166666666666667
+    },
+    {
+      "Rank": 12,
+      "Player": "Albin",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.4253333333333334,
+      "GWP": 0.5833333333333334,
+      "OGWP": 0.4336190476190477
+    },
+    {
+      "Rank": 13,
+      "Player": "Olle Andersson",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5186666666666666,
+      "GWP": 0.45454545454545453,
+      "OGWP": 0.5016969696969696
+    },
+    {
+      "Rank": 14,
+      "Player": "Steven Knudsen",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4653333333333333,
+      "GWP": 0.5,
+      "OGWP": 0.4395757575757576
+    },
+    {
+      "Rank": 15,
+      "Player": "Tarik",
+      "Points": 5,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 2,
+      "OMWP": 0.4786666666666667,
+      "GWP": 0.43333333333333335,
+      "OGWP": 0.4562424242424242
+    },
+    {
+      "Rank": 16,
+      "Player": "Daniel Åkerblom",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.506,
+      "GWP": 0.3333333333333333,
+      "OGWP": 0.5008484848484849
+    },
+    {
+      "Rank": 17,
+      "Player": "AxelBerg",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.48888888888888893,
+      "GWP": 0.25,
+      "OGWP": 0.5126262626262627
+    },
+    {
+      "Rank": 18,
+      "Player": "Alexander Svensson ",
+      "Points": 1,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 1,
+      "OMWP": 0.4325,
+      "GWP": 0.14814814814814814,
+      "OGWP": 0.44816017316017315
+    },
+    {
+      "Rank": 19,
+      "Player": "Erik Svensson",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5111111111111111,
+      "GWP": 0.14285714285714285,
+      "OGWP": 0.5162393162393163
+    },
+    {
+      "Rank": 20,
+      "Player": "Mikael Sellen",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.43333333333333335,
+      "GWP": 0.2,
+      "OGWP": 0.5416666666666667
+    }
+  ]
+}

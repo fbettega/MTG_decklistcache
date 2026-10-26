@@ -1,0 +1,422 @@
+{
+  "Tournament": {
+    "Date": "2026-01-28T23:00:00+00:00",
+    "Name": "Pauper League Season 3 - Week 11",
+    "Uri": "https://topdeck.gg/event/pauper-league-season-3-week-11",
+    "Formats": "Pauper"
+  },
+  "Decks": [
+    {
+      "Date": "2026-01-28T23:00:00+00:00",
+      "Player": "Peter Conlin",
+      "Result": "5th Place",
+      "AnchorUri": "https://topdeck.gg/event/pauper-league-season-3-week-11",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Brinebarrow Intruder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Miscreant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Seer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Harrier Strix"
+        },
+        {
+          "Count": 2,
+          "CardName": "Humbling Elder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Illvoi Galeblade"
+        },
+        {
+          "Count": 18,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Moon-Circuit Hacker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ninja of the Deep Hours"
+        },
+        {
+          "Count": 4,
+          "CardName": "Of One Mind"
+        },
+        {
+          "Count": 2,
+          "CardName": "Snap"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spellstutter Sprite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Withdraw"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 3,
+          "CardName": "Bind the Monster"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Steel Sabotage"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Charlotte Sanders",
+          "Player2": "Michael Boatright",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Katie Davenport",
+          "Player2": "Ben Solomon",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Joseph Rudy",
+          "Player2": "John Erler",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Evan Lamberson",
+          "Player2": "Lucas Bailey",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Aster White",
+          "Player2": "Madi Janolino",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Peter Clements",
+          "Player2": "Peter Conlin",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Will Kirschbaum",
+          "Player2": "Rasmus Tang Christiansen",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Aster White",
+          "Player2": "Katie Davenport",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Will Kirschbaum",
+          "Player2": "Evan Lamberson",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Charlotte Sanders",
+          "Player2": "John Erler",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Joseph Rudy",
+          "Player2": "Peter Conlin",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Peter Clements",
+          "Player2": "Rasmus Tang Christiansen",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Madi Janolino",
+          "Player2": "Ben Solomon",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Michael Boatright",
+          "Player2": "Lucas Bailey",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Charlotte Sanders",
+          "Player2": "Aster White",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Peter Clements",
+          "Player2": "Will Kirschbaum",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Katie Davenport",
+          "Player2": "Joseph Rudy",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Madi Janolino",
+          "Player2": "Evan Lamberson",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Peter Conlin",
+          "Player2": "Michael Boatright",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "John Erler",
+          "Player2": "Ben Solomon",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Rasmus Tang Christiansen",
+          "Player2": "Lucas Bailey",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "4",
+      "Matches": [
+        {
+          "Player1": "Charlotte Sanders",
+          "Player2": "Peter Clements",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Aster White",
+          "Player2": "Will Kirschbaum",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Peter Conlin",
+          "Player2": "Katie Davenport",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Joseph Rudy",
+          "Player2": "Evan Lamberson",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Rasmus Tang Christiansen",
+          "Player2": "Madi Janolino",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "John Erler",
+          "Player2": "Michael Boatright",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Lucas Bailey",
+          "Player2": "Ben Solomon",
+          "Result": "1-0-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Charlotte Sanders",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.4783333333333334,
+      "GWP": 0.8888888888888888,
+      "OGWP": 0.5139814814814815
+    },
+    {
+      "Rank": 2,
+      "Player": "Peter Clements",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.6666666666666667,
+      "GWP": 0.5925925925925926,
+      "OGWP": 0.6404671717171717
+    },
+    {
+      "Rank": 3,
+      "Player": "Aster White",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.6041666666666666,
+      "GWP": 0.6666666666666666,
+      "OGWP": 0.563867845117845
+    },
+    {
+      "Rank": 4,
+      "Player": "Will Kirschbaum",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.5,
+      "GWP": 0.5416666666666666,
+      "OGWP": 0.537037037037037
+    },
+    {
+      "Rank": 5,
+      "Player": "Peter Conlin",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.4991666666666667,
+      "GWP": 0.5757575757575758,
+      "OGWP": 0.4882239057239057
+    },
+    {
+      "Rank": 6,
+      "Player": "Joseph Rudy",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.4583333333333333,
+      "GWP": 0.5757575757575758,
+      "OGWP": 0.4575757575757576
+    },
+    {
+      "Rank": 7,
+      "Player": "Katie Davenport",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.52,
+      "GWP": 0.45454545454545453,
+      "OGWP": 0.5370454545454545
+    },
+    {
+      "Rank": 8,
+      "Player": "Rasmus Tang Christiansen",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4575,
+      "GWP": 0.5555555555555556,
+      "OGWP": 0.4761574074074073
+    },
+    {
+      "Rank": 9,
+      "Player": "John Erler",
+      "Points": 5,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 2,
+      "OMWP": 0.5608333333333334,
+      "GWP": 0.4666666666666667,
+      "OGWP": 0.5311616161616162
+    },
+    {
+      "Rank": 10,
+      "Player": "Evan Lamberson",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.4575,
+      "GWP": 0.3333333333333333,
+      "OGWP": 0.4719486531986532
+    },
+    {
+      "Rank": 11,
+      "Player": "Madi Janolino",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.43666666666666665,
+      "GWP": 0.37037037037037035,
+      "OGWP": 0.47138888888888886
+    },
+    {
+      "Rank": 12,
+      "Player": "Michael Boatright",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5825,
+      "GWP": 0.2222222222222222,
+      "OGWP": 0.5828282828282828
+    },
+    {
+      "Rank": 13,
+      "Player": "Lucas Bailey",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.37333333333333335,
+      "GWP": 0.4,
+      "OGWP": 0.38722222222222225
+    },
+    {
+      "Rank": 14,
+      "Player": "Ben Solomon",
+      "Points": 1,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 1,
+      "OMWP": 0.395,
+      "GWP": 0.23333333333333334,
+      "OGWP": 0.4228956228956229
+    }
+  ]
+}

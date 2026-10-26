@@ -1,0 +1,304 @@
+{
+  "Tournament": {
+    "Date": "2026-05-30T02:30:00+00:00",
+    "Name": "Bay Area Modern League Night May 29",
+    "Uri": "https://topdeck.gg/event/bay-area-modern-league-night-may-29",
+    "Formats": "Modern"
+  },
+  "Decks": [
+    {
+      "Date": "2026-05-30T02:30:00+00:00",
+      "Player": "Oscar \"OSO\" Valenzuela",
+      "Result": "7th Place",
+      "AnchorUri": "https://topdeck.gg/event/bay-area-modern-league-night-may-29",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Skateboard"
+        },
+        {
+          "Count": 2,
+          "CardName": "Emry, Lurker of the Loch"
+        },
+        {
+          "Count": 4,
+          "CardName": "Weapons Manufacturing"
+        },
+        {
+          "Count": 1,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 3,
+          "CardName": "Claws of Gix"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Saga"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thoughtcast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tormod's Crypt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mox Opal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Welding Jar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mishra's Bauble"
+        },
+        {
+          "Count": 4,
+          "CardName": "Engineered Explosives"
+        },
+        {
+          "Count": 2,
+          "CardName": "Arcbound Ravager"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sink into Stupor"
+        },
+        {
+          "Count": 3,
+          "CardName": "Metallic Rebuke"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pinnacle Emissary"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shadowspear"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kappa Cannoneer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pithing Needle"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fiery Islet"
+        },
+        {
+          "Count": 1,
+          "CardName": "Aether Spellbomb"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Whipflare"
+        },
+        {
+          "Count": 2,
+          "CardName": "Swan Song"
+        },
+        {
+          "Count": 2,
+          "CardName": "Galvanic Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 3,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        },
+        {
+          "Count": 2,
+          "CardName": "Damping Sphere"
+        },
+        {
+          "Count": 1,
+          "CardName": "Harbinger of the Seas"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Gabriel Roque",
+          "Player2": "Nathan Zixia Hu",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Aleksandar Abrams",
+          "Player2": "Oscar \"OSO\" Valenzuela",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Edgar Valenzuela",
+          "Player2": "Curtis Lam",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Michael Tseng",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Gabriel Roque",
+          "Player2": "Edgar Valenzuela",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Michael Tseng",
+          "Player2": "Aleksandar Abrams",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Curtis Lam",
+          "Player2": "Oscar \"OSO\" Valenzuela",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Nathan Zixia Hu",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Gabriel Roque",
+          "Player2": "Michael Tseng",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Aleksandar Abrams",
+          "Player2": "Edgar Valenzuela",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Curtis Lam",
+          "Player2": "Nathan Zixia Hu",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Oscar \"OSO\" Valenzuela",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Gabriel Roque",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.4444444444444444,
+      "GWP": 0.75,
+      "OGWP": 0.4583333333333333
+    },
+    {
+      "Rank": 2,
+      "Player": "Michael Tseng",
+      "Points": 6,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.8333333333333333,
+      "GWP": 0.5714285714285714,
+      "OGWP": 0.6875
+    },
+    {
+      "Rank": 3,
+      "Player": "Aleksandar Abrams",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4444444444444444,
+      "GWP": 0.625,
+      "OGWP": 0.48214285714285715
+    },
+    {
+      "Rank": 4,
+      "Player": "Curtis Lam",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.3333333333333333,
+      "GWP": 0.625,
+      "OGWP": 0.43452380952380953
+    },
+    {
+      "Rank": 5,
+      "Player": "Nathan Zixia Hu",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.8333333333333333,
+      "GWP": 0.42857142857142855,
+      "OGWP": 0.6875
+    },
+    {
+      "Rank": 6,
+      "Player": "Edgar Valenzuela",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.7777777777777777,
+      "GWP": 0.375,
+      "OGWP": 0.6666666666666666
+    },
+    {
+      "Rank": 7,
+      "Player": "Oscar \"OSO\" Valenzuela",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6666666666666666,
+      "GWP": 0.5,
+      "OGWP": 0.625
+    }
+  ]
+}

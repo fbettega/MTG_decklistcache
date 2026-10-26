@@ -1,0 +1,370 @@
+{
+  "Tournament": {
+    "Date": "2026-06-18T23:00:00+00:00",
+    "Name": "Thursday Legacy",
+    "Uri": "https://topdeck.gg/event/thursday-legacy",
+    "Formats": "Legacy"
+  },
+  "Decks": [
+    {
+      "Date": "2026-06-18T23:00:00+00:00",
+      "Player": "Peter Lowry",
+      "Result": "5th Place",
+      "AnchorUri": "https://topdeck.gg/event/thursday-legacy",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Blasted Landscape"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cloud of Faeries"
+        },
+        {
+          "Count": 1,
+          "CardName": "Drain Life"
+        },
+        {
+          "Count": 4,
+          "CardName": "Drifting Djinn"
+        },
+        {
+          "Count": 4,
+          "CardName": "Drifting Meadow"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dromar's Cavern"
+        },
+        {
+          "Count": 2,
+          "CardName": "Expunge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fluctuator"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gilded Light"
+        },
+        {
+          "Count": 4,
+          "CardName": "Keeneye Aven"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pendrell Drake"
+        },
+        {
+          "Count": 4,
+          "CardName": "Polluted Mire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Primoc Escapee"
+        },
+        {
+          "Count": 4,
+          "CardName": "Remote Isle"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sandbar Merfolk"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sandbar Serpent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Slippery Karst"
+        },
+        {
+          "Count": 4,
+          "CardName": "Smoldering Crater"
+        },
+        {
+          "Count": 1,
+          "CardName": "Songs of the Damned"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Clear"
+        },
+        {
+          "Count": 1,
+          "CardName": "Drain Life"
+        },
+        {
+          "Count": 1,
+          "CardName": "Expunge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gilded Light"
+        },
+        {
+          "Count": 4,
+          "CardName": "Miscalculation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Misdirection"
+        },
+        {
+          "Count": 1,
+          "CardName": "Songs of the Damned"
+        },
+        {
+          "Count": 2,
+          "CardName": "Twilight's Call"
+        }
+      ]
+    },
+    {
+      "Date": "2026-06-18T23:00:00+00:00",
+      "Player": "Jeffrey Karger",
+      "Result": "6th Place",
+      "AnchorUri": "https://topdeck.gg/event/thursday-legacy",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "All Is Dust"
+        },
+        {
+          "Count": 58,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": "2026-06-18T23:00:00+00:00",
+      "Player": "Jason Radzikowski ",
+      "Result": "9th Place",
+      "AnchorUri": "https://topdeck.gg/event/thursday-legacy",
+      "Mainboard": [
+        {
+          "Count": 56,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mystic Forge"
+        }
+      ],
+      "Sideboard": []
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Logan Caruso",
+          "Player2": "Jason Schmidle",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Bella",
+          "Player2": "Peter Lowry",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Dominic",
+          "Player2": "Jeffrey Karger",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Tad Gibson",
+          "Player2": "Zander",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Missy",
+          "Player2": "Jason Radzikowski ",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Dominic",
+          "Player2": "Missy",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Logan Caruso",
+          "Player2": "Tad Gibson",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Jeffrey Karger",
+          "Player2": "Bella",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Peter Lowry",
+          "Player2": "Zander",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Jason Schmidle",
+          "Player2": "Jason Radzikowski ",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Logan Caruso",
+          "Player2": "Dominic",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Jason Schmidle",
+          "Player2": "Jeffrey Karger",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Peter Lowry",
+          "Player2": "Missy",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Tad Gibson",
+          "Player2": "Bella",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Jason Radzikowski ",
+          "Player2": "Zander",
+          "Result": "1-0-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Logan Caruso",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.6666666666666666,
+      "GWP": 0.6666666666666666,
+      "OGWP": 0.625
+    },
+    {
+      "Rank": 2,
+      "Player": "Jason Schmidle",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5555555555555555,
+      "GWP": 0.625,
+      "OGWP": 0.48148148148148145
+    },
+    {
+      "Rank": 3,
+      "Player": "Dominic",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5555555555555555,
+      "GWP": 0.625,
+      "OGWP": 0.4814814814814814
+    },
+    {
+      "Rank": 4,
+      "Player": "Tad Gibson",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5544444444444444,
+      "GWP": 0.625,
+      "OGWP": 0.47507936507936505
+    },
+    {
+      "Rank": 5,
+      "Player": "Peter Lowry",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.3322222222222222,
+      "GWP": 0.6666666666666666,
+      "OGWP": 0.363968253968254
+    },
+    {
+      "Rank": 6,
+      "Player": "Jeffrey Karger",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5555555555555555,
+      "GWP": 0.4444444444444444,
+      "OGWP": 0.5595238095238095
+    },
+    {
+      "Rank": 7,
+      "Player": "Bella",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5555555555555555,
+      "GWP": 0.42857142857142855,
+      "OGWP": 0.5787037037037037
+    },
+    {
+      "Rank": 8,
+      "Player": "Missy",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5555555555555555,
+      "GWP": 0.3333333333333333,
+      "OGWP": 0.5416666666666666
+    },
+    {
+      "Rank": 9,
+      "Player": "Jason Radzikowski ",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.44333333333333336,
+      "GWP": 0.3333333333333333,
+      "OGWP": 0.42944444444444446
+    },
+    {
+      "Rank": 10,
+      "Player": "Zander",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5555555555555555,
+      "GWP": 0.14285714285714285,
+      "OGWP": 0.5416666666666666
+    }
+  ]
+}

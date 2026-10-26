@@ -1,0 +1,341 @@
+{
+  "Tournament": {
+    "Date": "2026-09-04T01:30:00+00:00",
+    "Name": "Merlion Pauper League: Week 10",
+    "Uri": "https://topdeck.gg/event/merlion-pauper-league-week-10-1",
+    "Formats": "Pauper"
+  },
+  "Decks": [
+    {
+      "Date": "2026-09-04T01:30:00+00:00",
+      "Player": "Jake Restaino",
+      "Result": "2st Place",
+      "AnchorUri": "https://topdeck.gg/event/merlion-pauper-league-week-10-1",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Avenging Hunter"
+        },
+        {
+          "Count": 3,
+          "CardName": "Elvish Mystic"
+        },
+        {
+          "Count": 13,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fyndhorn Elves"
+        },
+        {
+          "Count": 4,
+          "CardName": "Generous Ent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lead the Stampede"
+        },
+        {
+          "Count": 3,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 4,
+          "CardName": "Masked Vandal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nyxborn Hydra"
+        },
+        {
+          "Count": 4,
+          "CardName": "Priest of Titania"
+        },
+        {
+          "Count": 4,
+          "CardName": "Quirion Ranger"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sagu Wildling"
+        },
+        {
+          "Count": 4,
+          "CardName": "Timberwatch Elf"
+        },
+        {
+          "Count": 4,
+          "CardName": "Winding Way"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Faerie Macabre"
+        },
+        {
+          "Count": 4,
+          "CardName": "Monstrous Emergence"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pulse of Murasa"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rooftop Percher"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spinewoods Paladin"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wellwisher"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Jake Restaino",
+          "Player2": "ben H",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Nicholas Brown",
+          "Player2": "Tyler Miyasaki",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Callum Keddie",
+          "Player2": "Hunter Weinreb",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Denton Silfvast",
+          "Player2": "Quentin Ngo",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Brian Mears",
+          "Player2": "Tate Sisemore",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Adrian",
+          "Player2": "Sina Ghandi",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Callum Keddie",
+          "Player2": "Adrian",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Denton Silfvast",
+          "Player2": "Nicholas Brown",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "ben H",
+          "Player2": "Brian Mears",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Jake Restaino",
+          "Player2": "Quentin Ngo",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Tyler Miyasaki",
+          "Player2": "Tate Sisemore",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Hunter Weinreb",
+          "Player2": "Sina Ghandi",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Denton Silfvast",
+          "Player2": "Callum Keddie",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Nicholas Brown",
+          "Player2": "ben H",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Jake Restaino",
+          "Player2": "Tyler Miyasaki",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Brian Mears",
+          "Player2": "Adrian",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Quentin Ngo",
+          "Player2": "Sina Ghandi",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Hunter Weinreb",
+          "Player2": "Tate Sisemore",
+          "Result": "1-0-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Denton Silfvast",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5555555555555555,
+      "GWP": 0.8571428571428571,
+      "OGWP": 0.5147619047619048
+    },
+    {
+      "Rank": 2,
+      "Player": "Jake Restaino",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.3703703703703703,
+      "GWP": 0.8333333333333334,
+      "OGWP": 0.3866666666666667
+    },
+    {
+      "Rank": 3,
+      "Player": "Nicholas Brown",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5925925925925926,
+      "GWP": 0.7142857142857143,
+      "OGWP": 0.5623809523809523
+    },
+    {
+      "Rank": 4,
+      "Player": "Callum Keddie",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5925925925925926,
+      "GWP": 0.5,
+      "OGWP": 0.6190476190476191
+    },
+    {
+      "Rank": 5,
+      "Player": "Brian Mears",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.36925925925925923,
+      "GWP": 0.5714285714285714,
+      "OGWP": 0.44333333333333336
+    },
+    {
+      "Rank": 6,
+      "Player": "ben H",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.7037037037037037,
+      "GWP": 0.5,
+      "OGWP": 0.7063492063492064
+    },
+    {
+      "Rank": 7,
+      "Player": "Hunter Weinreb",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.44222222222222224,
+      "GWP": 0.5,
+      "OGWP": 0.3866666666666667
+    },
+    {
+      "Rank": 8,
+      "Player": "Quentin Ngo",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.7025925925925925,
+      "GWP": 0.2857142857142857,
+      "OGWP": 0.6734920634920635
+    },
+    {
+      "Rank": 9,
+      "Player": "Tyler Miyasaki",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5914814814814814,
+      "GWP": 0.2857142857142857,
+      "OGWP": 0.6258730158730158
+    },
+    {
+      "Rank": 10,
+      "Player": "Adrian",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5544444444444444,
+      "GWP": 0.5,
+      "OGWP": 0.46714285714285714
+    },
+    {
+      "Rank": 11,
+      "Player": "Sina Ghandi",
+      "Points": 1,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.3703703703703703,
+      "GWP": 0.2857142857142857,
+      "OGWP": 0.44333333333333336
+    },
+    {
+      "Rank": 12,
+      "Player": "Tate Sisemore",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.48148148148148145,
+      "GWP": 0.25,
+      "OGWP": 0.46714285714285714
+    }
+  ]
+}

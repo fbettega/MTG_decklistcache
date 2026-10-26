@@ -1,0 +1,275 @@
+{
+  "Tournament": {
+    "Date": "2026-02-28T00:30:00+00:00",
+    "Name": "pauper 260227",
+    "Uri": "https://topdeck.gg/event/pauper-260227",
+    "Formats": "Pauper"
+  },
+  "Decks": [
+    {
+      "Date": "2026-02-28T00:30:00+00:00",
+      "Player": "Fernando Marcelo Mendez Satentur",
+      "Result": "2st Place",
+      "AnchorUri": "https://topdeck.gg/event/pauper-260227",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 3,
+          "CardName": "Contaminated Aquifer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Miscreant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Seer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Harrier Strix"
+        },
+        {
+          "Count": 3,
+          "CardName": "Humbling Elder"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ice Tunnel"
+        },
+        {
+          "Count": 14,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Moon-Circuit Hacker"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mukotai Ambusher"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ninja of the Deep Hours"
+        },
+        {
+          "Count": 3,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spellstutter Sprite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thorn of the Black Rose"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Arms of Hadar"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nihil Spellbomb"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Lucas Bonetto ",
+          "Player2": "Amilcar ",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Trullen Luciano",
+          "Player2": "Andrés Sosa ",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Juan Martin Rigoni",
+          "Player2": "Ignacio Ibarra",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Fernando Marcelo Mendez Satentur",
+          "Player2": "hector armando cardenas arosteguichar",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Lucas Bonetto ",
+          "Player2": "Trullen Luciano",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Fernando Marcelo Mendez Satentur",
+          "Player2": "Juan Martin Rigoni",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Ignacio Ibarra",
+          "Player2": "Amilcar ",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "hector armando cardenas arosteguichar",
+          "Player2": "Andrés Sosa ",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Lucas Bonetto ",
+          "Player2": "Fernando Marcelo Mendez Satentur",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Ignacio Ibarra",
+          "Player2": "Trullen Luciano",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Juan Martin Rigoni",
+          "Player2": "hector armando cardenas arosteguichar",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Amilcar ",
+          "Player2": "Andrés Sosa ",
+          "Result": "1-0-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Lucas Bonetto ",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.4814814814814814,
+      "GWP": 1,
+      "OGWP": 0.44333333333333336
+    },
+    {
+      "Rank": 2,
+      "Player": "Fernando Marcelo Mendez Satentur",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5925925925925926,
+      "GWP": 0.5,
+      "OGWP": 0.6666666666666666
+    },
+    {
+      "Rank": 3,
+      "Player": "Ignacio Ibarra",
+      "Points": 5,
+      "Wins": 1,
+      "Losses": 0,
+      "Draws": 2,
+      "OMWP": 0.4074074074074074,
+      "GWP": 0.6,
+      "OGWP": 0.46714285714285714
+    },
+    {
+      "Rank": 4,
+      "Player": "Trullen Luciano",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.6285185185185186,
+      "GWP": 0.5,
+      "OGWP": 0.6433333333333334
+    },
+    {
+      "Rank": 5,
+      "Player": "Juan Martin Rigoni",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.5185185185185185,
+      "GWP": 0.5714285714285714,
+      "OGWP": 0.5095238095238096
+    },
+    {
+      "Rank": 6,
+      "Player": "Amilcar ",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6285185185185186,
+      "GWP": 0.25,
+      "OGWP": 0.6433333333333334
+    },
+    {
+      "Rank": 7,
+      "Player": "hector armando cardenas arosteguichar",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.48037037037037034,
+      "GWP": 0.42857142857142855,
+      "OGWP": 0.46714285714285714
+    },
+    {
+      "Rank": 8,
+      "Player": "Andrés Sosa ",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.3703703703703703,
+      "GWP": 0,
+      "OGWP": 0.4195238095238096
+    }
+  ]
+}

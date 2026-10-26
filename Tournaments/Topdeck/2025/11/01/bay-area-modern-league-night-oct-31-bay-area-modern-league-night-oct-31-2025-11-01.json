@@ -1,0 +1,270 @@
+{
+  "Tournament": {
+    "Date": "2025-11-01T02:30:00+00:00",
+    "Name": "Bay Area Modern League Night Oct 31",
+    "Uri": "https://topdeck.gg/event/bay-area-modern-league-night-oct-31",
+    "Formats": "Modern"
+  },
+  "Decks": [
+    {
+      "Date": "2025-11-01T02:30:00+00:00",
+      "Player": "Lucas Chao",
+      "Result": "3st Place",
+      "AnchorUri": "https://topdeck.gg/event/bay-area-modern-league-night-oct-31",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 3,
+          "CardName": "Consult the Star Charts"
+        },
+        {
+          "Count": 3,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ephemerate"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 4,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 4,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 2,
+          "CardName": "Subtlety"
+        },
+        {
+          "Count": 3,
+          "CardName": "Teferi, Time Raveler"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tune the Narrative"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wrath of the Skies"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Celestial Purge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 1,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 2,
+          "CardName": "Subtlety"
+        },
+        {
+          "Count": 1,
+          "CardName": "Supreme Verdict"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Richard Ding",
+          "Player2": "Gabriel Roque",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Lucas Chao",
+          "Player2": "Nathan",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Joseph mooy",
+          "Player2": "Michael Tseng",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Joseph mooy",
+          "Player2": "Richard Ding",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Lucas Chao",
+          "Player2": "Michael Tseng",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Gabriel Roque",
+          "Player2": "Nathan",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Joseph mooy",
+          "Player2": "Lucas Chao",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Gabriel Roque",
+          "Player2": "Michael Tseng",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Richard Ding",
+          "Player2": "Nathan",
+          "Result": "1-0-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Joseph mooy",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5544444444444444,
+      "GWP": 0.6666666666666666,
+      "OGWP": 0.5564285714285715
+    },
+    {
+      "Rank": 2,
+      "Player": "Richard Ding",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6655555555555556,
+      "GWP": 0.625,
+      "OGWP": 0.5226984126984128
+    },
+    {
+      "Rank": 3,
+      "Player": "Lucas Chao",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5533333333333333,
+      "GWP": 0.7142857142857143,
+      "OGWP": 0.44222222222222224
+    },
+    {
+      "Rank": 4,
+      "Player": "Gabriel Roque",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.44222222222222224,
+      "GWP": 0.5714285714285714,
+      "OGWP": 0.4283333333333334
+    },
+    {
+      "Rank": 5,
+      "Player": "Michael Tseng",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.7777777777777777,
+      "GWP": 0.14285714285714285,
+      "OGWP": 0.6507936507936508
+    },
+    {
+      "Rank": 6,
+      "Player": "Nathan",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6666666666666666,
+      "GWP": 0.25,
+      "OGWP": 0.6369047619047619
+    }
+  ]
+}

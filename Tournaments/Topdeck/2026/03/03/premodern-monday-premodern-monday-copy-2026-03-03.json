@@ -1,0 +1,297 @@
+{
+  "Tournament": {
+    "Date": "2026-03-03T00:00:00+00:00",
+    "Name": "Premodern Monday ",
+    "Uri": "https://topdeck.gg/event/premodern-monday-copy",
+    "Formats": "Premodern"
+  },
+  "Decks": [
+    {
+      "Date": "2026-03-03T00:00:00+00:00",
+      "Player": "Wes Stevens",
+      "Result": "3st Place",
+      "AnchorUri": "https://topdeck.gg/event/premodern-monday-copy",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Animate Dead"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cabal Therapy"
+        },
+        {
+          "Count": 4,
+          "CardName": "Careful Study"
+        },
+        {
+          "Count": 4,
+          "CardName": "City of Brass"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dark Ritual"
+        },
+        {
+          "Count": 4,
+          "CardName": "Exhume"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gemstone Mine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lotus Petal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Multani, Maro-Sorcerer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Phantom Nishoba"
+        },
+        {
+          "Count": 4,
+          "CardName": "Putrid Imp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Reanimate"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sickening Dreams"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Symbiotic Wurm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Undiscovered Paradise"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Akroma, Angel of Wrath"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ascendant Evincar"
+        },
+        {
+          "Count": 3,
+          "CardName": "Crumble"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ray of Revelation"
+        },
+        {
+          "Count": 3,
+          "CardName": "Red Elemental Blast"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Max",
+          "Player2": "Peter Duhamel",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "David",
+          "Player2": "James Heischman",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Wes Stevens",
+          "Player2": "Joe Nurre",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Daniel Smith",
+          "Player2": "Tony Parks",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Jay Pigott",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Daniel Smith",
+          "Player2": "David",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Jay Pigott",
+          "Player2": "Wes Stevens",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "James Heischman",
+          "Player2": "Max",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Peter Duhamel",
+          "Player2": "Joe Nurre",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Tony Parks",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Jay Pigott",
+          "Player2": "Daniel Smith",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Tony Parks",
+          "Player2": "Max",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "James Heischman",
+          "Player2": "Peter Duhamel",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Wes Stevens",
+          "Player2": "David",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Joe Nurre",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Jay Pigott",
+      "Points": 9,
+      "Wins": 2,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.6666666666666666,
+      "GWP": 1,
+      "OGWP": 0.5714285714285714
+    },
+    {
+      "Rank": 2,
+      "Player": "Daniel Smith",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666666666666666,
+      "GWP": 0.5714285714285714,
+      "OGWP": 0.6666666666666666
+    },
+    {
+      "Rank": 3,
+      "Player": "Wes Stevens",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5555555555555555,
+      "GWP": 0.5714285714285714,
+      "OGWP": 0.5694444444444444
+    },
+    {
+      "Rank": 4,
+      "Player": "Tony Parks",
+      "Points": 6,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.625,
+      "OGWP": 0.5357142857142857
+    },
+    {
+      "Rank": 5,
+      "Player": "James Heischman",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.3333333333333333,
+      "GWP": 0.625,
+      "OGWP": 0.40277777777777773
+    },
+    {
+      "Rank": 6,
+      "Player": "David",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6666666666666666,
+      "GWP": 0.375,
+      "OGWP": 0.5892857142857143
+    },
+    {
+      "Rank": 7,
+      "Player": "Max",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5555555555555555,
+      "GWP": 0.5,
+      "OGWP": 0.5277777777777778
+    },
+    {
+      "Rank": 8,
+      "Player": "Joe Nurre",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.3333333333333333,
+      "OGWP": 0.45238095238095233
+    },
+    {
+      "Rank": 9,
+      "Player": "Peter Duhamel",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4444444444444444,
+      "GWP": 0.3333333333333333,
+      "OGWP": 0.4861111111111111
+    }
+  ]
+}

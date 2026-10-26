@@ -1,0 +1,399 @@
+{
+  "Tournament": {
+    "Date": "2025-10-10T02:00:00+00:00",
+    "Name": "Legacy Thursday",
+    "Uri": "https://topdeck.gg/event/legacy-thursday-23",
+    "Formats": "Legacy"
+  },
+  "Decks": [
+    {
+      "Date": "2025-10-10T02:00:00+00:00",
+      "Player": "Elliot Fisher",
+      "Result": "2st Place",
+      "AnchorUri": "https://topdeck.gg/event/legacy-thursday-23",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Agatha's Soul Cauldron"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Delighted Halfling"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dryad Arbor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Endurance"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Force of Will"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Green Sun's Zenith"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hedge Maze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Karakas"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lush Portico"
+        },
+        {
+          "Count": 4,
+          "CardName": "Misty Rainforest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nadu, Winged Wisdom"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nomads en-Kor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ponder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 1,
+          "CardName": "Savannah"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scythecat Cub"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swords to Plowshares"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sylvan Safekeeper"
+        },
+        {
+          "Count": 2,
+          "CardName": "Teferi, Time Raveler"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tropical Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tundra"
+        },
+        {
+          "Count": 4,
+          "CardName": "Windswept Heath"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Carpet of Flowers"
+        },
+        {
+          "Count": 1,
+          "CardName": "Collector Ouphe"
+        },
+        {
+          "Count": 2,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faerie Macabre"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flusterstorm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force of Vigor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gaddock Teeg"
+        },
+        {
+          "Count": 1,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Outland Liberator"
+        },
+        {
+          "Count": 1,
+          "CardName": "Veil of Summer"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Brenden",
+          "Player2": "Elliot Fisher",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Pavel Samsonov",
+          "Player2": "Andrew Alexandrov",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Alastair Mclellan",
+          "Player2": "Lucas Inacio",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Kevin Mittertreiner",
+          "Player2": "Seth Stuve",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Veronica Baldys",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Alastair Mclellan",
+          "Player2": "Veronica Baldys",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Brenden",
+          "Player2": "Pavel Samsonov",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Elliot Fisher",
+          "Player2": "Kevin Mittertreiner",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Seth Stuve",
+          "Player2": "Andrew Alexandrov",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Lucas Inacio",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Alastair Mclellan",
+          "Player2": "Brenden",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Pavel Samsonov",
+          "Player2": "Seth Stuve",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Kevin Mittertreiner",
+          "Player2": "Veronica Baldys",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Elliot Fisher",
+          "Player2": "Lucas Inacio",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Andrew Alexandrov",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "4",
+      "Matches": [
+        {
+          "Player1": "Elliot Fisher",
+          "Player2": "Alastair Mclellan",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Brenden",
+          "Player2": "Kevin Mittertreiner",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Pavel Samsonov",
+          "Player2": "Lucas Inacio",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Andrew Alexandrov",
+          "Player2": "Veronica Baldys",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Seth Stuve",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Brenden",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6875,
+      "GWP": 0.6,
+      "OGWP": 0.6579545454545453
+    },
+    {
+      "Rank": 2,
+      "Player": "Elliot Fisher",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5825,
+      "GWP": 0.6363636363636364,
+      "OGWP": 0.5438636363636364
+    },
+    {
+      "Rank": 3,
+      "Player": "Alastair Mclellan",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5408333333333333,
+      "GWP": 0.7,
+      "OGWP": 0.5119612794612795
+    },
+    {
+      "Rank": 4,
+      "Player": "Pavel Samsonov",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.47833333333333333,
+      "GWP": 0.75,
+      "OGWP": 0.4477777777777778
+    },
+    {
+      "Rank": 5,
+      "Player": "Kevin Mittertreiner",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5833333333333333,
+      "GWP": 0.5454545454545454,
+      "OGWP": 0.5405723905723906
+    },
+    {
+      "Rank": 6,
+      "Player": "Seth Stuve",
+      "Points": 6,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5277777777777778,
+      "GWP": 0.4444444444444444,
+      "OGWP": 0.5707070707070707
+    },
+    {
+      "Rank": 7,
+      "Player": "Veronica Baldys",
+      "Points": 4,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.5277777777777778,
+      "GWP": 0.48148148148148145,
+      "OGWP": 0.554040404040404
+    },
+    {
+      "Rank": 8,
+      "Player": "Andrew Alexandrov",
+      "Points": 4,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.5277777777777778,
+      "GWP": 0.4166666666666667,
+      "OGWP": 0.5586419753086419
+    },
+    {
+      "Rank": 9,
+      "Player": "Lucas Inacio",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.75,
+      "GWP": 0.25,
+      "OGWP": 0.6954545454545454
+    }
+  ]
+}

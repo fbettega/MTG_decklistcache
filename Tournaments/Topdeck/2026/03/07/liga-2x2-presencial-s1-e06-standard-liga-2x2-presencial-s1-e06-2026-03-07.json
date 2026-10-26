@@ -1,0 +1,143 @@
+{
+  "Tournament": {
+    "Date": "2026-03-07T21:00:00+00:00",
+    "Name": "Liga 2x2 presencial S1-E06",
+    "Uri": "https://topdeck.gg/event/liga-2x2-presencial-s1-e06",
+    "Formats": "Standard"
+  },
+  "Decks": [
+    {
+      "Date": "2026-03-07T21:00:00+00:00",
+      "Player": "Nobru e tarik",
+      "Result": "5th Place",
+      "AnchorUri": "https://topdeck.gg/event/liga-2x2-presencial-s1-e06",
+      "Mainboard": [
+        {
+          "Count": 60,
+          "CardName": "Forest"
+        }
+      ],
+      "Sideboard": []
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Nobru e tarik",
+          "Player2": "Metusa e Rudi",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Carlos e Mel",
+          "Player2": "Aleksander e Luisa",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "...",
+          "Player2": "Matheus e luciano",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Metusa e Rudi",
+          "Player2": "Carlos e Mel",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Matheus e luciano",
+          "Player2": "Nobru e tarik",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Metusa e Rudi",
+          "Player2": "Matheus e luciano",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Carlos e Mel",
+          "Player2": "Nobru e tarik",
+          "Result": "1-0-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Metusa e Rudi",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.4433333333333333,
+      "GWP": 0.8333333333333334,
+      "OGWP": 0.3877777777777778
+    },
+    {
+      "Rank": 2,
+      "Player": "Carlos e Mel",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4792592592592593,
+      "GWP": 0.5,
+      "OGWP": 0.4977777777777778
+    },
+    {
+      "Rank": 3,
+      "Player": "Matheus e luciano",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.7025925925925925,
+      "GWP": 0.3333333333333333,
+      "OGWP": 0.7211111111111111
+    },
+    {
+      "Rank": 4,
+      "Player": "...",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.3333333333333333,
+      "GWP": 1,
+      "OGWP": 0.3333333333333333
+    },
+    {
+      "Rank": 5,
+      "Player": "Nobru e tarik",
+      "Points": 1,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.5925925925925926,
+      "GWP": 0.2857142857142857,
+      "OGWP": 0.5555555555555556
+    },
+    {
+      "Rank": 6,
+      "Player": "Aleksander e Luisa",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666666666666666,
+      "GWP": 0,
+      "OGWP": 0.5
+    }
+  ]
+}

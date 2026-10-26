@@ -1,0 +1,222 @@
+{
+  "Tournament": {
+    "Date": "2026-09-12T02:30:00+00:00",
+    "Name": "Merlion Modern FNM Sep 11th",
+    "Uri": "https://topdeck.gg/event/merlion-modern-fnm-sep-11th",
+    "Formats": "Modern"
+  },
+  "Decks": [
+    {
+      "Date": "2026-09-12T02:30:00+00:00",
+      "Player": "Oscar \"OSO\" Valenzuela",
+      "Result": "2st Place",
+      "AnchorUri": "https://topdeck.gg/event/merlion-modern-fnm-sep-11th",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 2,
+          "CardName": "Artist's Talent"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Commercial District"
+        },
+        {
+          "Count": 4,
+          "CardName": "Desperate Ritual"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gemstone Caverns"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grapeshot"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hex Magic"
+        },
+        {
+          "Count": 4,
+          "CardName": "Manamorphose"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Past in Flames"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyretic Ritual"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ral, Monsoon Mage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Reckless Impulse"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ruby Medallion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 3,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sunbaked Canyon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Valakut Awakening"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wish"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wooded Foothills"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wrenn's Resolve"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Brotherhood's End"
+        },
+        {
+          "Count": 1,
+          "CardName": "Empty the Warrens"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grapeshot"
+        },
+        {
+          "Count": 4,
+          "CardName": "Orim's Chant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Past in Flames"
+        },
+        {
+          "Count": 3,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 1,
+          "CardName": "Untimely Malfunction"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wear // Tear"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Edgar Valenzuela",
+          "Player2": "Caleb Garvey",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Oscar \"OSO\" Valenzuela",
+          "Player2": "Richard Ding",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Edgar Valenzuela",
+          "Player2": "Oscar \"OSO\" Valenzuela",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Caleb Garvey",
+          "Player2": "Richard Ding",
+          "Result": "1-0-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Edgar Valenzuela",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.8,
+      "OGWP": 0.45
+    },
+    {
+      "Rank": 2,
+      "Player": "Oscar \"OSO\" Valenzuela",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.665,
+      "GWP": 0.5,
+      "OGWP": 0.5666666666666667
+    },
+    {
+      "Rank": 3,
+      "Player": "Caleb Garvey",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.665,
+      "GWP": 0.4,
+      "OGWP": 0.5666666666666667
+    },
+    {
+      "Rank": 4,
+      "Player": "Richard Ding",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.3333333333333333,
+      "OGWP": 0.45
+    }
+  ]
+}

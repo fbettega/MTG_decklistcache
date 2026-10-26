@@ -1,0 +1,300 @@
+{
+  "Tournament": {
+    "Date": "2026-05-29T02:00:00+00:00",
+    "Name": "Legacy Thursday",
+    "Uri": "https://topdeck.gg/event/legacy-thursday-53",
+    "Formats": "Legacy"
+  },
+  "Decks": [
+    {
+      "Date": "2026-05-29T02:00:00+00:00",
+      "Player": "Elliot Fisher",
+      "Result": "1st Place",
+      "AnchorUri": "https://topdeck.gg/event/legacy-thursday-53",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 4,
+          "CardName": "Force of Will"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flow State"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dark Ritual"
+        },
+        {
+          "Count": 3,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 1,
+          "CardName": "Volcanic Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Daze"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Consider"
+        },
+        {
+          "Count": 3,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 1,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 1,
+          "CardName": "Badlands"
+        },
+        {
+          "Count": 1,
+          "CardName": "Prismari Charm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lotus Petal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 2,
+          "CardName": "Murktide Regent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Underground Sea"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ponder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arclight Phoenix"
+        },
+        {
+          "Count": 4,
+          "CardName": "Buried Alive"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Jace, Wielder of Mysteries"
+        },
+        {
+          "Count": 1,
+          "CardName": "Brazen Borrower"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Barrowgoyf"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lion's Eye Diamond"
+        },
+        {
+          "Count": 1,
+          "CardName": "Street Wraith"
+        },
+        {
+          "Count": 1,
+          "CardName": "Edge of Autumn"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thassa's Oracle"
+        },
+        {
+          "Count": 4,
+          "CardName": "Doomsday"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cavern of Souls"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Elliot Fisher",
+          "Player2": "Artem Arushanyan",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Wentao Liu",
+          "Player2": "Gaman",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Eric Cui",
+          "Player2": "Kevin Mittertreiner",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Wenhao Liu",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Elliot Fisher",
+          "Player2": "Wenhao Liu",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Eric Cui",
+          "Player2": "Wentao Liu",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Artem Arushanyan",
+          "Player2": "Gaman",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Kevin Mittertreiner",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Elliot Fisher",
+          "Player2": "Eric Cui",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Wentao Liu",
+          "Player2": "Artem Arushanyan",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Kevin Mittertreiner",
+          "Player2": "Wenhao Liu",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Gaman",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Elliot Fisher",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.4444444444444444,
+      "GWP": 0.6666666666666666,
+      "OGWP": 0.5178571428571429
+    },
+    {
+      "Rank": 2,
+      "Player": "Eric Cui",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.7777777777777777,
+      "GWP": 0.625,
+      "OGWP": 0.6527777777777777
+    },
+    {
+      "Rank": 3,
+      "Player": "Kevin Mittertreiner",
+      "Points": 6,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.6666666666666666,
+      "OGWP": 0.5267857142857143
+    },
+    {
+      "Rank": 4,
+      "Player": "Wentao Liu",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4444444444444444,
+      "GWP": 0.625,
+      "OGWP": 0.4861111111111111
+    },
+    {
+      "Rank": 5,
+      "Player": "Wenhao Liu",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.8333333333333333,
+      "GWP": 0.42857142857142855,
+      "OGWP": 0.6666666666666666
+    },
+    {
+      "Rank": 6,
+      "Player": "Artem Arushanyan",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6666666666666666,
+      "GWP": 0.5,
+      "OGWP": 0.5416666666666666
+    },
+    {
+      "Rank": 7,
+      "Player": "Gaman",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.3333333333333333,
+      "OGWP": 0.5625
+    }
+  ]
+}

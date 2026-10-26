@@ -1,0 +1,823 @@
+{
+  "Tournament": {
+    "Date": "2026-09-17T17:30:00+00:00",
+    "Name": "LyonPauper Jeudi 17 septembre 2026",
+    "Uri": "https://topdeck.gg/event/lyonpauper-jeudi-17-juillet-2026",
+    "Formats": "Pauper"
+  },
+  "Decks": [
+    {
+      "Date": "2026-09-17T17:30:00+00:00",
+      "Player": "Benoît Antoniotti",
+      "Result": "4th Place",
+      "AnchorUri": "https://topdeck.gg/event/lyonpauper-jeudi-17-juillet-2026",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Balustrade Spy"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dread Return"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elves of Deep Shadow"
+        },
+        {
+          "Count": 3,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gatecreeper Vine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Generous Ent"
+        },
+        {
+          "Count": 1,
+          "CardName": "Jaspera Sentinel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Land Grant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lead the Stampede"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lotleth Giant"
+        },
+        {
+          "Count": 3,
+          "CardName": "Masked Vandal"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mesmeric Fiend"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nyxborn Hydra"
+        },
+        {
+          "Count": 4,
+          "CardName": "Overgrown Battlement"
+        },
+        {
+          "Count": 2,
+          "CardName": "Quirion Ranger"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sagu Wildling"
+        },
+        {
+          "Count": 4,
+          "CardName": "Saruli Caretaker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tinder Wall"
+        },
+        {
+          "Count": 1,
+          "CardName": "Troll of Khazad-dûm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wall of Roots"
+        },
+        {
+          "Count": 4,
+          "CardName": "Winding Way"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Acorn Harvest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flaring Pain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gorilla Shaman"
+        },
+        {
+          "Count": 2,
+          "CardName": "Grapple with Death"
+        },
+        {
+          "Count": 3,
+          "CardName": "Healer of the Glade"
+        },
+        {
+          "Count": 1,
+          "CardName": "Masked Vandal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mesmeric Fiend"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nyxborn Hydra"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Undergrowth Leopard"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-17T17:30:00+00:00",
+      "Player": "Kozddoll",
+      "Result": "9th Place",
+      "AnchorUri": "https://topdeck.gg/event/lyonpauper-jeudi-17-juillet-2026",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Baleful Strix"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blood Fountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bonder's Ornament"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cut Down"
+        },
+        {
+          "Count": 2,
+          "CardName": "Devious Cover-Up"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gurmag Angler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ice Tunnel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lórien Revealed"
+        },
+        {
+          "Count": 1,
+          "CardName": "Murmuring Mystic"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plunder the Trollshaws"
+        },
+        {
+          "Count": 4,
+          "CardName": "Preordain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Skred"
+        },
+        {
+          "Count": 9,
+          "CardName": "Snow-Covered Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Snow-Covered Mountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Snow-Covered Swamp"
+        },
+        {
+          "Count": 3,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 1,
+          "CardName": "Terminate"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thorn of the Black Rose"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tolarian Terror"
+        },
+        {
+          "Count": 4,
+          "CardName": "Volatile Fjord"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Campfire"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nihil Spellbomb"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-17T17:30:00+00:00",
+      "Player": "Tristan Pernin ",
+      "Result": "10th Place",
+      "AnchorUri": "https://topdeck.gg/event/lyonpauper-jeudi-17-juillet-2026",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Accursed Marauder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Avenging Hunter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 2,
+          "CardName": "Campfire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 3,
+          "CardName": "Crypt Rats"
+        },
+        {
+          "Count": 4,
+          "CardName": "Defile"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eviscerator's Insight"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fanatical Offering"
+        },
+        {
+          "Count": 1,
+          "CardName": "Haunted Mire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ichor Wellspring"
+        },
+        {
+          "Count": 4,
+          "CardName": "Khalni Garden"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lembas"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spinning Darkness"
+        },
+        {
+          "Count": 1,
+          "CardName": "Suffocating Fumes"
+        },
+        {
+          "Count": 10,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thorn of the Black Rose"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tithing Blade"
+        },
+        {
+          "Count": 3,
+          "CardName": "Troll of Khazad-dûm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Witch's Cottage"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Drown in Sorrow"
+        },
+        {
+          "Count": 3,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 1,
+          "CardName": "Faerie Macabre"
+        },
+        {
+          "Count": 3,
+          "CardName": "Rancid Earth"
+        },
+        {
+          "Count": 2,
+          "CardName": "Troublemaker Ouphe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Weather the Storm"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Tristan Sabourdy",
+          "Player2": "Pierre BAROU",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Benjamin",
+          "Player2": "Emilien N'guyen",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Kozddoll",
+          "Player2": "Daybe",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "VinZouttE",
+          "Player2": "Aloïs COISSARD",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Clément ",
+          "Player2": "Milhann Chodorowski",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Paul Lecoffre ",
+          "Player2": "Phil Cronoriel",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Adrien D Varzal",
+          "Player2": "Bastien Nollet",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Lionel Moizeau",
+          "Player2": "Gabush",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Benoît Antoniotti",
+          "Player2": "Tristan Pernin ",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Clément ",
+          "Player2": "Benoît Antoniotti",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Lionel Moizeau",
+          "Player2": "Kozddoll",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Benjamin",
+          "Player2": "Tristan Sabourdy",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Adrien D Varzal",
+          "Player2": "Aloïs COISSARD",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "VinZouttE",
+          "Player2": "Phil Cronoriel",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Paul Lecoffre ",
+          "Player2": "Billousevitch",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Emilien N'guyen",
+          "Player2": "Daybe",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Tristan Pernin ",
+          "Player2": "Milhann Chodorowski",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Pierre BAROU",
+          "Player2": "Bastien Nollet",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Gabush",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Benjamin",
+          "Player2": "Clément ",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Lionel Moizeau",
+          "Player2": "Adrien D Varzal",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "VinZouttE",
+          "Player2": "Paul Lecoffre ",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Benoît Antoniotti",
+          "Player2": "Kozddoll",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Tristan Pernin ",
+          "Player2": "Tristan Sabourdy",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Emilien N'guyen",
+          "Player2": "Pierre BAROU",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Aloïs COISSARD",
+          "Player2": "Gabush",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Milhann Chodorowski",
+          "Player2": "Phil Cronoriel",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Billousevitch",
+          "Player2": "Daybe",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Bastien Nollet",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "4",
+      "Matches": [
+        {
+          "Player1": "Benjamin",
+          "Player2": "Lionel Moizeau",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Benoît Antoniotti",
+          "Player2": "VinZouttE",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Clément ",
+          "Player2": "Tristan Pernin ",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Adrien D Varzal",
+          "Player2": "Emilien N'guyen",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Paul Lecoffre ",
+          "Player2": "Aloïs COISSARD",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Kozddoll",
+          "Player2": "Milhann Chodorowski",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Billousevitch",
+          "Player2": "Pierre BAROU",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Bastien Nollet",
+          "Player2": "Tristan Sabourdy",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Phil Cronoriel",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Benjamin",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5825,
+      "GWP": 1,
+      "OGWP": 0.4938636363636364
+    },
+    {
+      "Rank": 2,
+      "Player": "Lionel Moizeau",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6458333333333333,
+      "GWP": 0.5454545454545454,
+      "OGWP": 0.6840909090909091
+    },
+    {
+      "Rank": 3,
+      "Player": "Clément ",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.645,
+      "GWP": 0.6,
+      "OGWP": 0.6180555555555556
+    },
+    {
+      "Rank": 4,
+      "Player": "Benoît Antoniotti",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5833333333333334,
+      "GWP": 0.5833333333333334,
+      "OGWP": 0.6055555555555555
+    },
+    {
+      "Rank": 5,
+      "Player": "Adrien D Varzal",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5208333333333333,
+      "GWP": 0.6363636363636364,
+      "OGWP": 0.49400252525252525
+    },
+    {
+      "Rank": 6,
+      "Player": "VinZouttE",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.5,
+      "GWP": 0.6666666666666666,
+      "OGWP": 0.47619047619047616
+    },
+    {
+      "Rank": 7,
+      "Player": "Paul Lecoffre ",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.4791666666666667,
+      "GWP": 0.5714285714285714,
+      "OGWP": 0.5208333333333333
+    },
+    {
+      "Rank": 8,
+      "Player": "Emilien N'guyen",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6025,
+      "GWP": 0.5,
+      "OGWP": 0.5749242424242424
+    },
+    {
+      "Rank": 9,
+      "Player": "Kozddoll",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.54,
+      "GWP": 0.6,
+      "OGWP": 0.44803030303030306
+    },
+    {
+      "Rank": 10,
+      "Player": "Tristan Pernin ",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.54,
+      "GWP": 0.5555555555555556,
+      "OGWP": 0.46166666666666667
+    },
+    {
+      "Rank": 11,
+      "Player": "Bastien Nollet",
+      "Points": 6,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.47000000000000003,
+      "GWP": 0.5555555555555556,
+      "OGWP": 0.43323232323232325
+    },
+    {
+      "Rank": 12,
+      "Player": "Billousevitch",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.41444444444444445,
+      "GWP": 0.6666666666666666,
+      "OGWP": 0.41158730158730156
+    },
+    {
+      "Rank": 13,
+      "Player": "Aloïs COISSARD",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.5625,
+      "GWP": 0.375,
+      "OGWP": 0.5936147186147186
+    },
+    {
+      "Rank": 14,
+      "Player": "Phil Cronoriel",
+      "Points": 4,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.49888888888888894,
+      "GWP": 0.375,
+      "OGWP": 0.5238095238095238
+    },
+    {
+      "Rank": 15,
+      "Player": "Tristan Sabourdy",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5825,
+      "GWP": 0.25,
+      "OGWP": 0.6111111111111112
+    },
+    {
+      "Rank": 16,
+      "Player": "Gabush",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5416666666666666,
+      "GWP": 0.5,
+      "OGWP": 0.4602272727272727
+    },
+    {
+      "Rank": 17,
+      "Player": "Milhann Chodorowski",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5208333333333333,
+      "GWP": 0.3333333333333333,
+      "OGWP": 0.5326388888888889
+    },
+    {
+      "Rank": 18,
+      "Player": "Pierre BAROU",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.49916666666666665,
+      "GWP": 0.3333333333333333,
+      "OGWP": 0.5130555555555556
+    },
+    {
+      "Rank": 19,
+      "Player": "Daybe",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5555555555555555,
+      "GWP": 0,
+      "OGWP": 0.5888888888888889
+    }
+  ]
+}

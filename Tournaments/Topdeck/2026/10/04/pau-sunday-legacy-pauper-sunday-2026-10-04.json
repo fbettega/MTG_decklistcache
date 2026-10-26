@@ -1,0 +1,251 @@
+{
+  "Tournament": {
+    "Date": "2026-10-04T21:00:00+00:00",
+    "Name": "Pauper Sunday",
+    "Uri": "https://topdeck.gg/event/pauper-sunday",
+    "Formats": "Legacy"
+  },
+  "Decks": [
+    {
+      "Date": "2026-10-04T21:00:00+00:00",
+      "Player": "Jeff Orsino",
+      "Result": "2st Place",
+      "AnchorUri": "https://topdeck.gg/event/pauper-sunday",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Archaeomancer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Augur of Bolas"
+        },
+        {
+          "Count": 3,
+          "CardName": "Bender's Waterskin"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ephemerate"
+        },
+        {
+          "Count": 2,
+          "CardName": "Glacial Floodplain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lórien Revealed"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mulldrifter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Murmuring Mystic"
+        },
+        {
+          "Count": 4,
+          "CardName": "Perilous Landscape"
+        },
+        {
+          "Count": 4,
+          "CardName": "Preordain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ride's End"
+        },
+        {
+          "Count": 4,
+          "CardName": "Skred"
+        },
+        {
+          "Count": 7,
+          "CardName": "Snow-Covered Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Snow-Covered Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Snow-Covered Plains"
+        },
+        {
+          "Count": 1,
+          "CardName": "Suplex"
+        },
+        {
+          "Count": 1,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 1,
+          "CardName": "Union of the Third Path"
+        },
+        {
+          "Count": 2,
+          "CardName": "Volatile Fjord"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Destroy Evil"
+        },
+        {
+          "Count": 1,
+          "CardName": "Envelop"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fiery Cannonade"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thraben Charm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vandalblast"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "parsa shafeazadeh",
+          "Player2": "Michael Woods",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Jeff Orsino",
+          "Player2": "Mathias",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "JamesN",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "JamesN",
+          "Player2": "Mathias",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Jeff Orsino",
+          "Player2": "parsa shafeazadeh",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Michael Woods",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Jeff Orsino",
+          "Player2": "Michael Woods",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "JamesN",
+          "Player2": "parsa shafeazadeh",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Mathias",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "JamesN",
+      "Points": 7,
+      "Wins": 1,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.4444444444444444,
+      "GWP": 0.8333333333333334,
+      "OGWP": 0.5208333333333333
+    },
+    {
+      "Rank": 2,
+      "Player": "Jeff Orsino",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.4074074074074074,
+      "GWP": 0.625,
+      "OGWP": 0.5138888888888888
+    },
+    {
+      "Rank": 3,
+      "Player": "Mathias",
+      "Points": 5,
+      "Wins": 0,
+      "Losses": 0,
+      "Draws": 2,
+      "OMWP": 0.7777777777777778,
+      "GWP": 0.6666666666666666,
+      "OGWP": 0.7291666666666667
+    },
+    {
+      "Rank": 4,
+      "Player": "parsa shafeazadeh",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6296296296296297,
+      "GWP": 0.375,
+      "OGWP": 0.6527777777777778
+    },
+    {
+      "Rank": 5,
+      "Player": "Michael Woods",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5555555555555556,
+      "GWP": 0.5,
+      "OGWP": 0.5
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "Tournament": {
+    "Date": "2026-05-15T02:00:00+00:00",
+    "Name": "Legacy Thursday",
+    "Uri": "https://topdeck.gg/event/legacy-thursday-52",
+    "Formats": "Legacy"
+  },
+  "Decks": [
+    {
+      "Date": "2026-05-15T02:00:00+00:00",
+      "Player": "Elliot Fisher",
+      "Result": "1st Place",
+      "AnchorUri": "https://topdeck.gg/event/legacy-thursday-52",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Alpha Deathclaw"
+        },
+        {
+          "Count": 4,
+          "CardName": "Assassin's Trophy"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bayou"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cabal Therapy"
+        },
+        {
+          "Count": 1,
+          "CardName": "Endurance"
+        },
+        {
+          "Count": 3,
+          "CardName": "Esper Origins"
+        },
+        {
+          "Count": 4,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ghost Quarter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Green Sun's Zenith"
+        },
+        {
+          "Count": 3,
+          "CardName": "Grist, the Hunger Tide"
+        },
+        {
+          "Count": 2,
+          "CardName": "Icetill Explorer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lazotep Quarry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nurturing Peatland"
+        },
+        {
+          "Count": 2,
+          "CardName": "Once Upon a Time"
+        },
+        {
+          "Count": 4,
+          "CardName": "Orcish Bowmasters"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pernicious Deed"
+        },
+        {
+          "Count": 2,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Underground Mortuary"
+        },
+        {
+          "Count": 4,
+          "CardName": "Verdant Catacombs"
+        },
+        {
+          "Count": 4,
+          "CardName": "Veteran Explorer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Witherbloom Command"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Collector Ouphe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Disruptor Flute"
+        },
+        {
+          "Count": 3,
+          "CardName": "Endurance"
+        },
+        {
+          "Count": 3,
+          "CardName": "Force of Vigor"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mindbreak Trap"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Kevin Mittertreiner",
+          "Player2": "Matthew Thiessen",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Thomas Donaldson",
+          "Player2": "Luna Lawrence",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Elliot Fisher",
+          "Player2": "Gaman",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Pavel Samsonov",
+          "Player2": "Artem Arushanyan",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Pavel Samsonov",
+          "Player2": "Kevin Mittertreiner",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Elliot Fisher",
+          "Player2": "Thomas Donaldson",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Luna Lawrence",
+          "Player2": "Gaman",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Matthew Thiessen",
+          "Player2": "Artem Arushanyan",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Elliot Fisher",
+          "Player2": "Pavel Samsonov",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Thomas Donaldson",
+          "Player2": "Matthew Thiessen",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Kevin Mittertreiner",
+          "Player2": "Luna Lawrence",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Artem Arushanyan",
+          "Player2": "Gaman",
+          "Result": "1-0-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Elliot Fisher",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5544444444444444,
+      "GWP": 0.8571428571428571,
+      "OGWP": 0.48500000000000004
+    },
+    {
+      "Rank": 2,
+      "Player": "Pavel Samsonov",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666666666666666,
+      "GWP": 0.625,
+      "OGWP": 0.6011904761904762
+    },
+    {
+      "Rank": 3,
+      "Player": "Thomas Donaldson",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5555555555555555,
+      "GWP": 0.5,
+      "OGWP": 0.5773809523809524
+    },
+    {
+      "Rank": 4,
+      "Player": "Kevin Mittertreiner",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4444444444444444,
+      "GWP": 0.5714285714285714,
+      "OGWP": 0.5
+    },
+    {
+      "Rank": 5,
+      "Player": "Matthew Thiessen",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5555555555555555,
+      "GWP": 0.5,
+      "OGWP": 0.48214285714285715
+    },
+    {
+      "Rank": 6,
+      "Player": "Luna Lawrence",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5544444444444444,
+      "GWP": 0.375,
+      "OGWP": 0.46714285714285714
+    },
+    {
+      "Rank": 7,
+      "Player": "Artem Arushanyan",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.44333333333333336,
+      "GWP": 0.375,
+      "OGWP": 0.48500000000000004
+    },
+    {
+      "Rank": 8,
+      "Player": "Gaman",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5555555555555555,
+      "GWP": 0.25,
+      "OGWP": 0.5357142857142857
+    }
+  ]
+}

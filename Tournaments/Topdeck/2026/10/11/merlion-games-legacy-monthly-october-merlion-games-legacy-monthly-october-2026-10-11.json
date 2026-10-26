@@ -1,0 +1,558 @@
+{
+  "Tournament": {
+    "Date": "2026-10-11T20:00:00+00:00",
+    "Name": "Merlion Games Legacy Monthly: October",
+    "Uri": "https://topdeck.gg/event/merlion-games-legacy-monthly-october",
+    "Formats": "Legacy"
+  },
+  "Decks": [
+    {
+      "Date": "2026-10-11T20:00:00+00:00",
+      "Player": "Daniel Deng",
+      "Result": "13th Place",
+      "AnchorUri": "https://topdeck.gg/event/merlion-games-legacy-monthly-october",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ajani, Nacatl Pariah"
+        },
+        {
+          "Count": 4,
+          "CardName": "Amped Raptor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 3,
+          "CardName": "Goblin Bombardment"
+        },
+        {
+          "Count": 4,
+          "CardName": "Guide of Souls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hexing Squelcher"
+        },
+        {
+          "Count": 2,
+          "CardName": "Karakas"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lazotep Quarry"
+        },
+        {
+          "Count": 2,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ocelot Pride"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plateau"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sand Scout"
+        },
+        {
+          "Count": 2,
+          "CardName": "Static Prison"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sunbaked Canyon"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swords to Plowshares"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thalia, Guardian of Thraben"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voice of Victory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wasteland"
+        },
+        {
+          "Count": 2,
+          "CardName": "Windswept Heath"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Damping Sphere"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deafening Silence"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline of the Void"
+        },
+        {
+          "Count": 3,
+          "CardName": "Price of Progress"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Red Elemental Blast"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Francis",
+          "Player2": "Abigail Pejoro-Wong",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Kevin Ligutom",
+          "Player2": "Carey Ng",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Zhemin Chen",
+          "Player2": "Alejandro Villarreal",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Sergei",
+          "Player2": "Eric Schartenberg",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Mike Ghesquiere",
+          "Player2": "Arnav Bhavsar",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Adrian",
+          "Player2": "Michael Kniffen",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Dara Dadachanji",
+          "Player2": "Ryan Payabyab ",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Dustin Richardson",
+          "Player2": "Daniel Deng",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Lilith Mintz",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Dara Dadachanji",
+          "Player2": "Sergei",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Adrian",
+          "Player2": "Francis",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Zhemin Chen",
+          "Player2": "Mike Ghesquiere",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Dustin Richardson",
+          "Player2": "Lilith Mintz",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Ryan Payabyab ",
+          "Player2": "Kevin Ligutom",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Alejandro Villarreal",
+          "Player2": "Arnav Bhavsar",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Eric Schartenberg",
+          "Player2": "Michael Kniffen",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Abigail Pejoro-Wong",
+          "Player2": "Daniel Deng",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Carey Ng",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Dara Dadachanji",
+          "Player2": "Dustin Richardson",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Adrian",
+          "Player2": "Zhemin Chen",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Sergei",
+          "Player2": "Kevin Ligutom",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Eric Schartenberg",
+          "Player2": "Lilith Mintz",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Abigail Pejoro-Wong",
+          "Player2": "Mike Ghesquiere",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Francis",
+          "Player2": "Carey Ng",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Ryan Payabyab ",
+          "Player2": "Alejandro Villarreal",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Daniel Deng",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "4",
+      "Matches": [
+        {
+          "Player1": "Dara Dadachanji",
+          "Player2": "Adrian",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Ryan Payabyab ",
+          "Player2": "Abigail Pejoro-Wong",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Dustin Richardson",
+          "Player2": "Sergei",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Francis",
+          "Player2": "Eric Schartenberg",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Zhemin Chen",
+          "Player2": "Lilith Mintz",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Kevin Ligutom",
+          "Player2": "Mike Ghesquiere",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Carey Ng",
+          "Player2": "Daniel Deng",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Alejandro Villarreal",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "5",
+      "Matches": [
+        {
+          "Player1": "Francis",
+          "Player2": "Dara Dadachanji",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Adrian",
+          "Player2": "Dustin Richardson",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Abigail Pejoro-Wong",
+          "Player2": "Zhemin Chen",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Eric Schartenberg",
+          "Player2": "Ryan Payabyab ",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Kevin Ligutom",
+          "Player2": "Alejandro Villarreal",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Carey Ng",
+          "Player2": "Sergei",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Daniel Deng",
+          "Player2": "Lilith Mintz",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Mike Ghesquiere",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Francis",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6933333333333334,
+      "GWP": 0.6153846153846154,
+      "OGWP": 0.6443956043956043
+    },
+    {
+      "Rank": 2,
+      "Player": "Adrian",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6260000000000001,
+      "GWP": 0.6923076923076923,
+      "OGWP": 0.5449210789210789
+    },
+    {
+      "Rank": 3,
+      "Player": "Dara Dadachanji",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6133333333333333,
+      "GWP": 0.6428571428571429,
+      "OGWP": 0.5902097902097903
+    },
+    {
+      "Rank": 4,
+      "Player": "Abigail Pejoro-Wong",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.5333333333333334,
+      "GWP": 0.7,
+      "OGWP": 0.4958041958041958
+    },
+    {
+      "Rank": 5,
+      "Player": "Carey Ng",
+      "Points": 9,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5499999999999999,
+      "GWP": 0.6153846153846154,
+      "OGWP": 0.49650349650349657
+    },
+    {
+      "Rank": 6,
+      "Player": "Dustin Richardson",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.546,
+      "GWP": 0.6363636363636364,
+      "OGWP": 0.508991008991009
+    },
+    {
+      "Rank": 7,
+      "Player": "Zhemin Chen",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5193333333333333,
+      "GWP": 0.5,
+      "OGWP": 0.5372027972027972
+    },
+    {
+      "Rank": 8,
+      "Player": "Eric Schartenberg",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4653333333333333,
+      "GWP": 0.5714285714285714,
+      "OGWP": 0.46739860139860134
+    },
+    {
+      "Rank": 9,
+      "Player": "Kevin Ligutom",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4533333333333333,
+      "GWP": 0.5454545454545454,
+      "OGWP": 0.5062937062937063
+    },
+    {
+      "Rank": 10,
+      "Player": "Ryan Payabyab ",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.6133333333333333,
+      "GWP": 0.5454545454545454,
+      "OGWP": 0.5828571428571427
+    },
+    {
+      "Rank": 11,
+      "Player": "Sergei",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.64,
+      "GWP": 0.46153846153846156,
+      "OGWP": 0.6022977022977023
+    },
+    {
+      "Rank": 12,
+      "Player": "Mike Ghesquiere",
+      "Points": 6,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5491666666666667,
+      "GWP": 0.45454545454545453,
+      "OGWP": 0.5188636363636363
+    },
+    {
+      "Rank": 13,
+      "Player": "Daniel Deng",
+      "Points": 6,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5491666666666667,
+      "GWP": 0.36363636363636365,
+      "OGWP": 0.5840909090909091
+    },
+    {
+      "Rank": 14,
+      "Player": "Alejandro Villarreal",
+      "Points": 6,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.49916666666666665,
+      "GWP": 0.45454545454545453,
+      "OGWP": 0.4802272727272727
+    },
+    {
+      "Rank": 15,
+      "Player": "Lilith Mintz",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.5499999999999999,
+      "GWP": 0.38461538461538464,
+      "OGWP": 0.5178571428571429
+    },
+    {
+      "Rank": 16,
+      "Player": "Michael Kniffen",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.7,
+      "GWP": 0.2,
+      "OGWP": 0.6318681318681318
+    },
+    {
+      "Rank": 17,
+      "Player": "Arnav Bhavsar",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4,
+      "GWP": 0,
+      "OGWP": 0.45454545454545453
+    }
+  ]
+}

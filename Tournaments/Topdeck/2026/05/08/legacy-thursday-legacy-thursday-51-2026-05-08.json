@@ -1,0 +1,258 @@
+{
+  "Tournament": {
+    "Date": "2026-05-08T02:00:00+00:00",
+    "Name": "Legacy Thursday",
+    "Uri": "https://topdeck.gg/event/legacy-thursday-51",
+    "Formats": "Legacy"
+  },
+  "Decks": [
+    {
+      "Date": "2026-05-08T02:00:00+00:00",
+      "Player": "Elliot Fisher",
+      "Result": "6th Place",
+      "AnchorUri": "https://topdeck.gg/event/legacy-thursday-51",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Alpha Deathclaw"
+        },
+        {
+          "Count": 4,
+          "CardName": "Assassin's Trophy"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bayou"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cabal Therapy"
+        },
+        {
+          "Count": 1,
+          "CardName": "Endurance"
+        },
+        {
+          "Count": 3,
+          "CardName": "Esper Origins"
+        },
+        {
+          "Count": 4,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ghost Quarter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Green Sun's Zenith"
+        },
+        {
+          "Count": 3,
+          "CardName": "Grist, the Hunger Tide"
+        },
+        {
+          "Count": 2,
+          "CardName": "Icetill Explorer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lazotep Quarry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nurturing Peatland"
+        },
+        {
+          "Count": 2,
+          "CardName": "Once Upon a Time"
+        },
+        {
+          "Count": 4,
+          "CardName": "Orcish Bowmasters"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pernicious Deed"
+        },
+        {
+          "Count": 2,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Underground Mortuary"
+        },
+        {
+          "Count": 4,
+          "CardName": "Verdant Catacombs"
+        },
+        {
+          "Count": 4,
+          "CardName": "Veteran Explorer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Witherbloom Command"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Collector Ouphe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Disruptor Flute"
+        },
+        {
+          "Count": 3,
+          "CardName": "Endurance"
+        },
+        {
+          "Count": 3,
+          "CardName": "Force of Vigor"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mindbreak Trap"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Kevin Mittertreiner",
+          "Player2": "Elliot Fisher",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Artem Arushanyan",
+          "Player2": "Pavel Samsonov",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Matthew Thiessen",
+          "Player2": "Yizheng Wang",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Artem Arushanyan",
+          "Player2": "Matthew Thiessen",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Pavel Samsonov",
+          "Player2": "Kevin Mittertreiner",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Yizheng Wang",
+          "Player2": "Elliot Fisher",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Yizheng Wang",
+          "Player2": "Artem Arushanyan",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Kevin Mittertreiner",
+          "Player2": "Matthew Thiessen",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Pavel Samsonov",
+          "Player2": "Elliot Fisher",
+          "Result": "1-0-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Artem Arushanyan",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5555555555555555,
+      "GWP": 0.7142857142857143,
+      "OGWP": 0.5317460317460317
+    },
+    {
+      "Rank": 2,
+      "Player": "Pavel Samsonov",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5544444444444444,
+      "GWP": 0.6666666666666666,
+      "OGWP": 0.5147619047619049
+    },
+    {
+      "Rank": 3,
+      "Player": "Yizheng Wang",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.44333333333333336,
+      "GWP": 0.5,
+      "OGWP": 0.490952380952381
+    },
+    {
+      "Rank": 4,
+      "Player": "Kevin Mittertreiner",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4433333333333333,
+      "GWP": 0.5,
+      "OGWP": 0.47507936507936505
+    },
+    {
+      "Rank": 5,
+      "Player": "Matthew Thiessen",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6666666666666666,
+      "GWP": 0.42857142857142855,
+      "OGWP": 0.5714285714285715
+    },
+    {
+      "Rank": 6,
+      "Player": "Elliot Fisher",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6666666666666666,
+      "GWP": 0.25,
+      "OGWP": 0.5555555555555555
+    }
+  ]
+}

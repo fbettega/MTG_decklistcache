@@ -1,0 +1,492 @@
+{
+  "Tournament": {
+    "Date": "2025-09-06T23:00:00+00:00",
+    "Name": "Commander Sealed: Legacy Side Event",
+    "Uri": "https://topdeck.gg/event/commander-sealed-legacy-side-event-1",
+    "Formats": "Legacy"
+  },
+  "Decks": [
+    {
+      "Date": "2025-09-06T23:00:00+00:00",
+      "Player": "Brian Coval",
+      "Result": "1st Place",
+      "AnchorUri": "https://topdeck.gg/event/commander-sealed-legacy-side-event-1",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Brazen Borrower"
+        },
+        {
+          "Count": 3,
+          "CardName": "Daze"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 4,
+          "CardName": "Force of Will"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Kaito, Bane of Nightmares"
+        },
+        {
+          "Count": 2,
+          "CardName": "Misty Rainforest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Murktide Regent"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nethergoyf"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 4,
+          "CardName": "Orcish Bowmasters"
+        },
+        {
+          "Count": 4,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ponder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tamiyo, Inquisitive Student"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 4,
+          "CardName": "Underground Sea"
+        },
+        {
+          "Count": 2,
+          "CardName": "Verdant Catacombs"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wasteland"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Barrowgoyf"
+        },
+        {
+          "Count": 1,
+          "CardName": "Brazen Borrower"
+        },
+        {
+          "Count": 2,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Engineered Explosives"
+        },
+        {
+          "Count": 1,
+          "CardName": "Faerie Macabre"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Null Rod"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sheoldred's Edict"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Andrew Quan",
+          "Player2": "Ethan Duffy",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Michael Van Loon",
+          "Player2": "Tad Gibson",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Brian Coval",
+          "Player2": "Brian Knowles",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Hamsteak",
+          "Player2": "John Zheng",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "[NAUS] Paul Haupt",
+          "Player2": "ScoopPhase",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Brianna W",
+          "Player2": "Jonathan Gibbons",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Ian Ouellette",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Hamsteak",
+          "Player2": "Brianna W",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Brian Coval",
+          "Player2": "Michael Van Loon",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "[NAUS] Paul Haupt",
+          "Player2": "Andrew Quan",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Ian Ouellette",
+          "Player2": "John Zheng",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "ScoopPhase",
+          "Player2": "Brian Knowles",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Ethan Duffy",
+          "Player2": "Tad Gibson",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Jonathan Gibbons",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Ian Ouellette",
+          "Player2": "Hamsteak",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Brian Coval",
+          "Player2": "[NAUS] Paul Haupt",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Ethan Duffy",
+          "Player2": "Jonathan Gibbons",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "ScoopPhase",
+          "Player2": "Andrew Quan",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Brianna W",
+          "Player2": "Michael Van Loon",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "John Zheng",
+          "Player2": "Tad Gibson",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Brian Knowles",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "4",
+      "Matches": [
+        {
+          "Player1": "Ian Ouellette",
+          "Player2": "Brian Coval",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "[NAUS] Paul Haupt",
+          "Player2": "Hamsteak",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Ethan Duffy",
+          "Player2": "ScoopPhase",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Andrew Quan",
+          "Player2": "Brianna W",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Michael Van Loon",
+          "Player2": "Brian Knowles",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "John Zheng",
+          "Player2": "Jonathan Gibbons",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Top 8",
+      "Matches": [
+        {
+          "Player1": "Ian Ouellette",
+          "Player2": "John Zheng",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "ScoopPhase",
+          "Player2": "Hamsteak",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Ethan Duffy",
+          "Player2": "[NAUS] Paul Haupt",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Brian Coval",
+          "Player2": "Andrew Quan",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Top 4",
+      "Matches": [
+        {
+          "Player1": "Ian Ouellette",
+          "Player2": "ScoopPhase",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Brian Coval",
+          "Player2": "Ethan Duffy",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Top 2",
+      "Matches": [
+        {
+          "Player1": "Brian Coval",
+          "Player2": "Ian Ouellette",
+          "Result": "1-0-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Brian Coval",
+      "Points": 10,
+      "Wins": 6,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.5616666666666668,
+      "GWP": 0.6333333333333333,
+      "OGWP": 0.562962962962963
+    },
+    {
+      "Rank": 2,
+      "Player": "Ian Ouellette",
+      "Points": 10,
+      "Wins": 4,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.638888888888889,
+      "GWP": 0.7037037037037037,
+      "OGWP": 0.5848484848484848
+    },
+    {
+      "Rank": 3,
+      "Player": "ScoopPhase",
+      "Points": 7,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.49916666666666665,
+      "GWP": 0.48148148148148145,
+      "OGWP": 0.5326599326599326
+    },
+    {
+      "Rank": 4,
+      "Player": "Ethan Duffy",
+      "Points": 7,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.4358333333333334,
+      "GWP": 0.5925925925925926,
+      "OGWP": 0.42256734006734004
+    },
+    {
+      "Rank": 5,
+      "Player": "[NAUS] Paul Haupt",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.6250000000000001,
+      "GWP": 0.5925925925925926,
+      "OGWP": 0.5817340067340067
+    },
+    {
+      "Rank": 6,
+      "Player": "Hamsteak",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.6041666666666667,
+      "GWP": 0.6666666666666666,
+      "OGWP": 0.5627104377104377
+    },
+    {
+      "Rank": 7,
+      "Player": "Andrew Quan",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5625,
+      "GWP": 0.5454545454545454,
+      "OGWP": 0.5416666666666666
+    },
+    {
+      "Rank": 8,
+      "Player": "John Zheng",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5191666666666667,
+      "GWP": 0.45454545454545453,
+      "OGWP": 0.508425925925926
+    },
+    {
+      "Rank": 9,
+      "Player": "Michael Van Loon",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.49833333333333335,
+      "GWP": 0.5555555555555556,
+      "OGWP": 0.4658333333333333
+    },
+    {
+      "Rank": 10,
+      "Player": "Brianna W",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.47833333333333333,
+      "GWP": 0.5,
+      "OGWP": 0.5252525252525253
+    },
+    {
+      "Rank": 11,
+      "Player": "Brian Knowles",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.638888888888889,
+      "GWP": 0.4,
+      "OGWP": 0.5567901234567901
+    },
+    {
+      "Rank": 12,
+      "Player": "Jonathan Gibbons",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5277777777777778,
+      "GWP": 0.3333333333333333,
+      "OGWP": 0.5157126823793491
+    },
+    {
+      "Rank": 13,
+      "Player": "Tad Gibson",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5277777777777778,
+      "GWP": 0.25,
+      "OGWP": 0.5342312008978676
+    }
+  ]
+}

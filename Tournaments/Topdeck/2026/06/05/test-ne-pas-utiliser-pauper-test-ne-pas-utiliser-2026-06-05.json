@@ -1,0 +1,396 @@
+{
+  "Tournament": {
+    "Date": "2026-06-05T10:00:00+00:00",
+    "Name": "Test - ne pas utiliser",
+    "Uri": "https://topdeck.gg/event/test-ne-pas-utiliser",
+    "Formats": "Pauper"
+  },
+  "Decks": [
+    {
+      "Date": "2026-06-05T10:00:00+00:00",
+      "Player": "Jojo",
+      "Result": "1st Place",
+      "AnchorUri": "https://topdeck.gg/event/test-ne-pas-utiliser",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Barrels of Blasting Jelly"
+        },
+        {
+          "Count": 2,
+          "CardName": "Black Mage's Rod"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bramble Wurm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Candy Trail"
+        },
+        {
+          "Count": 1,
+          "CardName": "Conduit Pylons"
+        },
+        {
+          "Count": 2,
+          "CardName": "Crop Rotation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Eviscerator's Insight"
+        },
+        {
+          "Count": 4,
+          "CardName": "Expedition Map"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ghostly Flicker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Giant's Boulder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kaervek's Torch"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lembas"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mysidian Elder"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Polluted Mire"
+        },
+        {
+          "Count": 3,
+          "CardName": "Prophetic Prism"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Mine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Power Plant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Tower"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 3,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Moment's Peace"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nihil Spellbomb"
+        }
+      ]
+    },
+    {
+      "Date": "2026-06-05T10:00:00+00:00",
+      "Player": "Portal-le-beau",
+      "Result": "3st Place",
+      "AnchorUri": "https://topdeck.gg/event/test-ne-pas-utiliser",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Accursed Marauder"
+        },
+        {
+          "Count": 3,
+          "CardName": "Benevolent Blessing"
+        },
+        {
+          "Count": 4,
+          "CardName": "Benevolent Bodyguard"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dig Site Inventory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Emerge Unscathed"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ephemerate"
+        },
+        {
+          "Count": 4,
+          "CardName": "Homestead Courage"
+        },
+        {
+          "Count": 11,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Raffine's Informant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seeker of the Way"
+        },
+        {
+          "Count": 3,
+          "CardName": "Shattered Landscape"
+        },
+        {
+          "Count": 7,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tethmos High Priest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Toxin Analysis"
+        },
+        {
+          "Count": 4,
+          "CardName": "Village Rites"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 3,
+          "CardName": "Crypt Creeper"
+        },
+        {
+          "Count": 3,
+          "CardName": "Curious Farm Animals"
+        },
+        {
+          "Count": 3,
+          "CardName": "Drown in Sorrow"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mesmeric Fiend"
+        },
+        {
+          "Count": 2,
+          "CardName": "Prismatic Strands"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sacred Cat"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Portal-le-beau",
+          "Player2": "Mumu",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Lala",
+          "Player2": "Bébé",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Gérard Bouchard",
+          "Player2": "Jojo",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Lala",
+          "Player2": "Portal-le-beau",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Mumu",
+          "Player2": "Gérard Bouchard",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Jojo",
+          "Player2": "Bébé",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Jojo",
+          "Player2": "Lala",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Portal-le-beau",
+          "Player2": "Gérard Bouchard",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Mumu",
+          "Player2": "Bébé",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "4",
+      "Matches": [
+        {
+          "Player1": "Jojo",
+          "Player2": "Portal-le-beau",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Mumu",
+          "Player2": "Lala",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Gérard Bouchard",
+          "Player2": "Bébé",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "5",
+      "Matches": [
+        {
+          "Player1": "Jojo",
+          "Player2": "Mumu",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Gérard Bouchard",
+          "Player2": "Lala",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Portal-le-beau",
+          "Player2": "Bébé",
+          "Result": "1-0-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Jojo",
+      "Points": 13,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.4526666666666667,
+      "GWP": 0.8181818181818182,
+      "OGWP": 0.45830769230769236
+    },
+    {
+      "Rank": 2,
+      "Player": "Mumu",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.506,
+      "GWP": 0.5,
+      "OGWP": 0.5219440559440559
+    },
+    {
+      "Rank": 3,
+      "Player": "Portal-le-beau",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.506,
+      "GWP": 0.5,
+      "OGWP": 0.521944055944056
+    },
+    {
+      "Rank": 4,
+      "Player": "Lala",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.546,
+      "GWP": 0.5,
+      "OGWP": 0.521944055944056
+    },
+    {
+      "Rank": 5,
+      "Player": "Gérard Bouchard",
+      "Points": 5,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 2,
+      "OMWP": 0.5593333333333333,
+      "GWP": 0.46153846153846156,
+      "OGWP": 0.5296363636363637
+    },
+    {
+      "Rank": 6,
+      "Player": "Bébé",
+      "Points": 1,
+      "Wins": 0,
+      "Losses": 4,
+      "Draws": 1,
+      "OMWP": 0.56,
+      "GWP": 0.25,
+      "OGWP": 0.555944055944056
+    }
+  ]
+}

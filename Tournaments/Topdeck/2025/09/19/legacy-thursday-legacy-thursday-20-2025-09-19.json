@@ -1,0 +1,356 @@
+{
+  "Tournament": {
+    "Date": "2025-09-19T02:00:00+00:00",
+    "Name": "Legacy Thursday",
+    "Uri": "https://topdeck.gg/event/legacy-thursday-20",
+    "Formats": "Legacy"
+  },
+  "Decks": [
+    {
+      "Date": "2025-09-19T02:00:00+00:00",
+      "Player": "Arlen Wiesenthal",
+      "Result": "4th Place",
+      "AnchorUri": "https://topdeck.gg/event/legacy-thursday-20",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ancient Tomb"
+        },
+        {
+          "Count": 4,
+          "CardName": "Archfiend of the Dross"
+        },
+        {
+          "Count": 4,
+          "CardName": "Barrowgoyf"
+        },
+        {
+          "Count": 4,
+          "CardName": "Boggart Trawler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Chalice of the Void"
+        },
+        {
+          "Count": 4,
+          "CardName": "Chrome Mox"
+        },
+        {
+          "Count": 2,
+          "CardName": "City of Traitors"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dark Ritual"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fell the Profane"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hagra Mauling"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hymn to Tourach"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rotting Regisaur"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sheoldred, the Apocalypse"
+        },
+        {
+          "Count": 2,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Trinisphere"
+        },
+        {
+          "Count": 4,
+          "CardName": "Unstoppable Slasher"
+        },
+        {
+          "Count": 3,
+          "CardName": "Urborg, Tomb of Yawgmoth"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Leyline of the Void"
+        },
+        {
+          "Count": 3,
+          "CardName": "Null Rod"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plague Engineer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sudden Edict"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thoughtseize"
+        }
+      ]
+    },
+    {
+      "Date": "2025-09-19T02:00:00+00:00",
+      "Player": "Elliot Fisher",
+      "Result": "5th Place",
+      "AnchorUri": "https://topdeck.gg/event/legacy-thursday-20",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Amped Raptor"
+        },
+        {
+          "Count": 2,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 3,
+          "CardName": "Badlands"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cabal Therapy"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cori-Steel Cutter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dragon's Rage Channeler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 3,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mishra's Bauble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nethergoyf"
+        },
+        {
+          "Count": 4,
+          "CardName": "Orcish Bowmasters"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plateau"
+        },
+        {
+          "Count": 1,
+          "CardName": "Raucous Theater"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Bauble"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Dauthi Voidwalker"
+        },
+        {
+          "Count": 2,
+          "CardName": "Molten Collapse"
+        },
+        {
+          "Count": 2,
+          "CardName": "Price of Progress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sheoldred's Edict"
+        },
+        {
+          "Count": 3,
+          "CardName": "Surgical Extraction"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wear // Tear"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Kevin Mittertreiner",
+          "Player2": "Arlen Wiesenthal",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Pavel Samsonov",
+          "Player2": "Elliot Fisher",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Brenden",
+          "Player2": "James Onions",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Pavel Samsonov",
+          "Player2": "Brenden",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Kevin Mittertreiner",
+          "Player2": "James Onions",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Arlen Wiesenthal",
+          "Player2": "Elliot Fisher",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Pavel Samsonov",
+          "Player2": "Kevin Mittertreiner",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Brenden",
+          "Player2": "Elliot Fisher",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Arlen Wiesenthal",
+          "Player2": "James Onions",
+          "Result": "1-0-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Pavel Samsonov",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5544444444444444,
+      "GWP": 0.75,
+      "OGWP": 0.5332804232804232
+    },
+    {
+      "Rank": 2,
+      "Player": "Kevin Mittertreiner",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6655555555555556,
+      "GWP": 0.5555555555555556,
+      "OGWP": 0.5683333333333334
+    },
+    {
+      "Rank": 3,
+      "Player": "Brenden",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5533333333333333,
+      "GWP": 0.7142857142857143,
+      "OGWP": 0.47000000000000003
+    },
+    {
+      "Rank": 4,
+      "Player": "Arlen Wiesenthal",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.44222222222222224,
+      "GWP": 0.625,
+      "OGWP": 0.40518518518518526
+    },
+    {
+      "Rank": 5,
+      "Player": "Elliot Fisher",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.7777777777777777,
+      "GWP": 0,
+      "OGWP": 0.6964285714285715
+    },
+    {
+      "Rank": 6,
+      "Player": "James Onions",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6666666666666666,
+      "GWP": 0.25,
+      "OGWP": 0.6316137566137566
+    }
+  ]
+}

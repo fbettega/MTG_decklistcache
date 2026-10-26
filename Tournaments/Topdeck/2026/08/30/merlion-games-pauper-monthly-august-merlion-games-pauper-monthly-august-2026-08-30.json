@@ -1,0 +1,238 @@
+{
+  "Tournament": {
+    "Date": "2026-08-30T20:00:00+00:00",
+    "Name": "Merlion Games Pauper Monthly: August",
+    "Uri": "https://topdeck.gg/event/merlion-games-pauper-monthly-august",
+    "Formats": "Pauper"
+  },
+  "Decks": [
+    {
+      "Date": "2026-08-30T20:00:00+00:00",
+      "Player": "Tate Sisemore",
+      "Result": "4th Place",
+      "AnchorUri": "https://topdeck.gg/event/merlion-games-pauper-monthly-august",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Barren Moor"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cabal Ritual"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dark Ritual"
+        },
+        {
+          "Count": 4,
+          "CardName": "Drannith Healer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Drannith Stinger"
+        },
+        {
+          "Count": 4,
+          "CardName": "Great Furnace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Horror of the Broken Lands"
+        },
+        {
+          "Count": 4,
+          "CardName": "Imposing Vantasaur"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lotus Petal"
+        },
+        {
+          "Count": 3,
+          "CardName": "Monstrous Carabid"
+        },
+        {
+          "Count": 4,
+          "CardName": "Page, Loose Leaf"
+        },
+        {
+          "Count": 4,
+          "CardName": "Reaping the Graves"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rowan's Grim Search"
+        },
+        {
+          "Count": 4,
+          "CardName": "Songs of the Damned"
+        },
+        {
+          "Count": 4,
+          "CardName": "Street Wraith"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vault of Whispers"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Barkform Harvester"
+        },
+        {
+          "Count": 4,
+          "CardName": "Chitin Gravestalker"
+        },
+        {
+          "Count": 2,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ingot Chewer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Brian Mears",
+          "Player2": "Quincy Tu",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Tate Sisemore",
+          "Player2": "Nathan Paoletti ",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Sina Ghandi",
+          "Player2": "Lucas Lafayette",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Brian Mears",
+          "Player2": "Sina Ghandi",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Quincy Tu",
+          "Player2": "Tate Sisemore",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Nathan Paoletti ",
+          "Player2": "Lucas Lafayette",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Brian Mears",
+          "Player2": "Tate Sisemore",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Sina Ghandi",
+          "Player2": "Nathan Paoletti ",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Quincy Tu",
+          "Player2": "Lucas Lafayette",
+          "Result": "1-0-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Brian Mears",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5555555555555555,
+      "GWP": 0.8571428571428571,
+      "OGWP": 0.5052910052910052
+    },
+    {
+      "Rank": 2,
+      "Player": "Sina Ghandi",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5544444444444444,
+      "GWP": 0.5714285714285714,
+      "OGWP": 0.5218253968253969
+    },
+    {
+      "Rank": 3,
+      "Player": "Quincy Tu",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5544444444444444,
+      "GWP": 0.5,
+      "OGWP": 0.5449735449735449
+    },
+    {
+      "Rank": 4,
+      "Player": "Tate Sisemore",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6666666666666666,
+      "GWP": 0.4444444444444444,
+      "OGWP": 0.5773809523809524
+    },
+    {
+      "Rank": 5,
+      "Player": "Nathan Paoletti ",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.44333333333333336,
+      "GWP": 0.375,
+      "OGWP": 0.4497354497354497
+    },
+    {
+      "Rank": 6,
+      "Player": "Lucas Lafayette",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5555555555555555,
+      "GWP": 0.3333333333333333,
+      "OGWP": 0.48214285714285715
+    }
+  ]
+}
