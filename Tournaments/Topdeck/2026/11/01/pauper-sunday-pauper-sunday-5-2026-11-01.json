@@ -1,0 +1,276 @@
+{
+  "Tournament": {
+    "Date": "2026-11-01T21:00:00+00:00",
+    "Name": "Pauper Sunday",
+    "Uri": "https://topdeck.gg/event/pauper-sunday-5",
+    "Formats": "Pauper"
+  },
+  "Decks": [
+    {
+      "Date": "2026-11-01T21:00:00+00:00",
+      "Player": "Mathias",
+      "Result": "1st Place",
+      "AnchorUri": "https://topdeck.gg/event/pauper-sunday-5",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ancient Den"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cryogen Relic"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dispatch"
+        },
+        {
+          "Count": 3,
+          "CardName": "Experimental Synthesizer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Galvanic Blast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Giant's Boulder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Glint Hawk"
+        },
+        {
+          "Count": 3,
+          "CardName": "Great Furnace"
+        },
+        {
+          "Count": 3,
+          "CardName": "Kor Skyfisher"
+        },
+        {
+          "Count": 1,
+          "CardName": "Makeshift Munitions"
+        },
+        {
+          "Count": 3,
+          "CardName": "Metallic Rebuke"
+        },
+        {
+          "Count": 4,
+          "CardName": "Myr Enforcer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Razortide Bridge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seat of the Synod"
+        },
+        {
+          "Count": 4,
+          "CardName": "Silverbluff Bridge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtcast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Utrom Monitor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Well-Worn Spatula"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Campfire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Krark-Clan Shaman"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vandalblast"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Dante Umpherville-Choy",
+          "Player2": "Alexander Gagne",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Nathan Pacheco ",
+          "Player2": "JamesN",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Mathias",
+          "Player2": "Dryden MacPherson",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Nat H.",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Dante Umpherville-Choy",
+          "Player2": "Nathan Pacheco ",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Mathias",
+          "Player2": "Nat H.",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Alexander Gagne",
+          "Player2": "JamesN",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Dryden MacPherson",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Mathias",
+          "Player2": "Dante Umpherville-Choy",
+          "Result": "0-0-1"
+        },
+        {
+          "Player1": "Nat H.",
+          "Player2": "Dryden MacPherson",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Alexander Gagne",
+          "Player2": "Nathan Pacheco ",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "JamesN",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Mathias",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.5925925925925926,
+      "GWP": 0.7142857142857143,
+      "OGWP": 0.5654761904761905
+    },
+    {
+      "Rank": 2,
+      "Player": "Dante Umpherville-Choy",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.5925925925925926,
+      "GWP": 0.625,
+      "OGWP": 0.5853174603174603
+    },
+    {
+      "Rank": 3,
+      "Player": "Nat H.",
+      "Points": 6,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5555555555555556,
+      "GWP": 0.5714285714285714,
+      "OGWP": 0.6071428571428572
+    },
+    {
+      "Rank": 4,
+      "Player": "Alexander Gagne",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.48148148148148145,
+      "GWP": 0.6666666666666666,
+      "OGWP": 0.5
+    },
+    {
+      "Rank": 5,
+      "Player": "Dryden MacPherson",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.7222222222222222,
+      "GWP": 0.5,
+      "OGWP": 0.6428571428571428
+    },
+    {
+      "Rank": 6,
+      "Player": "Nathan Pacheco ",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5925925925925926,
+      "GWP": 0.375,
+      "OGWP": 0.5972222222222222
+    },
+    {
+      "Rank": 7,
+      "Player": "JamesN",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.5,
+      "OGWP": 0.5208333333333333
+    }
+  ]
+}
