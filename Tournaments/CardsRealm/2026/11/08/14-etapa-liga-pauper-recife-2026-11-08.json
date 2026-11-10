@@ -1,0 +1,354 @@
+{
+  "Tournament": {
+    "Date": "2026-11-08T12:30:00",
+    "Name": "14° Etapa Liga Pauper Recife",
+    "Uri": "https://mtg.cardsrealm.com/en-us/tournament/1k3e3-14deg-etapa-liga-pauper-recife",
+    "Formats": "Pauper"
+  },
+  "Decks": [
+    {
+      "Date": "2026-11-08T12:30:00",
+      "Player": "Charlinhos",
+      "Result": "15th Place",
+      "AnchorUri": "https://mtg.cardsrealm.com/en-us/decks/l22p-naya-gates",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Basilisk Gate"
+        },
+        {
+          "Count": 2,
+          "CardName": "Manor Gate"
+        },
+        {
+          "Count": 4,
+          "CardName": "Citadel Gate"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cliffgate"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Cat"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sneaky Snacker"
+        },
+        {
+          "Count": 3,
+          "CardName": "Outlaw Medic"
+        },
+        {
+          "Count": 4,
+          "CardName": "Writhing Chrysalis"
+        },
+        {
+          "Count": 2,
+          "CardName": "Guardian of the Guildpact"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ragged Short Spear"
+        },
+        {
+          "Count": 2,
+          "CardName": "Melded Moxite"
+        },
+        {
+          "Count": 3,
+          "CardName": "Journey to Nowhere"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faithless Looting"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pursue the Past"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thraben Charm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Prismatic Strands"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Faerie Macabre"
+        },
+        {
+          "Count": 2,
+          "CardName": "Saruli Gatekeepers"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ancient Grudge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flaring Pain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pulse of Murasa"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "Dante",
+          "Player2": "Miguel",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Edmito",
+          "Player2": "Diogo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Charlinhos",
+          "Player2": "Mykael",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Dexter",
+          "Player2": "Beto",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "Guilherme Coimbra",
+          "Player2": "Ilan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Giga",
+          "Player2": "Lucas Daniel",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "Livinho",
+          "Player2": "Lukita",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Yan",
+          "Player2": "Luiz Henrique",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "Morcegao",
+          "Player2": "Filipe Lipp",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jose Brayner",
+          "Player2": "Sebastião",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Edmito",
+          "Player2": "Charlinhos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Morcegao",
+          "Player2": "Guilherme Coimbra",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Livinho",
+          "Player2": "Sebastião",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Miguel",
+          "Player2": "Dexter",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Lucas Daniel",
+          "Player2": "Beto",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Yan",
+          "Player2": "Giga",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dante",
+          "Player2": "Luiz Henrique",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Lukita",
+          "Player2": "Mykael",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Filipe Lipp",
+          "Player2": "Ilan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jose Brayner",
+          "Player2": "Diogo",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Edmito",
+          "Player2": "Morcegao",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Livinho",
+          "Player2": "Luiz Henrique",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Yan",
+          "Player2": "Dexter",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lucas Daniel",
+          "Player2": "Sebastião",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Charlinhos",
+          "Player2": "Guilherme Coimbra",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Filipe Lipp",
+          "Player2": "Miguel",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Jose Brayner",
+          "Player2": "Mykael",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Giga",
+          "Player2": "Beto",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dante",
+          "Player2": "Lukita",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Bye",
+          "Player2": "Ilan",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "Matches": [
+        {
+          "Player1": "Livinho",
+          "Player2": "Edmito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Yan",
+          "Player2": "Morcegao",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sebastião",
+          "Player2": "Guilherme Coimbra",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Miguel",
+          "Player2": "Mykael",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Luiz Henrique",
+          "Player2": "Dexter",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lucas Daniel",
+          "Player2": "Charlinhos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Filipe Lipp",
+          "Player2": "Beto",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jose Brayner",
+          "Player2": "Dante",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Bye",
+          "Player2": "Lukita",
+          "Result": "0-2-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 15,
+      "Player": "Charlinhos",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5832999999999999,
+      "GWP": 0.25,
+      "OGWP": 0.5764
+    }
+  ]
+}
