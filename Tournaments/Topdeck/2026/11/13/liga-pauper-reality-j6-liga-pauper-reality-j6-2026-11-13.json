@@ -1,0 +1,278 @@
+{
+  "Tournament": {
+    "Date": "2026-11-13T16:45:00+00:00",
+    "Name": "LIGA PAUPER REALITY J6",
+    "Uri": "https://topdeck.gg/event/liga-pauper-reality-j6",
+    "Formats": "Pauper"
+  },
+  "Decks": [
+    {
+      "Date": "2026-11-13T16:45:00+00:00",
+      "Player": "Miguel Garrido",
+      "Result": "2st Place",
+      "AnchorUri": "https://topdeck.gg/event/liga-pauper-reality-j6",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Blood Fountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cleansing Wildfire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Drossforge Bridge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Eviscerator's Insight"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fanatical Offering"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ichor Wellspring"
+        },
+        {
+          "Count": 3,
+          "CardName": "Krark-Clan Shaman"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lembas"
+        },
+        {
+          "Count": 1,
+          "CardName": "Makeshift Munitions"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nyxborn Hydra"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pulse of Murasa"
+        },
+        {
+          "Count": 4,
+          "CardName": "Refurbished Familiar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Slagwoods Bridge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Toxin Analysis"
+        },
+        {
+          "Count": 4,
+          "CardName": "Twisted Landscape"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vault of Whispers"
+        },
+        {
+          "Count": 4,
+          "CardName": "Writhing Chrysalis"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fiery Cannonade"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Troublemaker Ouphe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Weather the Storm"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Miguel Garrido",
+          "Player2": "David García ",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Ernesto Muros ",
+          "Player2": "Pablo criado",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "deone1985",
+          "Player2": "Derubiru",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Miguel Garrido",
+          "Player2": "Ernesto Muros ",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Pablo criado",
+          "Player2": "deone1985",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "David García ",
+          "Player2": "Derubiru",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Miguel Garrido",
+          "Player2": "deone1985",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Pablo criado",
+          "Player2": "Derubiru",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Ernesto Muros ",
+          "Player2": "David García ",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "4",
+      "Matches": [
+        {
+          "Player1": "Pablo criado",
+          "Player2": "Miguel Garrido",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Ernesto Muros ",
+          "Player2": "Derubiru",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "deone1985",
+          "Player2": "David García ",
+          "Result": "1-0-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Pablo criado",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5825,
+      "GWP": 0.6666666666666666,
+      "OGWP": 0.5408333333333333
+    },
+    {
+      "Rank": 2,
+      "Player": "Miguel Garrido",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5825,
+      "GWP": 0.5555555555555556,
+      "OGWP": 0.5686111111111111
+    },
+    {
+      "Rank": 3,
+      "Player": "Ernesto Muros ",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.54,
+      "GWP": 0.7777777777777778,
+      "OGWP": 0.4705555555555556
+    },
+    {
+      "Rank": 4,
+      "Player": "deone1985",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.54,
+      "GWP": 0.5,
+      "OGWP": 0.47055555555555556
+    },
+    {
+      "Rank": 5,
+      "Player": "David García ",
+      "Points": 1,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 1,
+      "OMWP": 0.5825,
+      "GWP": 0.25,
+      "OGWP": 0.5408333333333334
+    },
+    {
+      "Rank": 6,
+      "Player": "Derubiru",
+      "Points": 1,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 1,
+      "OMWP": 0.5825,
+      "GWP": 0.2222222222222222,
+      "OGWP": 0.5686111111111111
+    }
+  ]
+}
