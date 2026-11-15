@@ -1,0 +1,971 @@
+{
+  "Tournament": {
+    "Date": "2026-11-14T09:00:00+00:00",
+    "Name": "BROSS II - JUNTOS HASTA EL FINAL",
+    "Uri": "https://topdeck.gg/event/bross-ii-juntos-hasta-el-final",
+    "Formats": "Duel Commander"
+  },
+  "Decks": [
+    {
+      "Date": "2026-11-14T09:00:00+00:00",
+      "Player": "Cosechadores de almas",
+      "Result": "3st Place",
+      "AnchorUri": "https://topdeck.gg/event/bross-ii-juntos-hasta-el-final",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Aetherflux Reservoir"
+        },
+        {
+          "Count": 1,
+          "CardName": "Aetherize"
+        },
+        {
+          "Count": 1,
+          "CardName": "April O'Neil, Hacktivist"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arcane Bombardment"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arcane Signet"
+        },
+        {
+          "Count": 1,
+          "CardName": "Birgi, God of Storytelling"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blasphemous Act"
+        },
+        {
+          "Count": 1,
+          "CardName": "Carnelian Orb of Dragonkind"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cascading Cataracts"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chandra, Chill of Compliance"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chromatic Lantern"
+        },
+        {
+          "Count": 1,
+          "CardName": "Clear the Mind"
+        },
+        {
+          "Count": 1,
+          "CardName": "Command the Stage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Commit // Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cori Mountain Monastery"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cosmic Epiphany"
+        },
+        {
+          "Count": 1,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 1,
+          "CardName": "Curiosity"
+        },
+        {
+          "Count": 1,
+          "CardName": "Curse-Marred Demon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Displacement Wave"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dissipation Field"
+        },
+        {
+          "Count": 1,
+          "CardName": "Expressive Iteration"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fiery Inscription"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flare of Denial"
+        },
+        {
+          "Count": 1,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Frantic Search"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gandalf, Goblins' Bane"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghyrson Starn, Kelermorph"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gilded Lotus"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hall of Echoes"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hammerhead Tyrant"
+        },
+        {
+          "Count": 1,
+          "CardName": "High Tide"
+        },
+        {
+          "Count": 1,
+          "CardName": "Homunculus Horde"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hullbreaker Horror"
+        },
+        {
+          "Count": 1,
+          "CardName": "Illuminate History"
+        },
+        {
+          "Count": 1,
+          "CardName": "Into the Fire"
+        },
+        {
+          "Count": 10,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Izzet Signet"
+        },
+        {
+          "Count": 1,
+          "CardName": "Koth, the Geomancer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lapis Orb of Dragonkind"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lightning Strike"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lyra, Tolarian Archangel"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mana Confluence"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mana Geyser"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mathise, Surge Channeler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meteor Crater"
+        },
+        {
+          "Count": 1,
+          "CardName": "Midnight Clock"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mind Stone"
+        },
+        {
+          "Count": 1,
+          "CardName": "Misdirection"
+        },
+        {
+          "Count": 10,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Niv-Mizzet, Visionary"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ophidian Eye"
+        },
+        {
+          "Count": 1,
+          "CardName": "Opt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Overflowing Insight"
+        },
+        {
+          "Count": 1,
+          "CardName": "Peculiar Lighthouse"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pensive Professor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Preordain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Propaganda"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pyretic Ritual"
+        },
+        {
+          "Count": 1,
+          "CardName": "Resonating Lute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Riptide Laboratory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Seething Song"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sol Ring"
+        },
+        {
+          "Count": 1,
+          "CardName": "Splatter Technique"
+        },
+        {
+          "Count": 1,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sulfur Falls"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swiftwater Cliffs"
+        },
+        {
+          "Count": 1,
+          "CardName": "Talisman of Creativity"
+        },
+        {
+          "Count": 1,
+          "CardName": "Temple of Epiphany"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Dawning Archaic"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Theorist, Jace Beleren"
+        },
+        {
+          "Count": 1,
+          "CardName": "Theorist's Sanctum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thespian's Stage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Twinflame Tyrant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vivi Ornitier"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vivid Creek"
+        },
+        {
+          "Count": 1,
+          "CardName": "Volatile Stormdrake"
+        },
+        {
+          "Count": 1,
+          "CardName": "Windfall"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wizard's Staff"
+        },
+        {
+          "Count": 1,
+          "CardName": "Zimone's Hypothesis"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Niv-Mizzet, Parun"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-14T09:00:00+00:00",
+      "Player": "Bien bien",
+      "Result": "8th Place",
+      "AnchorUri": "https://topdeck.gg/event/bross-ii-juntos-hasta-el-final",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Aetherize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Agna Qel'a"
+        },
+        {
+          "Count": 1,
+          "CardName": "An Offer You Can't Refuse"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arcane Denial"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arcane Signet"
+        },
+        {
+          "Count": 1,
+          "CardName": "Attuma, Atlantean Warlord"
+        },
+        {
+          "Count": 1,
+          "CardName": "Beast Within"
+        },
+        {
+          "Count": 1,
+          "CardName": "Benthic Biomancer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Breeding Pool"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cold-Eyed Selkie"
+        },
+        {
+          "Count": 1,
+          "CardName": "Command Tower"
+        },
+        {
+          "Count": 1,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deeproot Pilgrimage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deeproot Waters"
+        },
+        {
+          "Count": 1,
+          "CardName": "Demolition Field"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dreamroot Cascade"
+        },
+        {
+          "Count": 1,
+          "CardName": "Emperor Mihail II"
+        },
+        {
+          "Count": 1,
+          "CardName": "Exotic Orchard"
+        },
+        {
+          "Count": 1,
+          "CardName": "Farseek"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fierce Guardianship"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flare of Denial"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flooded Grove"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forerunner of the Heralds"
+        },
+        {
+          "Count": 4,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Growth Spiral"
+        },
+        {
+          "Count": 1,
+          "CardName": "Herald of Secret Streams"
+        },
+        {
+          "Count": 1,
+          "CardName": "Herald's Horn"
+        },
+        {
+          "Count": 1,
+          "CardName": "Heroic Intervention"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hinterland Harbor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Inspiring Call"
+        },
+        {
+          "Count": 5,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Karn's Bastion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kindred Discovery"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kopala, Warden of Waves"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lord of Atlantis"
+        },
+        {
+          "Count": 1,
+          "CardName": "Master of the Pearl Trident"
+        },
+        {
+          "Count": 1,
+          "CardName": "Merfolk Mistbinder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Merfolk Skydiver"
+        },
+        {
+          "Count": 1,
+          "CardName": "Merrow Commerce"
+        },
+        {
+          "Count": 1,
+          "CardName": "Merrow Reejerey"
+        },
+        {
+          "Count": 1,
+          "CardName": "Metallic Mimic"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mist-Cloaked Herald"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mistrise Village"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mutational Advantage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mystic Sanctuary"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nature's Claim"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nature's Lore"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nicanzil, Current Conductor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Path of Ancestry"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pit of Offerings"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pongify"
+        },
+        {
+          "Count": 1,
+          "CardName": "Puca's Covenant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Raise the Palisade"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rampant Growth"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rapid Hybridization"
+        },
+        {
+          "Count": 1,
+          "CardName": "Realmwalker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Reflections of Littjara"
+        },
+        {
+          "Count": 1,
+          "CardName": "Reliquary Tower"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ripples of Potential"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rogue's Passage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scavenger Grounds"
+        },
+        {
+          "Count": 1,
+          "CardName": "Seafloor Oracle"
+        },
+        {
+          "Count": 1,
+          "CardName": "Secluded Courtyard"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sentinel of the Nameless City"
+        },
+        {
+          "Count": 1,
+          "CardName": "Simic Growth Chamber"
+        },
+        {
+          "Count": 1,
+          "CardName": "Singer of Swift Rivers"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sodden Verdure"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sol Ring"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sphere Grid"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stonybrook Banneret"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stubborn Denial"
+        },
+        {
+          "Count": 1,
+          "CardName": "Svyelun of Sea and Sky"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swiftfoot Boots"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tatyova, Benthic Druid"
+        },
+        {
+          "Count": 1,
+          "CardName": "Temple of Mystery"
+        },
+        {
+          "Count": 1,
+          "CardName": "Temple of the False God"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thassa, God of the Sea"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Ozolith"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thought Vessel"
+        },
+        {
+          "Count": 1,
+          "CardName": "Three Visits"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tide Shaper"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tishana, Voice of Thunder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tishana's Tidebinder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Topography Tracker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Triton Shorestalker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Unclaimed Territory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vineglimmer Snarl"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vodalian Hexcatcher"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vorel of the Hull Clade"
+        },
+        {
+          "Count": 1,
+          "CardName": "Willowrush Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Yavimaya Coast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Zegana, Utopian Speaker"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Hakbal of the Surging Soul"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "Ácido y Halurónico",
+          "Player2": "Las Margas",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Cosechadores de almas",
+          "Player2": "No Name Team",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "¡Cuidado con el perro!",
+          "Player2": "La Bella y la Bestia",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Dos cabezas, cero neuronas",
+          "Player2": "U.D.S.",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Absolute Persona",
+          "Player2": "waifu lovers",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Elemental, mi querido Gabri",
+          "Player2": "Bien bien",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "Elemental, mi querido Gabri",
+          "Player2": "Absolute Persona",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Ácido y Halurónico",
+          "Player2": "¡Cuidado con el perro!",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Cosechadores de almas",
+          "Player2": "Dos cabezas, cero neuronas",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Bien bien",
+          "Player2": "La Bella y la Bestia",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "No Name Team",
+          "Player2": "waifu lovers",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Las Margas",
+          "Player2": "U.D.S.",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "Elemental, mi querido Gabri",
+          "Player2": "Ácido y Halurónico",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Las Margas",
+          "Player2": "Cosechadores de almas",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Dos cabezas, cero neuronas",
+          "Player2": "Bien bien",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "¡Cuidado con el perro!",
+          "Player2": "Absolute Persona",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "U.D.S.",
+          "Player2": "No Name Team",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "waifu lovers",
+          "Player2": "La Bella y la Bestia",
+          "Result": "1-0-0"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Elemental, mi querido Gabri",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.4444444444444444,
+      "GWP": null,
+      "OGWP": null
+    },
+    {
+      "Rank": 2,
+      "Player": "Ácido y Halurónico",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.7777777777777777,
+      "GWP": null,
+      "OGWP": null
+    },
+    {
+      "Rank": 3,
+      "Player": "Cosechadores de almas",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5555555555555555,
+      "GWP": null,
+      "OGWP": null
+    },
+    {
+      "Rank": 4,
+      "Player": "Las Margas",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5555555555555555,
+      "GWP": null,
+      "OGWP": null
+    },
+    {
+      "Rank": 5,
+      "Player": "Dos cabezas, cero neuronas",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4444444444444444,
+      "GWP": null,
+      "OGWP": null
+    },
+    {
+      "Rank": 6,
+      "Player": "¡Cuidado con el perro!",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4433333333333333,
+      "GWP": null,
+      "OGWP": null
+    },
+    {
+      "Rank": 7,
+      "Player": "Absolute Persona",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6666666666666666,
+      "GWP": null,
+      "OGWP": null
+    },
+    {
+      "Rank": 8,
+      "Player": "Bien bien",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6655555555555556,
+      "GWP": null,
+      "OGWP": null
+    },
+    {
+      "Rank": 9,
+      "Player": "U.D.S.",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5555555555555555,
+      "GWP": null,
+      "OGWP": null
+    },
+    {
+      "Rank": 10,
+      "Player": "No Name Team",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4444444444444444,
+      "GWP": null,
+      "OGWP": null
+    },
+    {
+      "Rank": 11,
+      "Player": "waifu lovers",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.3322222222222222,
+      "GWP": null,
+      "OGWP": null
+    },
+    {
+      "Rank": 12,
+      "Player": "La Bella y la Bestia",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4444444444444444,
+      "GWP": null,
+      "OGWP": null
+    }
+  ]
+}
