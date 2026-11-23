@@ -1,0 +1,272 @@
+{
+  "Tournament": {
+    "Date": "2026-11-20T18:00:00+00:00",
+    "Name": "pre-modern fnm",
+    "Uri": "https://topdeck.gg/event/pre-modern-fnm-2",
+    "Formats": "Premodern"
+  },
+  "Decks": [
+    {
+      "Date": "2026-11-20T18:00:00+00:00",
+      "Player": "Jelmer ter haseborg",
+      "Result": "4th Place",
+      "AnchorUri": "https://topdeck.gg/event/pre-modern-fnm-2",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Armageddon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Call of the Herd"
+        },
+        {
+          "Count": 4,
+          "CardName": "City of Brass"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Daze"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fire // Ice"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 2,
+          "CardName": "Foil"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gemstone Mine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gush"
+        },
+        {
+          "Count": 7,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Opt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Portent"
+        },
+        {
+          "Count": 2,
+          "CardName": "Psychatog"
+        },
+        {
+          "Count": 4,
+          "CardName": "Quirion Dryad"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sleight of Hand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swords to Plowshares"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Engineered Plague"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyroclasm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ray of Revelation"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seal of Cleansing"
+        }
+      ]
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "1",
+      "Matches": [
+        {
+          "Player1": "jeremy dalm",
+          "Player2": "Thomas kraak",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Lennart ",
+          "Player2": "Joost van der Pol",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Łukasz Onopa",
+          "Player2": "Jelmer ter haseborg",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Max",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "2",
+      "Matches": [
+        {
+          "Player1": "jeremy dalm",
+          "Player2": "Łukasz Onopa",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Max",
+          "Player2": "Lennart ",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Jelmer ter haseborg",
+          "Player2": "Joost van der Pol",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Thomas kraak",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "3",
+      "Matches": [
+        {
+          "Player1": "jeremy dalm",
+          "Player2": "Max",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Łukasz Onopa",
+          "Player2": "Lennart ",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Jelmer ter haseborg",
+          "Player2": "Thomas kraak",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Joost van der Pol",
+          "Player2": "",
+          "Result": "0-0-1"
+        }
+      ]
+    }
+  ],
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "jeremy dalm",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5555555555555555,
+      "GWP": 0.75,
+      "OGWP": 0.5575396825396824
+    },
+    {
+      "Rank": 2,
+      "Player": "Max",
+      "Points": 6,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666666666666666,
+      "GWP": 0.7142857142857143,
+      "OGWP": 0.54
+    },
+    {
+      "Rank": 3,
+      "Player": "Łukasz Onopa",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666666666666666,
+      "GWP": 0.625,
+      "OGWP": 0.5683333333333334
+    },
+    {
+      "Rank": 4,
+      "Player": "Jelmer ter haseborg",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4444444444444444,
+      "GWP": 0.625,
+      "OGWP": 0.4861111111111111
+    },
+    {
+      "Rank": 5,
+      "Player": "Thomas kraak",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.8333333333333333,
+      "GWP": 0.3333333333333333,
+      "OGWP": 0.6875
+    },
+    {
+      "Rank": 6,
+      "Player": "Lennart ",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5555555555555555,
+      "GWP": 0.2857142857142857,
+      "OGWP": 0.6130952380952381
+    },
+    {
+      "Rank": 7,
+      "Player": "Joost van der Pol",
+      "Points": 3,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.5,
+      "OGWP": 0.47750000000000004
+    }
+  ]
+}
